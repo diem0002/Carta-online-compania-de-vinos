@@ -4,13 +4,14 @@ const SHEET_ID = '1imP4FAq7Ar2P2o3ZOx2G3lyaAtRL8Hgz';
 // Estado global
 let appState = {
     bodegas: {},
-    lastUpdate: null
+    lastUpdate: null,
+    dataLoaded: false // 🔥 NUEVO: para saber cuando los datos están listos
 };
 
 // Inicializar la aplicación
 document.addEventListener('DOMContentLoaded', function() {
+    setupRouting(); // 🔥 PRIMERO el routing, después cargar datos
     loadData();
-    setupRouting();
 });
 
 // Cargar datos del Google Sheets
@@ -27,7 +28,11 @@ async function loadData() {
         renderHomePage();
         
         appState.lastUpdate = new Date();
+        appState.dataLoaded = true; // 🔥 MARCADOR: datos listos
         updateLastUpdateTime();
+        
+        // 🔥 IMPORTANTE: Procesar el hash DE NUEVO ahora que tenemos datos
+        handleHashChange();
         
     } catch (error) {
         console.error('Error cargando datos:', error);
@@ -143,21 +148,24 @@ function showBodegaPage(bodegaName) {
     window.history.pushState({}, '', newUrl);
 }
 
-// Routing con hashtags
+// Routing con hashtags - CORREGIDO
 function setupRouting() {
     // Manejar cambios en el hash
     window.addEventListener('hashchange', handleHashChange);
     
     // Manejar popstate (navegación con botones atrás/adelante)
     window.addEventListener('popstate', handleHashChange);
-    
-    // Procesar hash inicial
-    setTimeout(handleHashChange, 100);
 }
 
 function handleHashChange() {
     const hash = window.location.hash.substring(1);
     console.log('Hash cambiado:', hash);
+    
+    // 🔥 SI LOS DATOS NO ESTÁN CARGADOS, ESPERAR
+    if (!appState.dataLoaded) {
+        console.log('Esperando a que se carguen los datos...');
+        return;
+    }
     
     if (hash.startsWith('bodega-')) {
         const bodegaName = decodeURIComponent(hash.replace('bodega-', ''));
@@ -167,6 +175,8 @@ function handleHashChange() {
             renderBodegaPage(bodegaName);
             showPage('bodega');
             return;
+        } else {
+            console.log('Bodega no encontrada:', bodegaName);
         }
     }
     
