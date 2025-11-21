@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redireccionando...</title>
+    <script>
+        // Redirigir todas las rutas a index.html
+        sessionStorage.redirect = location.pathname;
+        location.replace('/');
+    </script>
+</head>
+<body>
+    <p>Redireccionando a la aplicación...</p>
+</body>
+</html>

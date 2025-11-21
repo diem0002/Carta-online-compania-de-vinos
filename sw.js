@@ -1,26 +1,30 @@
-// Service Worker para Compañía de Vino
-const CACHE_NAME = 'vinos-app-v1.2';
+// Service Worker optimizado para GitHub Pages
+const CACHE_NAME = 'vinos-app-github-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/css/styles.css',
-  '/js/app.js',
-  '/assets/logoweb.webp',
-  'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap'
+  './',
+  './index.html',
+  './css/styles.css',
+  './js/app.js',
+  './assets/logoweb.webp',
+  './manifest.json',
+  './404.html'
 ];
 
-// Instalación
 self.addEventListener('install', function(event) {
-  console.log('🟢 Service Worker instalado');
+  console.log('🟢 Service Worker instalando...');
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(function(cache) {
+        console.log('📦 Cacheando archivos esenciales');
         return cache.addAll(urlsToCache);
       })
+      .catch(function(error) {
+        console.log('❌ Error cacheando:', error);
+      })
   );
+  self.skipWaiting();
 });
 
-// Activación y limpieza de caches viejos
 self.addEventListener('activate', function(event) {
   console.log('🔥 Service Worker activado');
   event.waitUntil(
@@ -35,22 +39,30 @@ self.addEventListener('activate', function(event) {
       );
     })
   );
+  self.clients.claim();
 });
 
-// Estrategia: Cache First, luego Network
 self.addEventListener('fetch', function(event) {
-  // Excluir la API de Google Sheets del cache
-  if (event.request.url.includes('google.com/spreadsheets')) {
-    event.respondWith(fetch(event.request));
+  // Excluir la API de Google Sheets y solicitudes externas
+  if (event.request.url.includes('google.com') || 
+      event.request.url.includes('fonts.googleapis.com')) {
     return;
   }
 
   event.respondWith(
     caches.match(event.request)
       .then(function(response) {
-        // Devuelve la respuesta cacheada o busca en network
-        return response || fetch(event.request);
-      }
-    )
+        // Devuelve el cache o busca en network
+        if (response) {
+          return response;
+        }
+        
+        return fetch(event.request).catch(function() {
+          // Si falla la red y es una ruta de la app, devuelve index.html
+          if (event.request.mode === 'navigate') {
+            return caches.match('./index.html');
+          }
+        });
+      })
   );
 });
