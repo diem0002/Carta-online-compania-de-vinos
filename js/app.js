@@ -9,19 +9,61 @@ let appState = {
 };
 
 // CONFIGURACIÓN PWA
+// CONFIGURACIÓN PWA CON INSTALACIÓN SILENCIOSA
 function setupPWA() {
     console.log('🚀 Configurando PWA...');
     
+    let deferredPrompt;
+    
     // Registrar Service Worker
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-            .then(function(registration) {
+        navigator.serviceWorker.register('./sw.js')
+            .then((registration) => {
                 console.log('✅ Service Worker registrado:', registration);
             })
-            .catch(function(error) {
-                console.log('❌ Error registrando Service Worker:', error);
+            .catch((error) => {
+                console.log('❌ Error en Service Worker:', error);
             });
     }
+
+    // Detectar cuándo la app está lista para instalar
+    window.addEventListener('beforeinstallprompt', (e) => {
+        console.log('📱 PWA lista para instalación');
+        e.preventDefault();
+        deferredPrompt = e;
+        
+        // La instalación estará disponible automáticamente
+        // El usuario puede instalar desde el menú del navegador
+        
+        // Opcional: Mostrar un indicador sutil después de un tiempo
+        setTimeout(() => {
+            showInstallHint();
+        }, 10000); // 10 segundos
+    });
+
+    // Detectar si se instaló
+    window.addEventListener('appinstalled', (evt) => {
+        console.log('🎉 App instalada exitosamente');
+        deferredPrompt = null;
+    });
+}
+
+// Indicador sutil de instalación (opcional)
+function showInstallHint() {
+    // Solo mostrar si está en móvil y no está ya instalado
+    if (window.matchMedia('(display-mode: standalone)').matches) {
+        return; // Ya está instalada
+    }
+    
+    if (!window.matchMedia('(max-width: 768px)').matches) {
+        return; // No es móvil
+    }
+    
+    console.log('💡 Sugerencia: Puedes instalar esta app desde el menú del navegador');
+    
+    // Puedes agregar un tooltip sutil aquí si quieres
+    // Pero por ahora solo el log para no ser intrusivo
+}
 
     // Detectar si está lista para instalar
     let deferredPrompt;
