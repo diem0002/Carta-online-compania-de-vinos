@@ -4,11 +4,28 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: #64313e;        /* Tu color principal - vino tinto */
+    --primary-light: #8B4513;        /* Madera oscura */
+    --secondary-color: #A52A2A;      /* Marrón rojizo */
+    --accent-color: #D2691E;         /* Madera clara */
+    --dark-gray: #2C3E50;            /* Gris oscuro elegante */
+    --medium-gray: #5D6D7E;          /* Gris medio */
+    --light-gray: #ECF0F1;           /* Gris claro */
+    --text-dark: #2C3E50;
+    --text-light: #7F8C8D;
+    --background-gradient: linear-gradient(135deg, #64313e 0%, #2C3E50 100%);
+    --card-bg: rgba(255, 255, 255, 0.98);
+    --shadow: 0 8px 32px rgba(100, 49, 62, 0.15);
+    --shadow-hover: 0 15px 40px rgba(100, 49, 62, 0.25);
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--background-gradient);
     min-height: 100vh;
-    color: #333;
+    color: var(--text-dark);
+    line-height: 1.6;
 }
 
 .page {
@@ -21,150 +38,295 @@ body {
     display: block;
 }
 
-/* PÁGINA PRINCIPAL */
+/* HEADER ELEGANTE */
 #home header {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     color: white;
 }
 
+.logo-container {
+    margin-bottom: 30px;
+}
+
+.logo {
+    max-width: 180px;
+    height: auto;
+    margin-bottom: 20px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
+
 #home h1 {
-    font-size: 2.5em;
+    font-size: 3em;
     margin-bottom: 10px;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+    font-weight: 300;
+    letter-spacing: 1px;
 }
 
 #home p {
-    font-size: 1.1em;
+    font-size: 1.3em;
     opacity: 0.9;
+    font-weight: 300;
+    color: var(--light-gray);
+}
+
+/* BÚSQUEDA ELEGANTE */
+.search-container {
+    max-width: 500px;
+    margin: 0 auto 40px;
+    position: relative;
+}
+
+.search-input {
+    width: 100%;
+    padding: 18px 25px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    font-size: 1.1em;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.search-input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.search-input:focus {
+    outline: none;
+    background: rgba(255, 255, 255, 0.25);
+    border-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 3px rgba(100, 49, 62, 0.3);
 }
 
 .loading {
     text-align: center;
     color: white;
     font-size: 1.2em;
-    padding: 40px;
+    padding: 50px;
     display: none;
 }
 
+/* BODEGAS ELEGANTES */
 .bodegas-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    max-width: 1200px;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 30px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 
 .bodega-card {
-    background: white;
-    border-radius: 15px;
-    padding: 25px;
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 35px 30px;
     text-align: center;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: var(--shadow);
+    transition: all 0.4s ease;
     cursor: pointer;
     user-select: none;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    position: relative;
+    overflow: hidden;
+}
+
+.bodega-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
 }
 
 .bodega-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 35px rgba(0,0,0,0.2);
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: var(--shadow-hover);
 }
 
 .bodega-card:active {
-    transform: translateY(-2px);
+    transform: translateY(-5px) scale(1.01);
+}
+
+.bodega-icon {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: var(--primary-color);
+    opacity: 0.9;
 }
 
 .bodega-card h3 {
-    font-size: 1.4em;
-    color: #2c3e50;
-    margin-bottom: 10px;
+    font-size: 1.6em;
+    color: var(--dark-gray);
+    margin-bottom: 15px;
+    font-weight: 600;
 }
 
+/* 🔥 CONTADOR DE VINOS CORREGIDO - TEXTO NEGRO BIEN VISIBLE */
 .bodega-card .wine-count {
-    color: #7f8c8d;
-    font-size: 0.9em;
+    color: #000000 !important; /* NEGRO PURO FORZADO */
+    font-size: 1em;
+    background: linear-gradient(135deg, #ffffff, #f8f9fa);
+    padding: 10px 22px;
+    border-radius: 25px;
+    display: inline-block;
+    font-weight: 700; /* MÁS NEGRITA */
+    border: 2px solid rgba(100, 49, 62, 0.3);
+    box-shadow: 0 4px 12px rgba(100, 49, 62, 0.2);
+    margin-top: 10px;
+    text-shadow: none !important;
 }
 
-/* PÁGINA BODEGA */
+/* Contador en la búsqueda */
+.wine-count-search {
+    color: #000000 !important;
+    background: rgba(255, 255, 255, 0.9) !important;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: 700;
+    border: 2px solid rgba(100, 49, 62, 0.3) !important;
+    box-shadow: 0 2px 8px rgba(100, 49, 62, 0.15);
+}
+
+/* PÁGINA BODEGA ELEGANTE */
 .back-btn {
-    background: rgba(255,255,255,0.9);
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: rgb(20, 18, 18);
     border: none;
-    padding: 10px 20px;
+    padding: 14px 28px;
     border-radius: 25px;
     cursor: pointer;
     font-size: 1em;
-    margin-bottom: 20px;
-    transition: background 0.3s ease;
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
 }
 
 .back-btn:hover {
-    background: white;
+    transform: translateX(-5px);
+    box-shadow: var(--shadow-hover);
 }
 
 #bodega-name {
     color: white;
     text-align: center;
-    font-size: 2.2em;
-    margin-bottom: 30px;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    font-size: 2.6em;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+    font-weight: 300;
+    letter-spacing: 0.5px;
 }
 
 .vinos-container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
 .vino-card {
-    background: white;
-    border-radius: 10px;
-    padding: 20px;
-    margin-bottom: 15px;
+    background: var(--card-bg);
+    border-radius: 15px;
+    padding: 28px;
+    margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease;
+    border-left: 5px solid var(--primary-color);
+    position: relative;
+}
+
+.vino-card:hover {
+    transform: translateX(8px);
+    box-shadow: var(--shadow-hover);
+}
+
+.vino-info {
+    flex: 1;
 }
 
 .vino-name {
-    font-size: 1.1em;
+    font-size: 1.3em;
     font-weight: 600;
-    color: #2c3e50;
+    color: var(--dark-gray);
+    margin-bottom: 8px;
+}
+
+.vino-details {
+    font-size: 0.95em;
+    color: var(--medium-gray);
 }
 
 .vino-price {
-    font-size: 1.3em;
+    font-size: 1.5em;
     font-weight: bold;
-    color: #27ae60;
+    color: var(--primary-color);
+    text-align: right;
+    font-family: 'Georgia', serif;
 }
 
 .last-update {
     text-align: center;
-    color: white;
-    margin-top: 30px;
-    opacity: 0.8;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    font-size: 0.95em;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 footer {
     text-align: center;
-    color: white;
-    margin-top: 40px;
-    opacity: 0.7;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 60px;
+    font-size: 0.9em;
+    padding: 20px;
 }
 
 .error {
     color: white;
     text-align: center;
-    padding: 20px;
-    background: #e74c3c;
-    border-radius: 10px;
+    padding: 25px;
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+    border-radius: 15px;
     margin: 20px;
+    box-shadow: var(--shadow);
+}
+
+/* Logos de bodegas en las tarjetas */
+.bodega-logo {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bodega-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 8px;
 }
 
 /* Responsive */
 @media (max-width: 768px) {
     .bodegas-container {
         grid-template-columns: 1fr;
+        gap: 25px;
     }
     
     .page {
@@ -172,16 +334,84 @@ footer {
     }
     
     #home h1 {
-        font-size: 2em;
+        font-size: 2.4em;
+    }
+    
+    #home p {
+        font-size: 1.1em;
     }
     
     .vino-card {
         flex-direction: column;
         align-items: flex-start;
-        gap: 10px;
+        gap: 15px;
+        text-align: left;
+        padding: 20px;
     }
     
     .vino-price {
-        align-self: flex-end;
+        align-self: stretch;
+        text-align: left;
+        border-top: 1px solid rgba(100, 49, 62, 0.1);
+        padding-top: 15px;
+        font-size: 1.4em;
     }
+    
+    .search-container {
+        margin: 0 auto 30px;
+    }
+    
+    .search-input {
+        padding: 16px 20px;
+        font-size: 1em;
+    }
+}
+
+/* Animaciones elegantes */
+@keyframes fadeInUp {
+    from { 
+        opacity: 0; 
+        transform: translateY(30px); 
+    }
+    to { 
+        opacity: 1; 
+        transform: translateY(0); 
+    }
+}
+
+@keyframes slideInLeft {
+    from { 
+        opacity: 0; 
+        transform: translateX(-30px); 
+    }
+    to { 
+        opacity: 1; 
+        transform: translateX(0); 
+    }
+}
+
+.bodega-card {
+    animation: fadeInUp 0.6s ease forwards;
+}
+
+.vino-card {
+    animation: slideInLeft 0.5s ease forwards;
+}
+
+/* Efectos de carga */
+.loading::after {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 2px solid transparent;
+    border-top: 2px solid white;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-left: 10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }

@@ -210,3 +210,137 @@ function updateLastUpdateTime() {
 // Hacer funciones globales para el HTML
 window.showPage = showPage;
 window.showBodegaPage = showBodegaPage;
+
+// 🔍 SISTEMA DE BÚSQUEDA - VERSIÓN SIMPLIFICADA Y FUNCIONAL
+function setupSearch() {
+    const searchInput = document.getElementById('search-input');
+    console.log("🔍 Inicializando búsqueda...", searchInput);
+    
+    if (!searchInput) {
+        console.error("❌ No se encontró el input de búsqueda");
+        return;
+    }
+    
+    searchInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase().trim();
+        console.log("🔍 Buscando:", searchTerm);
+        
+        if (searchTerm.length === 0) {
+            console.log("🔍 Mostrando todas las bodegas");
+            renderHomePage();
+            return;
+        }
+        
+        console.log("🔍 Filtrando vinos...");
+        const vinosFiltrados = filterVinos(searchTerm);
+        renderVinosFiltrados(vinosFiltrados, searchTerm);
+    });
+    
+    console.log("✅ Búsqueda inicializada correctamente");
+}
+
+function filterVinos(searchTerm) {
+    const vinosFiltrados = [];
+    
+    console.log("📊 Bodegas disponibles:", Object.keys(appState.bodegas));
+    
+    Object.keys(appState.bodegas).forEach(bodegaName => {
+        const vinos = appState.bodegas[bodegaName];
+        
+        vinos.forEach(vino => {
+            // Buscar por nombre de vino
+            const matchVino = vino.vino.toLowerCase().includes(searchTerm);
+            // Buscar por nombre de bodega
+            const matchBodega = bodegaName.toLowerCase().includes(searchTerm);
+            // Buscar por precio
+            const precioTexto = vino.precio.toLowerCase();
+            const matchPrecio = precioTexto.includes(searchTerm);
+            
+            if (matchVino || matchBodega || matchPrecio) {
+                vinosFiltrados.push({
+                    vino: vino.vino,
+                    precio: vino.precio,
+                    bodega: bodegaName
+                });
+            }
+        });
+    });
+    
+    console.log("🎯 Vinos encontrados:", vinosFiltrados.length);
+    return vinosFiltrados;
+}
+
+function renderVinosFiltrados(vinosFiltrados, searchTerm) {
+    const container = document.getElementById('bodegas-container');
+    
+    if (vinosFiltrados.length === 0) {
+        container.innerHTML = `
+            <div style="grid-column: 1 / -1; text-align: center; color: white; padding: 60px 20px;">
+                <div style="font-size: 4em; margin-bottom: 20px;">🔍</div>
+                <p style="font-size: 1.4em; margin-bottom: 10px;">No se encontraron resultados</p>
+                <p style="opacity: 0.8; font-size: 1.1em;">Probá con otro nombre de vino, bodega o precio</p>
+                <p style="opacity: 0.6; margin-top: 10px;">Buscaste: "${searchTerm}"</p>
+            </div>
+        `;
+        return;
+    }
+    
+    // Agrupar vinos por bodega
+    const vinosPorBodega = {};
+    vinosFiltrados.forEach(vino => {
+        if (!vinosPorBodega[vino.bodega]) {
+            vinosPorBodega[vino.bodega] = [];
+        }
+        vinosPorBodega[vino.bodega].push(vino);
+    });
+    
+    container.innerHTML = `
+        <div style="grid-column: 1 / -1; text-align: center; margin-bottom: 30px;">
+            <h2 style="color: white; font-size: 1.8em; margin-bottom: 10px;">
+                🔍 ${vinosFiltrados.length} resultados encontrados
+            </h2>
+            <p style="color: rgba(255,255,255,0.8);">Buscaste: "${searchTerm}"</p>
+        </div>
+    `;
+    
+    // Mostrar resultados agrupados por bodega
+    Object.keys(vinosPorBodega).forEach(bodegaName => {
+        const vinosDeBodega = vinosPorBodega[bodegaName];
+        
+        const bodegaSection = document.createElement('div');
+        bodegaSection.style.gridColumn = '1 / -1';
+        bodegaSection.style.marginBottom = '25px';
+        
+        bodegaSection.innerHTML = `
+            <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 25px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: pointer;" 
+                     onclick="showBodegaPage('${bodegaName}')">
+                    <h3 style="color: #64313e; font-size: 1.5em; margin: 0;">${bodegaName}</h3>
+                    <div style="color: #000000; background: #ffffff; padding: 8px 16px; border-radius: 20px; font-weight: 700; border: 2px solid #64313e;">
+                        ${vinosDeBodega.length} vinos
+                    </div>
+                </div>
+                <div>
+                    ${vinosDeBodega.map(vino => `
+                        <div style="background: white; border-radius: 10px; padding: 18px; margin-bottom: 12px; border-left: 4px solid #64313e; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                <div style="font-weight: 600; color: #2C3E50; font-size: 1.1em;">${vino.vino}</div>
+                                <div style="font-size: 1.3em; font-weight: bold; color: #64313e;">${vino.precio}</div>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+        
+        container.appendChild(bodegaSection);
+    });
+}
+
+// INICIALIZAR BÚSQUEDA - AGREGAR ESTO AL DOMContentLoaded
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("🚀 Iniciando aplicación...");
+    setupRouting();
+    setupSearch(); // 🔥 ESTA LÍNEA DEBE ESTAR
+    loadData();
+});

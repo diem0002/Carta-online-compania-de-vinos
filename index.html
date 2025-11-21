@@ -3,19 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Compañía de Vino - Cartas</title>
+    <title>Compañía de Vino - Cartas Elegantes</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- PÁGINA PRINCIPAL -->
     <div id="home" class="page active">
         <header>
-            <h1>🏰 Compañía de Vino</h1>
-            <p>Selecciona una bodega para ver su carta</p>
+            <div class="logo-container">
+                <!-- TU LOGO PRINCIPAL -->
+                <img src="assets/logoweb.webp" alt="Compañía de Vino" class="logo">
+                <h1 style="font-family: 'Playfair Display', serif;">Compañía de Vino</h1>
+                <p>Experiencias en cada copa</p>
+            </div>
+
+            <!-- BÚSQUEDA -->
+            <div class="search-container">
+                <input type="text" class="search-input" id="search-input" 
+                       placeholder="🍷 Buscar vinos o bodegas...">
+            </div>
         </header>
         
         <div class="loading" id="loading">
-            <p>🔄 Cargando cartas actualizadas...</p>
+            <p>Preparando nuestra selección exclusiva...</p>
         </div>
 
         <div class="bodegas-container" id="bodegas-container">
@@ -23,15 +34,17 @@
         </div>
 
         <footer>
-            <p>Los precios se actualizan automáticamente</p>
+            <p>✨ Precios actualizados en tiempo real</p>
         </footer>
     </div>
 
     <!-- PÁGINA DE BODEGA -->
     <div id="bodega" class="page">
         <header>
-            <button class="back-btn" onclick="showPage('home')">← Volver a Bodegas</button>
-            <h1 id="bodega-name">Bodega</h1>
+            <button class="back-btn" onclick="showPage('home')">
+                ← Volver al catálogo
+            </button>
+            <h1 id="bodega-name" style="font-family: 'Playfair Display', serif;">Bodega</h1>
         </header>
 
         <div class="vinos-container" id="vinos-container">
