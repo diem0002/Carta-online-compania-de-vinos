@@ -4,6 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Compañía de Vino - Cartas Elegantes</title>
+    
+    <!-- META TAGS PWA -->
+    <meta name="theme-color" content="#64313e">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Vinos App">
+    <meta name="description" content="Catálogo de vinos y precios actualizados">
+    <meta name="keywords" content="vinos, carta, precios, bodegas, catálogo">
+    
+    <!-- ICONOS PWA -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="assets/icons/icon-72x72.png">
+    <link rel="apple-touch-icon" href="assets/icons/icon-152x152.png">
+    
     <link rel="stylesheet" href="css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
@@ -54,6 +68,12 @@
         <div class="last-update">
             <p>🔄 Actualizado: <span id="update-time"></span></p>
         </div>
+    </div>
+
+    <!-- BANNER DE INSTALACIÓN (OPCIONAL) -->
+    <div class="install-banner" id="install-banner">
+        <span>📱 ¿Instalar la app?</span>
+        <button class="install-btn" id="install-btn">Instalar</button>
     </div>
 
     <script src="js/app.js"></script>

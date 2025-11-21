@@ -415,3 +415,103 @@ footer {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+
+
+
+/* MEJORAS PWA Y MÓVIL */
+@media (max-width: 768px) {
+    .page {
+        padding: 15px 10px;
+    }
+    
+    #home h1 {
+        font-size: 2.2em;
+        margin-bottom: 15px;
+    }
+    
+    .logo {
+        max-width: 160px;
+    }
+    
+    .search-input {
+        padding: 16px 20px;
+        font-size: 16px; /* Evita zoom en iOS */
+    }
+    
+    /* Mejorar botones para touch */
+    .bodega-card, .back-btn {
+        min-height: 44px; /* Tamaño mínimo para touch */
+    }
+    
+    .back-btn {
+        padding: 16px 24px;
+        font-size: 1.1em;
+    }
+}
+
+/* Prevenir selección de texto en elementos interactivos */
+.bodega-card, .back-btn, .vino-card {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+/* Mejorar scroll en iOS */
+body {
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Banner de instalación */
+.install-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--primary-color);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    display: none;
+    z-index: 1000;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
+    animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+}
+
+.install-btn {
+    background: white;
+    color: var(--primary-color);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.install-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Mejorar el logo para PWA */
+.logo {
+    max-width: 180px;
+    height: auto;
+    margin-bottom: 20px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+    transition: all 0.3s ease;
+}
+
+/* Efecto hover sutil para el logo */
+.logo:hover {
+    transform: scale(1.05);
+    filter: drop-shadow(0 6px 12px rgba(0,0,0,0.4));
+}

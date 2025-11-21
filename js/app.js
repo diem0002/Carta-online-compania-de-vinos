@@ -5,12 +5,64 @@ const SHEET_ID = '1imP4FAq7Ar2P2o3ZOx2G3lyaAtRL8Hgz';
 let appState = {
     bodegas: {},
     lastUpdate: null,
-    dataLoaded: false // 🔥 NUEVO: para saber cuando los datos están listos
+    dataLoaded: false
 };
+
+// CONFIGURACIÓN PWA
+function setupPWA() {
+    console.log('🚀 Configurando PWA...');
+    
+    // Registrar Service Worker
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js')
+            .then(function(registration) {
+                console.log('✅ Service Worker registrado:', registration);
+            })
+            .catch(function(error) {
+                console.log('❌ Error registrando Service Worker:', error);
+            });
+    }
+
+    // Detectar si está lista para instalar
+    let deferredPrompt;
+    window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+        console.log('📱 App lista para instalar');
+        
+        // Mostrar banner de instalación después de 5 segundos
+        setTimeout(() => {
+            const installBanner = document.getElementById('install-banner');
+            const installBtn = document.getElementById('install-btn');
+            
+            if (installBanner && installBtn) {
+                installBanner.style.display = 'block';
+                
+                installBtn.addEventListener('click', async () => {
+                    installBanner.style.display = 'none';
+                    deferredPrompt.prompt();
+                    const { outcome } = await deferredPrompt.userChoice;
+                    console.log(`📱 Usuario ${outcome} la instalación`);
+                    deferredPrompt = null;
+                });
+            }
+        }, 5000);
+    });
+
+    // Detectar si se lanzó desde la pantalla de inicio
+    window.addEventListener('load', () => {
+        if (window.navigator.standalone) {
+            console.log('📱 App lanzada desde pantalla de inicio');
+        }
+    });
+}
 
 // Inicializar la aplicación
 document.addEventListener('DOMContentLoaded', function() {
-    setupRouting(); // 🔥 PRIMERO el routing, después cargar datos
+    console.log("🚀 Iniciando aplicación...");
+    setupPWA(); // 🔥 NUEVO: Inicializar PWA
+    setupRouting();
+    setupSearch();
     loadData();
 });
 
@@ -28,10 +80,10 @@ async function loadData() {
         renderHomePage();
         
         appState.lastUpdate = new Date();
-        appState.dataLoaded = true; // 🔥 MARCADOR: datos listos
+        appState.dataLoaded = true;
         updateLastUpdateTime();
         
-        // 🔥 IMPORTANTE: Procesar el hash DE NUEVO ahora que tenemos datos
+        // Procesar el hash DE NUEVO ahora que tenemos datos
         handleHashChange();
         
     } catch (error) {
@@ -148,7 +200,7 @@ function showBodegaPage(bodegaName) {
     window.history.pushState({}, '', newUrl);
 }
 
-// Routing con hashtags - CORREGIDO
+// Routing con hashtags
 function setupRouting() {
     // Manejar cambios en el hash
     window.addEventListener('hashchange', handleHashChange);
@@ -161,7 +213,7 @@ function handleHashChange() {
     const hash = window.location.hash.substring(1);
     console.log('Hash cambiado:', hash);
     
-    // 🔥 SI LOS DATOS NO ESTÁN CARGADOS, ESPERAR
+    // SI LOS DATOS NO ESTÁN CARGADOS, ESPERAR
     if (!appState.dataLoaded) {
         console.log('Esperando a que se carguen los datos...');
         return;
@@ -211,7 +263,7 @@ function updateLastUpdateTime() {
 window.showPage = showPage;
 window.showBodegaPage = showBodegaPage;
 
-// 🔍 SISTEMA DE BÚSQUEDA - VERSIÓN SIMPLIFICADA Y FUNCIONAL
+// SISTEMA DE BÚSQUEDA
 function setupSearch() {
     const searchInput = document.getElementById('search-input');
     console.log("🔍 Inicializando búsqueda...", searchInput);
@@ -336,11 +388,3 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
         container.appendChild(bodegaSection);
     });
 }
-
-// INICIALIZAR BÚSQUEDA - AGREGAR ESTO AL DOMContentLoaded
-document.addEventListener('DOMContentLoaded', function() {
-    console.log("🚀 Iniciando aplicación...");
-    setupRouting();
-    setupSearch(); // 🔥 ESTA LÍNEA DEBE ESTAR
-    loadData();
-});
