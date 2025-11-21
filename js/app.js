@@ -97,7 +97,7 @@ function showInstallHint() {
             console.log('📱 App lanzada desde pantalla de inicio');
         }
     });
-}
+
 
 // Inicializar la aplicación
 document.addEventListener('DOMContentLoaded', function() {
