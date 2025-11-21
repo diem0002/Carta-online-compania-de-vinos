@@ -109,13 +109,23 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Cargar datos del Google Sheets
+// Cargar datos del Google Sheets - CON MEJOR MANEJO DE ERRORES
 async function loadData() {
     try {
         showLoading(true);
         
         const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json`;
+        console.log('📥 Intentando cargar datos desde:', url);
+        
         const response = await fetch(url);
+        
+        if (!response.ok) {
+            throw new Error(`Error HTTP: ${response.status}`);
+        }
+        
         const text = await response.text();
+        console.log('✅ Datos recibidos, procesando...');
+        
         const json = JSON.parse(text.substring(47).slice(0, -2));
         
         processSheetData(json);
@@ -125,12 +135,11 @@ async function loadData() {
         appState.dataLoaded = true;
         updateLastUpdateTime();
         
-        // Procesar el hash DE NUEVO ahora que tenemos datos
         handleHashChange();
         
     } catch (error) {
-        console.error('Error cargando datos:', error);
-        showError('Error cargando los datos. Recarga la página.');
+        console.error('❌ Error cargando datos:', error);
+        showError(`Error cargando los datos: ${error.message}. Recarga la página.`);
     } finally {
         showLoading(false);
     }
