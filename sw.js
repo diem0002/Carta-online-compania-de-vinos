@@ -1,5 +1,5 @@
 // Service Worker corregido para Google Sheets
-const CACHE_NAME = 'vinos-app-v4';
+const CACHE_NAME = 'vinos-app-v5';
 const urlsToCache = [
   './',
   './index.html',
