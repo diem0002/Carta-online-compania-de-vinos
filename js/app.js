@@ -151,7 +151,7 @@ function processSheetData(data) {
     
     data.table.rows.forEach((row, index) => {
         // Saltar la primera fila (headers)
-        if (index === 0) return;
+      
         
         const cells = row.c;
         if (!cells || cells.length < 3) return;
