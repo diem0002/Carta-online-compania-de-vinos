@@ -114,18 +114,16 @@ async function loadData() {
     try {
         showLoading(true);
         
-        const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json`;
-        console.log('📥 Intentando cargar datos desde:', url);
+        // El secreto es el Date.now(). Google cree que es un archivo distinto cada vez.
+        const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&t=${Date.now()}`;
         
-        const response = await fetch(url);
+        console.log('📥 Forzando descarga de datos nuevos...');
         
-        if (!response.ok) {
-            throw new Error(`Error HTTP: ${response.status}`);
-        }
+        const response = await fetch(url, { cache: "no-store" }); // "no-store" prohíbe el caché
+        
+        if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
         
         const text = await response.text();
-        console.log('✅ Datos recibidos, procesando...');
-        
         const json = JSON.parse(text.substring(47).slice(0, -2));
         
         processSheetData(json);
@@ -134,17 +132,15 @@ async function loadData() {
         appState.lastUpdate = new Date();
         appState.dataLoaded = true;
         updateLastUpdateTime();
-        
         handleHashChange();
         
     } catch (error) {
-        console.error('❌ Error cargando datos:', error);
-        showError(`Error cargando los datos: ${error.message}. Recarga la página.`);
+        console.error('❌ Error:', error);
+        showError(`Error: ${error.message}. Recarga la página.`);
     } finally {
         showLoading(false);
     }
 }
-
 // Procesar datos del sheet
 function processSheetData(data) {
     const bodegas = {};
