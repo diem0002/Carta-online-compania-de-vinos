@@ -1,5 +1,5 @@
 // CONFIGURACIÓN
-const SHEET_ID = '1imP4FAq7Ar2P2o3ZOx2G3lyaAtRL8Hgz';
+const SHEET_ID = '1H1V16M8t4DEisinvOCULe-HH7-Z6SZaR5RvvZovmiOY';
 
 // Estado global
 let appState = {
