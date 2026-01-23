@@ -12,9 +12,9 @@ let appState = {
 // CONFIGURACIÓN PWA CON INSTALACIÓN SILENCIOSA
 function setupPWA() {
     console.log('🚀 Configurando PWA...');
-    
+
     let deferredPrompt;
-    
+
     // Registrar Service Worker
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('./sw.js')
@@ -31,10 +31,10 @@ function setupPWA() {
         console.log('📱 PWA lista para instalación');
         e.preventDefault();
         deferredPrompt = e;
-        
+
         // La instalación estará disponible automáticamente
         // El usuario puede instalar desde el menú del navegador
-        
+
         // Opcional: Mostrar un indicador sutil después de un tiempo
         setTimeout(() => {
             showInstallHint();
@@ -54,53 +54,53 @@ function showInstallHint() {
     if (window.matchMedia('(display-mode: standalone)').matches) {
         return; // Ya está instalada
     }
-    
+
     if (!window.matchMedia('(max-width: 768px)').matches) {
         return; // No es móvil
     }
-    
+
     console.log('💡 Sugerencia: Puedes instalar esta app desde el menú del navegador');
-    
+
     // Puedes agregar un tooltip sutil aquí si quieres
     // Pero por ahora solo el log para no ser intrusivo
 }
 
-    // Detectar si está lista para instalar
-    let deferredPrompt;
-    window.addEventListener('beforeinstallprompt', (e) => {
-        e.preventDefault();
-        deferredPrompt = e;
-        console.log('📱 App lista para instalar');
-        
-        // Mostrar banner de instalación después de 5 segundos
-        setTimeout(() => {
-            const installBanner = document.getElementById('install-banner');
-            const installBtn = document.getElementById('install-btn');
-            
-            if (installBanner && installBtn) {
-                installBanner.style.display = 'block';
-                
-                installBtn.addEventListener('click', async () => {
-                    installBanner.style.display = 'none';
-                    deferredPrompt.prompt();
-                    const { outcome } = await deferredPrompt.userChoice;
-                    console.log(`📱 Usuario ${outcome} la instalación`);
-                    deferredPrompt = null;
-                });
-            }
-        }, 5000);
-    });
+// Detectar si está lista para instalar
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+    console.log('📱 App lista para instalar');
 
-    // Detectar si se lanzó desde la pantalla de inicio
-    window.addEventListener('load', () => {
-        if (window.navigator.standalone) {
-            console.log('📱 App lanzada desde pantalla de inicio');
+    // Mostrar banner de instalación después de 5 segundos
+    setTimeout(() => {
+        const installBanner = document.getElementById('install-banner');
+        const installBtn = document.getElementById('install-btn');
+
+        if (installBanner && installBtn) {
+            installBanner.style.display = 'block';
+
+            installBtn.addEventListener('click', async () => {
+                installBanner.style.display = 'none';
+                deferredPrompt.prompt();
+                const { outcome } = await deferredPrompt.userChoice;
+                console.log(`📱 Usuario ${outcome} la instalación`);
+                deferredPrompt = null;
+            });
         }
-    });
+    }, 5000);
+});
+
+// Detectar si se lanzó desde la pantalla de inicio
+window.addEventListener('load', () => {
+    if (window.navigator.standalone) {
+        console.log('📱 App lanzada desde pantalla de inicio');
+    }
+});
 
 
 // Inicializar la aplicación
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     console.log("🚀 Iniciando aplicación...");
     setupPWA(); // 🔥 NUEVO: Inicializar PWA
     setupRouting();
@@ -109,31 +109,34 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Cargar datos del Google Sheets
-// Cargar datos del Google Sheets - CON MEJOR MANEJO DE ERRORES
+// Cargar datos locales (JSON generado por VinosPOS)
 async function loadData() {
     try {
         showLoading(true);
-        
-        // El secreto es el Date.now(). Google cree que es un archivo distinto cada vez.
-        const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&t=${Date.now()}`;
-        
-        console.log('📥 Forzando descarga de datos nuevos...');
-        
-        const response = await fetch(url, { cache: "no-store" }); // "no-store" prohíbe el caché
-        
-        if (!response.ok) throw new Error(`Error HTTP: ${response.status}`);
-        
-        const text = await response.text();
-        const json = JSON.parse(text.substring(47).slice(0, -2));
-        
-        processSheetData(json);
+
+        // Cache busting para asegurar que se carguen los cambios recientes
+        const url = `data/productos.json?t=${Date.now()}`;
+
+        console.log('📥 Cargando catálogo local...');
+
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            // Fallback para depuración o si el archivo no existe
+            console.warn('⚠️ No se encontró productos.json, usando modo demo o vacío');
+            throw new Error(`No se encontró el catálogo de productos`);
+        }
+
+        const json = await response.json();
+
+        processLocalData(json);
         renderHomePage();
-        
+
         appState.lastUpdate = new Date();
         appState.dataLoaded = true;
         updateLastUpdateTime();
         handleHashChange();
-        
+
     } catch (error) {
         console.error('❌ Error:', error);
         showError(`Error: ${error.message}. Recarga la página.`);
@@ -141,22 +144,22 @@ async function loadData() {
         showLoading(false);
     }
 }
-// Procesar datos del sheet
-function processSheetData(data) {
+// Procesar datos locales (Array de objetos)
+function processLocalData(data) {
     const bodegas = {};
-    
-    data.table.rows.forEach((row, index) => {
-        // Saltar la primera fila (headers)
-      
-        
-        const cells = row.c;
-        if (!cells || cells.length < 3) return;
-        
-        const vino = cells[0]?.v || '';
-        const bodega = cells[1]?.v || '';
-        const precio = cells[2]?.v || '';
-        
-        if (vino && bodega) {
+
+    // Data es un array: [{id, vino, bodega, precio, stock}, ...]
+    if (!Array.isArray(data)) {
+        console.error('Formato de datos inválido', data);
+        return;
+    }
+
+    data.forEach(item => {
+        const vino = item.vino || '';
+        const bodega = item.bodega || 'Otras';
+        const precio = item.precio || 0;
+
+        if (vino) {
             if (!bodegas[bodega]) {
                 bodegas[bodega] = [];
             }
@@ -166,7 +169,7 @@ function processSheetData(data) {
             });
         }
     });
-    
+
     appState.bodegas = bodegas;
     console.log('Bodegas procesadas:', Object.keys(bodegas));
 }
@@ -186,20 +189,20 @@ function formatPrecio(precio) {
 function renderHomePage() {
     const container = document.getElementById('bodegas-container');
     const bodegas = appState.bodegas;
-    
+
     container.innerHTML = '';
-    
+
     Object.keys(bodegas).sort().forEach(bodegaName => {
         const vinos = bodegas[bodegaName];
         const bodegaCard = document.createElement('div');
         bodegaCard.className = 'bodega-card';
         bodegaCard.onclick = () => showBodegaPage(bodegaName);
-        
+
         bodegaCard.innerHTML = `
             <h3>${bodegaName}</h3>
             <p class="wine-count">${vinos.length} vinos disponibles</p>
         `;
-        
+
         container.appendChild(bodegaCard);
     });
 }
@@ -208,16 +211,16 @@ function renderHomePage() {
 function renderBodegaPage(bodegaName) {
     const vinos = appState.bodegas[bodegaName] || [];
     const container = document.getElementById('vinos-container');
-    
+
     document.getElementById('bodega-name').textContent = bodegaName;
-    
+
     container.innerHTML = '';
-    
+
     if (vinos.length === 0) {
         container.innerHTML = '<div class="error">No hay vinos disponibles para esta bodega</div>';
         return;
     }
-    
+
     vinos.sort((a, b) => a.vino.localeCompare(b.vino)).forEach(vino => {
         const vinoCard = document.createElement('div');
         vinoCard.className = 'vino-card';
@@ -241,7 +244,7 @@ function showBodegaPage(bodegaName) {
     console.log('Mostrando bodega:', bodegaName);
     renderBodegaPage(bodegaName);
     showPage('bodega');
-    
+
     // Actualizar URL
     const newUrl = `#bodega-${encodeURIComponent(bodegaName)}`;
     window.history.pushState({}, '', newUrl);
@@ -251,7 +254,7 @@ function showBodegaPage(bodegaName) {
 function setupRouting() {
     // Manejar cambios en el hash
     window.addEventListener('hashchange', handleHashChange);
-    
+
     // Manejar popstate (navegación con botones atrás/adelante)
     window.addEventListener('popstate', handleHashChange);
 }
@@ -259,17 +262,17 @@ function setupRouting() {
 function handleHashChange() {
     const hash = window.location.hash.substring(1);
     console.log('Hash cambiado:', hash);
-    
+
     // SI LOS DATOS NO ESTÁN CARGADOS, ESPERAR
     if (!appState.dataLoaded) {
         console.log('Esperando a que se carguen los datos...');
         return;
     }
-    
+
     if (hash.startsWith('bodega-')) {
         const bodegaName = decodeURIComponent(hash.replace('bodega-', ''));
         console.log('Bodega desde hash:', bodegaName);
-        
+
         if (appState.bodegas[bodegaName]) {
             renderBodegaPage(bodegaName);
             showPage('bodega');
@@ -278,7 +281,7 @@ function handleHashChange() {
             console.log('Bodega no encontrada:', bodegaName);
         }
     }
-    
+
     // Si no hay hash válido, mostrar home
     showPage('home');
 }
@@ -287,7 +290,7 @@ function handleHashChange() {
 function showLoading(show) {
     const loading = document.getElementById('loading');
     const container = document.getElementById('bodegas-container');
-    
+
     if (loading) loading.style.display = show ? 'block' : 'none';
     if (container) container.style.display = show ? 'none' : 'grid';
 }
@@ -314,38 +317,38 @@ window.showBodegaPage = showBodegaPage;
 function setupSearch() {
     const searchInput = document.getElementById('search-input');
     console.log("🔍 Inicializando búsqueda...", searchInput);
-    
+
     if (!searchInput) {
         console.error("❌ No se encontró el input de búsqueda");
         return;
     }
-    
-    searchInput.addEventListener('input', function(e) {
+
+    searchInput.addEventListener('input', function (e) {
         const searchTerm = e.target.value.toLowerCase().trim();
         console.log("🔍 Buscando:", searchTerm);
-        
+
         if (searchTerm.length === 0) {
             console.log("🔍 Mostrando todas las bodegas");
             renderHomePage();
             return;
         }
-        
+
         console.log("🔍 Filtrando vinos...");
         const vinosFiltrados = filterVinos(searchTerm);
         renderVinosFiltrados(vinosFiltrados, searchTerm);
     });
-    
+
     console.log("✅ Búsqueda inicializada correctamente");
 }
 
 function filterVinos(searchTerm) {
     const vinosFiltrados = [];
-    
+
     console.log("📊 Bodegas disponibles:", Object.keys(appState.bodegas));
-    
+
     Object.keys(appState.bodegas).forEach(bodegaName => {
         const vinos = appState.bodegas[bodegaName];
-        
+
         vinos.forEach(vino => {
             // Buscar por nombre de vino
             const matchVino = vino.vino.toLowerCase().includes(searchTerm);
@@ -354,7 +357,7 @@ function filterVinos(searchTerm) {
             // Buscar por precio
             const precioTexto = vino.precio.toLowerCase();
             const matchPrecio = precioTexto.includes(searchTerm);
-            
+
             if (matchVino || matchBodega || matchPrecio) {
                 vinosFiltrados.push({
                     vino: vino.vino,
@@ -364,14 +367,14 @@ function filterVinos(searchTerm) {
             }
         });
     });
-    
+
     console.log("🎯 Vinos encontrados:", vinosFiltrados.length);
     return vinosFiltrados;
 }
 
 function renderVinosFiltrados(vinosFiltrados, searchTerm) {
     const container = document.getElementById('bodegas-container');
-    
+
     if (vinosFiltrados.length === 0) {
         container.innerHTML = `
             <div style="grid-column: 1 / -1; text-align: center; color: white; padding: 60px 20px;">
@@ -383,7 +386,7 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
         `;
         return;
     }
-    
+
     // Agrupar vinos por bodega
     const vinosPorBodega = {};
     vinosFiltrados.forEach(vino => {
@@ -392,7 +395,7 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
         }
         vinosPorBodega[vino.bodega].push(vino);
     });
-    
+
     container.innerHTML = `
         <div style="grid-column: 1 / -1; text-align: center; margin-bottom: 30px;">
             <h2 style="color: white; font-size: 1.8em; margin-bottom: 10px;">
@@ -401,15 +404,15 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
             <p style="color: rgba(255,255,255,0.8);">Buscaste: "${searchTerm}"</p>
         </div>
     `;
-    
+
     // Mostrar resultados agrupados por bodega
     Object.keys(vinosPorBodega).forEach(bodegaName => {
         const vinosDeBodega = vinosPorBodega[bodegaName];
-        
+
         const bodegaSection = document.createElement('div');
         bodegaSection.style.gridColumn = '1 / -1';
         bodegaSection.style.marginBottom = '25px';
-        
+
         bodegaSection.innerHTML = `
             <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 25px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: pointer;" 
@@ -431,7 +434,7 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
                 </div>
             </div>
         `;
-        
+
         container.appendChild(bodegaSection);
     });
 }
