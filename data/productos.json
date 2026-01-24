@@ -3,7 +3,7 @@
     "id": 22630,
     "vino": "061 Malbec",
     "bodega": "General",
-    "precio": 8601,
+    "precio": 8600,
     "stock": 0
   },
   {
@@ -18,7 +18,7 @@
     "vino": "100 Pipers x 750",
     "bodega": "General",
     "precio": 7300,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 22348,
@@ -2783,7 +2783,7 @@
     "vino": "Corona x 330",
     "bodega": "General",
     "precio": 3350,
-    "stock": 0
+    "stock": -5
   },
   {
     "id": 22400,
