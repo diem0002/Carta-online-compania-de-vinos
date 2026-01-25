@@ -385,13 +385,6 @@
     "stock": 0
   },
   {
-    "id": 23572,
-    "vino": "Cajas y canastas para vino",
-    "bodega": "General",
-    "precio": 0,
-    "stock": 0
-  },
-  {
     "id": 22962,
     "vino": "Cervezas Importadas latas",
     "bodega": "General",
@@ -791,78 +784,78 @@
     "stock": 0
   },
   {
-    "id": 24060,
-    "vino": "Crujitas cebolla y crema",
-    "bodega": "10 de oro",
-    "precio": 1100,
-    "stock": 0
-  },
-  {
-    "id": 24036,
-    "vino": "Crujitas hierbas",
-    "bodega": "11 de oro",
-    "precio": 1100,
-    "stock": 0
-  },
-  {
-    "id": 23944,
-    "vino": "crujitas jamon serrano",
-    "bodega": "12 de oro",
-    "precio": 1100,
-    "stock": 0
-  },
-  {
-    "id": 24446,
-    "vino": "Crujitas clasicas",
-    "bodega": "13 de oro",
-    "precio": 1100,
-    "stock": 0
-  },
-  {
-    "id": 24394,
-    "vino": "budines 9 de oro",
-    "bodega": "14 de oro",
-    "precio": 1300,
-    "stock": 0
-  },
-  {
     "id": 24393,
     "vino": "Alfajor 9 de ORO blanco",
-    "bodega": "15 de oro",
+    "bodega": "9 de oro",
     "precio": 700,
     "stock": 0
   },
   {
     "id": 24374,
     "vino": "Alfajor 9 de ORO bownie",
-    "bodega": "16 de oro",
+    "bodega": "9 de oro",
+    "precio": 700,
+    "stock": 0
+  },
+  {
+    "id": 24195,
+    "vino": "Alfajor 9 de ORO clasico",
+    "bodega": "9 de oro",
     "precio": 700,
     "stock": 0
   },
   {
     "id": 24376,
     "vino": "Alfajor 9 de ORO frutos rojos",
-    "bodega": "17 de oro",
+    "bodega": "9 de oro",
     "precio": 700,
     "stock": 0
   },
   {
-    "id": 24375,
-    "vino": "alfajores 9 de oro x4",
-    "bodega": "18 de oro",
-    "precio": 2500,
+    "id": 24060,
+    "vino": "Crujitas cebolla y crema",
+    "bodega": "9 de oro",
+    "precio": 1100,
     "stock": 0
   },
   {
-    "id": 24195,
-    "vino": "Alfajor 9 de ORO clasico",
-    "bodega": "19 de oro",
-    "precio": 700,
+    "id": 24446,
+    "vino": "Crujitas clasicas",
+    "bodega": "9 de oro",
+    "precio": 1100,
+    "stock": 0
+  },
+  {
+    "id": 24036,
+    "vino": "Crujitas hierbas",
+    "bodega": "9 de oro",
+    "precio": 1100,
     "stock": 0
   },
   {
     "id": 24281,
     "vino": "Crujitas queso",
+    "bodega": "9 de oro",
+    "precio": 1100,
+    "stock": 0
+  },
+  {
+    "id": 24375,
+    "vino": "alfajores 9 de oro x4",
+    "bodega": "9 de oro",
+    "precio": 2500,
+    "stock": 0
+  },
+  {
+    "id": 24394,
+    "vino": "budines 9 de oro",
+    "bodega": "9 de oro",
+    "precio": 1300,
+    "stock": 0
+  },
+  {
+    "id": 23944,
+    "vino": "crujitas jamon serrano",
     "bodega": "9 de oro",
     "precio": 1100,
     "stock": 0
@@ -5520,6 +5513,13 @@
     "vino": "Caja tapa de vidrio x2",
     "bodega": "Cajas y canastas para vino",
     "precio": 28000,
+    "stock": 0
+  },
+  {
+    "id": 23572,
+    "vino": "Cajas y canastas para vino",
+    "bodega": "Cajas y canastas para vino",
+    "precio": 0,
     "stock": 0
   },
   {
