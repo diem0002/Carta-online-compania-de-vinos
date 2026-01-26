@@ -53,14 +53,14 @@
     "vino": "Crujitas queso",
     "bodega": "9 de oro",
     "precio": 1100,
-    "stock": 0
+    "stock": -2
   },
   {
     "id": 24587,
     "vino": "alfajores 9 de oro x4",
     "bodega": "9 de oro",
     "precio": 2500,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 24588,
@@ -88,14 +88,14 @@
     "vino": "Aceite La Posta del Olivo x500",
     "bodega": "ACEITES DE OLIVA",
     "precio": 13250,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 24592,
     "vino": "Aceto Balsamico x 250",
     "bodega": "ACEITES DE OLIVA",
     "precio": 2300,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 24593,
@@ -1474,7 +1474,7 @@
     "vino": "DNA",
     "bodega": "BODEGA CASARENA",
     "precio": 41000,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 24790,
@@ -4904,7 +4904,7 @@
     "vino": "Corona x 330",
     "bodega": "Cervezas Nacionales latas",
     "precio": 3350,
-    "stock": -6
+    "stock": -29
   },
   {
     "id": 25282,
@@ -7004,7 +7004,7 @@
     "vino": "mani 200g",
     "bodega": "FRUTOS SECOS",
     "precio": 1900,
-    "stock": 0
+    "stock": -2
   },
   {
     "id": 25582,
@@ -8243,7 +8243,7 @@
     "vino": "Cordero piel de lobo - malbec",
     "bodega": "Mosquita muerta",
     "precio": 4300,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 25758,
@@ -8348,7 +8348,7 @@
     "vino": "cordero 3L (bag in box)",
     "bodega": "Mosquita muerta",
     "precio": 16000,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 25773,
@@ -10623,7 +10623,7 @@
     "vino": "Bolsas Friselina x2 bot",
     "bodega": "bolsas",
     "precio": 1500,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 26094,
@@ -10644,28 +10644,28 @@
     "vino": "Estuche 1 Jarra Cerveza",
     "bodega": "decanter",
     "precio": 12500,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 26097,
     "vino": "Estuche 2 Jarras Cervezas",
     "bodega": "decanter",
     "precio": 23000,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 26098,
     "vino": "Estuche Branca 750 + fernetometro",
     "bodega": "estuche",
     "precio": 24000,
-    "stock": 0
+    "stock": -4
   },
   {
     "id": 26099,
     "vino": "Motomandado",
     "bodega": "servicios",
     "precio": 3000,
-    "stock": 0
+    "stock": -2
   },
   {
     "id": 25243,
