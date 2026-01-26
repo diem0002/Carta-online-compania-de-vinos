@@ -1718,35 +1718,35 @@
     "id": 5239,
     "vino": "Saurus  - malbec",
     "bodega": "BODEGA FLIA SCHROEDER",
-    "precio": 6780,
+    "precio": 9250,
     "stock": 0
   },
   {
     "id": 5240,
     "vino": "Saurus  - merlot",
     "bodega": "BODEGA FLIA SCHROEDER",
-    "precio": 6780,
+    "precio": 9250,
     "stock": 0
   },
   {
     "id": 5241,
     "vino": "Saurus  - pinot",
     "bodega": "BODEGA FLIA SCHROEDER",
-    "precio": 9150,
+    "precio": 10990,
     "stock": 0
   },
   {
     "id": 5242,
     "vino": "Saurus - blend",
     "bodega": "BODEGA FLIA SCHROEDER",
-    "precio": 6780,
+    "precio": 9250,
     "stock": 0
   },
   {
     "id": 5243,
     "vino": "Saurus - cabernet",
     "bodega": "BODEGA FLIA SCHROEDER",
-    "precio": 6780,
+    "precio": 9250,
     "stock": 0
   },
   {
@@ -5498,21 +5498,21 @@
     "id": 5779,
     "vino": "Deseado Estuche espumante dulce",
     "bodega": "ESPUMANTES DULCES",
-    "precio": 10800,
+    "precio": 11800,
     "stock": 0
   },
   {
     "id": 5780,
     "vino": "Deseado Rose espumante dulce",
     "bodega": "ESPUMANTES DULCES",
-    "precio": 8300,
+    "precio": 9550,
     "stock": 0
   },
   {
     "id": 5781,
     "vino": "Deseado blanco espumante dulce",
     "bodega": "ESPUMANTES DULCES",
-    "precio": 8300,
+    "precio": 9550,
     "stock": 0
   },
   {
@@ -6212,7 +6212,7 @@
     "id": 5883,
     "vino": "Deseado extra brut  espumante",
     "bodega": "Espumantes",
-    "precio": 8300,
+    "precio": 9550,
     "stock": 0
   },
   {
@@ -9187,49 +9187,49 @@
     "id": 6305,
     "vino": "Doña Paula  - Cabernet",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6306,
     "vino": "Doña Paula  - Chardonay",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6307,
     "vino": "Doña Paula  - Malbec",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6308,
     "vino": "Doña Paula  - Pinot",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6309,
     "vino": "Doña Paula  - Riesling",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6310,
     "vino": "Doña Paula  - Rose",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 5520,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6311,
     "vino": "Doña Paula  - S.Blanc",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
@@ -9243,70 +9243,70 @@
     "id": 6313,
     "vino": "Doña Paula  - Unique organico",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 6800,
+    "precio": 8100,
     "stock": 0
   },
   {
     "id": 6314,
     "vino": "Doña Paula 1100",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 14760,
+    "precio": 14850,
     "stock": 0
   },
   {
     "id": 6315,
     "vino": "Doña Paula 1350",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 14760,
+    "precio": 14850,
     "stock": 0
   },
   {
     "id": 6316,
     "vino": "Doña Paula 969",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 14760,
+    "precio": 14850,
     "stock": 0
   },
   {
     "id": 6317,
     "vino": "Doña Paula Black",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6318,
     "vino": "Doña Paula Blue",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6319,
     "vino": "Doña paula Smoked Red Blent",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 7470,
+    "precio": 8050,
     "stock": 0
   },
   {
     "id": 6320,
     "vino": "Los Cardos Varietales - blend",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 4820,
+    "precio": 5500,
     "stock": 0
   },
   {
     "id": 6321,
     "vino": "Los Cardos Varietales - cabernet",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 4820,
+    "precio": 5500,
     "stock": 0
   },
   {
     "id": 6322,
     "vino": "Los Cardos Varietales - malbec",
     "bodega": "VIÑA DOÑA PAULA",
-    "precio": 4820,
+    "precio": 5500,
     "stock": 0
   },
   {
