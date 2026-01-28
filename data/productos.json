@@ -10661,6 +10661,13 @@
     "stock": -2
   },
   {
+    "id": 6519,
+    "vino": "salentein brut nature estuche x1",
+    "bodega": "salentein",
+    "precio": 19200,
+    "stock": 0
+  },
+  {
     "id": 6517,
     "vino": "Motomandado",
     "bodega": "servicios",
