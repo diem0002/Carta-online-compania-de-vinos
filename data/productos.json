@@ -18,7 +18,7 @@
     "vino": "Alfajor 9 de ORO clasico",
     "bodega": "9 de oro",
     "precio": 700,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 4997,
@@ -53,7 +53,7 @@
     "vino": "Crujitas queso",
     "bodega": "9 de oro",
     "precio": 1100,
-    "stock": -2
+    "stock": -3
   },
   {
     "id": 5002,
@@ -5618,7 +5618,7 @@
     "vino": "Estuche Branca 750 + fernetometro",
     "bodega": "ESTUCHES",
     "precio": 24000,
-    "stock": -4
+    "stock": -5
   },
   {
     "id": 5796,
@@ -7122,42 +7122,42 @@
     "id": 6013,
     "vino": "Coca Cola  1,5 S/Az",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 3920,
+    "precio": 3970,
     "stock": 0
   },
   {
     "id": 6014,
     "vino": "Coca Cola 1,5",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 3920,
+    "precio": 3970,
     "stock": 0
   },
   {
     "id": 6015,
     "vino": "Coca Cola 2,25",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 5370,
+    "precio": 5500,
     "stock": 0
   },
   {
     "id": 6016,
     "vino": "Coca Cola 2,25 S/Az",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 5370,
+    "precio": 5500,
     "stock": 0
   },
   {
     "id": 6017,
     "vino": "Coca Cola Retornable",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 3500,
+    "precio": 3650,
     "stock": 0
   },
   {
     "id": 6018,
     "vino": "Coca Cola Retornable S/Az",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 3500,
+    "precio": 3650,
     "stock": 0
   },
   {
@@ -7178,7 +7178,7 @@
     "id": 6021,
     "vino": "Coca Cola vidrio",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 2750,
+    "precio": 2800,
     "stock": 0
   },
   {
@@ -7318,35 +7318,35 @@
     "id": 6041,
     "vino": "Powerade x500 azul",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 2000,
+    "precio": 2250,
     "stock": 0
   },
   {
     "id": 6042,
     "vino": "Powerade x500 manzana",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 2000,
+    "precio": 2250,
     "stock": 0
   },
   {
     "id": 6043,
     "vino": "Powerade x500 rojo",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 2000,
+    "precio": 2250,
     "stock": 0
   },
   {
     "id": 6044,
     "vino": "Red Bull X 250",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 1800,
+    "precio": 0,
     "stock": 0
   },
   {
     "id": 6045,
     "vino": "RedBull",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 1800,
+    "precio": 0,
     "stock": 0
   },
   {
@@ -7381,21 +7381,21 @@
     "id": 6050,
     "vino": "Sprite 1,5",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 3850,
+    "precio": 3970,
     "stock": 0
   },
   {
     "id": 6051,
     "vino": "Sprite 2,25",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 5370,
+    "precio": 5500,
     "stock": 0
   },
   {
     "id": 6052,
     "vino": "Sprite retornable",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 3500,
+    "precio": 3650,
     "stock": 0
   },
   {
@@ -7409,7 +7409,7 @@
     "id": 6054,
     "vino": "coca cola 2,5",
     "bodega": "GASEOSAS Y ENERGISANTES",
-    "precio": 5850,
+    "precio": 6670,
     "stock": 0
   },
   {
@@ -10616,21 +10616,21 @@
     "vino": "Bolsas Friselina manija",
     "bodega": "bolsas",
     "precio": 1500,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 6510,
     "vino": "Bolsas Friselina x1 bot",
     "bodega": "bolsas",
     "precio": 800,
-    "stock": 0
+    "stock": -1
   },
   {
     "id": 6511,
     "vino": "Bolsas Friselina x2 bot",
     "bodega": "bolsas",
     "precio": 1500,
-    "stock": -1
+    "stock": -2
   },
   {
     "id": 6512,
@@ -10658,7 +10658,7 @@
     "vino": "Estuche 2 Jarras Cervezas",
     "bodega": "decanter",
     "precio": 23000,
-    "stock": -1
+    "stock": -2
   },
   {
     "id": 6517,
