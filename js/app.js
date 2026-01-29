@@ -463,27 +463,26 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
         const vinosDeBodega = vinosPorBodega[bodegaName];
 
         const bodegaSection = document.createElement('div');
+        bodegaSection.className = 'search-result-group'; // New Class
         bodegaSection.style.gridColumn = '1 / -1';
         bodegaSection.style.marginBottom = '25px';
 
         bodegaSection.innerHTML = `
-            <div style="background: rgba(255,255,255,0.95); border-radius: 15px; padding: 25px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: pointer;" 
-                     onclick="showBodegaPage('${bodegaName}')">
-                    <h3 style="color: #64313e; font-size: 1.5em; margin: 0;">${bodegaName}</h3>
+            <div class="bodega-card search-header" onclick="showBodegaPage('${bodegaName}')">
+                <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                    <h3 style="margin: 0; text-align: left;">${bodegaName}</h3>
+                    <div class="wine-count-badge">
                         ${vinosDeBodega.length} productos
                     </div>
                 </div>
-                <div>
-                    ${vinosDeBodega.map(vino => `
-                        <div style="background: white; border-radius: 10px; padding: 18px; margin-bottom: 12px; border-left: 4px solid #64313e; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-                            <div style="display: flex; justify-content: space-between; align-items: center;">
-                                <div style="font-weight: 600; color: #2C3E50; font-size: 1.1em;">${vino.vino}</div>
-                                <div style="font-size: 1.3em; font-weight: bold; color: #64313e;">${vino.precio}</div>
-                            </div>
-                        </div>
-                    `).join('')}
-                </div>
+            </div>
+            <div class="search-items-grid">
+                ${vinosDeBodega.map(vino => `
+                    <div class="vino-card">
+                        <div class="vino-name">${vino.vino}</div>
+                        <div class="vino-price">${vino.precio}</div>
+                    </div>
+                `).join('')}
             </div>
         `;
 
