@@ -313,10 +313,125 @@ function handleHashChange() {
         }
     }
 
+    // Si no hay hash válido, mostrar home
     showPage('home');
 }
 
-// ... existing code ...
+// Utilidades
+function showLoading(show) {
+    const loading = document.getElementById('loading');
+    const container = document.getElementById('bodegas-container');
+
+    if (loading) loading.style.display = show ? 'block' : 'none';
+    if (container) container.style.display = show ? 'none' : 'grid';
+}
+
+function showError(message) {
+    const container = document.getElementById('bodegas-container');
+    if (container) {
+        container.innerHTML = `<div class="error">${message}</div>`;
+    }
+}
+
+function updateLastUpdateTime() {
+    const element = document.getElementById('update-time');
+    if (element && appState.lastUpdate) {
+        element.textContent = appState.lastUpdate.toLocaleString('es-AR');
+    }
+}
+
+// Hacer funciones globales para el HTML
+window.showPage = showPage;
+window.showBodegaPage = showBodegaPage;
+
+// Renderizar Productos Destacados (Top 5)
+function renderFeaturedProducts(featured) {
+    const container = document.getElementById('featured-grid');
+    const section = document.getElementById('featured-section');
+
+    if (!container || !section) return;
+
+    if (!featured || featured.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    section.style.display = 'block';
+    container.innerHTML = '';
+
+    featured.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'featured-card';
+        card.innerHTML = `
+            <div class="featured-badge">🔥 Top Ventas</div>
+            <div class="featured-info">
+                <h3>${item.vino}</h3>
+                <p class="featured-bodega">${item.bodega}</p>
+                <div class="featured-price">${formatPrecio(item.precio)}</div>
+            </div>
+        `;
+        container.appendChild(card);
+    });
+}
+
+// SISTEMA DE BÚSQUEDA
+function setupSearch() {
+    const searchInput = document.getElementById('search-input');
+    console.log("🔍 Inicializando búsqueda...", searchInput);
+
+    if (!searchInput) {
+        console.error("❌ No se encontró el input de búsqueda");
+        return;
+    }
+
+    searchInput.addEventListener('input', function (e) {
+        const searchTerm = e.target.value.toLowerCase().trim();
+        console.log("🔍 Buscando:", searchTerm);
+
+        if (searchTerm.length === 0) {
+            console.log("🔍 Mostrando todas las bodegas");
+            renderHomePage();
+            return;
+        }
+
+        console.log("🔍 Filtrando vinos...");
+        const vinosFiltrados = filterVinos(searchTerm);
+        renderVinosFiltrados(vinosFiltrados, searchTerm);
+    });
+
+    console.log("✅ Búsqueda inicializada correctamente");
+}
+
+function filterVinos(searchTerm) {
+    const vinosFiltrados = [];
+
+    console.log("📊 Bodegas disponibles:", Object.keys(appState.bodegas));
+
+    Object.keys(appState.bodegas).forEach(bodegaName => {
+        const vinos = appState.bodegas[bodegaName];
+
+        vinos.forEach(vino => {
+            // Buscar por nombre de vino
+            const matchVino = vino.vino.toLowerCase().includes(searchTerm);
+            // Buscar por nombre de bodega
+            const matchBodega = bodegaName.toLowerCase().includes(searchTerm);
+            // Buscar por precio
+            const precioTexto = vino.precio.toLowerCase();
+            const matchPrecio = precioTexto.includes(searchTerm);
+
+            if (matchVino || matchBodega || matchPrecio) {
+                vinosFiltrados.push({
+                    vino: vino.vino,
+                    precio: vino.precio,
+                    bodega: bodegaName
+                });
+            }
+        });
+    });
+
+    console.log("🎯 Vinos encontrados:", vinosFiltrados.length);
+    return vinosFiltrados;
+}
 
 function renderVinosFiltrados(vinosFiltrados, searchTerm) {
     const container = document.getElementById('bodegas-container');
