@@ -8,149 +8,64 @@ let appState = {
     dataLoaded: false
 };
 
-// CONFIGURACIÓN PWA
-// CONFIGURACIÓN PWA CON INSTALACIÓN SILENCIOSA
+// PWA Setup
 function setupPWA() {
     console.log('🚀 Configurando PWA...');
-
-    let deferredPrompt;
-
-    // Registrar Service Worker
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('./sw.js')
-            .then((registration) => {
-                console.log('✅ Service Worker registrado:', registration);
-            })
-            .catch((error) => {
-                console.log('❌ Error en Service Worker:', error);
-            });
+            .then(reg => console.log('✅ SW registrado:', reg))
+            .catch(err => console.log('❌ SW Error:', err));
     }
 
-    // Detectar cuándo la app está lista para instalar
+    let deferredPrompt;
     window.addEventListener('beforeinstallprompt', (e) => {
-        console.log('📱 PWA lista para instalación');
         e.preventDefault();
         deferredPrompt = e;
-
-        // La instalación estará disponible automáticamente
-        // El usuario puede instalar desde el menú del navegador
-
-        // Opcional: Mostrar un indicador sutil después de un tiempo
         setTimeout(() => {
-            showInstallHint();
-        }, 10000); // 10 segundos
-    });
-
-    // Detectar si se instaló
-    window.addEventListener('appinstalled', (evt) => {
-        console.log('🎉 App instalada exitosamente');
-        deferredPrompt = null;
+            const banner = document.getElementById('install-banner');
+            const btn = document.getElementById('install-btn');
+            if (banner && btn) {
+                banner.style.display = 'block';
+                btn.onclick = async () => {
+                    banner.style.display = 'none';
+                    deferredPrompt.prompt();
+                    deferredPrompt = null;
+                };
+            }
+        }, 5000);
     });
 }
 
-// Indicador sutil de instalación (opcional)
-function showInstallHint() {
-    // Solo mostrar si está en móvil y no está ya instalado
-    if (window.matchMedia('(display-mode: standalone)').matches) {
-        return; // Ya está instalada
-    }
-
-    if (!window.matchMedia('(max-width: 768px)').matches) {
-        return; // No es móvil
-    }
-
-    console.log('💡 Sugerencia: Puedes instalar esta app desde el menú del navegador');
-
-    // Puedes agregar un tooltip sutil aquí si quieres
-    // Pero por ahora solo el log para no ser intrusivo
-}
-
-// Detectar si está lista para instalar
-let deferredPrompt;
-window.addEventListener('beforeinstallprompt', (e) => {
-    e.preventDefault();
-    deferredPrompt = e;
-    console.log('📱 App lista para instalar');
-
-    // Mostrar banner de instalación después de 5 segundos
-    setTimeout(() => {
-        const installBanner = document.getElementById('install-banner');
-        const installBtn = document.getElementById('install-btn');
-
-        if (installBanner && installBtn) {
-            installBanner.style.display = 'block';
-
-            installBtn.addEventListener('click', async () => {
-                installBanner.style.display = 'none';
-                deferredPrompt.prompt();
-                const { outcome } = await deferredPrompt.userChoice;
-                console.log(`📱 Usuario ${outcome} la instalación`);
-                deferredPrompt = null;
-            });
-        }
-    }, 5000);
-});
-
-// Detectar si se lanzó desde la pantalla de inicio
-window.addEventListener('load', () => {
-    if (window.navigator.standalone) {
-        console.log('📱 App lanzada desde pantalla de inicio');
-    }
-});
-
-
-// Inicializar la aplicación
+// Inicialización
 document.addEventListener('DOMContentLoaded', function () {
-    console.log("🚀 Iniciando aplicación...");
-    setupPWA(); // 🔥 NUEVO: Inicializar PWA
+    console.log("🚀 Init...");
+    setupPWA();
     setupRouting();
     setupSearch();
     loadData();
 });
 
-// Cargar datos del Google Sheets
-// Cargar datos locales (JSON generado por VinosPOS)
+// Cargar Datos
 async function loadData() {
     try {
         showLoading(true);
-
-        // Cache busting para asegurar que se carguen los cambios recientes
+        // Cache busting
         const url = `data/productos.json?t=${Date.now()}`;
-
-        console.log('📥 Cargando catálogo local...');
-
         const response = await fetch(url);
-
-        if (!response.ok) {
-            // Fallback para depuración o si el archivo no existe
-            console.warn('⚠️ No se encontró productos.json, usando modo demo o vacío');
-            throw new Error(`No se encontró el catálogo de productos`);
-        }
+        if (!response.ok) throw new Error("No se encontró el catálogo");
 
         const json = await response.json();
-
-        // Check data structure (Array vs Object)
-        let products = [];
-        let featured = [];
-
-        if (Array.isArray(json)) {
-            // Old format
-            products = json;
-        } else if (json.catalogo) {
-            // New format (v2)
-            products = json.catalogo;
-            featured = json.destacados || [];
-        }
+        let products = json.catalogo || (Array.isArray(json) ? json : []);
+        let featured = json.destacados || [];
 
         processLocalData(products);
 
-        // Render Featured if available
+        // Render Featured
         if (featured.length > 0) {
             renderFeaturedProducts(featured);
         } else {
-            // Hide featured section if empty
-            const featuredContainer = document.getElementById('featured-section');
-            if (featuredContainer) featuredContainer.style.display = 'none';
+            const fs = document.getElementById('featured-section');
+            if (fs) fs.style.display = 'none';
         }
 
         renderHomePage();
@@ -158,24 +73,19 @@ async function loadData() {
         appState.lastUpdate = new Date(json.lastUpdate || Date.now());
         appState.dataLoaded = true;
         updateLastUpdateTime();
-        handleHashChange();
+        handleHashChange(); // Procesar URL inicial
 
-    } catch (error) {
-        console.error('❌ Error:', error);
-        showError(`Error: ${error.message}. Recarga la página.`);
+    } catch (e) {
+        console.error(e);
+        showError(e.message);
     } finally {
         showLoading(false);
     }
 }
-// Procesar datos locales (Array de objetos)
+
 function processLocalData(data) {
     const bodegas = {};
-
-    // Data es un array: [{id, vino, bodega, precio, stock}, ...]
-    if (!Array.isArray(data)) {
-        console.error('Formato de datos inválido', data);
-        return;
-    }
+    if (!Array.isArray(data)) return;
 
     data.forEach(item => {
         const vino = item.vino || '';
@@ -183,331 +93,212 @@ function processLocalData(data) {
         const precio = item.precio || 0;
 
         if (vino) {
-            if (!bodegas[bodega]) {
-                bodegas[bodega] = [];
-            }
-            bodegas[bodega].push({
-                vino: vino,
-                precio: formatPrecio(precio)
-            });
+            if (!bodegas[bodega]) bodegas[bodega] = [];
+            bodegas[bodega].push({ vino, precio: formatPrecio(precio) });
         }
     });
-
     appState.bodegas = bodegas;
-    console.log('Bodegas procesadas:', Object.keys(bodegas));
 }
 
-// Formatear precio
-function formatPrecio(precio) {
-    if (typeof precio === 'number') {
-        return `$${precio.toLocaleString('es-AR')}`;
-    }
-    if (typeof precio === 'string' && precio.trim() !== '') {
-        return `$${precio}`;
-    }
+function formatPrecio(p) {
+    if (typeof p === 'number') return `$${p.toLocaleString('es-AR')}`;
+    if (typeof p === 'string' && p.trim() !== '') return `$${p}`;
     return 'Consultar';
 }
 
-// Renderizar página principal
+// Render Home
 function renderHomePage() {
     const container = document.getElementById('bodegas-container');
     const bodegas = appState.bodegas;
-
     container.innerHTML = '';
 
     Object.keys(bodegas).sort().forEach(bodegaName => {
         const vinos = bodegas[bodegaName];
-        const bodegaCard = document.createElement('div');
-        bodegaCard.className = 'bodega-card';
-        bodegaCard.onclick = () => showBodegaPage(bodegaName);
-
-        bodegaCard.innerHTML = `
-            <h3>${bodegaName}</h3>
-            <p class="wine-count">${vinos.length} vinos disponibles</p>
-        `;
-
-        container.appendChild(bodegaCard);
+        const card = document.createElement('div');
+        card.className = 'bodega-card';
+        card.onclick = () => showBodegaPage(bodegaName);
+        card.innerHTML = `<h3>${bodegaName}</h3><p class="wine-count">${vinos.length} vinos disponibles</p>`;
+        container.appendChild(card);
     });
 }
 
-// Renderizar página de bodega
+// Render Bodega (MODAL CONTENT)
 function renderBodegaPage(bodegaName) {
     const vinos = appState.bodegas[bodegaName] || [];
     const container = document.getElementById('vinos-container');
-
     document.getElementById('bodega-name').textContent = bodegaName;
-
     container.innerHTML = '';
 
     if (vinos.length === 0) {
-        container.innerHTML = '<div class="error">No hay vinos disponibles para esta bodega</div>';
+        container.innerHTML = '<div class="error">No hay vinos disponibles</div>';
         return;
     }
 
     vinos.sort((a, b) => a.vino.localeCompare(b.vino)).forEach(vino => {
-        const vinoCard = document.createElement('div');
-        vinoCard.className = 'vino-card';
-        vinoCard.innerHTML = `
-            <div class="vino-name">${vino.vino}</div>
-            <div class="vino-price">${vino.precio}</div>
-        `;
-        container.appendChild(vinoCard);
+        const div = document.createElement('div');
+        div.className = 'vino-card';
+        div.innerHTML = `<div class="vino-name">${vino.vino}</div><div class="vino-price">${vino.precio}</div>`;
+        container.appendChild(div);
     });
 }
 
-// Navegación entre páginas (MODAL LOGIC)
+// === NAVIGATION LOGIC (MODAL) ===
 function showPage(pageId) {
-    // Si vamos a HOME, cerramos el modal BODEGA y mostramos HOME
+    // Si vamos a HOME, ocultamos el modal BODEGA y aseguramos HOME visible
     if (pageId === 'home') {
         document.getElementById('bodega').classList.remove('active');
-        document.getElementById('home').classList.add('active'); // Ensure home is visible
-
-        // Limpiar hash al volver
-        history.pushState("", document.title, window.location.pathname + window.location.search);
+        document.getElementById('home').classList.add('active'); // Ensure base layer visible
+        // Limpiar hash URL al cerrar modal
+        if (window.location.hash.includes('bodega')) {
+            history.pushState("", document.title, window.location.pathname + window.location.search);
+        }
         return;
     }
 
-    // Si vamos a BODEGA, abrimos el modal (HOME se queda de fondo o se oculta, mejor ocultar para scroll performance)
+    // Si vamos a BODEGA, activamos el modal (z-index 9999 manejará la superposición)
     if (pageId === 'bodega') {
         document.getElementById('bodega').classList.add('active');
-        // Opcional: Ocultar home para prevenir scroll doble
-        // document.getElementById('home').classList.remove('active');
-        window.scrollTo(0, 0);
+        window.scrollTo(0, 0); // Scroll del modal al top (si fuera necesario, aunque el modal tiene su propio scroll)
+        // Check CSS: #bodega { overflow-y: auto; }
+        const bodegaEl = document.getElementById('bodega');
+        if (bodegaEl) bodegaEl.scrollTop = 0;
     }
 }
 
-function showBodegaPage(bodegaName) {
-    console.log('Mostrando bodega (Modal):', bodegaName);
-    renderBodegaPage(bodegaName);
+function showBodegaPage(name) {
+    // 1. Render content
+    renderBodegaPage(name);
+    // 2. Show Modal
     showPage('bodega');
-
-    // Actualizar URL sin recargar
-    // const newUrl = `#bodega-${encodeURIComponent(bodegaName)}`;
-    // window.history.pushState({}, '', newUrl);
+    // 3. Update URL Hash (so refresh keeps modal open)
+    const newHash = `#bodega-${encodeURIComponent(name)}`;
+    if (window.location.hash !== newHash) {
+        history.pushState(null, null, newHash);
+    }
 }
 
-// Routing con hashtags
+// Routing
 function setupRouting() {
-    // Manejar cambios en el hash
     window.addEventListener('hashchange', handleHashChange);
-
-    // Manejar popstate
     window.addEventListener('popstate', handleHashChange);
 
-    // SOPORTE PARA QR (Query Params -> Hash)
-    // Si la URL es index.html?bodega=NombreBodega, redirigir a #bodega-NombreBodega
-    const urlParams = new URLSearchParams(window.location.search);
-    const bodegaParam = urlParams.get('bodega');
-    if (bodegaParam) {
-        console.log('🔗 Detectado parámetro QR:', bodegaParam);
-        // Limpiar query param y usar hash
-        const newUrl = window.location.pathname + '#bodega-' + encodeURIComponent(bodegaParam);
-        window.history.replaceState({}, '', newUrl);
-        // El handleHashChange se disparará o lo llamamos manualmente en loadData
+    // QR Support: ?bodega=NAME -> #bodega-NAME
+    const params = new URLSearchParams(window.location.search);
+    const qBodega = params.get('bodega');
+    if (qBodega) {
+        const newUrl = window.location.pathname + '#bodega-' + encodeURIComponent(qBodega);
+        history.replaceState({}, '', newUrl);
+        // handleHashChange will run on loadData or via event? No, replacing state won't trigger hashchange.
+        // We will call handleHashChange manually in loadData
     }
 }
 
 function handleHashChange() {
+    if (!appState.dataLoaded) return; // Wait for data
+
     const hash = window.location.hash.substring(1);
-    console.log('Hash cambiado:', hash);
-
-    if (!appState.dataLoaded) {
-        console.log('Esperando a que se carguen los datos...');
-        return;
-    }
-
     if (hash.startsWith('bodega-')) {
-        const bodegaName = decodeURIComponent(hash.replace('bodega-', ''));
-        if (appState.bodegas[bodegaName]) {
-            renderBodegaPage(bodegaName);
+        const name = decodeURIComponent(hash.replace('bodega-', ''));
+        if (appState.bodegas[name]) {
+            renderBodegaPage(name);
             showPage('bodega');
             return;
         }
     }
-
-    // Si no hay hash válido, mostrar home
     showPage('home');
 }
 
 // Utilidades
 function showLoading(show) {
-    const loading = document.getElementById('loading');
-    const container = document.getElementById('bodegas-container');
-
-    if (loading) loading.style.display = show ? 'block' : 'none';
-    if (container) container.style.display = show ? 'none' : 'grid';
+    const l = document.getElementById('loading');
+    const c = document.getElementById('bodegas-container');
+    if (l) l.style.display = show ? 'block' : 'none';
+    if (c) c.style.display = show ? 'none' : 'grid';
 }
-
-function showError(message) {
-    const container = document.getElementById('bodegas-container');
-    if (container) {
-        container.innerHTML = `<div class="error">${message}</div>`;
-    }
+function showError(msg) {
+    const c = document.getElementById('bodegas-container');
+    if (c) c.innerHTML = `<div class="error">${msg}</div>`;
 }
-
 function updateLastUpdateTime() {
-    const element = document.getElementById('update-time');
-    if (element && appState.lastUpdate) {
-        element.textContent = appState.lastUpdate.toLocaleString('es-AR');
-    }
+    const el = document.getElementById('update-time');
+    if (el && appState.lastUpdate) el.textContent = appState.lastUpdate.toLocaleString('es-AR');
 }
 
-// Hacer funciones globales para el HTML
-window.showPage = showPage;
-window.showBodegaPage = showBodegaPage;
-
-// Renderizar Productos Destacados (Top 5)
+// Featured
 function renderFeaturedProducts(featured) {
-    const container = document.getElementById('featured-grid');
-    const section = document.getElementById('featured-section');
-
-    if (!container || !section) return;
-
-    if (!featured || featured.length === 0) {
-        section.style.display = 'none';
-        return;
-    }
-
-    section.style.display = 'block';
-    container.innerHTML = '';
-
+    const c = document.getElementById('featured-grid');
+    const s = document.getElementById('featured-section');
+    if (!c || !s) return;
+    if (!featured || !featured.length) { s.style.display = 'none'; return; }
+    s.style.display = 'block';
+    c.innerHTML = '';
     featured.forEach(item => {
-        const card = document.createElement('div');
-        card.className = 'featured-card';
-        card.innerHTML = `
+        const div = document.createElement('div');
+        div.className = 'featured-card';
+        div.innerHTML = `
             <div class="featured-badge">🔥 Top Ventas</div>
             <div class="featured-info">
                 <h3>${item.vino}</h3>
                 <p class="featured-bodega">${item.bodega}</p>
                 <div class="featured-price">${formatPrecio(item.precio)}</div>
-            </div>
-        `;
-        container.appendChild(card);
+            </div>`;
+        c.appendChild(div);
     });
 }
 
-// SISTEMA DE BÚSQUEDA
+// Search
 function setupSearch() {
-    const searchInput = document.getElementById('search-input');
-    console.log("🔍 Inicializando búsqueda...", searchInput);
-
-    if (!searchInput) {
-        console.error("❌ No se encontró el input de búsqueda");
-        return;
-    }
-
-    searchInput.addEventListener('input', function (e) {
-        const searchTerm = e.target.value.toLowerCase().trim();
-        console.log("🔍 Buscando:", searchTerm);
-
-        if (searchTerm.length === 0) {
-            console.log("🔍 Mostrando todas las bodegas");
-            renderHomePage();
-            return;
-        }
-
-        console.log("🔍 Filtrando vinos...");
-        const vinosFiltrados = filterVinos(searchTerm);
-        renderVinosFiltrados(vinosFiltrados, searchTerm);
+    const inp = document.getElementById('search-input');
+    if (!inp) return;
+    inp.addEventListener('input', (e) => {
+        const term = e.target.value.toLowerCase().trim();
+        if (!term) { renderHomePage(); return; }
+        const res = filterVinos(term);
+        renderVinosFiltrados(res, term);
     });
-
-    console.log("✅ Búsqueda inicializada correctamente");
 }
 
-function filterVinos(searchTerm) {
-    const vinosFiltrados = [];
-
-    console.log("📊 Bodegas disponibles:", Object.keys(appState.bodegas));
-
-    Object.keys(appState.bodegas).forEach(bodegaName => {
-        const vinos = appState.bodegas[bodegaName];
-
-        vinos.forEach(vino => {
-            // Buscar por nombre de vino
-            const matchVino = vino.vino.toLowerCase().includes(searchTerm);
-            // Buscar por nombre de bodega
-            const matchBodega = bodegaName.toLowerCase().includes(searchTerm);
-            // Buscar por precio
-            const precioTexto = vino.precio.toLowerCase();
-            const matchPrecio = precioTexto.includes(searchTerm);
-
-            if (matchVino || matchBodega || matchPrecio) {
-                vinosFiltrados.push({
-                    vino: vino.vino,
-                    precio: vino.precio,
-                    bodega: bodegaName
-                });
+function filterVinos(term) {
+    const res = [];
+    Object.keys(appState.bodegas).forEach(bName => {
+        appState.bodegas[bName].forEach(v => {
+            if (v.vino.toLowerCase().includes(term) || bName.toLowerCase().includes(term) || v.precio.toLowerCase().includes(term)) {
+                res.push({ vino: v.vino, precio: v.precio, bodega: bName });
             }
         });
     });
-
-    console.log("🎯 Vinos encontrados:", vinosFiltrados.length);
-    return vinosFiltrados;
+    return res;
 }
 
-function renderVinosFiltrados(vinosFiltrados, searchTerm) {
-    const container = document.getElementById('bodegas-container');
-
-    // ESTILOS PARA TEMA CLARO (Bordó)
-    if (vinosFiltrados.length === 0) {
-        container.innerHTML = `
-            <div style="grid-column: 1 / -1; text-align: center; color: var(--text-main); padding: 60px 20px;">
-                <div style="font-size: 4em; margin-bottom: 20px;">🔍</div>
-                <p style="font-size: 1.4em; margin-bottom: 10px;">No se encontraron resultados</p>
-                <p style="opacity: 0.8; font-size: 1.1em;">Intenta con otro término</p>
-                <p style="opacity: 0.6; margin-top: 10px;">Buscaste: "${searchTerm}"</p>
-            </div>
-        `;
+function renderVinosFiltrados(list, term) {
+    const c = document.getElementById('bodegas-container');
+    if (list.length === 0) {
+        c.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:60px 20px;color:var(--text-main)"><div style="font-size:4em;margin-bottom:20px">🔍</div><p style="font-size:1.4em">No se encontraron resultados</p><p style="opacity:0.6">Buscaste: "${term}"</p></div>`;
         return;
     }
+    const grouped = {};
+    list.forEach(v => { if (!grouped[v.bodega]) grouped[v.bodega] = []; grouped[v.bodega].push(v); });
 
-    // Agrupar vinos por bodega
-    const vinosPorBodega = {};
-    vinosFiltrados.forEach(vino => {
-        if (!vinosPorBodega[vino.bodega]) {
-            vinosPorBodega[vino.bodega] = [];
-        }
-        vinosPorBodega[vino.bodega].push(vino);
-    });
+    c.innerHTML = `<div style="grid-column:1/-1;text-align:center;margin-bottom:30px"><h2 style="color:var(--primary-color)">🔍 ${list.length} resultados</h2></div>`;
 
-    container.innerHTML = `
-        <div style="grid-column: 1 / -1; text-align: center; margin-bottom: 30px;">
-            <h2 style="color: var(--primary-color); font-size: 1.8em; margin-bottom: 10px;">
-                🔍 ${vinosFiltrados.length} resultados
-            </h2>
-        </div>
-    `;
-
-    // Mostrar resultados agrupados por bodega
-    Object.keys(vinosPorBodega).forEach(bodegaName => {
-        const vinosDeBodega = vinosPorBodega[bodegaName];
-
-        const bodegaSection = document.createElement('div');
-        bodegaSection.className = 'search-result-group';
-        bodegaSection.style.gridColumn = '1 / -1';
-        bodegaSection.style.marginBottom = '25px';
-
-        bodegaSection.innerHTML = `
-            <div class="bodega-card search-header" onclick="showBodegaPage('${bodegaName}')" style="cursor: pointer;">
-                <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-                    <h3 style="margin: 0; text-align: left; color: var(--primary-color);">${bodegaName}</h3>
-                    <div class="wine-count-badge">
-                        ${vinosDeBodega.length} productos
-                    </div>
+    Object.keys(grouped).forEach(bName => {
+        const div = document.createElement('div');
+        div.className = 'search-result-group';
+        div.style.gridColumn = '1/-1';
+        div.style.marginBottom = '25px';
+        div.innerHTML = `
+            <div class="bodega-card search-header" onclick="showBodegaPage('${bName}')">
+                <div style="display:flex;justify-content:space-between;align-items:center;width:100%">
+                    <h3 style="margin:0;text-align:left;color:var(--primary-color)">${bName}</h3>
+                    <div class="wine-count-badge">${grouped[bName].length} productos</div>
                 </div>
             </div>
             <div class="search-items-grid">
-                ${vinosDeBodega.map(vino => `
-                    <div class="vino-card">
-                        <div class="vino-info">
-                            <div class="vino-name">${vino.vino}</div>
-                        </div>
-                        <div class="vino-price">${vino.precio}</div>
-                    </div>
-                `).join('')}
-            </div>
-        `;
-
-        container.appendChild(bodegaSection);
+                ${grouped[bName].map(v => `<div class="vino-card"><div class="vino-name">${v.vino}</div><div class="vino-price">${v.precio}</div></div>`).join('')}
+            </div>`;
+        c.appendChild(div);
     });
 }
+
+window.showPage = showPage;
+window.showBodegaPage = showBodegaPage;
