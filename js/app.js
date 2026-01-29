@@ -255,23 +255,35 @@ function renderBodegaPage(bodegaName) {
     });
 }
 
-// Navegación entre páginas
+// Navegación entre páginas (MODAL LOGIC)
 function showPage(pageId) {
-    document.querySelectorAll('.page').forEach(page => {
-        page.classList.remove('active');
-    });
-    document.getElementById(pageId).classList.add('active');
-    window.scrollTo(0, 0); // Scroll to top
+    // Si vamos a HOME, cerramos el modal BODEGA y mostramos HOME
+    if (pageId === 'home') {
+        document.getElementById('bodega').classList.remove('active');
+        document.getElementById('home').classList.add('active'); // Ensure home is visible
+
+        // Limpiar hash al volver
+        history.pushState("", document.title, window.location.pathname + window.location.search);
+        return;
+    }
+
+    // Si vamos a BODEGA, abrimos el modal (HOME se queda de fondo o se oculta, mejor ocultar para scroll performance)
+    if (pageId === 'bodega') {
+        document.getElementById('bodega').classList.add('active');
+        // Opcional: Ocultar home para prevenir scroll doble
+        // document.getElementById('home').classList.remove('active');
+        window.scrollTo(0, 0);
+    }
 }
 
 function showBodegaPage(bodegaName) {
-    console.log('Mostrando bodega:', bodegaName);
+    console.log('Mostrando bodega (Modal):', bodegaName);
     renderBodegaPage(bodegaName);
     showPage('bodega');
 
-    // Actualizar URL
-    const newUrl = `#bodega-${encodeURIComponent(bodegaName)}`;
-    window.history.pushState({}, '', newUrl);
+    // Actualizar URL sin recargar
+    // const newUrl = `#bodega-${encodeURIComponent(bodegaName)}`;
+    // window.history.pushState({}, '', newUrl);
 }
 
 // Routing con hashtags
