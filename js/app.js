@@ -279,15 +279,26 @@ function setupRouting() {
     // Manejar cambios en el hash
     window.addEventListener('hashchange', handleHashChange);
 
-    // Manejar popstate (navegación con botones atrás/adelante)
+    // Manejar popstate
     window.addEventListener('popstate', handleHashChange);
+
+    // SOPORTE PARA QR (Query Params -> Hash)
+    // Si la URL es index.html?bodega=NombreBodega, redirigir a #bodega-NombreBodega
+    const urlParams = new URLSearchParams(window.location.search);
+    const bodegaParam = urlParams.get('bodega');
+    if (bodegaParam) {
+        console.log('🔗 Detectado parámetro QR:', bodegaParam);
+        // Limpiar query param y usar hash
+        const newUrl = window.location.pathname + '#bodega-' + encodeURIComponent(bodegaParam);
+        window.history.replaceState({}, '', newUrl);
+        // El handleHashChange se disparará o lo llamamos manualmente en loadData
+    }
 }
 
 function handleHashChange() {
     const hash = window.location.hash.substring(1);
     console.log('Hash cambiado:', hash);
 
-    // SI LOS DATOS NO ESTÁN CARGADOS, ESPERAR
     if (!appState.dataLoaded) {
         console.log('Esperando a que se carguen los datos...');
         return;
@@ -295,146 +306,28 @@ function handleHashChange() {
 
     if (hash.startsWith('bodega-')) {
         const bodegaName = decodeURIComponent(hash.replace('bodega-', ''));
-        console.log('Bodega desde hash:', bodegaName);
-
         if (appState.bodegas[bodegaName]) {
             renderBodegaPage(bodegaName);
             showPage('bodega');
             return;
-        } else {
-            console.log('Bodega no encontrada:', bodegaName);
         }
     }
 
-    // Si no hay hash válido, mostrar home
     showPage('home');
 }
 
-// Utilidades
-function showLoading(show) {
-    const loading = document.getElementById('loading');
-    const container = document.getElementById('bodegas-container');
-
-    if (loading) loading.style.display = show ? 'block' : 'none';
-    if (container) container.style.display = show ? 'none' : 'grid';
-}
-
-function showError(message) {
-    const container = document.getElementById('bodegas-container');
-    if (container) {
-        container.innerHTML = `<div class="error">${message}</div>`;
-    }
-}
-
-function updateLastUpdateTime() {
-    const element = document.getElementById('update-time');
-    if (element && appState.lastUpdate) {
-        element.textContent = appState.lastUpdate.toLocaleString('es-AR');
-    }
-}
-
-// Hacer funciones globales para el HTML
-window.showPage = showPage;
-window.showBodegaPage = showBodegaPage;
-
-// Renderizar Productos Destacados (Top 5)
-function renderFeaturedProducts(featured) {
-    const container = document.getElementById('featured-grid');
-    const section = document.getElementById('featured-section');
-
-    if (!container || !section) return;
-
-    if (!featured || featured.length === 0) {
-        section.style.display = 'none';
-        return;
-    }
-
-    section.style.display = 'block';
-    container.innerHTML = '';
-
-    featured.forEach(item => {
-        const card = document.createElement('div');
-        card.className = 'featured-card';
-        card.innerHTML = `
-            <div class="featured-badge">🔥 Top Ventas</div>
-            <div class="featured-info">
-                <h3>${item.vino}</h3>
-                <p class="featured-bodega">${item.bodega}</p>
-                <div class="featured-price">${formatPrecio(item.precio)}</div>
-            </div>
-        `;
-        container.appendChild(card);
-    });
-}
-
-// SISTEMA DE BÚSQUEDA
-function setupSearch() {
-    const searchInput = document.getElementById('search-input');
-    console.log("🔍 Inicializando búsqueda...", searchInput);
-
-    if (!searchInput) {
-        console.error("❌ No se encontró el input de búsqueda");
-        return;
-    }
-
-    searchInput.addEventListener('input', function (e) {
-        const searchTerm = e.target.value.toLowerCase().trim();
-        console.log("🔍 Buscando:", searchTerm);
-
-        if (searchTerm.length === 0) {
-            console.log("🔍 Mostrando todas las bodegas");
-            renderHomePage();
-            return;
-        }
-
-        console.log("🔍 Filtrando vinos...");
-        const vinosFiltrados = filterVinos(searchTerm);
-        renderVinosFiltrados(vinosFiltrados, searchTerm);
-    });
-
-    console.log("✅ Búsqueda inicializada correctamente");
-}
-
-function filterVinos(searchTerm) {
-    const vinosFiltrados = [];
-
-    console.log("📊 Bodegas disponibles:", Object.keys(appState.bodegas));
-
-    Object.keys(appState.bodegas).forEach(bodegaName => {
-        const vinos = appState.bodegas[bodegaName];
-
-        vinos.forEach(vino => {
-            // Buscar por nombre de vino
-            const matchVino = vino.vino.toLowerCase().includes(searchTerm);
-            // Buscar por nombre de bodega
-            const matchBodega = bodegaName.toLowerCase().includes(searchTerm);
-            // Buscar por precio
-            const precioTexto = vino.precio.toLowerCase();
-            const matchPrecio = precioTexto.includes(searchTerm);
-
-            if (matchVino || matchBodega || matchPrecio) {
-                vinosFiltrados.push({
-                    vino: vino.vino,
-                    precio: vino.precio,
-                    bodega: bodegaName
-                });
-            }
-        });
-    });
-
-    console.log("🎯 Vinos encontrados:", vinosFiltrados.length);
-    return vinosFiltrados;
-}
+// ... existing code ...
 
 function renderVinosFiltrados(vinosFiltrados, searchTerm) {
     const container = document.getElementById('bodegas-container');
 
+    // ESTILOS PARA TEMA CLARO (Bordó)
     if (vinosFiltrados.length === 0) {
         container.innerHTML = `
-            <div style="grid-column: 1 / -1; text-align: center; color: white; padding: 60px 20px;">
+            <div style="grid-column: 1 / -1; text-align: center; color: var(--text-main); padding: 60px 20px;">
                 <div style="font-size: 4em; margin-bottom: 20px;">🔍</div>
                 <p style="font-size: 1.4em; margin-bottom: 10px;">No se encontraron resultados</p>
-                <p style="opacity: 0.8; font-size: 1.1em;">Probá con otro nombre de vino, bodega o precio</p>
+                <p style="opacity: 0.8; font-size: 1.1em;">Intenta con otro término</p>
                 <p style="opacity: 0.6; margin-top: 10px;">Buscaste: "${searchTerm}"</p>
             </div>
         `;
@@ -452,10 +345,9 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
 
     container.innerHTML = `
         <div style="grid-column: 1 / -1; text-align: center; margin-bottom: 30px;">
-            <h2 style="color: white; font-size: 1.8em; margin-bottom: 10px;">
-                🔍 ${vinosFiltrados.length} resultados encontrados
+            <h2 style="color: var(--primary-color); font-size: 1.8em; margin-bottom: 10px;">
+                🔍 ${vinosFiltrados.length} resultados
             </h2>
-            <p style="color: rgba(255,255,255,0.8);">Buscaste: "${searchTerm}"</p>
         </div>
     `;
 
@@ -464,14 +356,14 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
         const vinosDeBodega = vinosPorBodega[bodegaName];
 
         const bodegaSection = document.createElement('div');
-        bodegaSection.className = 'search-result-group'; // New Class
+        bodegaSection.className = 'search-result-group';
         bodegaSection.style.gridColumn = '1 / -1';
         bodegaSection.style.marginBottom = '25px';
 
         bodegaSection.innerHTML = `
-            <div class="bodega-card search-header" onclick="showBodegaPage('${bodegaName}')">
+            <div class="bodega-card search-header" onclick="showBodegaPage('${bodegaName}')" style="cursor: pointer;">
                 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-                    <h3 style="margin: 0; text-align: left;">${bodegaName}</h3>
+                    <h3 style="margin: 0; text-align: left; color: var(--primary-color);">${bodegaName}</h3>
                     <div class="wine-count-badge">
                         ${vinosDeBodega.length} productos
                     </div>
@@ -480,7 +372,9 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
             <div class="search-items-grid">
                 ${vinosDeBodega.map(vino => `
                     <div class="vino-card">
-                        <div class="vino-name">${vino.vino}</div>
+                        <div class="vino-info">
+                            <div class="vino-name">${vino.vino}</div>
+                        </div>
                         <div class="vino-price">${vino.precio}</div>
                     </div>
                 `).join('')}
