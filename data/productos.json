@@ -1230,14 +1230,14 @@
       "vino": "Luna llena - cabernet Franc",
       "bodega": "BODEGA AMBROSIA",
       "precio": 14100,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 24755,
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 14100,
-      "stock": 0
+      "stock": -12
     },
     {
       "id": 24756,
@@ -10692,5 +10692,5 @@
       "vendidos": 1
     }
   ],
-  "lastUpdate": "2026-01-29T03:09:14.026Z"
+  "lastUpdate": "2026-01-29T03:32:07.394Z"
 }
