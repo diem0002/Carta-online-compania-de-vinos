@@ -10678,27 +10678,6 @@
   ],
   "destacados": [
     {
-      "id": 26097,
-      "vino": "Estuche 2 Jarras Cervezas",
-      "bodega": "decanter",
-      "precio": 23000,
-      "vendidos": 1
-    },
-    {
-      "id": 26096,
-      "vino": "Estuche 1 Jarra Cerveza",
-      "bodega": "decanter",
-      "precio": 12500,
-      "vendidos": 1
-    },
-    {
-      "id": 26093,
-      "vino": "Bolsas Friselina x2 bot",
-      "bodega": "bolsas",
-      "precio": 1500,
-      "vendidos": 1
-    },
-    {
       "id": 25772,
       "vino": "cordero 3L (bag in box)",
       "bodega": "Mosquita muerta",
@@ -10713,5 +10692,5 @@
       "vendidos": 1
     }
   ],
-  "lastUpdate": "2026-01-29T02:09:06.042Z"
+  "lastUpdate": "2026-01-29T02:25:39.521Z"
 }
