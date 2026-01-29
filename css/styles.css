@@ -39,16 +39,24 @@ body {
 }
 
 /* === HEADER HERO REDISEÑADO === */
+/* === HEADER HERO REDISEÑADO === */
 .hero-header {
     text-align: center;
     padding: 60px 20px 40px;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), transparent);
     margin-bottom: 20px;
     position: relative;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logo-container {
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .logo {
@@ -57,6 +65,8 @@ body {
     filter: drop-shadow(0 0 15px rgba(212, 175, 55, 0.2));
     /* Brillo dorado sutil */
     transition: transform 0.5s ease;
+    display: block;
+    margin: 0 auto;
 }
 
 .logo:hover {

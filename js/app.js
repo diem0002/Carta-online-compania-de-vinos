@@ -471,8 +471,7 @@ function renderVinosFiltrados(vinosFiltrados, searchTerm) {
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: pointer;" 
                      onclick="showBodegaPage('${bodegaName}')">
                     <h3 style="color: #64313e; font-size: 1.5em; margin: 0;">${bodegaName}</h3>
-                    <div style="color: #000000; background: #ffffff; padding: 8px 16px; border-radius: 20px; font-weight: 700; border: 2px solid #64313e;">
-                        ${vinosDeBodega.length} vinos
+                        ${vinosDeBodega.length} productos
                     </div>
                 </div>
                 <div>
