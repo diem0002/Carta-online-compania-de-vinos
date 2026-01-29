@@ -10678,6 +10678,20 @@
   ],
   "destacados": [
     {
+      "id": 24755,
+      "vino": "Luna llena - malbec",
+      "bodega": "BODEGA AMBROSIA",
+      "precio": 14100,
+      "vendidos": 12
+    },
+    {
+      "id": 24754,
+      "vino": "Luna llena - cabernet Franc",
+      "bodega": "BODEGA AMBROSIA",
+      "precio": 14100,
+      "vendidos": 6
+    },
+    {
       "id": 25772,
       "vino": "cordero 3L (bag in box)",
       "bodega": "Mosquita muerta",
@@ -10692,5 +10706,5 @@
       "vendidos": 1
     }
   ],
-  "lastUpdate": "2026-01-29T03:33:24.944Z"
+  "lastUpdate": "2026-01-29T03:34:14.930Z"
 }
