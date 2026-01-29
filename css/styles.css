@@ -1,145 +1,130 @@
 :root {
-    /* PALETA "NIGHT LUXURY" */
-    --primary-color: #722F37;
-    /* Merlot Profundo */
-    --primary-light: #903c46;
-    /* Merlot más claro */
-    --accent-color: #D4AF37;
-    /* Dorado Mates */
-    --accent-glow: #F4C430;
-    /* Dorado Brillante */
-    --dark-bg: #1a1a1a;
-    /* Negro suave */
-    --card-bg: rgba(30, 30, 30, 0.7);
-    /* Vidrio oscuro */
-    --text-main: #f0f0f0;
-    /* Blanco hueso */
-    --text-muted: #a0a0a0;
-    /* Gris plata */
+    /* PALETA DE COLORES */
+    --primary-color: #64313e;
+    /* Bordó vino tinto */
+    --secondary-color: #8a1c34;
+    /* Rojo rubí */
+    --accent-color: #d4af37;
+    /* Dorado etiqueta */
+    --background-color: #f9f5f0;
+    /* Crema suave (papel antiguo) */
+    --card-bg: #ffffff;
+    --text-main: #2c3e50;
+    --dark-gray: #1a1a1a;
+    --medium-gray: #666;
 
-    /* FONDOS Y GRADIENTES */
-    --background-gradient: linear-gradient(135deg, #0f0f0f 0%, #1a0b0e 50%, #2c1216 100%);
-    --card-border: 1px solid rgba(255, 255, 255, 0.1);
-
-    /* SOMBRAS */
-    --shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
-    --shadow-hover: 0 15px 40px 0 rgba(114, 47, 55, 0.2);
-    --glass: blur(12px) saturate(180%);
+    /* SOMBRAS SUAVES */
+    --shadow: 0 10px 30px rgba(100, 49, 62, 0.15);
+    --shadow-hover: 0 15px 40px rgba(100, 49, 62, 0.25);
 }
 
 body {
-    font-family: 'Montserrat', 'Segoe UI', sans-serif;
-    /* Más moderno */
-    background: var(--background-gradient);
-    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--background-color);
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2364313e' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
     color: var(--text-main);
-    line-height: 1.6;
-    background-attachment: fixed;
-    /* Parallax effect */
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
     overflow-x: hidden;
+    /* Prevent side scroll */
 }
 
-/* === HEADER HERO REDISEÑADO === */
-/* === HEADER HERO REDISEÑADO === */
+/* HEADER HERO */
 .hero-header {
-    text-align: center;
+    background: linear-gradient(135deg, var(--primary-color), #481e28);
+    color: white;
     padding: 60px 20px 40px;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), transparent);
-    margin-bottom: 20px;
+    text-align: center;
+    border-bottom-left-radius: 50% 30px;
+    border-bottom-right-radius: 50% 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    margin-bottom: 40px;
     position: relative;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .logo-container {
-    margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    margin-bottom: 30px;
 }
 
 .logo {
-    max-width: 140px;
+    max-width: 180px;
     height: auto;
-    filter: drop-shadow(0 0 15px rgba(212, 175, 55, 0.2));
-    /* Brillo dorado sutil */
-    transition: transform 0.5s ease;
-    display: block;
-    margin: 0 auto;
-}
-
-.logo:hover {
-    transform: scale(1.05) rotate(2deg);
+    border-radius: 50%;
+    border: 4px solid var(--accent-color);
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.5);
+    margin-bottom: 15px;
+    background: white;
+    padding: 5px;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
-    font-size: 3.2em;
-    background: linear-gradient(to right, #D4AF37, #F4C430, #D4AF37);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-    margin-bottom: 5px;
-    font-weight: 700;
+    font-size: 3.5em;
+    /* Grande y elegante */
+    margin: 0;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .hero-header p {
-    font-size: 1.1em;
-    color: var(--text-muted);
+    font-size: 1.2em;
     font-weight: 300;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    opacity: 0.9;
+    letter-spacing: 1px;
+    font-style: italic;
+    margin-top: 10px;
 }
 
-/* === BÚSQUEDA DELUXE === */
+/* BUSCADOR ESTILO */
 .search-container {
-    max-width: 600px;
-    margin: 30px auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
 }
 
 .search-input {
     width: 100%;
-    padding: 20px 30px;
-    border: var(--card-border);
-    border-radius: 50px;
-    font-size: 1.1em;
-    background: rgba(255, 255, 255, 0.05);
-    /* Muy sutil */
-    backdrop-filter: blur(10px);
+    max-width: 500px;
+    padding: 16px 25px;
+    border-radius: 30px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.15);
     color: white;
-    transition: all 0.4s ease;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-}
-
-.search-input:focus {
+    font-size: 1.1em;
+    backdrop-filter: blur(5px);
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     outline: none;
-    background: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 0 25px rgba(114, 47, 55, 0.4);
-    border-color: var(--accent-color);
 }
 
 .search-input::placeholder {
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.7);
 }
 
-/* === SECCIÓN DESTACADOS (NUEVO) === */
+.search-input:focus {
+    background: white;
+    color: var(--primary-color);
+    border-color: white;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* === TOP 5 FEATURED SECTION (ADAPTED TO BORDO THEME) === */
 .featured-section {
     margin-bottom: 50px;
     padding: 0 20px;
+    text-align: center;
 }
 
 .featured-title {
     text-align: center;
     font-family: 'Playfair Display', serif;
-    color: var(--accent-color);
+    color: var(--primary-color);
+    /* Bordó text */
     margin-bottom: 25px;
-    font-size: clamp(1.5rem, 4vw, 2rem);
+    font-size: 2rem;
     position: relative;
     display: block;
-    /* safe centering */
     width: 100%;
 }
 
@@ -147,39 +132,38 @@ h1 {
     content: '';
     display: block;
     width: 60px;
-    height: 2px;
+    height: 3px;
     background: var(--accent-color);
     margin: 10px auto 0;
 }
 
 .featured-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    /* Better fit */
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;
     max-width: 1200px;
     margin: 0 auto;
 }
 
 .featured-card {
-    background: linear-gradient(145deg, rgba(40, 40, 40, 0.95), rgba(20, 20, 20, 0.98));
-    border: 1px solid var(--accent-color);
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 15px;
     padding: 20px;
     position: relative;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    box-shadow: var(--shadow);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     min-height: 160px;
-    /* Uniform height */
+    text-align: left;
 }
 
 .featured-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 15px 40px rgba(212, 175, 55, 0.15);
+    box-shadow: var(--shadow-hover);
 }
 
 .featured-badge {
@@ -187,26 +171,26 @@ h1 {
     top: 10px;
     right: 10px;
     background: var(--accent-color);
-    color: black;
+    color: white;
     font-size: 0.7em;
     font-weight: 800;
     padding: 4px 10px;
     border-radius: 20px;
     text-transform: uppercase;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     z-index: 10;
 }
 
 .featured-info h3 {
     margin: 15px 0 5px;
     font-size: 1.1em;
-    color: white;
+    color: var(--primary-color);
     line-height: 1.3;
 }
 
 .featured-bodega {
     font-size: 0.85em;
-    color: var(--text-muted);
+    color: var(--medium-gray);
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
@@ -214,126 +198,33 @@ h1 {
 .featured-price {
     font-size: 1.4em;
     font-weight: 700;
-    color: var(--accent-glow);
+    color: var(--secondary-color);
     margin-top: 15px;
     text-align: right;
-}
-
-/* === BODEGAS GLASSMORPHISM === */
-.bodegas-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
-    max-width: 1300px;
-    margin: 0 auto;
-    padding: 0 10px;
-}
-
-.bodega-card {
-    background: var(--card-bg);
-    border-radius: 16px;
-    padding: 25px;
-    text-align: center;
-    backdrop-filter: var(--glass);
-    border: var(--card-border);
-    box-shadow: var(--shadow);
-    transition: all 0.3s ease;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
-    height: 100%;
-    /* Equal height */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.bodega-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 3px;
-    background: linear-gradient(90deg, transparent, var(--accent-color), transparent);
-    opacity: 0.7;
-}
-
-.bodega-card:hover {
-    transform: translateY(-10px);
-    background: rgba(50, 50, 50, 0.6);
-    border-color: rgba(212, 175, 55, 0.3);
-}
-
-.bodega-card h3 {
     font-family: 'Playfair Display', serif;
-    font-size: 1.7em;
-    color: var(--text-main);
-    margin-bottom: 10px;
 }
 
-.wine-count {
-    background: rgba(0, 0, 0, 0.3);
-    color: var(--accent-glow) !important;
-    border: 1px solid rgba(212, 175, 55, 0.2);
-    padding: 6px 15px;
-    border-radius: 20px;
-    font-size: 0.9em;
-    font-weight: 600;
-    margin-top: 10px;
-    display: inline-block;
-}
-
-/* === VINOS LIST === */
-.vino-card {
-    background: rgba(30, 30, 30, 0.6);
-    border-radius: 12px;
-    padding: 20px 25px;
-    margin-bottom: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-left: 3px solid var(--primary-color);
-    backdrop-filter: blur(5px);
-    transition: transform 0.2s ease;
-}
-
-.vino-card:hover {
-    transform: translateX(5px);
-    background: rgba(40, 40, 40, 0.8);
-    border-left-color: var(--accent-color);
-}
-
-.vino-name {
-    font-size: 1.15em;
-    color: var(--text-main);
-    font-weight: 500;
-}
-
-.vino-price {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.4em;
-    color: var(--accent-glow);
-    font-weight: 700;
-}
-
-/* === SEARCH RESULTS === */
+/* === SEARCH RESULT STYLES (ADAPTED) === */
 .search-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
     margin-bottom: 20px;
-    background: var(--card-bg);
-    /* Use dark card bg */
-    border: 1px solid var(--accent-color);
-    /* Gold border */
+    background: white;
+    border-radius: 15px;
+    border: 1px solid rgba(100, 49, 62, 0.1);
+    box-shadow: var(--shadow);
+}
+
+.search-header h3 {
+    color: var(--primary-color);
+    margin: 0;
 }
 
 .wine-count-badge {
-    background: var(--accent-color);
-    color: black;
+    background: var(--primary-color);
+    color: white;
     padding: 5px 15px;
     border-radius: 20px;
     font-weight: bold;
@@ -343,84 +234,250 @@ h1 {
 .search-items-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    /* Grid for items */
     gap: 15px;
 }
 
-/* === GENERALES === */
-.back-btn {
-    background: rgba(0, 0, 0, 0.4);
-    color: var(--accent-color);
-    border: 1px solid var(--accent-color);
-    padding: 12px 30px;
-    border-radius: 30px;
+/* BODEGAS ELEGANTES */
+.bodegas-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 30px;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.bodega-card {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 35px 30px;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: all 0.4s ease;
     cursor: pointer;
-    backdrop-filter: blur(5px);
-    transition: all 0.3s;
+    user-select: none;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    /* Lighter border */
+    position: relative;
+    overflow: hidden;
+}
+
+.bodega-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+}
+
+.bodega-card:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: var(--shadow-hover);
+}
+
+.bodega-card h3 {
+    font-size: 1.6em;
+    color: var(--dark-gray);
+    margin-bottom: 15px;
     font-weight: 600;
-    margin-bottom: 20px;
+}
+
+.bodega-card .wine-count {
+    color: #000000 !important;
+    font-size: 1em;
+    background: linear-gradient(135deg, #ffffff, #f8f9fa);
+    padding: 10px 22px;
+    border-radius: 25px;
     display: inline-block;
+    font-weight: 700;
+    border: 2px solid rgba(100, 49, 62, 0.3);
+    box-shadow: 0 4px 12px rgba(100, 49, 62, 0.2);
+    margin-top: 10px;
+}
+
+/* PÁGINA BODEGA */
+.back-btn {
+    background: white;
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+    padding: 12px 28px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
 }
 
 .back-btn:hover {
-    background: var(--accent-color);
-    color: black;
-    box-shadow: 0 0 15px rgba(212, 175, 55, 0.4);
+    background: var(--primary-color);
+    color: white;
+    transform: translateX(-5px);
+    box-shadow: var(--shadow-hover);
+}
+
+#bodega-name {
+    color: var(--primary-color);
+    text-align: center;
+    font-size: 2.6em;
+    margin-bottom: 40px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-shadow: none;
+}
+
+.vinos-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.vino-card {
+    background: var(--card-bg);
+    border-radius: 15px;
+    padding: 28px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease;
+    border-left: 5px solid var(--primary-color);
+    position: relative;
+}
+
+.vino-card:hover {
+    transform: translateX(8px);
+    box-shadow: var(--shadow-hover);
+}
+
+.vino-info {
+    flex: 1;
+}
+
+.vino-name {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: var(--dark-gray);
+    margin-bottom: 8px;
+}
+
+.vino-details {
+    font-size: 0.95em;
+    color: var(--medium-gray);
+}
+
+.vino-price {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: var(--primary-color);
+    text-align: right;
+    font-family: 'Playfair Display', serif;
+}
+
+.last-update {
+    text-align: center;
+    color: var(--medium-gray);
+    margin-top: 50px;
+    font-size: 0.95em;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    color: var(--medium-gray);
+    margin-top: 60px;
+    font-size: 0.9em;
+    padding: 20px;
+}
+
+.error {
+    color: white;
+    text-align: center;
+    padding: 25px;
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+    border-radius: 15px;
+    margin: 20px;
+    box-shadow: var(--shadow);
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.bodega-card {
+    animation: fadeInUp 0.6s ease forwards;
 }
 
 .loading {
-    color: var(--accent-color);
+    text-align: center;
+    color: var(--primary-color);
+    font-weight: bold;
+    margin: 40px 0;
 }
 
+/* RESPONSIVE */
 @media (max-width: 768px) {
-    .hero-header {
-        padding: 40px 15px 20px;
+
+    .bodegas-container,
+    .featured-grid {
+        grid-template-columns: repeat(2, 1fr);
+        /* 2 Cols Mobile */
+        gap: 15px;
+    }
+
+    @media (max-width: 370px) {
+
+        .bodegas-container,
+        .featured-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .page {
+        padding: 15px;
     }
 
     h1 {
         font-size: 2.2em;
     }
 
-    /* Mobile Grid Fix: 2 columns if possible, else 1 */
-    .featured-grid,
-    .bodegas-container {
-        grid-template-columns: repeat(2, 1fr);
-        /* Force 2 cols on mobile */
-        gap: 15px;
-    }
-
-    /* If screen is VERY small (< 370px), switch to 1 col */
-    @media (max-width: 370px) {
-
-        .featured-grid,
-        .bodegas-container {
-            grid-template-columns: 1fr;
-        }
-    }
-
-    .bodega-card {
-        padding: 20px 15px;
-        min-height: 140px;
-    }
-
-    .bodega-card h3 {
-        font-size: 1.2em;
+    #bodega-name {
+        font-size: 2em;
     }
 
     .vino-card {
         flex-direction: column;
         align-items: flex-start;
         gap: 10px;
-        padding: 15px;
+        padding: 20px;
     }
 
     .vino-price {
         align-self: flex-end;
-        font-size: 1.2em;
-    }
-
-    .search-input {
-        padding: 15px 20px;
-        font-size: 1em;
+        font-size: 1.3em;
+        border-top: 1px solid #eee;
+        width: 100%;
+        margin-top: 10px;
+        padding-top: 10px;
     }
 }
