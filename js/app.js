@@ -129,10 +129,33 @@ async function loadData() {
 
         const json = await response.json();
 
-        processLocalData(json);
+        // Check data structure (Array vs Object)
+        let products = [];
+        let featured = [];
+
+        if (Array.isArray(json)) {
+            // Old format
+            products = json;
+        } else if (json.catalogo) {
+            // New format (v2)
+            products = json.catalogo;
+            featured = json.destacados || [];
+        }
+
+        processLocalData(products);
+
+        // Render Featured if available
+        if (featured.length > 0) {
+            renderFeaturedProducts(featured);
+        } else {
+            // Hide featured section if empty
+            const featuredContainer = document.getElementById('featured-section');
+            if (featuredContainer) featuredContainer.style.display = 'none';
+        }
+
         renderHomePage();
 
-        appState.lastUpdate = new Date();
+        appState.lastUpdate = new Date(json.lastUpdate || Date.now());
         appState.dataLoaded = true;
         updateLastUpdateTime();
         handleHashChange();
@@ -312,6 +335,36 @@ function updateLastUpdateTime() {
 // Hacer funciones globales para el HTML
 window.showPage = showPage;
 window.showBodegaPage = showBodegaPage;
+
+// Renderizar Productos Destacados (Top 5)
+function renderFeaturedProducts(featured) {
+    const container = document.getElementById('featured-grid');
+    const section = document.getElementById('featured-section');
+
+    if (!container || !section) return;
+
+    if (!featured || featured.length === 0) {
+        section.style.display = 'none';
+        return;
+    }
+
+    section.style.display = 'block';
+    container.innerHTML = '';
+
+    featured.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'featured-card';
+        card.innerHTML = `
+            <div class="featured-badge">🔥 Top Ventas</div>
+            <div class="featured-info">
+                <h3>${item.vino}</h3>
+                <p class="featured-bodega">${item.bodega}</p>
+                <div class="featured-price">${formatPrecio(item.precio)}</div>
+            </div>
+        `;
+        container.appendChild(card);
+    });
+}
 
 // SISTEMA DE BÚSQUEDA
 function setupSearch() {

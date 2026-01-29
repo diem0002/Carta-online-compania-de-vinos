@@ -24,7 +24,7 @@
 <body>
     <!-- PÁGINA PRINCIPAL -->
     <div id="home" class="page active">
-        <header>
+        <header class="hero-header">
             <div class="logo-container">
                 <!-- TU LOGO PRINCIPAL -->
                 <img src="assets/logoweb.webp" alt="Compañía de Vino" class="logo">
@@ -38,6 +38,14 @@
                        placeholder="🍷 Buscar vinos o bodegas...">
             </div>
         </header>
+
+        <!-- DESTACADOS (TOP 5) -->
+        <div id="featured-section" class="featured-section" style="display: none;">
+            <h2 class="featured-title">✨ Más Vendidos de la Semana</h2>
+            <div id="featured-grid" class="featured-grid">
+                <!-- Se llena dinámicamente -->
+            </div>
+        </div>
         
         <div class="loading" id="loading">
             <p>Preparando nuestra selección exclusiva...</p>
