@@ -117,7 +117,7 @@ function renderHomePage() {
         const card = document.createElement('div');
         card.className = 'bodega-card';
         card.onclick = () => showBodegaPage(bodegaName);
-        card.innerHTML = `<h3>${bodegaName}</h3><p class="wine-count">${vinos.length} vinos disponibles</p>`;
+        card.innerHTML = `<h3>${bodegaName}</h3><p class="wine-count">${vinos.length} productos disponibles</p>`;
         container.appendChild(card);
     });
 }
