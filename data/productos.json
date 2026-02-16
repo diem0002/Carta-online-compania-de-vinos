@@ -3389,13 +3389,6 @@
       "stock": 0
     },
     {
-      "id": 6090,
-      "vino": "Entera",
-      "bodega": "LECHES LATTE BAGGIO",
-      "precio": 680,
-      "stock": 0
-    },
-    {
       "id": 5763,
       "vino": "Equilibrista El Gran blend",
       "bodega": "EQUILIBRISTA",
@@ -5783,6 +5776,13 @@
       "stock": 0
     },
     {
+      "id": 6090,
+      "vino": "Leche Entera",
+      "bodega": "LECHES LATTE BAGGIO",
+      "precio": 680,
+      "stock": 0
+    },
+    {
       "id": 6091,
       "vino": "Leche Latte",
       "bodega": "LECHES LATTE BAGGIO",
@@ -7561,6 +7561,13 @@
       "stock": 0
     },
     {
+      "id": 6523,
+      "vino": "Pomo Amigo",
+      "bodega": "Promos",
+      "precio": 12000,
+      "stock": 0
+    },
+    {
       "id": 5803,
       "vino": "Portillo x2",
       "bodega": "ESTUCHES",
@@ -7708,9 +7715,9 @@
       "stock": 0
     },
     {
-      "id": 6255,
-      "vino": "Promo Campari ( 2 baggio pronto + campari 750)",
-      "bodega": "PROMOS",
+      "id": 6525,
+      "vino": "Promo Campari",
+      "bodega": "Promos",
       "precio": 13350,
       "stock": 0
     },
@@ -7722,17 +7729,10 @@
       "stock": 0
     },
     {
-      "id": 6257,
-      "vino": "Promo Smirnoff ( 2 baggio pronto + 1 smirnoff)",
-      "bodega": "PROMOS",
+      "id": 6524,
+      "vino": "Promo Smirnoff",
+      "bodega": "Promos",
       "precio": 11700,
-      "stock": 0
-    },
-    {
-      "id": 6258,
-      "vino": "Promo amigo ( vaso Jonville + fernet mini + coca lata)",
-      "bodega": "PROMOS",
-      "precio": 12000,
       "stock": 0
     },
     {
@@ -10684,5 +10684,5 @@
     }
   ],
   "destacados": [],
-  "lastUpdate": "2026-02-16T12:28:47.735Z"
+  "lastUpdate": "2026-02-16T12:43:13.766Z"
 }
