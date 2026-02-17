@@ -204,15 +204,15 @@
       "stock": 0
     },
     {
-      "id": 5012,
+      "id": 6526,
       "vino": "Agua Saborizada  x600 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 850,
       "stock": 0
     },
     {
-      "id": 5013,
-      "vino": "Agua Saborizada  x600 pomelo",
+      "id": 6527,
+      "vino": "Agua Saborizada  x600 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 850,
       "stock": 0
@@ -1797,7 +1797,7 @@
       "vino": "Chacabuco chenin x500",
       "bodega": "BODEGA NAZARENO",
       "precio": 6100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5440,
@@ -2084,14 +2084,14 @@
       "vino": "Coca Cola 2,25 S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6017,
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6018,
@@ -2119,7 +2119,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6022,
@@ -2434,7 +2434,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5697,
@@ -2546,14 +2546,14 @@
       "vino": "DAMAJUNA duret roble lacrado cabernet",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5755,
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5204,
@@ -3617,7 +3617,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5170,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5194,
@@ -3876,7 +3876,7 @@
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
       "precio": 4250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6003,
@@ -4086,7 +4086,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 5750,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6069,
@@ -4422,7 +4422,7 @@
       "vino": "Fuego Negro malbec",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6002,
@@ -4548,14 +4548,14 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6034,
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5100,
@@ -4590,7 +4590,7 @@
       "vino": "Gin Gordon´s",
       "bodega": "BEBIDAS FUERTES",
       "precio": 15200,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5105,
@@ -5598,7 +5598,7 @@
       "vino": "Las Perdices - Syrah/Vognier",
       "bodega": "Bodega Las Perdices",
       "precio": 7850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5512,
@@ -6186,7 +6186,7 @@
       "vino": "Los Intocables Black Malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5973,
@@ -6319,7 +6319,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 14100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5761,
@@ -6543,7 +6543,7 @@
       "vino": "Mercier E Brut espumante",
       "bodega": "Espumantes",
       "precio": 9400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5897,
@@ -6732,7 +6732,7 @@
       "vino": "Navarro Correa Extra Brut espumante",
       "bodega": "Espumantes",
       "precio": 10900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5900,
@@ -7166,7 +7166,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5024,
@@ -7194,7 +7194,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6039,
@@ -7432,14 +7432,14 @@
       "vino": "Piatelli reserva - malbec Mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 10500,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5392,
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 10500,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5393,
@@ -8118,7 +8118,7 @@
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 11500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5346,
@@ -8671,7 +8671,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5029,
@@ -9644,7 +9644,7 @@
       "vino": "baggio pronto 1,5",
       "bodega": "Jugos",
       "precio": 2300,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5436,
@@ -9917,7 +9917,7 @@
       "vino": "cuchillo + tenedor Grande",
       "bodega": "Accesorios",
       "precio": 16000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6485,
@@ -10405,7 +10405,7 @@
     {
       "id": 6519,
       "vino": "salentein brut nature estuche x1",
-      "bodega": "salentein",
+      "bodega": "Vinos",
       "precio": 19200,
       "stock": 0
     },
@@ -10683,6 +10683,42 @@
       "stock": 0
     }
   ],
-  "destacados": [],
-  "lastUpdate": "2026-02-16T12:43:13.766Z"
+  "destacados": [
+    {
+      "id": 5193,
+      "vino": "Esperado Malbec",
+      "bodega": "BODEGA CALLIA",
+      "precio": 5170,
+      "vendidos": 6
+    },
+    {
+      "id": 5391,
+      "vino": "Piatelli reserva - malbec Mendoza",
+      "bodega": "BODEGA VISTALBA",
+      "precio": 10500,
+      "vendidos": 3
+    },
+    {
+      "id": 5392,
+      "vino": "Piatelli reserva - malbec salta",
+      "bodega": "BODEGA VISTALBA",
+      "precio": 10500,
+      "vendidos": 2
+    },
+    {
+      "id": 6393,
+      "vino": "Oveja black malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 3250,
+      "vendidos": 1
+    },
+    {
+      "id": 6068,
+      "vino": "Finca Gabriel dulce blanco",
+      "bodega": "JORGE RUBIO",
+      "precio": 5750,
+      "vendidos": 1
+    }
+  ],
+  "lastUpdate": "2026-02-17T12:32:11.368Z"
 }
