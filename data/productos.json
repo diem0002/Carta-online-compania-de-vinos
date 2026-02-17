@@ -1293,7 +1293,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 16300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5059,
@@ -2161,7 +2161,7 @@
       "vino": "Colome estate torrontes",
       "bodega": "Bodega Colome - Hess",
       "precio": 13700,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5469,
@@ -2252,7 +2252,7 @@
       "vino": "Concreto",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 32000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6277,
@@ -3925,7 +3925,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5987,
@@ -7170,9 +7170,9 @@
     },
     {
       "id": 5024,
-      "vino": "PRONTO BAGGIO 1LT",
+      "vino": "PRONTO BAGGIO 1,5LT",
       "bodega": "AGUA Y SODA",
-      "precio": 0,
+      "precio": 2300,
       "stock": 0
     },
     {
@@ -7803,14 +7803,14 @@
       "vino": "Pyros Syrah",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5341,
       "vino": "Pyros blend de tintas",
       "bodega": "BODEGA SALENTEIN",
       "precio": 27500,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 6267,
@@ -8027,7 +8027,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 15600,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5305,
@@ -8048,7 +8048,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 29560,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5308,
@@ -8118,7 +8118,7 @@
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 11500,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 5346,
@@ -8440,7 +8440,7 @@
       "vino": "Schwepps tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3990,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6092,
@@ -9119,7 +9119,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5315,
@@ -9644,7 +9644,7 @@
       "vino": "baggio pronto 1,5",
       "bodega": "Jugos",
       "precio": 2300,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5436,
@@ -10699,26 +10699,26 @@
       "vendidos": 3
     },
     {
+      "id": 5345,
+      "vino": "Salentein  - malbec",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 11500,
+      "vendidos": 3
+    },
+    {
+      "id": 5341,
+      "vino": "Pyros blend de tintas",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 27500,
+      "vendidos": 3
+    },
+    {
       "id": 5392,
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 10500,
       "vendidos": 2
-    },
-    {
-      "id": 6393,
-      "vino": "Oveja black malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3250,
-      "vendidos": 1
-    },
-    {
-      "id": 6068,
-      "vino": "Finca Gabriel dulce blanco",
-      "bodega": "JORGE RUBIO",
-      "precio": 5750,
-      "vendidos": 1
     }
   ],
-  "lastUpdate": "2026-02-17T12:32:11.368Z"
+  "lastUpdate": "2026-02-17T15:09:29.153Z"
 }
