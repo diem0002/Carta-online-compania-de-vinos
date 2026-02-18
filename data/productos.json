@@ -2518,7 +2518,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco dulce",
       "bodega": "DAMAJUANAS",
       "precio": 10300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5751,
@@ -8377,7 +8377,7 @@
       "vino": "Saurus  - malbec",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9250,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5240,
@@ -10685,6 +10685,13 @@
   ],
   "destacados": [
     {
+      "id": 5239,
+      "vino": "Saurus  - malbec",
+      "bodega": "BODEGA FLIA SCHROEDER",
+      "precio": 9250,
+      "vendidos": 6
+    },
+    {
       "id": 5193,
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
@@ -10711,14 +10718,7 @@
       "bodega": "BODEGA SALENTEIN",
       "precio": 27500,
       "vendidos": 3
-    },
-    {
-      "id": 5740,
-      "vino": "Colon Tto Dce",
-      "bodega": "Colon",
-      "precio": 5450,
-      "vendidos": 2
     }
   ],
-  "lastUpdate": "2026-02-18T13:22:59.383Z"
+  "lastUpdate": "2026-02-18T14:21:06.402Z"
 }
