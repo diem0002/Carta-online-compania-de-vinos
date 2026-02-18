@@ -250,7 +250,7 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5019,
@@ -1293,7 +1293,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 16300,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5059,
@@ -1356,7 +1356,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 18100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5093,
@@ -2070,7 +2070,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6015,
@@ -2091,7 +2091,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6018,
@@ -2196,7 +2196,7 @@
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 5450,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5741,
@@ -3456,7 +3456,7 @@
       "vino": "Equilibrista Sensacional Cabernet franc",
       "bodega": "EQUILIBRISTA",
       "precio": 12600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5773,
@@ -6515,7 +6515,7 @@
       "vino": "Mascota",
       "bodega": "MASCOTA",
       "precio": 12400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5080,
@@ -8671,7 +8671,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5029,
@@ -10713,12 +10713,12 @@
       "vendidos": 3
     },
     {
-      "id": 5392,
-      "vino": "Piatelli reserva - malbec salta",
-      "bodega": "BODEGA VISTALBA",
-      "precio": 10500,
+      "id": 5740,
+      "vino": "Colon Tto Dce",
+      "bodega": "Colon",
+      "precio": 5450,
       "vendidos": 2
     }
   ],
-  "lastUpdate": "2026-02-17T15:09:29.153Z"
+  "lastUpdate": "2026-02-18T13:22:59.383Z"
 }
