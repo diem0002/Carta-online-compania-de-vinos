@@ -180,7 +180,7 @@
       "vino": "Agua   x1.5",
       "bodega": "AGUA Y SODA",
       "precio": 900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5009,
@@ -3344,7 +3344,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -3
+      "stock": -9
     },
     {
       "id": 6229,
@@ -8118,7 +8118,7 @@
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 11500,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5346,
@@ -9119,7 +9119,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": -2
+      "stock": -14
     },
     {
       "id": 5315,
@@ -10685,11 +10685,25 @@
   ],
   "destacados": [
     {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 8850,
+      "vendidos": 14
+    },
+    {
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
       "vendidos": 12
+    },
+    {
+      "id": 6228,
+      "vino": "Emilia dulce rosado dulce",
+      "bodega": "Nieto Senetiner",
+      "precio": 6600,
+      "vendidos": 9
     },
     {
       "id": 5279,
@@ -10704,21 +10718,7 @@
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9250,
       "vendidos": 6
-    },
-    {
-      "id": 5193,
-      "vino": "Esperado Malbec",
-      "bodega": "BODEGA CALLIA",
-      "precio": 5170,
-      "vendidos": 6
-    },
-    {
-      "id": 6228,
-      "vino": "Emilia dulce rosado dulce",
-      "bodega": "Nieto Senetiner",
-      "precio": 6600,
-      "vendidos": 3
     }
   ],
-  "lastUpdate": "2026-02-19T12:57:11.620Z"
+  "lastUpdate": "2026-02-19T13:48:16.506Z"
 }
