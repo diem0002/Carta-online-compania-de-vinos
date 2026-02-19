@@ -628,7 +628,7 @@
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 5250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5955,
@@ -2119,7 +2119,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2800,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6022,
@@ -3295,7 +3295,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": 0
+      "stock": -12
     },
     {
       "id": 6225,
@@ -3330,7 +3330,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5782,
@@ -3344,7 +3344,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 6229,
@@ -6137,7 +6137,7 @@
       "vino": "Los Arboles malbec",
       "bodega": "NAVARRO CORREAS",
       "precio": 4600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6320,
@@ -6998,7 +6998,7 @@
       "vino": "Norton Cosecha Tardia Bco",
       "bodega": "BODEGA NORTON",
       "precio": 5250,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5280,
@@ -8671,7 +8671,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5029,
@@ -10309,7 +10309,7 @@
       "vino": "postales - cabernet - malbec",
       "bodega": "Bodega Fin del mundo",
       "precio": 3700,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5493,
@@ -10685,6 +10685,20 @@
   ],
   "destacados": [
     {
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6600,
+      "vendidos": 12
+    },
+    {
+      "id": 5279,
+      "vino": "Norton Cosecha Tardia Bco",
+      "bodega": "BODEGA NORTON",
+      "precio": 5250,
+      "vendidos": 6
+    },
+    {
       "id": 5239,
       "vino": "Saurus  - malbec",
       "bodega": "BODEGA FLIA SCHROEDER",
@@ -10699,26 +10713,12 @@
       "vendidos": 6
     },
     {
-      "id": 5391,
-      "vino": "Piatelli reserva - malbec Mendoza",
-      "bodega": "BODEGA VISTALBA",
-      "precio": 10500,
-      "vendidos": 3
-    },
-    {
-      "id": 5345,
-      "vino": "Salentein  - malbec",
-      "bodega": "BODEGA SALENTEIN",
-      "precio": 11500,
-      "vendidos": 3
-    },
-    {
-      "id": 5341,
-      "vino": "Pyros blend de tintas",
-      "bodega": "BODEGA SALENTEIN",
-      "precio": 27500,
+      "id": 6228,
+      "vino": "Emilia dulce rosado dulce",
+      "bodega": "Nieto Senetiner",
+      "precio": 6600,
       "vendidos": 3
     }
   ],
-  "lastUpdate": "2026-02-18T14:21:06.402Z"
+  "lastUpdate": "2026-02-19T12:57:11.620Z"
 }
