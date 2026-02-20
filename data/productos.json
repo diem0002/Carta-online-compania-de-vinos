@@ -1825,7 +1825,7 @@
       "vino": "Chandon Delice",
       "bodega": "Espumantes",
       "precio": 17200,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5877,
@@ -3148,7 +3148,7 @@
       "vino": "El Portillo  - dulce",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5550,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5329,
@@ -5031,7 +5031,7 @@
       "vino": "H.canales  \"Blush\" rose",
       "bodega": "BODEGA H.CANALE",
       "precio": 6800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5705,
@@ -8398,7 +8398,7 @@
       "vino": "Saurus  - pinot",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 10990,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5242,
@@ -10727,5 +10727,5 @@
       "vendidos": 7
     }
   ],
-  "lastUpdate": "2026-02-20T14:33:17.744Z"
+  "lastUpdate": "2026-02-20T15:46:03.342Z"
 }
