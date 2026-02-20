@@ -229,7 +229,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5016,
@@ -250,7 +250,7 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": -1
+      "stock": -13
     },
     {
       "id": 5019,
@@ -271,7 +271,7 @@
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5022,
@@ -600,7 +600,7 @@
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5951,
@@ -628,7 +628,7 @@
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 5250,
-      "stock": -1
+      "stock": -7
     },
     {
       "id": 5955,
@@ -789,7 +789,7 @@
       "vino": "Amalaya malbec",
       "bodega": "Bodega Colome - Hess",
       "precio": 6800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5052,
@@ -1356,7 +1356,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 18100,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 5093,
@@ -2000,7 +2000,7 @@
       "vino": "Cigarro Principe corona vainilla (dominicano)",
       "bodega": "CIGARROS",
       "precio": 3750,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5656,
@@ -2658,7 +2658,7 @@
       "vino": "Dada Fca Las Moras 391 malb",
       "bodega": "FINCA LAS MORAS",
       "precio": 5150,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5963,
@@ -2798,7 +2798,7 @@
       "vino": "Doble - V Etiqueta Negra",
       "bodega": "WHISKYS NACIONALES",
       "precio": 6550,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6419,
@@ -3925,7 +3925,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5987,
@@ -3939,7 +3939,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 10500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5989,
@@ -4163,14 +4163,14 @@
       "vino": "Finca Las Moras cabernet",
       "bodega": "FINCA LAS MORAS",
       "precio": 4600,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5968,
       "vino": "Finca Las Moras malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 4600,
-      "stock": 0
+      "stock": -7
     },
     {
       "id": 5969,
@@ -5731,7 +5731,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 23500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5786,
@@ -6564,7 +6564,7 @@
       "vino": "Miller 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4470,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5713,
@@ -6998,14 +6998,14 @@
       "vino": "Norton Cosecha Tardia Bco",
       "bodega": "BODEGA NORTON",
       "precio": 5250,
-      "stock": -6
+      "stock": -9
     },
     {
       "id": 5280,
       "vino": "Norton Cosecha Tardia Rdo",
       "bodega": "BODEGA NORTON",
       "precio": 5250,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5281,
@@ -7761,14 +7761,14 @@
       "vino": "Pronto baggio multifrutal",
       "bodega": "AGUA Y SODA",
       "precio": 1700,
-      "stock": 0
+      "stock": -8
     },
     {
       "id": 5027,
       "vino": "Pronto baggio naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1700,
-      "stock": 0
+      "stock": -9
     },
     {
       "id": 6261,
@@ -8671,7 +8671,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5029,
@@ -9315,7 +9315,7 @@
       "vino": "Uxmal chardonay",
       "bodega": "CATENA ZAPATA",
       "precio": 6450,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5632,
@@ -9420,7 +9420,7 @@
       "vino": "Viejo Isaias Malbec",
       "bodega": "BODEGA VIEJO ISAIAS",
       "precio": 8100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5385,
@@ -9469,7 +9469,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4900,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5171,
@@ -10309,7 +10309,7 @@
       "vino": "postales - cabernet - malbec",
       "bodega": "Bodega Fin del mundo",
       "precio": 3700,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5493,
@@ -10710,15 +10710,15 @@
       "vino": "Norton Cosecha Tardia Bco",
       "bodega": "BODEGA NORTON",
       "precio": 5250,
-      "vendidos": 6
+      "vendidos": 9
     },
     {
-      "id": 5239,
-      "vino": "Saurus  - malbec",
-      "bodega": "BODEGA FLIA SCHROEDER",
-      "precio": 9250,
-      "vendidos": 6
+      "id": 5968,
+      "vino": "Finca Las Moras malbec",
+      "bodega": "FINCA LAS MORAS",
+      "precio": 4600,
+      "vendidos": 7
     }
   ],
-  "lastUpdate": "2026-02-19T13:48:16.506Z"
+  "lastUpdate": "2026-02-20T14:25:44.495Z"
 }
