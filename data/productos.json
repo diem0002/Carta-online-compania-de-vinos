@@ -5482,6 +5482,13 @@
       "stock": 0
     },
     {
+      "id": 6528,
+      "vino": "Kumquat aperit del litoal",
+      "bodega": "APERITIVOS",
+      "precio": 7500,
+      "stock": 0
+    },
+    {
       "id": 6279,
       "vino": "LAYS (SNACKS)",
       "bodega": "SNACKS",
@@ -10720,5 +10727,5 @@
       "vendidos": 7
     }
   ],
-  "lastUpdate": "2026-02-20T14:25:44.495Z"
+  "lastUpdate": "2026-02-20T14:33:17.744Z"
 }
