@@ -40,7 +40,7 @@
       "vino": "329 marsellan",
       "bodega": "FINCA FENIX",
       "precio": 16000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5948,
@@ -54,7 +54,7 @@
       "vino": "329 tannat",
       "bodega": "FINCA FENIX",
       "precio": 16000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6164,
@@ -222,7 +222,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5015,
@@ -600,7 +600,7 @@
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
-      "stock": -6
+      "stock": -8
     },
     {
       "id": 5951,
@@ -1286,7 +1286,7 @@
       "vino": "Branca x 450",
       "bodega": "APERITIVOS",
       "precio": 11050,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5058,
@@ -2063,21 +2063,21 @@
       "vino": "Coca Cola  1,5 S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6014,
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 6015,
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5500,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6016,
@@ -2091,7 +2091,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -2
+      "stock": -5
     },
     {
       "id": 6018,
@@ -2119,7 +2119,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2800,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 6022,
@@ -2196,7 +2196,7 @@
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 5450,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5741,
@@ -2378,7 +2378,7 @@
       "vino": "Cordero  espumante dulce espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 6000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6170,
@@ -2539,7 +2539,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 9200,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5754,
@@ -2581,7 +2581,7 @@
       "vino": "DV Cabernet Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 16000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5612,
@@ -2595,7 +2595,7 @@
       "vino": "DV Malbec Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 22500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5777,
@@ -2616,7 +2616,7 @@
       "vino": "Dada 7 Rdo espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 7800,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5957,
@@ -2917,7 +2917,7 @@
       "vino": "Doña Paula  - Cabernet",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6306,
@@ -3330,7 +3330,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5782,
@@ -3589,7 +3589,7 @@
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 8500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5616,
@@ -3820,7 +3820,7 @@
       "vino": "Estuche x 1 copas barone de vino",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 14500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5828,
@@ -4079,21 +4079,21 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6068,
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 5750,
-      "stock": -1
+      "stock": -5
     },
     {
       "id": 6069,
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
       "precio": 5750,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6070,
@@ -4289,7 +4289,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 15400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5534,
@@ -4443,7 +4443,7 @@
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
       "precio": 7400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5070,
@@ -4569,7 +4569,7 @@
       "vino": "Gin Bombay",
       "bodega": "BEBIDAS FUERTES",
       "precio": 33300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5102,
@@ -5038,7 +5038,7 @@
       "vino": "Heineken x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3470,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5706,
@@ -5360,7 +5360,7 @@
       "vino": "Jugo de uva Correa Grieco",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5259,
@@ -5374,7 +5374,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4200,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5673,
@@ -5486,7 +5486,7 @@
       "vino": "Kumquat aperit del litoal",
       "bodega": "APERITIVOS",
       "precio": 7500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6279,
@@ -5591,7 +5591,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 7850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5510,
@@ -6326,7 +6326,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 14100,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5761,
@@ -6515,7 +6515,7 @@
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
       "precio": 7650,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6163,
@@ -6578,7 +6578,7 @@
       "vino": "Miller x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2780,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5714,
@@ -6837,7 +6837,7 @@
       "vino": "Nazareno Malbec",
       "bodega": "BODEGA NAZARENO",
       "precio": 10250,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5183,
@@ -6850,7 +6850,7 @@
       "id": 5620,
       "vino": "Nicasia Blanco Viognier",
       "bodega": "CATENA ZAPATA",
-      "precio": 9310,
+      "precio": 9350,
       "stock": 0
     },
     {
@@ -6871,14 +6871,14 @@
       "id": 5622,
       "vino": "Nicasia cabernet",
       "bodega": "CATENA ZAPATA",
-      "precio": 9310,
+      "precio": 9350,
       "stock": 0
     },
     {
       "id": 5623,
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 9310,
+      "precio": 9350,
       "stock": 0
     },
     {
@@ -7110,7 +7110,7 @@
       "vino": "Old Smugler",
       "bodega": "WHISKYS NACIONALES",
       "precio": 9850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6247,
@@ -7200,21 +7200,21 @@
       "id": 6038,
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3800,
+      "precio": 3100,
       "stock": -1
     },
     {
       "id": 6039,
       "vino": "Paso de los toros pomelo S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3800,
+      "precio": 3100,
       "stock": 0
     },
     {
       "id": 6040,
       "vino": "Paso de los toros tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3800,
+      "precio": 3100,
       "stock": 0
     },
     {
@@ -7326,35 +7326,35 @@
       "id": 6179,
       "vino": "Perro callejero chardonay",
       "bodega": "Mosquita muerta",
-      "precio": 6300,
+      "precio": 6800,
       "stock": 0
     },
     {
       "id": 6180,
       "vino": "Perro callejero malbec",
       "bodega": "Mosquita muerta",
-      "precio": 6300,
+      "precio": 6800,
       "stock": 0
     },
     {
       "id": 6181,
       "vino": "Perro callejero moscatel",
       "bodega": "Mosquita muerta",
-      "precio": 6300,
+      "precio": 6800,
       "stock": 0
     },
     {
       "id": 6182,
       "vino": "Perro callejero pinot",
       "bodega": "Mosquita muerta",
-      "precio": 6300,
+      "precio": 6800,
       "stock": 0
     },
     {
       "id": 6183,
       "vino": "Perro callejero pinot gris",
       "bodega": "Mosquita muerta",
-      "precio": 6300,
+      "precio": 6800,
       "stock": 0
     },
     {
@@ -7404,7 +7404,7 @@
       "vino": "Petaca Whisky Criadores",
       "bodega": "LICORES",
       "precio": 2450,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6145,
@@ -7446,7 +7446,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 10500,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5393,
@@ -7460,7 +7460,7 @@
       "vino": "Piatelli single vineyard malbec calchaqui",
       "bodega": "BODEGA VISTALBA",
       "precio": 20700,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5395,
@@ -7508,7 +7508,7 @@
       "id": 6184,
       "vino": "Pispi",
       "bodega": "Mosquita muerta",
-      "precio": 7950,
+      "precio": 8500,
       "stock": 0
     },
     {
@@ -7768,7 +7768,7 @@
       "vino": "Pronto baggio multifrutal",
       "bodega": "AGUA Y SODA",
       "precio": 1700,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 5027,
@@ -7838,7 +7838,7 @@
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2200,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5083,
@@ -8041,7 +8041,7 @@
       "vino": "Rutini Cabernet / Malbec Est x 1 Bot",
       "bodega": "BODEGA RUTINI",
       "precio": 25000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5306,
@@ -8139,7 +8139,7 @@
       "vino": "Salentein  - pinot",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5911,
@@ -8321,7 +8321,7 @@
       "vino": "Santa Julia Reserva Malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6470,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5418,
@@ -8376,7 +8376,7 @@
       "id": 6185,
       "vino": "Sapo de otro poso",
       "bodega": "Mosquita muerta",
-      "precio": 12000,
+      "precio": 13500,
       "stock": 0
     },
     {
@@ -8412,7 +8412,7 @@
       "vino": "Saurus - cabernet",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5915,
@@ -8440,14 +8440,14 @@
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3990,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6047,
       "vino": "Schwepps tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3990,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6092,
@@ -8650,7 +8650,7 @@
       "vino": "Snack Arroz Queso",
       "bodega": "SNACKS",
       "precio": 1150,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6285,
@@ -8678,7 +8678,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 5029,
@@ -8811,7 +8811,7 @@
       "vino": "Speed x 473",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2550,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6050,
@@ -9105,7 +9105,7 @@
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5312,
@@ -9126,7 +9126,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": -14
+      "stock": -17
     },
     {
       "id": 5315,
@@ -9245,7 +9245,7 @@
       "vino": "Tucumen reserva malbec",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6463,
@@ -9588,7 +9588,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5562,
@@ -9749,7 +9749,7 @@
       "vino": "cerveza 361 x473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 1200,
-      "stock": 0
+      "stock": -4
     },
     {
       "id": 5735,
@@ -9763,7 +9763,7 @@
       "vino": "chacabucho chenin",
       "bodega": "BODEGA NAZARENO",
       "precio": 5500,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5276,
@@ -9826,7 +9826,7 @@
       "vino": "conejo verde - chenin",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 6320,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6406,
@@ -10057,7 +10057,7 @@
       "vino": "jagermeister",
       "bodega": "LICORES",
       "precio": 32500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5836,
@@ -10106,7 +10106,7 @@
       "vino": "kaiserdon x500 smoked",
       "bodega": "Cervezas Importadas latas",
       "precio": 5950,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6084,
@@ -10211,7 +10211,7 @@
       "vino": "negroni inmigrante",
       "bodega": "BEBIDAS FUERTES",
       "precio": 23300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5161,
@@ -10316,7 +10316,7 @@
       "vino": "postales - cabernet - malbec",
       "bodega": "Bodega Fin del mundo",
       "precio": 3700,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5493,
@@ -10582,7 +10582,7 @@
       "vino": "tapon de vino",
       "bodega": "accesorios",
       "precio": 1650,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6289,
@@ -10687,7 +10687,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": 0
+      "stock": -1
     }
   ],
   "destacados": [
@@ -10696,7 +10696,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "vendidos": 14
+      "vendidos": 17
     },
     {
       "id": 6224,
@@ -10720,12 +10720,12 @@
       "vendidos": 9
     },
     {
-      "id": 5968,
-      "vino": "Finca Las Moras malbec",
+      "id": 5950,
+      "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
-      "precio": 4600,
-      "vendidos": 7
+      "precio": 6800,
+      "vendidos": 8
     }
   ],
-  "lastUpdate": "2026-02-20T15:46:03.342Z"
+  "lastUpdate": "2026-02-23T13:09:45.465Z"
 }
