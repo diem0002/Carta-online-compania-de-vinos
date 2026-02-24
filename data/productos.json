@@ -229,7 +229,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": -3
+      "stock": -5
     },
     {
       "id": 5016,
@@ -425,7 +425,7 @@
       "vino": "Alamos malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 7800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5596,
@@ -817,7 +817,7 @@
       "vino": "Amstel Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2350,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 6269,
@@ -1300,7 +1300,7 @@
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
       "precio": 22060,
-      "stock": 0
+      "stock": -4
     },
     {
       "id": 5605,
@@ -1811,7 +1811,7 @@
       "vino": "Chandon Brut Nature espumante",
       "bodega": "Espumantes",
       "precio": 20900,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5875,
@@ -1923,7 +1923,7 @@
       "vino": "Cigarro Candelight corona  flor del nicaragua",
       "bodega": "CIGARROS",
       "precio": 7800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5645,
@@ -2021,7 +2021,7 @@
       "vino": "Cinzano Rosso",
       "bodega": "APERITIVOS",
       "precio": 8500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6376,
@@ -2196,7 +2196,7 @@
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 5450,
-      "stock": -3
+      "stock": -6
     },
     {
       "id": 5741,
@@ -3141,7 +3141,7 @@
       "vino": "El Portillo  - chardonay",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5350,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5328,
@@ -3288,7 +3288,7 @@
       "vino": "Emilia  - chardonay",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 6224,
@@ -3925,7 +3925,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5987,
@@ -4443,7 +4443,7 @@
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
       "precio": 7400,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5070,
@@ -4541,7 +4541,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6033,
@@ -4555,7 +4555,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5100,
@@ -5052,7 +5052,7 @@
       "vino": "Heineken x 473 S/Alco",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 6103,
@@ -5290,7 +5290,7 @@
       "vino": "Johnnie Walker Doble Black",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 71500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6453,
@@ -6515,7 +6515,7 @@
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
       "precio": 7650,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6163,
@@ -6592,7 +6592,7 @@
       "vino": "Mirinda manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2260,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6291,
@@ -6879,7 +6879,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9350,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5624,
@@ -7201,7 +7201,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3100,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 6039,
@@ -8055,7 +8055,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 29560,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5308,
@@ -8069,7 +8069,7 @@
       "vino": "Rutini chardonay",
       "bodega": "BODEGA RUTINI",
       "precio": 23100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5310,
@@ -8524,7 +8524,7 @@
       "vino": "Sidra 1888 x 750",
       "bodega": "SIDRAS",
       "precio": 8400,
-      "stock": 0
+      "stock": -4
     },
     {
       "id": 6346,
@@ -8678,7 +8678,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5029,
@@ -9126,7 +9126,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": -17
+      "stock": -23
     },
     {
       "id": 5315,
@@ -10148,7 +10148,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 1900,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5995,
@@ -10696,7 +10696,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "vendidos": 17
+      "vendidos": 23
     },
     {
       "id": 6224,
@@ -10727,5 +10727,5 @@
       "vendidos": 8
     }
   ],
-  "lastUpdate": "2026-02-23T13:09:45.465Z"
+  "lastUpdate": "2026-02-24T12:12:08.504Z"
 }
