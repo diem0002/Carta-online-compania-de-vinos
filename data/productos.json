@@ -894,7 +894,7 @@
       "vino": "Aperol x 750",
       "bodega": "APERITIVOS",
       "precio": 10850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6327,
@@ -1356,7 +1356,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 18100,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5093,
@@ -2378,7 +2378,7 @@
       "vino": "Cordero  espumante dulce espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 6000,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6170,
@@ -3925,7 +3925,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -3
+      "stock": -5
     },
     {
       "id": 5987,
@@ -4555,7 +4555,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5100,
@@ -4597,7 +4597,7 @@
       "vino": "Gin Gordon´s Rosado",
       "bodega": "BEBIDAS FUERTES",
       "precio": 16150,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5106,
@@ -7081,7 +7081,7 @@
       "id": 5907,
       "vino": "Novecento extra brut espumante",
       "bodega": "Espumantes",
-      "precio": 0,
+      "precio": 7350,
       "stock": 0
     },
     {
@@ -7600,7 +7600,7 @@
       "vino": "Powerade x500 manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6043,
@@ -8825,7 +8825,7 @@
       "vino": "Sprite 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5500,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6052,
@@ -9126,7 +9126,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": -23
+      "stock": -24
     },
     {
       "id": 5315,
@@ -9882,7 +9882,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6482,
@@ -10696,7 +10696,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "vendidos": 23
+      "vendidos": 24
     },
     {
       "id": 6224,
@@ -10727,5 +10727,5 @@
       "vendidos": 8
     }
   ],
-  "lastUpdate": "2026-02-24T12:12:08.504Z"
+  "lastUpdate": "2026-02-24T14:16:50.860Z"
 }
