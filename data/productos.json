@@ -215,7 +215,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 5016,
@@ -306,7 +306,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -10
+      "stock": -11
     },
     {
       "id": 5029,
@@ -2112,7 +2112,7 @@
       "vino": "Norton Talisman",
       "bodega": "BODEGA NORTON",
       "precio": 3600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5286,
@@ -2224,7 +2224,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13100,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5302,
@@ -2266,7 +2266,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 29560,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5308,
@@ -2840,7 +2840,7 @@
       "vino": "Piatelli reserva - cabernet  salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 10500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5390,
@@ -3050,7 +3050,7 @@
       "vino": "Santa Julia Tardio Torronte x500cc",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5420,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5420,
@@ -3155,7 +3155,7 @@
       "vino": "santa Julia  - tempranillo",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 4900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5435,
@@ -4478,7 +4478,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9350,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 5624,
@@ -4912,7 +4912,7 @@
       "vino": "kaiserdon x500 smoked",
       "bodega": "Cervezas Importadas latas",
       "precio": 5950,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5686,
@@ -5164,7 +5164,7 @@
       "vino": "Santa Fe Pilsen x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2200,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5722,
@@ -6494,7 +6494,7 @@
       "vino": "Salentein Brut rose espumante",
       "bodega": "Espumantes",
       "precio": 13150,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5914,
@@ -7222,14 +7222,14 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6018,
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6019,
@@ -7313,7 +7313,7 @@
       "vino": "Gaseosas Mocoreta Manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6031,
@@ -7369,7 +7369,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3100,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 6039,
@@ -9875,7 +9875,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3250,
-      "stock": -2
+      "stock": -6
     },
     {
       "id": 6394,
@@ -10743,7 +10743,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -8
+      "stock": -17
     }
   ],
   "destacados": [
@@ -10753,6 +10753,13 @@
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
       "vendidos": 24
+    },
+    {
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 17
     },
     {
       "id": 6224,
@@ -10774,14 +10781,7 @@
       "bodega": "BODEGA NORTON",
       "precio": 5250,
       "vendidos": 9
-    },
-    {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 8
     }
   ],
-  "lastUpdate": "2026-02-26T22:51:09.660Z"
+  "lastUpdate": "2026-02-27T12:13:41.654Z"
 }
