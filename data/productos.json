@@ -53,7 +53,7 @@
       "id": 4994,
       "vino": "Alfajor 9 de ORO blanco",
       "bodega": "9 de oro",
-      "precio": 700,
+      "precio": 701,
       "stock": 0
     },
     {
@@ -10783,5 +10783,5 @@
       "vendidos": 9
     }
   ],
-  "lastUpdate": "2026-02-27T12:21:21.062Z"
+  "lastUpdate": "2026-02-27T12:27:23.037Z"
 }
