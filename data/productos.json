@@ -6063,8 +6063,22 @@
       "stock": 0
     },
     {
+      "id": 6533,
+      "vino": "El Espia El Incidente - Franc",
+      "bodega": "Eduardo Vidal",
+      "precio": 16300,
+      "stock": 0
+    },
+    {
       "id": 5849,
-      "vino": "El Espia El Incidente",
+      "vino": "El Espia El Incidente - melot",
+      "bodega": "Eduardo Vidal",
+      "precio": 16300,
+      "stock": 0
+    },
+    {
+      "id": 6532,
+      "vino": "El Espia El Incidente - petit verdot",
       "bodega": "Eduardo Vidal",
       "precio": 16300,
       "stock": 0
@@ -7285,7 +7299,7 @@
       "vino": "Forza baggio blue",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6024,
@@ -10804,5 +10818,5 @@
       "vendidos": 10
     }
   ],
-  "lastUpdate": "2026-03-02T14:58:16.654Z"
+  "lastUpdate": "2026-03-02T15:54:40.571Z"
 }
