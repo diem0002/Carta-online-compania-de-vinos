@@ -22,6 +22,27 @@
       "stock": 0
     },
     {
+      "id": 6530,
+      "vino": "Promo Cacheuta GRAN RESERVA (1 + 1)",
+      "bodega": "Promos",
+      "precio": 25000,
+      "stock": 0
+    },
+    {
+      "id": 6531,
+      "vino": "Promo Cacheuta GRAN RESERVA (1 + 1)",
+      "bodega": "Promos",
+      "precio": 25000,
+      "stock": 0
+    },
+    {
+      "id": 6529,
+      "vino": "Promo Cacheuta reserva",
+      "bodega": "Promos",
+      "precio": 15000,
+      "stock": 0
+    },
+    {
       "id": 6525,
       "vino": "Promo Campari",
       "bodega": "Promos",
@@ -1958,7 +1979,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4900,
-      "stock": -7
+      "stock": -16
     },
     {
       "id": 5264,
@@ -2657,28 +2678,28 @@
       "id": 5363,
       "vino": "Cacheuta Estate Blanco Dulce",
       "bodega": "BODEGA TITARELLI",
-      "precio": 9000,
+      "precio": 6400,
       "stock": 0
     },
     {
       "id": 5364,
       "vino": "Cacheuta Estate Cabernet",
       "bodega": "BODEGA TITARELLI",
-      "precio": 9000,
+      "precio": 6400,
       "stock": -2
     },
     {
       "id": 5365,
       "vino": "Cacheuta Estate Malbec",
       "bodega": "BODEGA TITARELLI",
-      "precio": 9000,
+      "precio": 6400,
       "stock": 0
     },
     {
       "id": 5366,
       "vino": "Cacheuta Estate Red Blend",
       "bodega": "BODEGA TITARELLI",
-      "precio": 15000,
+      "precio": 6400,
       "stock": 0
     },
     {
@@ -10762,6 +10783,13 @@
       "vendidos": 18
     },
     {
+      "id": 5263,
+      "vino": "Viña de Caroya Lagrimilla",
+      "bodega": "BODEGA LA CAROYENSE",
+      "precio": 4900,
+      "vendidos": 16
+    },
+    {
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
@@ -10774,14 +10802,7 @@
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
       "vendidos": 10
-    },
-    {
-      "id": 6228,
-      "vino": "Emilia dulce rosado dulce",
-      "bodega": "Nieto Senetiner",
-      "precio": 6600,
-      "vendidos": 9
     }
   ],
-  "lastUpdate": "2026-03-02T12:19:52.756Z"
+  "lastUpdate": "2026-03-02T14:58:16.654Z"
 }
