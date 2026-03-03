@@ -10774,6 +10774,13 @@
       "stock": -1
     },
     {
+      "id": 6535,
+      "vino": "estuche doña paula x2",
+      "bodega": "doña paula",
+      "precio": 20000,
+      "stock": 0
+    },
+    {
       "id": 6517,
       "vino": "Motomandado",
       "bodega": "servicios",
@@ -10825,5 +10832,5 @@
       "vendidos": 12
     }
   ],
-  "lastUpdate": "2026-03-03T12:10:05.104Z"
+  "lastUpdate": "2026-03-03T14:41:44.574Z"
 }
