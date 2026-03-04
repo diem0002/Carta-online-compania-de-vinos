@@ -334,7 +334,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -15
+      "stock": -16
     },
     {
       "id": 5029,
@@ -432,7 +432,7 @@
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
       "precio": 4250,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5043,
@@ -551,7 +551,7 @@
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
       "precio": 22060,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5060,
@@ -2399,7 +2399,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5323,
@@ -3540,7 +3540,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5486,
@@ -3708,7 +3708,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 7850,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5510,
@@ -7390,7 +7390,7 @@
       "vino": "Mirinda manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2260,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 6036,
@@ -9945,7 +9945,7 @@
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3900,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6398,
@@ -10832,5 +10832,5 @@
       "vendidos": 12
     }
   ],
-  "lastUpdate": "2026-03-03T14:41:44.574Z"
+  "lastUpdate": "2026-03-04T12:13:59.580Z"
 }
