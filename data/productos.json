@@ -22,22 +22,8 @@
       "stock": 0
     },
     {
-      "id": 6530,
-      "vino": "Promo Cacheuta GRAN RESERVA (1 + 1)",
-      "bodega": "Promos",
-      "precio": 25000,
-      "stock": 0
-    },
-    {
-      "id": 6531,
-      "vino": "Promo Cacheuta GRAN RESERVA (1 + 1)",
-      "bodega": "Promos",
-      "precio": 25000,
-      "stock": 0
-    },
-    {
-      "id": 6529,
-      "vino": "Promo Cacheuta reserva",
+      "id": 6537,
+      "vino": "Promo Cacheuta reserva 1+1",
       "bodega": "Promos",
       "precio": 15000,
       "stock": 0
@@ -61,6 +47,13 @@
       "vino": "Promo Smirnoff",
       "bodega": "Promos",
       "precio": 11700,
+      "stock": 0
+    },
+    {
+      "id": 6538,
+      "vino": "Promo cacheuta gran reserva 1+1",
+      "bodega": "Promos",
+      "precio": 25000,
       "stock": 0
     },
     {
@@ -131,7 +124,7 @@
       "vino": "Crujitas queso",
       "bodega": "9 de oro",
       "precio": 1100,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5002,
@@ -204,13 +197,6 @@
       "stock": 0
     },
     {
-      "id": 5012,
-      "vino": "Agua Saborizada  x600 naranja",
-      "bodega": "AGUA Y SODA",
-      "precio": 850,
-      "stock": -1
-    },
-    {
       "id": 6526,
       "vino": "Agua Saborizada  x600 naranja",
       "bodega": "AGUA Y SODA",
@@ -220,13 +206,6 @@
     {
       "id": 6527,
       "vino": "Agua Saborizada  x600 naranja",
-      "bodega": "AGUA Y SODA",
-      "precio": 850,
-      "stock": 0
-    },
-    {
-      "id": 5013,
-      "vino": "Agua Saborizada  x600 pomelo",
       "bodega": "AGUA Y SODA",
       "precio": 850,
       "stock": 0
@@ -243,7 +222,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": -12
+      "stock": -14
     },
     {
       "id": 5016,
@@ -320,7 +299,7 @@
       "vino": "Pronto baggio multifrutal",
       "bodega": "AGUA Y SODA",
       "precio": 1700,
-      "stock": -9
+      "stock": -10
     },
     {
       "id": 5027,
@@ -334,7 +313,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -16
+      "stock": -17
     },
     {
       "id": 5029,
@@ -1230,7 +1209,7 @@
       "vino": "Vodka Walker",
       "bodega": "BEBIDAS FUERTES",
       "precio": 3600,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5156,
@@ -1769,7 +1748,7 @@
       "vino": "Dilema Day Blanco Dce",
       "bodega": "BODEGA FECOVITA",
       "precio": 3960,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5233,
@@ -3526,7 +3505,7 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5484,
@@ -3834,14 +3813,14 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 23500,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5528,
       "vino": "Las perdices Bag in box duo",
       "bodega": "Bodega Las Perdices",
       "precio": 25700,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5529,
@@ -4359,7 +4338,7 @@
       "vino": "Angelica Zapata Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 34000,
-      "stock": -3
+      "stock": -5
     },
     {
       "id": 5603,
@@ -4534,7 +4513,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5628,
@@ -5017,7 +4996,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5500,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5697,
@@ -5066,7 +5045,7 @@
       "vino": "Grolsch 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5550,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5704,
@@ -7047,7 +7026,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -6
+      "stock": -7
     },
     {
       "id": 5987,
@@ -7264,7 +7243,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -12
+      "stock": -13
     },
     {
       "id": 6018,
@@ -7292,7 +7271,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2800,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 6022,
@@ -7348,7 +7327,7 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 6030,
@@ -7362,14 +7341,14 @@
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6032,
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 6033,
@@ -7383,7 +7362,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1600,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6035,
@@ -8174,7 +8153,7 @@
       "vino": "Petaca Whisky Criadores",
       "bodega": "LICORES",
       "precio": 2450,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 6145,
@@ -8933,48 +8912,6 @@
       "stock": -1
     },
     {
-      "id": 6253,
-      "vino": "Promo Branca 750 (2 cocas 1,5 + branca 750)",
-      "bodega": "PROMOS",
-      "precio": 21700,
-      "stock": 0
-    },
-    {
-      "id": 6254,
-      "vino": "Promo Buhero + coca 2,25",
-      "bodega": "PROMOS",
-      "precio": 14300,
-      "stock": 0
-    },
-    {
-      "id": 6255,
-      "vino": "Promo Campari ( 2 baggio pronto + campari 750)",
-      "bodega": "PROMOS",
-      "precio": 13350,
-      "stock": -1
-    },
-    {
-      "id": 6256,
-      "vino": "Promo Gancia x1lt (1 sprite 2,25 + gancia 1L)",
-      "bodega": "PROMOS",
-      "precio": 11500,
-      "stock": 0
-    },
-    {
-      "id": 6257,
-      "vino": "Promo Smirnoff ( 2 baggio pronto + 1 smirnoff)",
-      "bodega": "PROMOS",
-      "precio": 11700,
-      "stock": 0
-    },
-    {
-      "id": 6258,
-      "vino": "Promo amigo ( vaso Jonville + fernet mini + coca lata)",
-      "bodega": "PROMOS",
-      "precio": 12000,
-      "stock": 0
-    },
-    {
       "id": 6259,
       "vino": "Frutilla enteras x 520 Gr",
       "bodega": "PULPAS",
@@ -9007,7 +8944,7 @@
       "vino": "Pulpa de Frutilla",
       "bodega": "PULPAS",
       "precio": 4800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6264,
@@ -10078,7 +10015,7 @@
       "vino": "santa florentina - cabernet",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3450,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 6417,
@@ -10832,5 +10769,5 @@
       "vendidos": 12
     }
   ],
-  "lastUpdate": "2026-03-04T12:13:59.580Z"
+  "lastUpdate": "2026-03-05T13:03:25.155Z"
 }
