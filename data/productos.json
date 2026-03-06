@@ -2,7 +2,7 @@
   "catalogo": [
     {
       "id": 6523,
-      "vino": "Pomo Amigo",
+      "vino": "Promo Amigo",
       "bodega": "Promos",
       "precio": 12000,
       "stock": 0
@@ -124,7 +124,7 @@
       "vino": "Crujitas queso",
       "bodega": "9 de oro",
       "precio": 1100,
-      "stock": -4
+      "stock": -6
     },
     {
       "id": 5002,
@@ -145,7 +145,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1100,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5005,
@@ -243,14 +243,14 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": -13
+      "stock": -25
     },
     {
       "id": 5019,
       "vino": "Agua Saborizada x1,5 naranja s/a",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5020,
@@ -264,7 +264,7 @@
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "AGUA Y SODA",
       "precio": 1250,
-      "stock": -7
+      "stock": -13
     },
     {
       "id": 5022,
@@ -299,21 +299,21 @@
       "vino": "Pronto baggio multifrutal",
       "bodega": "AGUA Y SODA",
       "precio": 1700,
-      "stock": -10
+      "stock": -18
     },
     {
       "id": 5027,
       "vino": "Pronto baggio naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1700,
-      "stock": -9
+      "stock": -17
     },
     {
       "id": 5028,
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 970,
-      "stock": -17
+      "stock": -18
     },
     {
       "id": 5029,
@@ -523,7 +523,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 16300,
-      "stock": -5
+      "stock": -7
     },
     {
       "id": 5059,
@@ -859,7 +859,7 @@
       "vino": "Gin Gordon´s Rosado",
       "bodega": "BEBIDAS FUERTES",
       "precio": 16150,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5106,
@@ -2077,14 +2077,14 @@
       "vino": "Norton Cosecha Tardia Bco",
       "bodega": "BODEGA NORTON",
       "precio": 5250,
-      "stock": -15
+      "stock": -18
     },
     {
       "id": 5280,
       "vino": "Norton Cosecha Tardia Rdo",
       "bodega": "BODEGA NORTON",
       "precio": 5250,
-      "stock": -3
+      "stock": -6
     },
     {
       "id": 5281,
@@ -2322,7 +2322,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "stock": -24
+      "stock": -25
     },
     {
       "id": 5315,
@@ -3687,7 +3687,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 7850,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5510,
@@ -3827,7 +3827,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 5700,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5530,
@@ -5045,7 +5045,7 @@
       "vino": "Grolsch 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5550,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5704,
@@ -5164,7 +5164,7 @@
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2200,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 5721,
@@ -5269,7 +5269,7 @@
       "vino": "cerveza 361 x750",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2100,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5736,
@@ -5395,7 +5395,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 9200,
-      "stock": -4
+      "stock": -6
     },
     {
       "id": 5754,
@@ -5458,7 +5458,7 @@
       "vino": "Pickles",
       "bodega": "ENCURTIDOS VANOLI",
       "precio": 2800,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5763,
@@ -6774,7 +6774,7 @@
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
-      "stock": -10
+      "stock": -16
     },
     {
       "id": 5951,
@@ -6802,7 +6802,7 @@
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 5250,
-      "stock": -7
+      "stock": -13
     },
     {
       "id": 5955,
@@ -6858,7 +6858,7 @@
       "vino": "Dada Fca Las Moras 391 malb",
       "bodega": "FINCA LAS MORAS",
       "precio": 5150,
-      "stock": -6
+      "stock": -12
     },
     {
       "id": 5963,
@@ -6893,14 +6893,14 @@
       "vino": "Finca Las Moras cabernet",
       "bodega": "FINCA LAS MORAS",
       "precio": 4600,
-      "stock": -6
+      "stock": -12
     },
     {
       "id": 5968,
       "vino": "Finca Las Moras malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 4600,
-      "stock": -7
+      "stock": -14
     },
     {
       "id": 5969,
@@ -7222,7 +7222,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": -7
+      "stock": -9
     },
     {
       "id": 6015,
@@ -7285,7 +7285,7 @@
       "vino": "Forza baggio blue",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 900,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6024,
@@ -7390,7 +7390,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3100,
-      "stock": -6
+      "stock": -7
     },
     {
       "id": 6039,
@@ -7418,7 +7418,7 @@
       "vino": "Powerade x500 manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2250,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6043,
@@ -7481,7 +7481,7 @@
       "vino": "Sprite 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5500,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 6052,
@@ -7600,7 +7600,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 5750,
-      "stock": -5
+      "stock": -7
     },
     {
       "id": 6069,
@@ -8706,7 +8706,7 @@
       "vino": "Emilia  - chardonay",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -6
+      "stock": -7
     },
     {
       "id": 6224,
@@ -8909,7 +8909,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6259,
@@ -9252,7 +9252,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6308,
@@ -9882,7 +9882,7 @@
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3900,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 6398,
@@ -10015,7 +10015,7 @@
       "vino": "santa florentina - cabernet",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3450,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6417,
@@ -10379,14 +10379,14 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 18100,
-      "stock": -4
+      "stock": -6
     },
     {
       "id": 6469,
       "vino": "Doble - V Etiqueta Negra",
       "bodega": "WHISKYS NACIONALES",
       "precio": 6550,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 6470,
@@ -10738,7 +10738,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 8850,
-      "vendidos": 24
+      "vendidos": 25
     },
     {
       "id": 6518,
@@ -10748,26 +10748,26 @@
       "vendidos": 18
     },
     {
+      "id": 5279,
+      "vino": "Norton Cosecha Tardia Bco",
+      "bodega": "BODEGA NORTON",
+      "precio": 5250,
+      "vendidos": 18
+    },
+    {
+      "id": 5950,
+      "vino": "Alma Mora Select Reserva  malbec",
+      "bodega": "FINCA LAS MORAS",
+      "precio": 6800,
+      "vendidos": 16
+    },
+    {
       "id": 5263,
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4900,
       "vendidos": 16
-    },
-    {
-      "id": 5279,
-      "vino": "Norton Cosecha Tardia Bco",
-      "bodega": "BODEGA NORTON",
-      "precio": 5250,
-      "vendidos": 15
-    },
-    {
-      "id": 6224,
-      "vino": "Emilia  - malbec",
-      "bodega": "Nieto Senetiner",
-      "precio": 6600,
-      "vendidos": 12
     }
   ],
-  "lastUpdate": "2026-03-05T13:03:25.155Z"
+  "lastUpdate": "2026-03-06T12:30:16.461Z"
 }
