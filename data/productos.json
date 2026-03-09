@@ -39,7 +39,7 @@
       "id": 6522,
       "vino": "Promo Gancia",
       "bodega": "Promos",
-      "precio": 11500,
+      "precio": 11850,
       "stock": 0
     },
     {
@@ -81,28 +81,28 @@
       "id": 4994,
       "vino": "Alfajor 9 de ORO blanco",
       "bodega": "9 de oro",
-      "precio": 700,
+      "precio": 600,
       "stock": 0
     },
     {
       "id": 4995,
       "vino": "Alfajor 9 de ORO bownie",
       "bodega": "9 de oro",
-      "precio": 700,
+      "precio": 600,
       "stock": 0
     },
     {
       "id": 4996,
       "vino": "Alfajor 9 de ORO clasico",
       "bodega": "9 de oro",
-      "precio": 700,
+      "precio": 600,
       "stock": 0
     },
     {
       "id": 4997,
       "vino": "Alfajor 9 de ORO frutos rojos",
       "bodega": "9 de oro",
-      "precio": 700,
+      "precio": 600,
       "stock": 0
     },
     {
@@ -137,7 +137,7 @@
       "id": 5002,
       "vino": "alfajores 9 de oro x4",
       "bodega": "9 de oro",
-      "precio": 2500,
+      "precio": 2200,
       "stock": -1
     },
     {
@@ -179,105 +179,105 @@
       "id": 5008,
       "vino": "Agua   x1.5",
       "bodega": "AGUA Y SODA",
-      "precio": 900,
+      "precio": 950,
       "stock": -1
     },
     {
       "id": 5009,
       "vino": "Agua Bidon Fresh",
       "bodega": "AGUA Y SODA",
-      "precio": 2100,
+      "precio": 2200,
       "stock": -2
     },
     {
       "id": 5010,
       "vino": "Agua Bidon de las Misiones",
       "bodega": "AGUA Y SODA",
-      "precio": 2470,
+      "precio": 2750,
       "stock": 0
     },
     {
       "id": 5011,
       "vino": "Agua S/Gas x600",
       "bodega": "AGUA Y SODA",
-      "precio": 600,
+      "precio": 1050,
       "stock": 0
     },
     {
       "id": 6526,
       "vino": "Agua Saborizada  x600 naranja",
       "bodega": "AGUA Y SODA",
-      "precio": 850,
+      "precio": 1050,
       "stock": 0
     },
     {
       "id": 6527,
       "vino": "Agua Saborizada  x600 naranja",
       "bodega": "AGUA Y SODA",
-      "precio": 850,
+      "precio": 1050,
       "stock": 0
     },
     {
       "id": 5014,
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": -2
     },
     {
       "id": 5015,
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": -16
     },
     {
       "id": 5016,
       "vino": "Agua Saborizada x1,5 manzana s/a",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": 0
     },
     {
       "id": 5017,
       "vino": "Agua Saborizada x1,5 mix frutal",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": -1
     },
     {
       "id": 5018,
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": -25
     },
     {
       "id": 5019,
       "vino": "Agua Saborizada x1,5 naranja s/a",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": -1
     },
     {
       "id": 5020,
       "vino": "Agua Saborizada x1,5 pera",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": 0
     },
     {
       "id": 5021,
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": -13
     },
     {
       "id": 5022,
       "vino": "Agua Saborizada x1,5 pomelo s/a",
       "bodega": "AGUA Y SODA",
-      "precio": 1250,
+      "precio": 1380,
       "stock": 0
     },
     {
@@ -319,14 +319,14 @@
       "id": 5028,
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
-      "precio": 970,
+      "precio": 1030,
       "stock": -21
     },
     {
       "id": 5029,
       "vino": "Soda sifon",
       "bodega": "AGUA Y SODA",
-      "precio": 1200,
+      "precio": 1350,
       "stock": -1
     },
     {
@@ -606,14 +606,14 @@
       "id": 5069,
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
-      "precio": 7400,
+      "precio": 7650,
       "stock": -4
     },
     {
       "id": 5070,
       "vino": "Gancia x 450",
       "bodega": "APERITIVOS",
-      "precio": 4450,
+      "precio": 4700,
       "stock": 0
     },
     {
@@ -4568,7 +4568,7 @@
       "id": 6540,
       "vino": "Gancia S/Alc 6x473",
       "bodega": "CEO",
-      "precio": 2450,
+      "precio": 2050,
       "stock": 6
     },
     {
@@ -5394,35 +5394,35 @@
       "id": 5756,
       "vino": "Aceituna verde c/ carozo",
       "bodega": "ENCURTIDOS VANOLI",
-      "precio": 2800,
+      "precio": 2850,
       "stock": -1
     },
     {
       "id": 5757,
       "vino": "Aceitunas - descarozadas",
       "bodega": "ENCURTIDOS VANOLI",
-      "precio": 3400,
+      "precio": 3560,
       "stock": 0
     },
     {
       "id": 5758,
       "vino": "Aceitunas Rellenas",
       "bodega": "ENCURTIDOS VANOLI",
-      "precio": 3900,
+      "precio": 4100,
       "stock": 0
     },
     {
       "id": 5759,
       "vino": "Cebollitas",
       "bodega": "ENCURTIDOS VANOLI",
-      "precio": 3150,
+      "precio": 3300,
       "stock": 0
     },
     {
       "id": 5760,
       "vino": "Chimichurri",
       "bodega": "ENCURTIDOS VANOLI",
-      "precio": 1950,
+      "precio": 2000,
       "stock": 0
     },
     {
@@ -5436,7 +5436,7 @@
       "id": 5762,
       "vino": "Pickles",
       "bodega": "ENCURTIDOS VANOLI",
-      "precio": 2800,
+      "precio": 2950,
       "stock": -2
     },
     {
@@ -7758,7 +7758,7 @@
     },
     {
       "id": 6085,
-      "vino": "Dr Lemon Limon x 473",
+      "vino": "Dr Lemon Lemon x 473",
       "bodega": "LATAS PRONTO / DR",
       "precio": 2150,
       "stock": 0
@@ -7816,14 +7816,14 @@
       "id": 6090,
       "vino": "Leche Entera",
       "bodega": "LECHES LATTE BAGGIO",
-      "precio": 1900,
+      "precio": 1700,
       "stock": -2
     },
     {
       "id": 6091,
       "vino": "Leche Latte",
       "bodega": "LECHES LATTE BAGGIO",
-      "precio": 1900,
+      "precio": 1700,
       "stock": -8
     },
     {
@@ -8901,7 +8901,7 @@
       "id": 6245,
       "vino": "Ajies",
       "bodega": "OLIVARES DEL CESAR",
-      "precio": 3300,
+      "precio": 3370,
       "stock": 0
     },
     {
@@ -8943,7 +8943,7 @@
       "id": 6251,
       "vino": "Si Diet x 600cc",
       "bodega": "PRODUCTOS ALMACEN",
-      "precio": 2850,
+      "precio": 2900,
       "stock": 0
     },
     {
@@ -8964,14 +8964,14 @@
       "id": 6260,
       "vino": "Frutilla enteras x 850 Gr",
       "bodega": "PULPAS",
-      "precio": 5150,
+      "precio": 5550,
       "stock": 0
     },
     {
       "id": 6261,
       "vino": "Pulpa Anana",
       "bodega": "PULPAS",
-      "precio": 4200,
+      "precio": 4800,
       "stock": 0
     },
     {
@@ -8985,7 +8985,7 @@
       "id": 6263,
       "vino": "Pulpa de Frutilla",
       "bodega": "PULPAS",
-      "precio": 4800,
+      "precio": 4200,
       "stock": -1
     },
     {
@@ -9118,42 +9118,42 @@
       "id": 6282,
       "vino": "Snack Arroz Asado",
       "bodega": "SNACKS",
-      "precio": 1150,
+      "precio": 1300,
       "stock": -1
     },
     {
       "id": 6283,
       "vino": "Snack Arroz Jamon",
       "bodega": "SNACKS",
-      "precio": 1150,
+      "precio": 1300,
       "stock": -1
     },
     {
       "id": 6284,
       "vino": "Snack Arroz Queso",
       "bodega": "SNACKS",
-      "precio": 1150,
+      "precio": 1300,
       "stock": -2
     },
     {
       "id": 6285,
       "vino": "Snack Arroz Salame",
       "bodega": "SNACKS",
-      "precio": 1150,
+      "precio": 1300,
       "stock": 0
     },
     {
       "id": 6286,
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
-      "precio": 1150,
+      "precio": 1300,
       "stock": 0
     },
     {
       "id": 6287,
       "vino": "Snacks Arroz Pizza",
       "bodega": "SNACKS",
-      "precio": 1150,
+      "precio": 1300,
       "stock": 0
     },
     {
@@ -10846,5 +10846,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-09T15:17:04.150Z"
+  "lastUpdate": "2026-03-09T15:54:47.732Z"
 }
