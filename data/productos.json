@@ -1902,7 +1902,7 @@
       "vino": "Marcus Malbec",
       "bodega": "BODEGA H.CANALE",
       "precio": 4950,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5254,
@@ -5199,7 +5199,7 @@
       "vino": "Stella x473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3400,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 5729,
@@ -7538,6 +7538,69 @@
       "bodega": "GRUPO CODORNIU",
       "precio": 0,
       "stock": 0
+    },
+    {
+      "id": 6549,
+      "vino": "Cocolate confitados",
+      "bodega": "Georgalos",
+      "precio": 2850,
+      "stock": 0
+    },
+    {
+      "id": 6544,
+      "vino": "Mantecol x111g",
+      "bodega": "Georgalos",
+      "precio": 2280,
+      "stock": 0
+    },
+    {
+      "id": 6541,
+      "vino": "Mantecol x26g",
+      "bodega": "Georgalos",
+      "precio": 750,
+      "stock": 0
+    },
+    {
+      "id": 6542,
+      "vino": "Mantecol x41g",
+      "bodega": "Georgalos",
+      "precio": 1100,
+      "stock": 0
+    },
+    {
+      "id": 6543,
+      "vino": "Mantecol x64g",
+      "bodega": "Georgalos",
+      "precio": 1260,
+      "stock": 0
+    },
+    {
+      "id": 6548,
+      "vino": "Tody x60g Aereados mix",
+      "bodega": "Georgalos",
+      "precio": 1200,
+      "stock": 0
+    },
+    {
+      "id": 6547,
+      "vino": "Tody x60g Cookies & Cream",
+      "bodega": "Georgalos",
+      "precio": 2350,
+      "stock": 0
+    },
+    {
+      "id": 6546,
+      "vino": "Tody x60g Milk",
+      "bodega": "Georgalos",
+      "precio": 2350,
+      "stock": 0
+    },
+    {
+      "id": 6545,
+      "vino": "Tody x60g Mousse",
+      "bodega": "Georgalos",
+      "precio": 2350,
+      "stock": 16
     },
     {
       "id": 6063,
@@ -10783,5 +10846,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-09T14:18:37.900Z"
+  "lastUpdate": "2026-03-09T15:17:04.150Z"
 }
