@@ -2041,7 +2041,7 @@
       "id": 5278,
       "vino": "Norton 1895",
       "bodega": "BODEGA NORTON",
-      "precio": 3990,
+      "precio": 3600,
       "stock": 0
     },
     {
@@ -2069,7 +2069,7 @@
       "id": 5282,
       "vino": "Norton Mil Rosas",
       "bodega": "BODEGA NORTON",
-      "precio": 4700,
+      "precio": 5250,
       "stock": 0
     },
     {
@@ -10846,5 +10846,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-09T15:54:47.732Z"
+  "lastUpdate": "2026-03-09T15:58:38.924Z"
 }
