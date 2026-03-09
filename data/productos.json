@@ -2024,20 +2024,6 @@
       "stock": 0
     },
     {
-      "id": 5271,
-      "vino": "BODEGA CHACABUCO",
-      "bodega": "BODEGA NAZARENO",
-      "precio": 0,
-      "stock": 0
-    },
-    {
-      "id": 5272,
-      "vino": "Chacabuco chenin x500",
-      "bodega": "BODEGA NAZARENO",
-      "precio": 6100,
-      "stock": -1
-    },
-    {
       "id": 5273,
       "vino": "Nazareno Cabernet",
       "bodega": "BODEGA NAZARENO",
@@ -2050,27 +2036,6 @@
       "bodega": "BODEGA NAZARENO",
       "precio": 10250,
       "stock": -2
-    },
-    {
-      "id": 5275,
-      "vino": "chacabucho chenin",
-      "bodega": "BODEGA NAZARENO",
-      "precio": 5500,
-      "stock": -4
-    },
-    {
-      "id": 5276,
-      "vino": "chacabuco cabernet",
-      "bodega": "BODEGA NAZARENO",
-      "precio": 4350,
-      "stock": 0
-    },
-    {
-      "id": 5277,
-      "vino": "chacabuco malbec",
-      "bodega": "BODEGA NAZARENO",
-      "precio": 4350,
-      "stock": 0
     },
     {
       "id": 5278,
@@ -9374,13 +9339,6 @@
       "stock": 0
     },
     {
-      "id": 6323,
-      "vino": "Balbo x 1250",
-      "bodega": "VIÑAS DE BALBO",
-      "precio": 3600,
-      "stock": 0
-    },
-    {
       "id": 6324,
       "vino": "Aceituna verde Calchaquies",
       "bodega": "Valle calchaquies",
@@ -10732,6 +10690,48 @@
       "stock": 0
     },
     {
+      "id": 5271,
+      "vino": "BODEGA CHACABUCO",
+      "bodega": "flia falasco",
+      "precio": 0,
+      "stock": 0
+    },
+    {
+      "id": 6323,
+      "vino": "Balbo x 1250",
+      "bodega": "flia falasco",
+      "precio": 3600,
+      "stock": 0
+    },
+    {
+      "id": 5272,
+      "vino": "Chacabuco chenin x500",
+      "bodega": "flia falasco",
+      "precio": 6100,
+      "stock": -1
+    },
+    {
+      "id": 5275,
+      "vino": "chacabucho chenin",
+      "bodega": "flia falasco",
+      "precio": 5500,
+      "stock": -4
+    },
+    {
+      "id": 5276,
+      "vino": "chacabuco cabernet",
+      "bodega": "flia falasco",
+      "precio": 4350,
+      "stock": 0
+    },
+    {
+      "id": 5277,
+      "vino": "chacabuco malbec",
+      "bodega": "flia falasco",
+      "precio": 4350,
+      "stock": 0
+    },
+    {
       "id": 6517,
       "vino": "Motomandado",
       "bodega": "servicios",
@@ -10783,5 +10783,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-09T12:12:18.429Z"
+  "lastUpdate": "2026-03-09T12:20:58.789Z"
 }
