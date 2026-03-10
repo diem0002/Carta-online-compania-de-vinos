@@ -11,7 +11,7 @@
       "id": 6520,
       "vino": "Promo Branca",
       "bodega": "Promos",
-      "precio": 21700,
+      "precio": 22500,
       "stock": 0
     },
     {
@@ -131,7 +131,7 @@
       "vino": "Crujitas queso",
       "bodega": "9 de oro",
       "precio": 1100,
-      "stock": -6
+      "stock": -7
     },
     {
       "id": 5002,
@@ -229,7 +229,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1380,
-      "stock": -16
+      "stock": -18
     },
     {
       "id": 5016,
@@ -320,7 +320,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -21
+      "stock": -22
     },
     {
       "id": 5029,
@@ -417,7 +417,7 @@
       "id": 5042,
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
-      "precio": 4250,
+      "precio": 4800,
       "stock": -2
     },
     {
@@ -508,7 +508,7 @@
       "id": 5055,
       "vino": "Branca Menta x 750",
       "bodega": "APERITIVOS",
-      "precio": 16300,
+      "precio": 17150,
       "stock": 0
     },
     {
@@ -522,21 +522,21 @@
       "id": 5057,
       "vino": "Branca x 450",
       "bodega": "APERITIVOS",
-      "precio": 11050,
+      "precio": 11460,
       "stock": -1
     },
     {
       "id": 5058,
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
-      "precio": 16300,
+      "precio": 17150,
       "stock": -11
     },
     {
       "id": 5059,
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
-      "precio": 22060,
+      "precio": 24050,
       "stock": -6
     },
     {
@@ -599,7 +599,7 @@
       "id": 5068,
       "vino": "Fernet Buhero",
       "bodega": "APERITIVOS",
-      "precio": 10500,
+      "precio": 10950,
       "stock": 0
     },
     {
@@ -662,7 +662,7 @@
       "id": 5076,
       "vino": "Bar butler",
       "bodega": "Accesorios",
-      "precio": 45000,
+      "precio": 75000,
       "stock": 0
     },
     {
@@ -760,7 +760,7 @@
       "id": 5090,
       "vino": "Absolut Vodka",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 22060,
+      "precio": 30800,
       "stock": 0
     },
     {
@@ -774,7 +774,7 @@
       "id": 5092,
       "vino": "Beefeater Gin x 750cc",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 24700,
+      "precio": 27200,
       "stock": 0
     },
     {
@@ -809,7 +809,7 @@
       "id": 5097,
       "vino": "Caña Ombu 24ª",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 4400,
+      "precio": 4100,
       "stock": 0
     },
     {
@@ -1117,7 +1117,7 @@
       "id": 5141,
       "vino": "Ron Havana Club Añejo (3 años)",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 14300,
+      "precio": 16700,
       "stock": 0
     },
     {
@@ -2224,7 +2224,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 15600,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5305,
@@ -3036,7 +3036,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5421,
@@ -3351,7 +3351,7 @@
       "vino": "Amalaya Rosado",
       "bodega": "Bodega Colome - Hess",
       "precio": 6800,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5466,
@@ -3757,7 +3757,7 @@
       "vino": "Las Perdices Reseva - pinot",
       "bodega": "Bodega Las Perdices",
       "precio": 11950,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 5524,
@@ -4394,14 +4394,14 @@
       "vino": "El enemigo cabenet Franc",
       "bodega": "CATENA ZAPATA",
       "precio": 25100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5615,
       "vino": "El enemigo malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 25100,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5616,
@@ -5045,7 +5045,7 @@
       "vino": "Heineken x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5707,
@@ -5674,7 +5674,7 @@
       "id": 6516,
       "vino": "Estuche Branca 750 + fernetometro",
       "bodega": "ESTUCHES",
-      "precio": 24000,
+      "precio": 25600,
       "stock": -4
     },
     {
@@ -6199,56 +6199,56 @@
       "id": 5871,
       "vino": "Baron B  Extra Brut",
       "bodega": "Espumantes",
-      "precio": 33900,
+      "precio": 35350,
       "stock": -1
     },
     {
       "id": 5872,
       "vino": "Baron B B.Nat",
       "bodega": "Espumantes",
-      "precio": 43800,
+      "precio": 45600,
       "stock": 0
     },
     {
       "id": 5873,
       "vino": "Bodega Privada Exta  Brut  espumante",
       "bodega": "Espumantes",
-      "precio": 9900,
+      "precio": 9980,
       "stock": 0
     },
     {
       "id": 5874,
       "vino": "Chandon Brut Nature espumante",
       "bodega": "Espumantes",
-      "precio": 20900,
+      "precio": 22060,
       "stock": -2
     },
     {
       "id": 5875,
       "vino": "Chandon Brut rose espumante",
       "bodega": "Espumantes",
-      "precio": 17200,
+      "precio": 17900,
       "stock": 0
     },
     {
       "id": 5876,
       "vino": "Chandon Delice",
       "bodega": "Espumantes",
-      "precio": 17200,
+      "precio": 17900,
       "stock": -1
     },
     {
       "id": 5877,
       "vino": "Chandon Extra Brut espumante",
       "bodega": "Espumantes",
-      "precio": 17200,
+      "precio": 17900,
       "stock": 0
     },
     {
       "id": 5878,
       "vino": "Chandon demisec espumante",
       "bodega": "Espumantes",
-      "precio": 17200,
+      "precio": 17900,
       "stock": 0
     },
     {
@@ -6374,14 +6374,14 @@
       "id": 5896,
       "vino": "Mercier E Brut espumante",
       "bodega": "Espumantes",
-      "precio": 9400,
+      "precio": 9750,
       "stock": -1
     },
     {
       "id": 5897,
       "vino": "Mercier demi sec nat espumante",
       "bodega": "Espumantes",
-      "precio": 9400,
+      "precio": 9750,
       "stock": 0
     },
     {
@@ -7558,7 +7558,7 @@
       "vino": "Mantecol x26g",
       "bodega": "Georgalos",
       "precio": 750,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6542,
@@ -7900,7 +7900,7 @@
       "id": 6102,
       "vino": "Granadina Cusenier",
       "bodega": "LICORES",
-      "precio": 4350,
+      "precio": 5450,
       "stock": 0
     },
     {
@@ -7956,7 +7956,7 @@
       "id": 6110,
       "vino": "Licor Frangelico",
       "bodega": "LICORES",
-      "precio": 432,
+      "precio": 43120,
       "stock": 0
     },
     {
@@ -8173,14 +8173,14 @@
       "id": 6141,
       "vino": "Petaca Tres Plumas Chocolate",
       "bodega": "LICORES",
-      "precio": 1850,
+      "precio": 2100,
       "stock": 0
     },
     {
       "id": 6142,
       "vino": "Petaca Tres Plumas Dulce de leche",
       "bodega": "LICORES",
-      "precio": 1850,
+      "precio": 2100,
       "stock": 0
     },
     {
@@ -8194,7 +8194,7 @@
       "id": 6144,
       "vino": "Petaca Whisky Criadores",
       "bodega": "LICORES",
-      "precio": 2450,
+      "precio": 2600,
       "stock": -4
     },
     {
@@ -8229,7 +8229,7 @@
       "id": 6149,
       "vino": "Tia Maria Cream Botella",
       "bodega": "LICORES",
-      "precio": 12950,
+      "precio": 14800,
       "stock": 0
     },
     {
@@ -9301,7 +9301,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6309,
@@ -9889,7 +9889,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3250,
-      "stock": -11
+      "stock": -12
     },
     {
       "id": 6394,
@@ -10084,14 +10084,14 @@
       "id": 6421,
       "vino": "Ballantines x 1000",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 39500,
+      "precio": 42000,
       "stock": -1
     },
     {
       "id": 6422,
       "vino": "Ballantines x 750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 32000,
+      "precio": 33500,
       "stock": 0
     },
     {
@@ -10126,7 +10126,7 @@
       "id": 6427,
       "vino": "Chivas Regal Estuche x 750 12 años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 56700,
+      "precio": 59500,
       "stock": 0
     },
     {
@@ -10232,7 +10232,7 @@
       "vino": "Jameson 8 Años",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 38000,
-      "stock": -1
+      "stock": 6
     },
     {
       "id": 6443,
@@ -10406,7 +10406,7 @@
       "id": 6467,
       "vino": "Blenders x 1 lt",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 11500,
+      "precio": 11700,
       "stock": 0
     },
     {
@@ -10455,7 +10455,7 @@
       "id": 6474,
       "vino": "Premiun",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 4900,
+      "precio": 6050,
       "stock": 0
     },
     {
@@ -10846,5 +10846,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-09T15:58:38.924Z"
+  "lastUpdate": "2026-03-10T14:37:40.946Z"
 }
