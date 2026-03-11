@@ -131,7 +131,7 @@
       "vino": "Crujitas queso",
       "bodega": "9 de oro",
       "precio": 1100,
-      "stock": -7
+      "stock": -8
     },
     {
       "id": 5002,
@@ -320,7 +320,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -22
+      "stock": -23
     },
     {
       "id": 5029,
@@ -3785,7 +3785,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 23500,
-      "stock": -2
+      "stock": -6
     },
     {
       "id": 5528,
@@ -5164,7 +5164,7 @@
       "vino": "Santa fe 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3970,
-      "stock": -7
+      "stock": -9
     },
     {
       "id": 5724,
@@ -5374,7 +5374,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11070,
-      "stock": -8
+      "stock": -10
     },
     {
       "id": 5754,
@@ -7327,7 +7327,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -5
+      "stock": -7
     },
     {
       "id": 6033,
@@ -8944,7 +8944,7 @@
       "vino": "Si Diet x 600cc",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 2900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6252,
@@ -9889,7 +9889,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3250,
-      "stock": -12
+      "stock": -13
     },
     {
       "id": 6394,
@@ -10846,5 +10846,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-10T14:37:40.946Z"
+  "lastUpdate": "2026-03-11T12:07:53.966Z"
 }
