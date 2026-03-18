@@ -320,7 +320,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -28
+      "stock": -30
     },
     {
       "id": 5029,
@@ -866,7 +866,7 @@
       "vino": "Gin Gordon´s Rosado",
       "bodega": "BEBIDAS FUERTES",
       "precio": 16150,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5106,
@@ -3329,42 +3329,42 @@
       "id": 5461,
       "vino": "Amalaya  Corte de origen",
       "bodega": "Bodega Colome - Hess",
-      "precio": 8100,
+      "precio": 9100,
       "stock": 0
     },
     {
       "id": 5462,
       "vino": "Amalaya Blanco Dce",
       "bodega": "Bodega Colome - Hess",
-      "precio": 6800,
+      "precio": 7600,
       "stock": 0
     },
     {
       "id": 5463,
       "vino": "Amalaya Blanco resiling - torront",
       "bodega": "Bodega Colome - Hess",
-      "precio": 6800,
+      "precio": 7600,
       "stock": 0
     },
     {
       "id": 5464,
       "vino": "Amalaya Gran Corte",
       "bodega": "Bodega Colome - Hess",
-      "precio": 11500,
+      "precio": 13100,
       "stock": 0
     },
     {
       "id": 5465,
       "vino": "Amalaya Rosado",
       "bodega": "Bodega Colome - Hess",
-      "precio": 6800,
+      "precio": 7600,
       "stock": -2
     },
     {
       "id": 5466,
       "vino": "Amalaya malbec",
       "bodega": "Bodega Colome - Hess",
-      "precio": 6800,
+      "precio": 7600,
       "stock": -1
     },
     {
@@ -3392,14 +3392,14 @@
       "id": 5470,
       "vino": "Thibaut del motte - assemblage",
       "bodega": "Bodega Colome - Hess",
-      "precio": 22200,
+      "precio": 27200,
       "stock": 0
     },
     {
       "id": 5471,
       "vino": "Thibaut del motte - malbec",
       "bodega": "Bodega Colome - Hess",
-      "precio": 25850,
+      "precio": 31600,
       "stock": 0
     },
     {
@@ -6213,7 +6213,7 @@
       "id": 5869,
       "vino": "Amalaya Brut Nature espumante",
       "bodega": "Espumantes",
-      "precio": 9500,
+      "precio": 11000,
       "stock": 0
     },
     {
@@ -7495,7 +7495,7 @@
       "vino": "Sprite retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6053,
@@ -10874,5 +10874,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-18T15:22:24.796Z"
+  "lastUpdate": "2026-03-18T23:12:07.351Z"
 }
