@@ -1978,21 +1978,21 @@
       "id": 5264,
       "vino": "San Felipe Roble",
       "bodega": "BODEGA LA RURAL",
-      "precio": 5100,
+      "precio": 5650,
       "stock": 0
     },
     {
       "id": 5265,
       "vino": "San Felipe rojo (caramaniola)",
       "bodega": "BODEGA LA RURAL",
-      "precio": 4700,
+      "precio": 5300,
       "stock": 0
     },
     {
       "id": 5266,
       "vino": "San Felipe voleta (caramaniola)",
       "bodega": "BODEGA LA RURAL",
-      "precio": 4700,
+      "precio": 5300,
       "stock": 0
     },
     {
@@ -2195,161 +2195,161 @@
       "id": 5300,
       "vino": "Encuentro varietales - cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 13100,
+      "precio": 13900,
       "stock": 0
     },
     {
       "id": 5301,
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 13100,
+      "precio": 13900,
       "stock": -2
     },
     {
       "id": 5302,
       "vino": "Rutini Cab franc",
       "bodega": "BODEGA RUTINI",
-      "precio": 24300,
+      "precio": 25900,
       "stock": 0
     },
     {
       "id": 5303,
       "vino": "Rutini Cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 24300,
+      "precio": 25900,
       "stock": 0
     },
     {
       "id": 5304,
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 15600,
+      "precio": 17200,
       "stock": -5
     },
     {
       "id": 5305,
       "vino": "Rutini Cabernet / Malbec Est x 1 Bot",
       "bodega": "BODEGA RUTINI",
-      "precio": 25000,
+      "precio": 28000,
       "stock": -1
     },
     {
       "id": 5306,
       "vino": "Rutini Cabernet /Merlot",
       "bodega": "BODEGA RUTINI",
-      "precio": 15600,
+      "precio": 17200,
       "stock": 0
     },
     {
       "id": 5307,
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 29560,
+      "precio": 31100,
       "stock": -8
     },
     {
       "id": 5308,
       "vino": "Rutini Merlot",
       "bodega": "BODEGA RUTINI",
-      "precio": 18600,
+      "precio": 20400,
       "stock": 0
     },
     {
       "id": 5309,
       "vino": "Rutini chardonay",
       "bodega": "BODEGA RUTINI",
-      "precio": 23100,
+      "precio": 25500,
       "stock": -2
     },
     {
       "id": 5310,
       "vino": "Rutini pinot",
       "bodega": "BODEGA RUTINI",
-      "precio": 35300,
+      "precio": 37800,
       "stock": 0
     },
     {
       "id": 5311,
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 8850,
+      "precio": 9200,
       "stock": -2
     },
     {
       "id": 5312,
       "vino": "Trumpeter  - cabernet franc",
       "bodega": "BODEGA RUTINI",
-      "precio": 8850,
+      "precio": 9200,
       "stock": 0
     },
     {
       "id": 5313,
       "vino": "Trumpeter  - chardonay",
       "bodega": "BODEGA RUTINI",
-      "precio": 8850,
+      "precio": 9200,
       "stock": 0
     },
     {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 8850,
-      "stock": -29
+      "precio": 9200,
+      "stock": -32
     },
     {
       "id": 5315,
       "vino": "Trumpeter Malbec  fort…",
       "bodega": "BODEGA RUTINI",
-      "precio": 13800,
+      "precio": 15700,
       "stock": 0
     },
     {
       "id": 5316,
       "vino": "Trumpeter Reserva  - cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 11550,
+      "precio": 12400,
       "stock": 0
     },
     {
       "id": 5317,
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 11550,
+      "precio": 12400,
       "stock": -1
     },
     {
       "id": 5318,
       "vino": "Trumpeter Reserva -  Rosado",
       "bodega": "BODEGA RUTINI",
-      "precio": 11550,
+      "precio": 12400,
       "stock": -1
     },
     {
       "id": 5319,
       "vino": "Trumpeter Reserva - doux blanco",
       "bodega": "BODEGA RUTINI",
-      "precio": 11550,
+      "precio": 12400,
       "stock": 0
     },
     {
       "id": 5320,
       "vino": "Trumpeter estuche x 1",
       "bodega": "BODEGA RUTINI",
-      "precio": 12200,
+      "precio": 13200,
       "stock": 0
     },
     {
       "id": 5321,
       "vino": "Trumpeter estuche x 2",
       "bodega": "BODEGA RUTINI",
-      "precio": 23400,
+      "precio": 25200,
       "stock": 0
     },
     {
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
-      "precio": 5400,
+      "precio": 5900,
       "stock": -1
     },
     {
@@ -2504,7 +2504,7 @@
       "vino": "Salentein  - cabernet franc",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5345,
@@ -3484,7 +3484,7 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": -8
+      "stock": -14
     },
     {
       "id": 5484,
@@ -3792,7 +3792,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 24800,
-      "stock": -7
+      "stock": -12
     },
     {
       "id": 5528,
@@ -4849,7 +4849,7 @@
       "vino": "Kaiserdon x 1 lt Hefe",
       "bodega": "Cervezas Importadas latas",
       "precio": 16100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5675,
@@ -5143,7 +5143,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5900,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5717,
@@ -5812,9 +5812,9 @@
     },
     {
       "id": 5814,
-      "vino": "Trumpter reserva x1",
+      "vino": "Trumpeter reserva estuche x1",
       "bodega": "ESTUCHES",
-      "precio": 15500,
+      "precio": 20300,
       "stock": 0
     },
     {
@@ -6563,21 +6563,21 @@
       "id": 5919,
       "vino": "Trumpeter brut nature",
       "bodega": "Espumantes",
-      "precio": 12400,
+      "precio": 13300,
       "stock": 0
     },
     {
       "id": 5920,
       "vino": "Trumpeter brut rose",
       "bodega": "Espumantes",
-      "precio": 11500,
+      "precio": 12400,
       "stock": 0
     },
     {
       "id": 5921,
       "vino": "Trumpeter extra brut",
       "bodega": "Espumantes",
-      "precio": 11000,
+      "precio": 11800,
       "stock": 0
     },
     {
@@ -7089,7 +7089,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 1900,
-      "stock": -16
+      "stock": -17
     },
     {
       "id": 5995,
@@ -7145,7 +7145,7 @@
       "vino": "Fuego Negro petit verdot / Malbec",
       "bodega": "FUEGO NEGRO",
       "precio": 6060,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 6003,
@@ -7229,7 +7229,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": -11
+      "stock": -12
     },
     {
       "id": 6015,
@@ -10839,17 +10839,17 @@
   ],
   "destacados": [
     {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
+      "vendidos": 34
+    },
+    {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 31
-    },
-    {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 8850,
       "vendidos": 31
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-18T23:12:07.351Z"
+  "lastUpdate": "2026-03-19T15:44:03.813Z"
 }
