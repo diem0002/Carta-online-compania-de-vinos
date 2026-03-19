@@ -3616,28 +3616,28 @@
       "id": 5502,
       "vino": "Lagarde Teia Cabernet",
       "bodega": "Bodega Lagarde",
-      "precio": 10450,
+      "precio": 11900,
       "stock": 0
     },
     {
       "id": 5503,
       "vino": "Lagarde Teia Malbec",
       "bodega": "Bodega Lagarde",
-      "precio": 10450,
+      "precio": 11900,
       "stock": 0
     },
     {
       "id": 5504,
       "vino": "Lagarde malbec",
       "bodega": "Bodega Lagarde",
-      "precio": 15000,
+      "precio": 15200,
       "stock": 0
     },
     {
       "id": 5505,
       "vino": "lagarde cabernet",
       "bodega": "Bodega Lagarde",
-      "precio": 15000,
+      "precio": 15200,
       "stock": 0
     },
     {
@@ -5625,7 +5625,7 @@
       "id": 5785,
       "vino": "Lagarde Espumante Dolce espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 13500,
+      "precio": 15200,
       "stock": 0
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-03-19T15:51:20.053Z"
+  "lastUpdate": "2026-03-19T15:55:53.590Z"
 }
