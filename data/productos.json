@@ -320,7 +320,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -34
+      "stock": -37
     },
     {
       "id": 5029,
@@ -390,7 +390,7 @@
       "vino": "Alchimia lujo - franc",
       "bodega": "ALCHIMIA",
       "precio": 11400,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5039,
@@ -2742,7 +2742,7 @@
       "vino": "Fond de Cave Reserva caber franc",
       "bodega": "BODEGA TRAPICHE",
       "precio": 10350,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5379,
@@ -3295,7 +3295,7 @@
       "vino": "Tucumen  reseva Cab franc",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5457,
@@ -5402,7 +5402,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11070,
-      "stock": -13
+      "stock": -15
     },
     {
       "id": 5754,
@@ -5591,7 +5591,7 @@
       "vino": "Deseado Rose espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 9550,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5781,
@@ -6760,7 +6760,7 @@
       "vino": "329 marsellan",
       "bodega": "FINCA FENIX",
       "precio": 16000,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5948,
@@ -7257,7 +7257,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6019,
@@ -10085,7 +10085,7 @@
       "vino": "vino del espacio - cabernet franc",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 6100,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6418,
@@ -10860,19 +10860,19 @@
       "vendidos": 20
     },
     {
+      "id": 5753,
+      "vino": "DAMAJUANA Crotta x 5Lts Tinto",
+      "bodega": "DAMAJUANAS",
+      "precio": 11070,
+      "vendidos": 15
+    },
+    {
       "id": 6350,
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
       "vendidos": 14
-    },
-    {
-      "id": 5483,
-      "vino": "Gascon Varietales - blend",
-      "bodega": "Bodega Escorihuela",
-      "precio": 5850,
-      "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-03-23T00:36:30.570Z"
+  "lastUpdate": "2026-03-23T22:42:43.551Z"
 }
