@@ -1138,7 +1138,7 @@
       "id": 5144,
       "vino": "Smirnoff",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 9550,
+      "precio": 9600,
       "stock": 0
     },
     {
@@ -1614,28 +1614,28 @@
       "id": 5212,
       "vino": "Don David  - cabernet",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 7250,
+      "precio": 7450,
       "stock": 0
     },
     {
       "id": 5213,
       "vino": "Don David  - malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 7250,
+      "precio": 7450,
       "stock": 0
     },
     {
       "id": 5214,
       "vino": "Don David - syrah",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 7250,
+      "precio": 7450,
       "stock": 0
     },
     {
       "id": 5215,
       "vino": "Don David - tannat",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 7250,
+      "precio": 7450,
       "stock": 0
     },
     {
@@ -1677,56 +1677,56 @@
       "id": 5221,
       "vino": "Elementos Torrontes Dulce",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5222,
       "vino": "Elementos Varietales - blanc",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5223,
       "vino": "Elementos Varietales - cabernet",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5224,
       "vino": "Elementos Varietales - malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": -1
     },
     {
       "id": 5225,
       "vino": "Elementos Varietales - rosado",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5226,
       "vino": "Elementos Varietales - syrah",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5227,
       "vino": "Elementos Varietales - tanat",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5228,
       "vino": "Elementos Varietales - torrontes",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 4950,
+      "precio": 5400,
       "stock": 0
     },
     {
@@ -5807,7 +5807,7 @@
       "id": 5813,
       "vino": "Trapiche Reserva x 1  Bot.",
       "bodega": "ESTUCHES",
-      "precio": 7600,
+      "precio": 9000,
       "stock": 0
     },
     {
@@ -6794,35 +6794,35 @@
       "id": 5952,
       "vino": "Alma Mora blanco dulce",
       "bodega": "FINCA LAS MORAS",
-      "precio": 5250,
+      "precio": 5400,
       "stock": -2
     },
     {
       "id": 5953,
       "vino": "Alma Mora cabernet",
       "bodega": "FINCA LAS MORAS",
-      "precio": 5250,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5954,
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
-      "precio": 5250,
+      "precio": 5400,
       "stock": -13
     },
     {
       "id": 5955,
       "vino": "Alma Mora rosado dulce",
       "bodega": "FINCA LAS MORAS",
-      "precio": 5250,
+      "precio": 5400,
       "stock": 0
     },
     {
       "id": 5956,
       "vino": "Alma Mora syrah",
       "bodega": "FINCA LAS MORAS",
-      "precio": 5250,
+      "precio": 5400,
       "stock": 0
     },
     {
@@ -7823,21 +7823,21 @@
       "id": 5810,
       "vino": "Smirnoff Lata 473 Green Apple",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 2950,
+      "precio": 3400,
       "stock": 0
     },
     {
       "id": 5811,
       "vino": "Smirnoff Lata 473 Red Berries",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 2950,
+      "precio": 3400,
       "stock": 0
     },
     {
       "id": 5812,
       "vino": "Smirnoff Lata 473 Tradicional",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 2950,
+      "precio": 3400,
       "stock": 0
     },
     {
@@ -8243,7 +8243,7 @@
       "id": 6147,
       "vino": "Sheridan's",
       "bodega": "LICORES",
-      "precio": 46900,
+      "precio": 49900,
       "stock": 0
     },
     {
@@ -8600,14 +8600,14 @@
       "id": 6198,
       "vino": "Navarro Correa Reserva cabernet",
       "bodega": "NAVARRO CORREAS",
-      "precio": 9380,
+      "precio": 9450,
       "stock": 0
     },
     {
       "id": 6199,
       "vino": "Navarro Correa Reserva malbec",
       "bodega": "NAVARRO CORREAS",
-      "precio": 9380,
+      "precio": 9450,
       "stock": 0
     },
     {
@@ -9154,7 +9154,7 @@
       "vino": "Snack Arroz Jamon",
       "bodega": "SNACKS",
       "precio": 1300,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6284,
@@ -9784,7 +9784,7 @@
       "vino": "Bautismo  - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6375,
@@ -10021,7 +10021,7 @@
       "id": 6408,
       "vino": "el que rie ultimo rie mejor",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 7560,
+      "precio": 7800,
       "stock": 0
     },
     {
@@ -10350,7 +10350,7 @@
       "id": 6455,
       "vino": "Johnnie Walker Platinum / 18 Años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 2571000,
+      "precio": 256800,
       "stock": 0
     },
     {
@@ -10441,7 +10441,7 @@
       "id": 6468,
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 18100,
+      "precio": 19200,
       "stock": -7
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-03-22T22:37:35.510Z"
+  "lastUpdate": "2026-03-23T00:17:41.567Z"
 }
