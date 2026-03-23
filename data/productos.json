@@ -970,7 +970,7 @@
       "id": 5120,
       "vino": "Gin Walker",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 2600,
+      "precio": 3500,
       "stock": 0
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-03-23T22:42:43.551Z"
+  "lastUpdate": "2026-03-23T22:47:13.976Z"
 }
