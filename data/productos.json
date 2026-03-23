@@ -2203,7 +2203,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13900,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5302,
@@ -4835,7 +4835,7 @@
       "vino": "Guinnes",
       "bodega": "Cervezas Importadas latas",
       "precio": 3400,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5673,
@@ -5569,14 +5569,14 @@
       "id": 5777,
       "vino": "Dada 7 Bco espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 7800,
+      "precio": 8000,
       "stock": 0
     },
     {
       "id": 5778,
       "vino": "Dada 7 Rdo espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 7800,
+      "precio": 8000,
       "stock": -3
     },
     {
@@ -5653,7 +5653,7 @@
       "id": 5789,
       "vino": "Navarro Correa Dulcet  espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 10600,
+      "precio": 10900,
       "stock": 0
     },
     {
@@ -5681,7 +5681,7 @@
       "id": 5793,
       "vino": "Dada 7 Lata x473",
       "bodega": "ESTUCHES",
-      "precio": 2500,
+      "precio": 2650,
       "stock": 0
     },
     {
@@ -7285,7 +7285,7 @@
       "vino": "Coca Cola x500",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1300,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6023,
@@ -10343,7 +10343,7 @@
       "id": 6454,
       "vino": "Johnnie Walker Green Label",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 0,
+      "precio": 212500,
       "stock": 0
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-03-23T00:17:41.567Z"
+  "lastUpdate": "2026-03-23T00:36:30.570Z"
 }
