@@ -131,7 +131,7 @@
       "vino": "Crujitas queso",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -10
+      "stock": -11
     },
     {
       "id": 5002,
@@ -320,7 +320,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -38
+      "stock": -39
     },
     {
       "id": 5029,
@@ -607,7 +607,7 @@
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
       "precio": 7650,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5070,
@@ -1951,7 +1951,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -11
+      "stock": -13
     },
     {
       "id": 5261,
@@ -2014,7 +2014,7 @@
       "vino": "Vasco Viejo",
       "bodega": "BODEGA LOPEZ",
       "precio": 3900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5270,
@@ -4492,7 +4492,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5628,
@@ -5115,7 +5115,7 @@
       "vino": "Miller 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4470,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5713,
@@ -7089,7 +7089,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 1900,
-      "stock": -19
+      "stock": -20
     },
     {
       "id": 5995,
@@ -7355,7 +7355,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -11
+      "stock": -13
     },
     {
       "id": 6033,
@@ -9175,7 +9175,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
       "precio": 1300,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 6287,
@@ -9651,7 +9651,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6356,
@@ -9945,7 +9945,7 @@
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3900,
-      "stock": -9
+      "stock": -11
     },
     {
       "id": 6398,
@@ -10155,7 +10155,7 @@
       "vino": "Chivas Regal Estuche x 750 12 años",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 59500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6428,
@@ -10846,18 +10846,18 @@
       "vendidos": 35
     },
     {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 22
-    },
-    {
       "id": 5950,
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
       "vendidos": 18
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
+      "vendidos": 16
     },
     {
       "id": 6350,
@@ -10874,5 +10874,5 @@
       "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-03-25T13:13:41.540Z"
+  "lastUpdate": "2026-03-26T13:11:41.839Z"
 }
