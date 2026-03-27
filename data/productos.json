@@ -320,7 +320,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -39
+      "stock": -40
     },
     {
       "id": 5029,
@@ -1923,7 +1923,7 @@
       "vino": "Colonia Caroya x 700 cc",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 3700,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5257,
@@ -1937,7 +1937,7 @@
       "vino": "Jugo de uva Correa Grieco",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -2
+      "stock": -8
     },
     {
       "id": 5259,
@@ -2294,7 +2294,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -37
+      "stock": -49
     },
     {
       "id": 5315,
@@ -2336,7 +2336,7 @@
       "vino": "Trumpeter estuche x 1",
       "bodega": "BODEGA RUTINI",
       "precio": 13200,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5321,
@@ -2462,7 +2462,7 @@
       "vino": "Killka malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 7600,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5339,
@@ -3484,7 +3484,7 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": -14
+      "stock": -15
     },
     {
       "id": 5484,
@@ -5059,7 +5059,7 @@
       "vino": "Grolsch x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2980,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5705,
@@ -5150,7 +5150,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5718,
@@ -5311,7 +5311,7 @@
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 5450,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 5741,
@@ -5402,7 +5402,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11070,
-      "stock": -15
+      "stock": -16
     },
     {
       "id": 5754,
@@ -5416,7 +5416,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 5756,
@@ -5780,7 +5780,7 @@
       "vino": "Salentein x 1 Bot ESTUCHE",
       "bodega": "ESTUCHES",
       "precio": 13600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5807,
@@ -7033,7 +7033,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -11
+      "stock": -12
     },
     {
       "id": 5987,
@@ -7278,7 +7278,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2800,
-      "stock": -16
+      "stock": -17
     },
     {
       "id": 6022,
@@ -7369,7 +7369,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -10
+      "stock": -11
     },
     {
       "id": 6035,
@@ -9483,7 +9483,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 6332,
@@ -9784,7 +9784,7 @@
       "vino": "Bautismo  - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4800,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6375,
@@ -9854,7 +9854,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4300,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 6385,
@@ -9882,7 +9882,7 @@
       "vino": "Lola - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6389,
@@ -9909,7 +9909,7 @@
       "id": 6392,
       "vino": "Otro Loco",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4750,
+      "precio": 4900,
       "stock": -1
     },
     {
@@ -10834,7 +10834,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -36
+      "stock": -38
     }
   ],
   "destacados": [
@@ -10843,7 +10843,14 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 35
+      "vendidos": 37
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
+      "vendidos": 27
     },
     {
       "id": 5950,
@@ -10851,13 +10858,6 @@
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
       "vendidos": 18
-    },
-    {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 16
     },
     {
       "id": 6350,
@@ -10871,8 +10871,8 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11070,
-      "vendidos": 14
+      "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-03-26T13:11:41.839Z"
+  "lastUpdate": "2026-03-27T13:30:22.439Z"
 }
