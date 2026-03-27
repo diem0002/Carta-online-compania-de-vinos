@@ -4996,7 +4996,7 @@
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2900,
-      "stock": 0
+      "stock": -12
     },
     {
       "id": 5696,
@@ -10182,7 +10182,7 @@
       "id": 6431,
       "vino": "El Buscador Obstinado",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 26500,
+      "precio": 27500,
       "stock": 0
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-03-27T13:30:22.439Z"
+  "lastUpdate": "2026-03-27T14:00:54.839Z"
 }
