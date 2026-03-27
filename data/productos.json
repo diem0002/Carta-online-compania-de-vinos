@@ -5562,7 +5562,7 @@
       "id": 5776,
       "vino": "Cordero  espumante dulce espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 6000,
+      "precio": 7800,
       "stock": -2
     },
     {
@@ -6295,9 +6295,9 @@
     },
     {
       "id": 5881,
-      "vino": "Cordon Negro  espumante",
+      "vino": "Cordero extra brut  espumante",
       "bodega": "Espumantes",
-      "precio": 0,
+      "precio": 7800,
       "stock": 0
     },
     {
@@ -6486,7 +6486,7 @@
       "id": 5908,
       "vino": "Perro Callejero Extra Brut Rose espumante",
       "bodega": "Espumantes",
-      "precio": 6300,
+      "precio": 7250,
       "stock": 0
     },
     {
@@ -8397,56 +8397,56 @@
       "id": 6169,
       "vino": "Contra viento",
       "bodega": "Mosquita muerta",
-      "precio": 4100,
+      "precio": 4500,
       "stock": -1
     },
     {
       "id": 6170,
       "vino": "Cordero piel de lobo - cabernet",
       "bodega": "Mosquita muerta",
-      "precio": 4300,
+      "precio": 4900,
       "stock": -1
     },
     {
       "id": 6171,
       "vino": "Cordero piel de lobo - malbec",
       "bodega": "Mosquita muerta",
-      "precio": 4300,
+      "precio": 4900,
       "stock": -8
     },
     {
       "id": 6172,
       "vino": "Cordero piel de lobo - rosado",
       "bodega": "Mosquita muerta",
-      "precio": 4300,
+      "precio": 4900,
       "stock": 0
     },
     {
       "id": 6173,
       "vino": "Fuego Blanco Cabernet Franc / malbec",
       "bodega": "Mosquita muerta",
-      "precio": 9800,
+      "precio": 11000,
       "stock": -1
     },
     {
       "id": 6174,
       "vino": "Fuego Blanco Flintstone Cabernet Franc",
       "bodega": "Mosquita muerta",
-      "precio": 12500,
+      "precio": 13700,
       "stock": 0
     },
     {
       "id": 6175,
       "vino": "Fuego Blanco Flintstone malbec",
       "bodega": "Mosquita muerta",
-      "precio": 12500,
+      "precio": 13700,
       "stock": 0
     },
     {
       "id": 6176,
       "vino": "Fuego Blanco Malbec / Shyra",
       "bodega": "Mosquita muerta",
-      "precio": 9800,
+      "precio": 11000,
       "stock": 0
     },
     {
@@ -8460,49 +8460,49 @@
       "id": 6178,
       "vino": "Margarita",
       "bodega": "Mosquita muerta",
-      "precio": 8100,
+      "precio": 10200,
       "stock": 0
     },
     {
       "id": 6179,
       "vino": "Perro callejero chardonay",
       "bodega": "Mosquita muerta",
-      "precio": 6800,
+      "precio": 7250,
       "stock": 0
     },
     {
       "id": 6180,
       "vino": "Perro callejero malbec",
       "bodega": "Mosquita muerta",
-      "precio": 6800,
+      "precio": 7250,
       "stock": -2
     },
     {
       "id": 6181,
       "vino": "Perro callejero moscatel",
       "bodega": "Mosquita muerta",
-      "precio": 6800,
+      "precio": 7250,
       "stock": 0
     },
     {
       "id": 6182,
       "vino": "Perro callejero pinot",
       "bodega": "Mosquita muerta",
-      "precio": 6800,
+      "precio": 7250,
       "stock": 0
     },
     {
       "id": 6183,
       "vino": "Perro callejero pinot gris",
       "bodega": "Mosquita muerta",
-      "precio": 6800,
+      "precio": 7250,
       "stock": 0
     },
     {
       "id": 6184,
       "vino": "Pispi",
       "bodega": "Mosquita muerta",
-      "precio": 8500,
+      "precio": 9400,
       "stock": 0
     },
     {
@@ -8523,28 +8523,28 @@
       "id": 6187,
       "vino": "mosquita muerta Black cabernet",
       "bodega": "Mosquita muerta",
-      "precio": 31900,
+      "precio": 34600,
       "stock": 0
     },
     {
       "id": 6188,
       "vino": "mosquita muerta Black malbec",
       "bodega": "Mosquita muerta",
-      "precio": 31900,
+      "precio": 34600,
       "stock": 0
     },
     {
       "id": 6189,
       "vino": "mosquita muerta blend blanca",
       "bodega": "Mosquita muerta",
-      "precio": 16000,
+      "precio": 16600,
       "stock": 0
     },
     {
       "id": 6190,
       "vino": "mosquita muerta blend tinto",
       "bodega": "Mosquita muerta",
-      "precio": 16000,
+      "precio": 16600,
       "stock": 0
     },
     {
@@ -10874,5 +10874,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-03-27T14:00:54.839Z"
+  "lastUpdate": "2026-03-27T14:11:56.520Z"
 }
