@@ -1,6 +1,13 @@
 {
   "catalogo": [
     {
+      "id": 6556,
+      "vino": "Estrella Galicia x 473",
+      "bodega": "CERVEZA",
+      "precio": 2800,
+      "stock": 0
+    },
+    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -54,6 +61,20 @@
       "vino": "Promo Verano",
       "bodega": "Promos",
       "precio": 16000,
+      "stock": 0
+    },
+    {
+      "id": 6555,
+      "vino": "Promo abrasado Historic 1malb + 1 bonarda",
+      "bodega": "Promos",
+      "precio": 10600,
+      "stock": 0
+    },
+    {
+      "id": 6554,
+      "vino": "Promo abrasado parcela 1cab + 1malb",
+      "bodega": "Promos",
+      "precio": 9200,
       "stock": 0
     },
     {
@@ -320,7 +341,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -40
+      "stock": -42
     },
     {
       "id": 5029,
@@ -474,7 +495,7 @@
       "vino": "Altos las HormigasEspecialist organico",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 8500,
-      "stock": -3
+      "stock": -5
     },
     {
       "id": 5051,
@@ -1244,7 +1265,7 @@
       "vino": "gin inmigrante pomelo",
       "bodega": "BEBIDAS FUERTES",
       "precio": 19600,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5160,
@@ -2041,7 +2062,7 @@
       "id": 5278,
       "vino": "Norton 1895",
       "bodega": "BODEGA NORTON",
-      "precio": 3600,
+      "precio": 3990,
       "stock": 0
     },
     {
@@ -3806,7 +3827,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5530,
@@ -4226,7 +4247,7 @@
       "vino": "Alamos Reserva malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9100,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5590,
@@ -4268,7 +4289,7 @@
       "vino": "Alamos malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 7800,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5596,
@@ -4464,7 +4485,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9350,
-      "stock": -11
+      "stock": -17
     },
     {
       "id": 5624,
@@ -4996,7 +5017,7 @@
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2900,
-      "stock": -12
+      "stock": -20
     },
     {
       "id": 5696,
@@ -5016,28 +5037,28 @@
       "id": 5698,
       "vino": "Goyeneche x500 APA",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 0,
-      "stock": 0
-    },
-    {
-      "id": 5699,
-      "vino": "Goyeneche x500 Blonde Ale",
-      "bodega": "Cervezas Nacionales latas",
-      "precio": 0,
+      "precio": 3450,
       "stock": 0
     },
     {
       "id": 5700,
       "vino": "Goyeneche x500 Golden",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 0,
+      "precio": 2700,
       "stock": 0
     },
     {
       "id": 5701,
-      "vino": "Goyeneche x500 IPA",
+      "vino": "Goyeneche x500 Honey",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 0,
+      "precio": 2700,
+      "stock": 0
+    },
+    {
+      "id": 5699,
+      "vino": "Goyeneche x500 Porter",
+      "bodega": "Cervezas Nacionales latas",
+      "precio": 2700,
       "stock": 0
     },
     {
@@ -5115,7 +5136,7 @@
       "vino": "Miller 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4470,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 5713,
@@ -5276,7 +5297,7 @@
       "vino": "cerveza 361 x750",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2100,
-      "stock": -9
+      "stock": -11
     },
     {
       "id": 5736,
@@ -5416,7 +5437,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5756,
@@ -5479,7 +5500,7 @@
       "vino": "Equilibrista El Presentador",
       "bodega": "EQUILIBRISTA",
       "precio": 3950,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5765,
@@ -6410,7 +6431,7 @@
       "vino": "Mercier demi sec nat espumante",
       "bodega": "Espumantes",
       "precio": 9750,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5898,
@@ -7033,7 +7054,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -12
+      "stock": -13
     },
     {
       "id": 5987,
@@ -7138,7 +7159,7 @@
       "vino": "Fuego Negro malbec",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -7
+      "stock": -8
     },
     {
       "id": 6002,
@@ -7229,20 +7250,20 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": -13
+      "stock": -15
     },
     {
       "id": 6015,
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5500,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6016,
       "vino": "Coca Cola 2,25 S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 5500,
+      "precio": 5600,
       "stock": -1
     },
     {
@@ -7277,7 +7298,7 @@
       "id": 6021,
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2800,
+      "precio": 2900,
       "stock": -17
     },
     {
@@ -7334,21 +7355,21 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6030,
       "vino": "Gaseosas Mocoreta Manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6031,
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1600,
-      "stock": -2
+      "precio": 1900,
+      "stock": -3
     },
     {
       "id": 6032,
@@ -7495,7 +7516,7 @@
       "vino": "Sprite retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 6053,
@@ -7593,7 +7614,7 @@
       "vino": "Mantecol x41g",
       "bodega": "Georgalos",
       "precio": 1100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6543,
@@ -7669,14 +7690,14 @@
       "id": 6068,
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
-      "precio": 5750,
-      "stock": -12
+      "precio": 5870,
+      "stock": -15
     },
     {
       "id": 6069,
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
-      "precio": 5750,
+      "precio": 5870,
       "stock": -11
     },
     {
@@ -8363,14 +8384,14 @@
       "vino": "Abrasado Historic blend cab - malb - merl",
       "bodega": "Mosquita muerta",
       "precio": 5900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6165,
       "vino": "Abrasado Historic blend malbec bonarda",
       "bodega": "Mosquita muerta",
       "precio": 5900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6166,
@@ -8566,7 +8587,7 @@
       "vino": "Mythic todos - cabernet franc",
       "bodega": "Mythic",
       "precio": 7250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6194,
@@ -8804,7 +8825,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -8
+      "stock": -12
     },
     {
       "id": 6228,
@@ -9308,7 +9329,7 @@
       "vino": "Doña Paula  - Cabernet",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6306,
@@ -9329,7 +9350,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 6309,
@@ -9917,7 +9938,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3250,
-      "stock": -14
+      "stock": -15
     },
     {
       "id": 6394,
@@ -10834,7 +10855,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -38
+      "stock": -40
     }
   ],
   "destacados": [
@@ -10843,7 +10864,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 37
+      "vendidos": 32
     },
     {
       "id": 5314,
@@ -10860,19 +10881,19 @@
       "vendidos": 18
     },
     {
+      "id": 5623,
+      "vino": "Nicasia malbec",
+      "bodega": "CATENA ZAPATA",
+      "precio": 9350,
+      "vendidos": 16
+    },
+    {
       "id": 6350,
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
       "vendidos": 15
-    },
-    {
-      "id": 5753,
-      "vino": "DAMAJUANA Crotta x 5Lts Tinto",
-      "bodega": "DAMAJUANAS",
-      "precio": 11070,
-      "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-03-27T14:25:27.729Z"
+  "lastUpdate": "2026-03-28T14:29:41.037Z"
 }
