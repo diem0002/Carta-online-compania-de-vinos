@@ -5,7 +5,7 @@
       "vino": "Estrella Galicia x 473",
       "bodega": "CERVEZA",
       "precio": 2800,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6523,
@@ -320,7 +320,7 @@
       "vino": "Pronto baggio durazno",
       "bodega": "AGUA Y SODA",
       "precio": 1900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5026,
@@ -341,14 +341,14 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -42
+      "stock": -44
     },
     {
       "id": 5029,
       "vino": "Soda sifon",
       "bodega": "AGUA Y SODA",
       "precio": 1350,
-      "stock": -1
+      "stock": -7
     },
     {
       "id": 5030,
@@ -439,7 +439,7 @@
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
       "precio": 4800,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5043,
@@ -551,7 +551,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 17150,
-      "stock": -12
+      "stock": -13
     },
     {
       "id": 5059,
@@ -614,7 +614,7 @@
       "vino": "Cynar",
       "bodega": "APERITIVOS",
       "precio": 9750,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5068,
@@ -712,7 +712,7 @@
       "vino": "Mate Acero",
       "bodega": "Accesorios",
       "precio": 43500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5081,
@@ -1265,7 +1265,7 @@
       "vino": "gin inmigrante pomelo",
       "bodega": "BEBIDAS FUERTES",
       "precio": 19600,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5160,
@@ -1503,7 +1503,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5170,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 5194,
@@ -2049,21 +2049,21 @@
       "vino": "Nazareno Cabernet",
       "bodega": "BODEGA NAZARENO",
       "precio": 10250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5274,
       "vino": "Nazareno Malbec",
       "bodega": "BODEGA NAZARENO",
       "precio": 10250,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5278,
       "vino": "Norton 1895",
       "bodega": "BODEGA NORTON",
-      "precio": 3990,
-      "stock": 0
+      "precio": 3950,
+      "stock": -6
     },
     {
       "id": 5279,
@@ -2315,7 +2315,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -49
+      "stock": -51
     },
     {
       "id": 5315,
@@ -2336,7 +2336,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 5318,
@@ -2455,7 +2455,7 @@
       "vino": "Killka Sauv.Blanc",
       "bodega": "BODEGA SALENTEIN",
       "precio": 7600,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5335,
@@ -2532,7 +2532,7 @@
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 11500,
-      "stock": -7
+      "stock": -8
     },
     {
       "id": 5346,
@@ -2567,7 +2567,7 @@
       "vino": "Salentein Numina malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 15960,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5351,
@@ -2665,14 +2665,14 @@
       "vino": "Cacheuta Estate Cabernet",
       "bodega": "BODEGA TITARELLI",
       "precio": 6400,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5365,
       "vino": "Cacheuta Estate Malbec",
       "bodega": "BODEGA TITARELLI",
       "precio": 6400,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5366,
@@ -2861,7 +2861,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -9
+      "stock": -10
     },
     {
       "id": 5393,
@@ -3239,7 +3239,7 @@
       "vino": "Kinien",
       "bodega": "Bodega  Ruca Malen",
       "precio": 14900,
-      "stock": -1
+      "stock": -4
     },
     {
       "id": 5446,
@@ -3505,14 +3505,14 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": -15
+      "stock": -18
     },
     {
       "id": 5484,
       "vino": "Gascon Varietales - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5485,
@@ -3533,7 +3533,7 @@
       "vino": "Pequeñas producciones",
       "bodega": "Bodega Escorihuela",
       "precio": 28600,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5488,
@@ -3687,7 +3687,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5510,
@@ -4184,14 +4184,14 @@
       "vino": "Bramare cuyo",
       "bodega": "Bodega Viñas de Cobos",
       "precio": 36200,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5581,
       "vino": "Cocodrilo",
       "bodega": "Bodega Viñas de Cobos",
       "precio": 33600,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5582,
@@ -4338,7 +4338,7 @@
       "vino": "Angelica Zapata Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 34000,
-      "stock": -5
+      "stock": -7
     },
     {
       "id": 5603,
@@ -4415,14 +4415,14 @@
       "vino": "DV Malbec Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 22500,
-      "stock": -1
+      "stock": -5
     },
     {
       "id": 5614,
       "vino": "El enemigo cabenet Franc",
       "bodega": "CATENA ZAPATA",
       "precio": 25100,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 5615,
@@ -4534,7 +4534,7 @@
       "vino": "Uxmal cabernet",
       "bodega": "CATENA ZAPATA",
       "precio": 6450,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5631,
@@ -4863,7 +4863,7 @@
       "vino": "Kaiserdon estuche",
       "bodega": "Cervezas Importadas latas",
       "precio": 39500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5674,
@@ -4947,7 +4947,7 @@
       "vino": "kaiserdon x500 smoked",
       "bodega": "Cervezas Importadas latas",
       "precio": 5950,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 5686,
@@ -5010,7 +5010,7 @@
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3350,
-      "stock": -54
+      "stock": -58
     },
     {
       "id": 5695,
@@ -5024,7 +5024,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5500,
-      "stock": -10
+      "stock": -11
     },
     {
       "id": 5697,
@@ -5129,7 +5129,7 @@
       "vino": "Imperial x 473 stout",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2650,
-      "stock": 0
+      "stock": -3
     },
     {
       "id": 5712,
@@ -5290,7 +5290,7 @@
       "vino": "cerveza 361 x473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 1200,
-      "stock": -6
+      "stock": -9
     },
     {
       "id": 5735,
@@ -5619,7 +5619,7 @@
       "vino": "Deseado blanco espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 9550,
-      "stock": -2
+      "stock": -5
     },
     {
       "id": 5782,
@@ -5808,7 +5808,7 @@
       "vino": "Salentein x2 Estuche",
       "bodega": "ESTUCHES",
       "precio": 40800,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5808,
@@ -6116,7 +6116,7 @@
       "vino": "Nube Negra",
       "bodega": "Eduardo Vidal",
       "precio": 24700,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5853,
@@ -6802,7 +6802,7 @@
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
-      "stock": -26
+      "stock": -34
     },
     {
       "id": 5951,
@@ -6956,7 +6956,7 @@
       "vino": "Los Intocables Black Malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5973,
@@ -6977,7 +6977,7 @@
       "vino": "Los intocables Double Oak ( Azul)",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": -1
+      "stock": -5
     },
     {
       "id": 5976,
@@ -7040,7 +7040,7 @@
       "vino": "Fabre Gran reserva - cabernet",
       "bodega": "FRATELLI BRANCA",
       "precio": 17500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5985,
@@ -7054,7 +7054,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -13
+      "stock": -15
     },
     {
       "id": 5987,
@@ -7068,7 +7068,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 10500,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5989,
@@ -7089,7 +7089,7 @@
       "vino": "H. J. Fabre Reserva",
       "bodega": "FRATELLI BRANCA",
       "precio": 15800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5992,
@@ -7110,7 +7110,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 1900,
-      "stock": -20
+      "stock": -22
     },
     {
       "id": 5995,
@@ -7173,7 +7173,7 @@
       "vino": "Eugenio bustos blanc dulce",
       "bodega": "Fca.LA CELIA",
       "precio": 5750,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6004,
@@ -7250,7 +7250,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3970,
-      "stock": -15
+      "stock": -27
     },
     {
       "id": 6015,
@@ -7271,7 +7271,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -25
+      "stock": -26
     },
     {
       "id": 6018,
@@ -7285,7 +7285,7 @@
       "vino": "Coca Cola lata x220",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 800,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6020,
@@ -7299,7 +7299,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2900,
-      "stock": -17
+      "stock": -19
     },
     {
       "id": 6022,
@@ -7341,7 +7341,7 @@
       "vino": "Gaseosas Mocoreta Citrus",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 6028,
@@ -7376,7 +7376,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -13
+      "stock": -15
     },
     {
       "id": 6033,
@@ -7418,7 +7418,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3100,
-      "stock": -9
+      "stock": -13
     },
     {
       "id": 6039,
@@ -7481,7 +7481,7 @@
       "vino": "Schwepps tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3990,
-      "stock": -2
+      "stock": -6
     },
     {
       "id": 6048,
@@ -7803,7 +7803,7 @@
       "vino": "kermes - pinot",
       "bodega": "Kermes",
       "precio": 5500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6085,
@@ -7915,7 +7915,7 @@
       "vino": "Borghetti Café Cognac",
       "bodega": "LICORES",
       "precio": 14000,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6098,
@@ -8363,14 +8363,14 @@
       "vino": "Gran Mascota  cabernet",
       "bodega": "MASCOTA",
       "precio": 18700,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6162,
       "vino": "Gran Mascota  malbec",
       "bodega": "MASCOTA",
       "precio": 18700,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 6163,
@@ -8433,7 +8433,7 @@
       "vino": "Cordero piel de lobo - malbec",
       "bodega": "Mosquita muerta",
       "precio": 4900,
-      "stock": -8
+      "stock": -9
     },
     {
       "id": 6172,
@@ -8615,7 +8615,7 @@
       "vino": "Los Arboles malbec",
       "bodega": "NAVARRO CORREAS",
       "precio": 4600,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6198,
@@ -8769,7 +8769,7 @@
       "vino": "Don Nicanor  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 12800,
-      "stock": 0
+      "stock": -6
     },
     {
       "id": 6220,
@@ -8881,7 +8881,7 @@
       "vino": "Nieto Patrimonial Malbec Doc",
       "bodega": "Nieto Senetiner",
       "precio": 8300,
-      "stock": 0
+      "stock": -4
     },
     {
       "id": 6236,
@@ -9301,7 +9301,7 @@
       "vino": "Nieto senetiner x375",
       "bodega": "VINOS x 378",
       "precio": 4250,
-      "stock": 0
+      "stock": -12
     },
     {
       "id": 6302,
@@ -9343,7 +9343,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -4
+      "stock": -6
     },
     {
       "id": 6308,
@@ -9476,7 +9476,7 @@
       "vino": "Arrogante Malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 14500,
-      "stock": 0
+      "stock": -4
     },
     {
       "id": 6328,
@@ -9504,7 +9504,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 6332,
@@ -9532,7 +9532,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 10500,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 6336,
@@ -9658,7 +9658,7 @@
       "vino": "Sottano Famiglia",
       "bodega": "Vicentin Family Wines",
       "precio": 19100,
-      "stock": 0
+      "stock": -4
     },
     {
       "id": 6354,
@@ -9798,7 +9798,7 @@
       "vino": "Bautismo  - blend",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4800,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6374,
@@ -9875,7 +9875,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4300,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 6385,
@@ -9938,7 +9938,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3250,
-      "stock": -15
+      "stock": -16
     },
     {
       "id": 6394,
@@ -10008,7 +10008,7 @@
       "vino": "Uno malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 7980,
-      "stock": -6
+      "stock": -9
     },
     {
       "id": 6404,
@@ -10064,7 +10064,7 @@
       "vino": "pascual toso varietales - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 7400,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6412,
@@ -10337,7 +10337,7 @@
       "vino": "Johnnie Walker Black Label x 750cc",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 59900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6451,
@@ -10860,40 +10860,40 @@
   ],
   "destacados": [
     {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 32
-    },
-    {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 27
+      "vendidos": 29
     },
     {
       "id": 5950,
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
-      "vendidos": 18
+      "vendidos": 26
     },
     {
-      "id": 5623,
-      "vino": "Nicasia malbec",
-      "bodega": "CATENA ZAPATA",
-      "precio": 9350,
-      "vendidos": 16
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 23
+    },
+    {
+      "id": 5483,
+      "vino": "Gascon Varietales - blend",
+      "bodega": "Bodega Escorihuela",
+      "precio": 5850,
+      "vendidos": 18
     },
     {
       "id": 6350,
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
-      "vendidos": 15
+      "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-03-28T14:29:41.037Z"
+  "lastUpdate": "2026-03-30T14:55:42.781Z"
 }
