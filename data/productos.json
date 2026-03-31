@@ -9451,6 +9451,13 @@
       "stock": 0
     },
     {
+      "id": 6535,
+      "vino": "estuche doña paula x2",
+      "bodega": "VIÑA DOÑA PAULA",
+      "precio": 20000,
+      "stock": 0
+    },
+    {
       "id": 6324,
       "vino": "Aceituna verde Calchaquies",
       "bodega": "Valle calchaquies",
@@ -10795,13 +10802,6 @@
       "stock": -1
     },
     {
-      "id": 6535,
-      "vino": "estuche doña paula x2",
-      "bodega": "doña paula",
-      "precio": 20000,
-      "stock": 0
-    },
-    {
       "id": 5271,
       "vino": "BODEGA CHACABUCO",
       "bodega": "flia falasco",
@@ -10895,5 +10895,5 @@
       "vendidos": 13
     }
   ],
-  "lastUpdate": "2026-03-31T15:16:59.794Z"
+  "lastUpdate": "2026-03-31T15:19:14.011Z"
 }
