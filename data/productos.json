@@ -180,7 +180,7 @@
       "vino": "Aceite La Posta del Olivo x500",
       "bodega": "ACEITES DE OLIVA",
       "precio": 14200,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5007,
@@ -334,7 +334,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -52
+      "stock": -53
     },
     {
       "id": 5029,
@@ -2308,7 +2308,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -56
+      "stock": -57
     },
     {
       "id": 5315,
@@ -3050,7 +3050,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 5421,
@@ -4212,7 +4212,7 @@
       "vino": "Felino malbec",
       "bodega": "Bodega Viñas de Cobos",
       "precio": 19300,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5586,
@@ -4597,7 +4597,7 @@
       "vino": "Cigarro CafeCream amarillo comun (holanda)",
       "bodega": "CIGARROS",
       "precio": 13750,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 5640,
@@ -4814,7 +4814,7 @@
       "vino": "Hombre de la bolsa",
       "bodega": "Cepas de origen SRL",
       "precio": 4100,
-      "stock": 12
+      "stock": 11
     },
     {
       "id": 6551,
@@ -5101,7 +5101,7 @@
       "vino": "Heineken x 473 S/Alco",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
-      "stock": -14
+      "stock": -18
     },
     {
       "id": 5708,
@@ -6830,7 +6830,7 @@
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 5400,
-      "stock": -13
+      "stock": -14
     },
     {
       "id": 5955,
@@ -7509,7 +7509,7 @@
       "vino": "Sprite 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5500,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 6052,
@@ -7733,7 +7733,7 @@
       "vino": "Finca Gabriel varietal  - malbec",
       "bodega": "JORGE RUBIO",
       "precio": 4900,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6075,
@@ -8496,7 +8496,7 @@
       "vino": "Perro callejero malbec",
       "bodega": "Mosquita muerta",
       "precio": 7250,
-      "stock": -2
+      "stock": -4
     },
     {
       "id": 6181,
@@ -8804,7 +8804,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -12
+      "stock": -14
     },
     {
       "id": 6225,
@@ -9231,7 +9231,7 @@
       "vino": "Mistela Crotta x 2lt",
       "bodega": "VINOS DULCE",
       "precio": 11250,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6292,
@@ -9945,7 +9945,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3700,
-      "stock": -19
+      "stock": -21
     },
     {
       "id": 6394,
@@ -10036,14 +10036,14 @@
       "vino": "conejo verde - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 6100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6407,
       "vino": "conejo verde - malbec ( bajo alcohol)",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 6100,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6408,
@@ -10820,7 +10820,7 @@
       "vino": "Chacabuco chenin x500",
       "bodega": "flia falasco",
       "precio": 6100,
-      "stock": -1
+      "stock": -4
     },
     {
       "id": 5275,
@@ -10878,7 +10878,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
-      "vendidos": 21
+      "vendidos": 20
     },
     {
       "id": 5950,
@@ -10895,5 +10895,5 @@
       "vendidos": 12
     }
   ],
-  "lastUpdate": "2026-04-07T14:09:04.595Z"
+  "lastUpdate": "2026-04-08T13:55:24.076Z"
 }
