@@ -12,14 +12,14 @@
       "vino": "Alfajor toddy Mousse blanco",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6557,
       "vino": "Alfajor toddy mousse",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6523,
@@ -89,7 +89,7 @@
       "vino": "Promo abrasado parcela 1cab + 1malb",
       "bodega": "Promos",
       "precio": 9200,
-      "stock": 0
+      "stock": 2
     },
     {
       "id": 6538,
@@ -516,7 +516,7 @@
       "vino": "Altos las HormigasEspecialist organico",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 8500,
-      "stock": -5
+      "stock": -6
     },
     {
       "id": 5051,
@@ -992,7 +992,7 @@
       "vino": "Gin Tanqueray",
       "bodega": "BEBIDAS FUERTES",
       "precio": 33500,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5118,
@@ -2014,7 +2014,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "stock": -16
+      "stock": -22
     },
     {
       "id": 5264,
@@ -2266,7 +2266,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 17200,
-      "stock": -5
+      "stock": -7
     },
     {
       "id": 5305,
@@ -3288,7 +3288,7 @@
       "vino": "Ruca Malen  - malbec",
       "bodega": "Bodega  Ruca Malen",
       "precio": 6650,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 5450,
@@ -3715,7 +3715,7 @@
       "vino": "Las Perdices  - Sauvignon Blanc",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -2
+      "stock": -5
     },
     {
       "id": 5511,
@@ -3778,7 +3778,7 @@
       "vino": "Las Perdices Reseva - blanc",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": 0
+      "stock": -2
     },
     {
       "id": 5520,
@@ -3806,7 +3806,7 @@
       "vino": "Las Perdices Reseva - pinot",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": -4
+      "stock": -5
     },
     {
       "id": 5524,
@@ -3848,7 +3848,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -6
+      "stock": -7
     },
     {
       "id": 5530,
@@ -4436,7 +4436,7 @@
       "vino": "DV Malbec Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 22500,
-      "stock": -5
+      "stock": -7
     },
     {
       "id": 5614,
@@ -5038,14 +5038,14 @@
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3350,
-      "stock": -58
+      "stock": -59
     },
     {
       "id": 5695,
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2900,
-      "stock": -20
+      "stock": -24
     },
     {
       "id": 5696,
@@ -5402,7 +5402,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "DAMAJUANAS",
       "precio": 24050,
-      "stock": -2
+      "stock": -3
     },
     {
       "id": 5747,
@@ -7187,7 +7187,7 @@
       "vino": "Fuego Negro malbec",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -11
+      "stock": -12
     },
     {
       "id": 6002,
@@ -7299,14 +7299,14 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -28
+      "stock": -32
     },
     {
       "id": 6018,
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3650,
-      "stock": -3
+      "stock": -4
     },
     {
       "id": 6019,
@@ -7804,6 +7804,20 @@
       "bodega": "JORGE RUBIO",
       "precio": 15500,
       "stock": -1
+    },
+    {
+      "id": 6562,
+      "vino": "A Contramano Angellotta",
+      "bodega": "Jorge Rubio",
+      "precio": 12000,
+      "stock": 0
+    },
+    {
+      "id": 6561,
+      "vino": "A Contramano Naranjo",
+      "bodega": "Jorge Rubio",
+      "precio": 12000,
+      "stock": 0
     },
     {
       "id": 6081,
@@ -8426,14 +8440,14 @@
       "vino": "Abrasado blend de parcela cabernte",
       "bodega": "Mosquita muerta",
       "precio": 5100,
-      "stock": -1
+      "stock": -3
     },
     {
       "id": 6167,
       "vino": "Abrasado blend de parcela malbec",
       "bodega": "Mosquita muerta",
       "precio": 5100,
-      "stock": -3
+      "stock": -5
     },
     {
       "id": 6168,
@@ -9371,7 +9385,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -7
+      "stock": -9
     },
     {
       "id": 6308,
@@ -9539,7 +9553,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -6
+      "stock": -7
     },
     {
       "id": 6332,
@@ -9567,7 +9581,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 10500,
-      "stock": -13
+      "stock": -14
     },
     {
       "id": 6336,
@@ -10169,7 +10183,7 @@
       "vino": "Ballantines x 1000",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 42000,
-      "stock": -1
+      "stock": -2
     },
     {
       "id": 6422,
@@ -10519,7 +10533,7 @@
       "vino": "Los Criadores x 1L",
       "bodega": "WHISKYS NACIONALES",
       "precio": 8800,
-      "stock": 0
+      "stock": -1
     },
     {
       "id": 6472,
@@ -10923,5 +10937,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-11T00:22:52.993Z"
+  "lastUpdate": "2026-04-11T14:36:14.698Z"
 }
