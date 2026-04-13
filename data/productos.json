@@ -8305,6 +8305,14 @@
       "barcode": ""
     },
     {
+      "id": 6564,
+      "vino": "Felix Laveque blend",
+      "bodega": "Finca Ribera del Chuscha",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798260190168"
+    },
+    {
       "id": 6012,
       "vino": "Cepita x200cc",
       "bodega": "GASEOSAS Y ENERGISANTES",
@@ -11641,6 +11649,14 @@
       "barcode": ""
     },
     {
+      "id": 6565,
+      "vino": "Quattrocchi blanc blend",
+      "bodega": "Viñedos jose quattrocchi",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798080960293"
+    },
+    {
       "id": 6421,
       "vino": "Ballantines x 1000",
       "bodega": "WHISKYS IMPORTADOS",
@@ -12502,5 +12518,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T12:23:44.236Z"
+  "lastUpdate": "2026-04-13T12:32:35.478Z"
 }
