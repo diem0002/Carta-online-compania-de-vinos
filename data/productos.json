@@ -10758,7 +10758,7 @@
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
       "stock": -6,
-      "barcode": "7798090160966"
+      "barcode": "7798090165114"
     },
     {
       "id": 6309,
@@ -11094,7 +11094,7 @@
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
       "stock": -23,
-      "barcode": "7798127630011"
+      "barcode": ""
     },
     {
       "id": 6351,
@@ -11134,7 +11134,7 @@
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
       "stock": -2,
-      "barcode": ""
+      "barcode": "7798127630011"
     },
     {
       "id": 6356,
@@ -12534,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T13:53:56.926Z"
+  "lastUpdate": "2026-04-13T14:04:35.991Z"
 }
