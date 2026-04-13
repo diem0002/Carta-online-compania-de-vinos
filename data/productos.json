@@ -1858,11 +1858,11 @@
     },
     {
       "id": 5208,
-      "vino": "Latitud 33 Varietales",
+      "vino": "Latitud 33 malbec",
       "bodega": "BODEGA CHANDON",
       "precio": 6700,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7790975204062"
     },
     {
       "id": 5209,
@@ -3086,7 +3086,7 @@
       "bodega": "BODEGA TITARELLI",
       "precio": 6400,
       "stock": 0,
-      "barcode": "7790113027225"
+      "barcode": "7790113027188"
     },
     {
       "id": 5367,
@@ -12534,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T13:48:10.735Z"
+  "lastUpdate": "2026-04-13T13:53:56.926Z"
 }
