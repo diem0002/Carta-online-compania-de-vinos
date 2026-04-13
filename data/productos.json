@@ -9633,8 +9633,16 @@
       "barcode": "7790762052494"
     },
     {
+      "id": 6567,
+      "vino": "Mascota cabernet",
+      "bodega": "MASCOTA",
+      "precio": 12400,
+      "stock": 0,
+      "barcode": "7790762054085"
+    },
+    {
       "id": 6163,
-      "vino": "Mascota",
+      "vino": "Mascota malbec",
       "bodega": "MASCOTA",
       "precio": 12400,
       "stock": -1,
@@ -12526,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T13:43:14.455Z"
+  "lastUpdate": "2026-04-13T13:48:10.735Z"
 }
