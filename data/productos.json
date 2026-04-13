@@ -8306,9 +8306,9 @@
     },
     {
       "id": 6564,
-      "vino": "Felix Laveque blend",
+      "vino": "Felix Lavaque blend",
       "bodega": "Finca Ribera del Chuscha",
-      "precio": 0,
+      "precio": 20900,
       "stock": 0,
       "barcode": "7798260190168"
     },
@@ -8324,7 +8324,7 @@
       "id": 6013,
       "vino": "Coca Cola  1,5 S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3970,
+      "precio": 4100,
       "stock": -4,
       "barcode": "7790895067556"
     },
@@ -8332,7 +8332,7 @@
       "id": 6014,
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3970,
+      "precio": 4100,
       "stock": -37,
       "barcode": "7790895000430"
     },
@@ -8340,7 +8340,7 @@
       "id": 6015,
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 5500,
+      "precio": 5600,
       "stock": -9,
       "barcode": "7790895000997"
     },
@@ -8356,7 +8356,7 @@
       "id": 6017,
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3650,
+      "precio": 3750,
       "stock": -34,
       "barcode": "7790895000218"
     },
@@ -8364,7 +8364,7 @@
       "id": 6018,
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3650,
+      "precio": 3750,
       "stock": -4,
       "barcode": "7790895067617"
     },
@@ -8372,7 +8372,7 @@
       "id": 6019,
       "vino": "Coca Cola lata x220",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 800,
+      "precio": 900,
       "stock": -3,
       "barcode": "7790895642081"
     },
@@ -8388,7 +8388,7 @@
       "id": 6021,
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2900,
+      "precio": 3000,
       "stock": -23,
       "barcode": "7790895005374"
     },
@@ -8396,7 +8396,7 @@
       "id": 6022,
       "vino": "Coca Cola x500",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1300,
+      "precio": 1400,
       "stock": -3,
       "barcode": "7790895000782"
     },
@@ -8508,7 +8508,7 @@
       "id": 6036,
       "vino": "Monster",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2400,
+      "precio": 2500,
       "stock": 0,
       "barcode": "7798422620014"
     },
@@ -8516,7 +8516,7 @@
       "id": 6037,
       "vino": "Monster mango",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2400,
+      "precio": 2500,
       "stock": -1,
       "barcode": "7798422620045"
     },
@@ -8548,7 +8548,7 @@
       "id": 6041,
       "vino": "Powerade x500 azul",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2250,
+      "precio": 2350,
       "stock": -3,
       "barcode": "7790895640025"
     },
@@ -8556,7 +8556,7 @@
       "id": 6042,
       "vino": "Powerade x500 manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2250,
+      "precio": 2350,
       "stock": -2,
       "barcode": "7790895640018"
     },
@@ -8564,7 +8564,7 @@
       "id": 6043,
       "vino": "Powerade x500 rojo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2250,
+      "precio": 2350,
       "stock": 0,
       "barcode": "7790895641183"
     },
@@ -8588,7 +8588,7 @@
       "id": 6046,
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3990,
+      "precio": 4100,
       "stock": -7,
       "barcode": "7790895010088"
     },
@@ -8596,7 +8596,7 @@
       "id": 6047,
       "vino": "Schwepps tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3990,
+      "precio": 4100,
       "stock": -9,
       "barcode": "7790895006715"
     },
@@ -8620,7 +8620,7 @@
       "id": 6050,
       "vino": "Sprite 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3970,
+      "precio": 4100,
       "stock": -3,
       "barcode": "7790895000447"
     },
@@ -8628,7 +8628,7 @@
       "id": 6051,
       "vino": "Sprite 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 5500,
+      "precio": 5600,
       "stock": -6,
       "barcode": "7790895001000"
     },
@@ -8636,7 +8636,7 @@
       "id": 6052,
       "vino": "Sprite retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3650,
+      "precio": 3750,
       "stock": -6,
       "barcode": "7790895000225"
     },
@@ -8644,7 +8644,7 @@
       "id": 6053,
       "vino": "Sprite x 500",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1300,
+      "precio": 1400,
       "stock": -1,
       "barcode": "7790895000829"
     },
@@ -8652,7 +8652,7 @@
       "id": 6054,
       "vino": "coca cola 2,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 6670,
+      "precio": 6800,
       "stock": 0,
       "barcode": "7790895005794"
     },
@@ -11657,6 +11657,14 @@
       "barcode": "7798080960293"
     },
     {
+      "id": 6566,
+      "vino": "Quattrocchi chenin",
+      "bodega": "Viñedos jose quattrocchi",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798080960682"
+    },
+    {
       "id": 6421,
       "vino": "Ballantines x 1000",
       "bodega": "WHISKYS IMPORTADOS",
@@ -12518,5 +12526,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T12:32:35.478Z"
+  "lastUpdate": "2026-04-13T13:29:47.550Z"
 }
