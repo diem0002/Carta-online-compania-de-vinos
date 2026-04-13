@@ -5798,7 +5798,7 @@
       "bodega": "Cervezas Nacionales latas",
       "precio": 3450,
       "stock": 0,
-      "barcode": ""
+      "barcode": "714604205180"
     },
     {
       "id": 5700,
@@ -5806,7 +5806,7 @@
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
       "stock": -2,
-      "barcode": ""
+      "barcode": "714604205234"
     },
     {
       "id": 5701,
@@ -5814,7 +5814,7 @@
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
       "stock": -3,
-      "barcode": ""
+      "barcode": "714604205142"
     },
     {
       "id": 5699,
@@ -5822,7 +5822,7 @@
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
       "stock": 0,
-      "barcode": ""
+      "barcode": "714604205135"
     },
     {
       "id": 5702,
@@ -9678,7 +9678,7 @@
       "bodega": "Mosquita muerta",
       "precio": 5500,
       "stock": -1,
-      "barcode": ""
+      "barcode": "7798159947071"
     },
     {
       "id": 6169,
@@ -12526,5 +12526,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T13:29:47.550Z"
+  "lastUpdate": "2026-04-13T13:43:14.455Z"
 }
