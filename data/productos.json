@@ -5173,7 +5173,7 @@
       "vino": "Saint Felicien cabernet",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794450024015"
     },
     {
@@ -5677,7 +5677,7 @@
       "vino": "kaiserdon x 500 sin alcohol lemon",
       "bodega": "Cervezas Importadas latas",
       "precio": 5950,
-      "stock": 0,
+      "stock": -1,
       "barcode": "4004591038738"
     },
     {
@@ -5685,7 +5685,7 @@
       "vino": "kaiserdon x 500 strong",
       "bodega": "Cervezas Importadas latas",
       "precio": 5950,
-      "stock": -1,
+      "stock": -2,
       "barcode": "4004591039469"
     },
     {
@@ -5693,7 +5693,7 @@
       "vino": "kaiserdon x500 smoked",
       "bodega": "Cervezas Importadas latas",
       "precio": 5950,
-      "stock": -4,
+      "stock": -5,
       "barcode": "4004591039452"
     },
     {
@@ -9590,7 +9590,7 @@
       "bodega": "LUIGGI BOSCA",
       "precio": 14600,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7791203000029"
     },
     {
       "id": 6159,
@@ -12471,14 +12471,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 33
-    },
-    {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 23
+      "vendidos": 32
     },
     {
       "id": 5950,
@@ -12486,6 +12479,13 @@
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
       "vendidos": 20
+    },
+    {
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 18
     },
     {
       "id": 6350,
@@ -12502,5 +12502,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-12T16:09:21.110Z"
+  "lastUpdate": "2026-04-13T12:23:44.236Z"
 }
