@@ -221,7 +221,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7792180146137"
     },
     {
@@ -413,7 +413,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -59,
+      "stock": -62,
       "barcode": "7790036975481"
     },
     {
@@ -653,7 +653,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 17150,
-      "stock": -17,
+      "stock": -18,
       "barcode": "7790290101602"
     },
     {
@@ -661,7 +661,7 @@
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
       "precio": 24050,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790290000523"
     },
     {
@@ -1557,7 +1557,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 14100,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7798191780117"
     },
     {
@@ -2309,7 +2309,7 @@
       "vino": "San Felipe Roble",
       "bodega": "BODEGA LA RURAL",
       "precio": 5650,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790577002424"
     },
     {
@@ -2421,7 +2421,7 @@
       "vino": "Norton Sexy Fish franc",
       "bodega": "BODEGA NORTON",
       "precio": 5200,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7792319972750"
     },
     {
@@ -2709,7 +2709,7 @@
       "vino": "Trumpeter Reserva - doux blanco",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790577042802"
     },
     {
@@ -2733,7 +2733,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790577040921"
     },
     {
@@ -2862,7 +2862,7 @@
       "bodega": "BODEGA SALENTEIN",
       "precio": 7600,
       "stock": -2,
-      "barcode": "7798074862077"
+      "barcode": "7798074865191"
     },
     {
       "id": 5339,
@@ -3301,7 +3301,7 @@
       "vino": "Piatelli reserva malb - tannat Cafayate",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -4,
+      "stock": -5,
       "barcode": "040232855030"
     },
     {
@@ -5053,7 +5053,7 @@
       "vino": "DV Caber. Malbec estuche x 2",
       "bodega": "CATENA ZAPATA",
       "precio": 39000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794450091376"
     },
     {
@@ -5701,7 +5701,7 @@
       "vino": "Amstel Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2350,
-      "stock": -13,
+      "stock": -19,
       "barcode": "7793147573546"
     },
     {
@@ -5837,7 +5837,7 @@
       "vino": "Grolsch 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5550,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7793147570842"
     },
     {
@@ -5973,7 +5973,7 @@
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2200,
-      "stock": -20,
+      "stock": -22,
       "barcode": "7792798001316"
     },
     {
@@ -6037,7 +6037,7 @@
       "vino": "Stella x473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3680,
-      "stock": -8,
+      "stock": -10,
       "barcode": "7792798010615"
     },
     {
@@ -6237,7 +6237,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11070,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7794068000012"
     },
     {
@@ -8013,7 +8013,7 @@
       "vino": "Los intocables Double Oak ( Azul)",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7791540999789"
     },
     {
@@ -8333,7 +8333,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -37,
+      "stock": -39,
       "barcode": "7790895000430"
     },
     {
@@ -8365,7 +8365,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3750,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790895067617"
     },
     {
@@ -8389,7 +8389,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790895005374"
     },
     {
@@ -8477,7 +8477,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -23,
+      "stock": -25,
       "barcode": "7790036004594"
     },
     {
@@ -10789,7 +10789,7 @@
       "vino": "Doña Paula  - Single vineyard malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 12430,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798090164681"
     },
     {
@@ -10805,7 +10805,7 @@
       "vino": "Doña Paula 1100",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 14850,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798090162465"
     },
     {
@@ -11277,7 +11277,7 @@
       "vino": "Bautismo  - blend",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4800,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7791540049927"
     },
     {
@@ -12534,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-13T14:04:35.991Z"
+  "lastUpdate": "2026-04-14T15:50:53.348Z"
 }
