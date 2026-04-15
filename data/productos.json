@@ -10349,7 +10349,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790480089741"
     },
     {
@@ -11005,7 +11005,7 @@
       "vino": "Maldito",
       "bodega": "Vicentin Family Wines",
       "precio": 38500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798127631469"
     },
     {
@@ -11692,7 +11692,7 @@
       "id": 6424,
       "vino": "Camus vsop",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 1202,
+      "precio": 200000,
       "stock": 0,
       "barcode": "3028130066212"
     },
@@ -11718,7 +11718,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 59500,
       "stock": -1,
-      "barcode": "80432402931"
+      "barcode": "080432402931"
     },
     {
       "id": 6428,
@@ -11814,7 +11814,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 29500,
       "stock": 0,
-      "barcode": "7791250001994"
+      "barcode": "5010103800310"
     },
     {
       "id": 6440,
@@ -11822,7 +11822,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 48100,
       "stock": 0,
-      "barcode": "82184090466"
+      "barcode": "082184090466"
     },
     {
       "id": 6441,
@@ -11830,7 +11830,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 44000,
       "stock": 0,
-      "barcode": "82184000335"
+      "barcode": "082184000335"
     },
     {
       "id": 6442,
@@ -11854,7 +11854,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 41200,
       "stock": 0,
-      "barcode": "80686034407"
+      "barcode": "080686034407"
     },
     {
       "id": 6445,
@@ -11862,7 +11862,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 41200,
       "stock": 0,
-      "barcode": "80686003403"
+      "barcode": "080686003403"
     },
     {
       "id": 6446,
@@ -11878,7 +11878,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 24500,
       "stock": 0,
-      "barcode": "80686006060"
+      "barcode": "080686006060"
     },
     {
       "id": 6448,
@@ -11974,7 +11974,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 56000,
       "stock": -1,
-      "barcode": "85246139431"
+      "barcode": "085246139431"
     },
     {
       "id": 6460,
@@ -12534,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-15T13:54:52.085Z"
+  "lastUpdate": "2026-04-15T15:20:14.349Z"
 }
