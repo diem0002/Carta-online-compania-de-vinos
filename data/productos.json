@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790380025191"
     },
     {
@@ -213,7 +213,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7792180146137"
     },
     {
@@ -596,7 +596,7 @@
       "id": 5052,
       "vino": "Amargo obrero",
       "bodega": "APERITIVOS",
-      "precio": 4750,
+      "precio": 5360,
       "stock": 0,
       "barcode": "7790950001969"
     },
@@ -604,7 +604,7 @@
       "id": 5053,
       "vino": "Aperitivo Marcela",
       "bodega": "APERITIVOS",
-      "precio": 4750,
+      "precio": 5400,
       "stock": 0,
       "barcode": "7790950002768"
     },
@@ -732,7 +732,7 @@
       "id": 5069,
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
-      "precio": 7650,
+      "precio": 8380,
       "stock": -8,
       "barcode": "7790950000160"
     },
@@ -740,7 +740,7 @@
       "id": 5070,
       "vino": "Gancia x 450",
       "bodega": "APERITIVOS",
-      "precio": 4700,
+      "precio": 4800,
       "stock": 0,
       "barcode": "7790950000191"
     },
@@ -756,7 +756,7 @@
       "id": 5071,
       "vino": "Martini Blanco",
       "bodega": "APERITIVOS",
-      "precio": 7650,
+      "precio": 8870,
       "stock": 0,
       "barcode": "7790950134834"
     },
@@ -764,7 +764,7 @@
       "id": 5072,
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
-      "precio": 7650,
+      "precio": 8870,
       "stock": -3,
       "barcode": "7790950134810"
     },
@@ -3485,7 +3485,7 @@
       "vino": "Santa Julia Lata x473",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 2850,
-      "stock": -10,
+      "stock": -12,
       "barcode": "7791728239331"
     },
     {
@@ -5276,7 +5276,7 @@
       "id": 6540,
       "vino": "Gancia S/Alc 6x473",
       "bodega": "CEO",
-      "precio": 2050,
+      "precio": 2100,
       "stock": -9,
       "barcode": "7790950147926"
     },
@@ -6661,7 +6661,7 @@
       "vino": "Salentein x 1 Bot ESTUCHE",
       "bodega": "ESTUCHES",
       "precio": 13600,
-      "stock": -1,
+      "stock": -2,
       "barcode": ""
     },
     {
@@ -7013,7 +7013,7 @@
       "vino": "El Espia Gran Malbec",
       "bodega": "Eduardo Vidal",
       "precio": 12700,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7790460415362"
     },
     {
@@ -8980,7 +8980,7 @@
       "id": 6085,
       "vino": "Dr Lemon Lemon x 473",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 2150,
+      "precio": 2260,
       "stock": 0,
       "barcode": "7790950202816"
     },
@@ -8988,7 +8988,7 @@
       "id": 6086,
       "vino": "Dr Lemon Red Berries 1L",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 3700,
+      "precio": 4070,
       "stock": 0,
       "barcode": "7790950137804"
     },
@@ -8996,7 +8996,7 @@
       "id": 6087,
       "vino": "Dr Lemon Vodka x 473 LATA",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 2150,
+      "precio": 2260,
       "stock": 0,
       "barcode": "7790950202823"
     },
@@ -9004,7 +9004,7 @@
       "id": 6088,
       "vino": "Pronto Shake x 473",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 2050,
+      "precio": 2150,
       "stock": 0,
       "barcode": ""
     },
@@ -9012,7 +9012,7 @@
       "id": 6089,
       "vino": "Pronto Shakex 1lt",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 3400,
+      "precio": 3650,
       "stock": 0,
       "barcode": ""
     },
@@ -9148,7 +9148,7 @@
       "id": 6103,
       "vino": "Hesperidina",
       "bodega": "LICORES",
-      "precio": 14450,
+      "precio": 15700,
       "stock": 0,
       "barcode": "7791090200014"
     },
@@ -9156,7 +9156,7 @@
       "id": 6104,
       "vino": "Hierro-quina",
       "bodega": "LICORES",
-      "precio": 8900,
+      "precio": 9400,
       "stock": 0,
       "barcode": "7790950134124"
     },
@@ -10060,7 +10060,7 @@
       "id": 6216,
       "vino": "Don Nicanor  - blend",
       "bodega": "Nieto Senetiner",
-      "precio": 12800,
+      "precio": 15400,
       "stock": 0,
       "barcode": "7793440700915"
     },
@@ -10068,7 +10068,7 @@
       "id": 6217,
       "vino": "Don Nicanor  - cabernet",
       "bodega": "Nieto Senetiner",
-      "precio": 12800,
+      "precio": 15400,
       "stock": 0,
       "barcode": "7793440702698"
     },
@@ -10076,7 +10076,7 @@
       "id": 6218,
       "vino": "Don Nicanor  - cabernet franc",
       "bodega": "Nieto Senetiner",
-      "precio": 12800,
+      "precio": 15400,
       "stock": 0,
       "barcode": ""
     },
@@ -10084,7 +10084,7 @@
       "id": 6219,
       "vino": "Don Nicanor  - malbec",
       "bodega": "Nieto Senetiner",
-      "precio": 12800,
+      "precio": 15400,
       "stock": -6,
       "barcode": "7793440702735"
     },
@@ -10092,7 +10092,7 @@
       "id": 6220,
       "vino": "Don Nicanor Est x 4",
       "bodega": "Nieto Senetiner",
-      "precio": 55000,
+      "precio": 63000,
       "stock": 0,
       "barcode": "7793440002491"
     },
@@ -12534,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-15T15:20:14.349Z"
+  "lastUpdate": "2026-04-15T23:51:33.718Z"
 }
