@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790380025191"
     },
     {
@@ -413,7 +413,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -62,
+      "stock": -63,
       "barcode": "7790036975481"
     },
     {
@@ -1373,7 +1373,7 @@
       "vino": "Smirnoff Green Apple",
       "bodega": "BEBIDAS FUERTES",
       "precio": 10650,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791250001857"
     },
     {
@@ -1532,7 +1532,7 @@
       "id": 5167,
       "vino": "Casa ambrosia - cabernet",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 12000,
+      "precio": 12900,
       "stock": 0,
       "barcode": "7798191780131"
     },
@@ -1540,7 +1540,7 @@
       "id": 5168,
       "vino": "Casa ambrosia - malbec",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 12000,
+      "precio": 12900,
       "stock": 0,
       "barcode": "7798191780100"
     },
@@ -1548,7 +1548,7 @@
       "id": 5169,
       "vino": "Luna llena - cabernet Franc",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 14100,
+      "precio": 16000,
       "stock": 0,
       "barcode": "7798191780186"
     },
@@ -1556,7 +1556,7 @@
       "id": 5170,
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 14100,
+      "precio": 16000,
       "stock": -12,
       "barcode": "7798191780117"
     },
@@ -1564,7 +1564,7 @@
       "id": 5171,
       "vino": "Viña unica - cabernet",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 18200,
+      "precio": 22000,
       "stock": -1,
       "barcode": "7798191780056"
     },
@@ -1572,7 +1572,7 @@
       "id": 5172,
       "vino": "Viña unica - malbec",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 18200,
+      "precio": 22000,
       "stock": 0,
       "barcode": "7798191780018"
     },
@@ -4428,7 +4428,7 @@
       "id": 5532,
       "vino": "Enrique Foster Reserva x750",
       "bodega": "Bodega Lorca",
-      "precio": 19000,
+      "precio": 30240,
       "stock": 0,
       "barcode": "7798103160044"
     },
@@ -4436,7 +4436,7 @@
       "id": 5533,
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
-      "precio": 17000,
+      "precio": 17500,
       "stock": -6,
       "barcode": "7798103165711"
     },
@@ -4444,7 +4444,7 @@
       "id": 5534,
       "vino": "Foster Barrancos",
       "bodega": "Bodega Lorca",
-      "precio": 17000,
+      "precio": 17500,
       "stock": 0,
       "barcode": "7798103165728"
     },
@@ -4452,7 +4452,7 @@
       "id": 5535,
       "vino": "Foster Edicion Limitada",
       "bodega": "Bodega Lorca",
-      "precio": 42000,
+      "precio": 44000,
       "stock": 0,
       "barcode": "7798103160099"
     },
@@ -4460,7 +4460,7 @@
       "id": 5536,
       "vino": "Foster Pink",
       "bodega": "Bodega Lorca",
-      "precio": 10500,
+      "precio": 9900,
       "stock": 0,
       "barcode": "7798103161683"
     },
@@ -4468,7 +4468,7 @@
       "id": 5537,
       "vino": "Gran Lorca Opalo blend",
       "bodega": "Bodega Lorca",
-      "precio": 26000,
+      "precio": 28900,
       "stock": 0,
       "barcode": "7798103161263"
     },
@@ -4476,7 +4476,7 @@
       "id": 5538,
       "vino": "Gran Lorca Poetico Blend",
       "bodega": "Bodega Lorca",
-      "precio": 38500,
+      "precio": 43900,
       "stock": 0,
       "barcode": "7798103161287"
     },
@@ -4484,7 +4484,7 @@
       "id": 5539,
       "vino": "Gran Lorca Poetico Petit Verdot",
       "bodega": "Bodega Lorca",
-      "precio": 38500,
+      "precio": 43900,
       "stock": 0,
       "barcode": "7798103161362"
     },
@@ -4588,7 +4588,7 @@
       "id": 5552,
       "vino": "Lorca Fantasia x3lt Bag in Box",
       "bodega": "Bodega Lorca",
-      "precio": 29500,
+      "precio": 32000,
       "stock": 0,
       "barcode": "7798103164394"
     },
@@ -4596,7 +4596,7 @@
       "id": 5553,
       "vino": "Lorca Opalo cabernet",
       "bodega": "Bodega Lorca",
-      "precio": 13350,
+      "precio": 15300,
       "stock": 0,
       "barcode": "7798103160174"
     },
@@ -4604,7 +4604,7 @@
       "id": 5554,
       "vino": "Lorca Opalo malbec",
       "bodega": "Bodega Lorca",
-      "precio": 13350,
+      "precio": 15300,
       "stock": 0,
       "barcode": "7798103160150"
     },
@@ -4612,7 +4612,7 @@
       "id": 5555,
       "vino": "Lorca Opalo syrah",
       "bodega": "Bodega Lorca",
-      "precio": 13350,
+      "precio": 15300,
       "stock": 0,
       "barcode": "7798103160211"
     },
@@ -4620,7 +4620,7 @@
       "id": 5556,
       "vino": "Lorca Poetico - blend",
       "bodega": "Bodega Lorca",
-      "precio": 16100,
+      "precio": 17500,
       "stock": 0,
       "barcode": ""
     },
@@ -4628,7 +4628,7 @@
       "id": 5557,
       "vino": "Lorca Poetico - cabernet",
       "bodega": "Bodega Lorca",
-      "precio": 16100,
+      "precio": 17500,
       "stock": 0,
       "barcode": "7798103160372"
     },
@@ -4636,7 +4636,7 @@
       "id": 5558,
       "vino": "Lorca Poetico - malbec",
       "bodega": "Bodega Lorca",
-      "precio": 16100,
+      "precio": 17500,
       "stock": 0,
       "barcode": "7798103160228"
     },
@@ -4644,7 +4644,7 @@
       "id": 5559,
       "vino": "Lorca Poetico Cab Franc",
       "bodega": "Bodega Lorca",
-      "precio": 16100,
+      "precio": 17500,
       "stock": 0,
       "barcode": ""
     },
@@ -4668,7 +4668,7 @@
       "id": 5562,
       "vino": "Zapam Zucum - cabernet",
       "bodega": "Bodega Lorca",
-      "precio": 9170,
+      "precio": 9800,
       "stock": 0,
       "barcode": "7798103168163"
     },
@@ -4676,7 +4676,7 @@
       "id": 5563,
       "vino": "Zapam Zucum - malbec",
       "bodega": "Bodega Lorca",
-      "precio": 9170,
+      "precio": 9800,
       "stock": 0,
       "barcode": "7798103167203"
     },
@@ -5973,7 +5973,7 @@
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2200,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7792798001316"
     },
     {
@@ -8101,7 +8101,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7798000213737"
     },
     {
@@ -8357,7 +8357,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3750,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7790895000218"
     },
     {
@@ -8389,7 +8389,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7790895005374"
     },
     {
@@ -12493,7 +12493,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -47,
+      "stock": -58,
       "barcode": ""
     }
   ],
@@ -12506,18 +12506,18 @@
       "vendidos": 32
     },
     {
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 29
+    },
+    {
       "id": 5950,
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6800,
       "vendidos": 20
-    },
-    {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 18
     },
     {
       "id": 6350,
@@ -12534,5 +12534,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-14T15:50:53.348Z"
+  "lastUpdate": "2026-04-15T12:10:33.920Z"
 }
