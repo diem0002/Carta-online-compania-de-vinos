@@ -81,6 +81,14 @@
       "barcode": ""
     },
     {
+      "id": 6568,
+      "vino": "Promo Stella lata x473",
+      "bodega": "Promos",
+      "precio": 19400,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6539,
       "vino": "Promo Verano",
       "bodega": "Promos",
@@ -3885,7 +3893,7 @@
       "vino": "Amalaya Rosado",
       "bodega": "Bodega Colome - Hess",
       "precio": 7600,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798104760328"
     },
     {
@@ -8093,7 +8101,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 7400,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7798000213737"
     },
     {
@@ -12534,5 +12542,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-04-16T14:17:16.506Z"
+  "lastUpdate": "2026-04-16T20:58:10.845Z"
 }
