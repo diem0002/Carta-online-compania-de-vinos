@@ -637,7 +637,7 @@
       "vino": "Branca x 450",
       "bodega": "APERITIVOS",
       "precio": 11460,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790290001179"
     },
     {
@@ -2285,7 +2285,7 @@
       "vino": "Viña de Caroya Amabile x750",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4200,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798089430124"
     },
     {
@@ -6237,7 +6237,7 @@
       "vino": "DAMAJUNA duret roble lacrado cabernet",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": -3,
+      "stock": -4,
       "barcode": "1148547501310"
     },
     {
@@ -8974,7 +8974,7 @@
       "bodega": "Kermes",
       "precio": 5500,
       "stock": -1,
-      "barcode": "76625259918"
+      "barcode": "076625259918"
     },
     {
       "id": 6085,
@@ -11277,7 +11277,7 @@
       "vino": "Bautismo  - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4800,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7791540049910"
     },
     {
@@ -12503,14 +12503,14 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 32
+      "vendidos": 30
     },
     {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 29
+      "vendidos": 27
     },
     {
       "id": 5950,
@@ -12520,19 +12520,19 @@
       "vendidos": 20
     },
     {
+      "id": 6374,
+      "vino": "Bautismo  - malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4800,
+      "vendidos": 16
+    },
+    {
       "id": 6350,
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
       "vendidos": 16
-    },
-    {
-      "id": 6374,
-      "vino": "Bautismo  - malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4800,
-      "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-15T23:51:33.718Z"
+  "lastUpdate": "2026-04-16T14:17:16.506Z"
 }
