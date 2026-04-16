@@ -12,7 +12,7 @@
       "id": 6558,
       "vino": "Alfajor toddy Mousse blanco",
       "bodega": "Vinos",
-      "precio": 850,
+      "precio": 1100,
       "stock": -1,
       "barcode": "7790380023630"
     },
@@ -20,9 +20,137 @@
       "id": 6557,
       "vino": "Alfajor toddy mousse",
       "bodega": "Vinos",
-      "precio": 850,
+      "precio": 1100,
       "stock": -1,
       "barcode": "7790380023579"
+    },
+    {
+      "id": 6583,
+      "vino": "Barras de cereal avellanas y arandanos",
+      "bodega": "Golosinas",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380020271"
+    },
+    {
+      "id": 6584,
+      "vino": "Barras de cereal frutos del bosque",
+      "bodega": "Golosinas",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380020028"
+    },
+    {
+      "id": 6579,
+      "vino": "Barras de cereal frutos rojos",
+      "bodega": "Golosinas",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380020172"
+    },
+    {
+      "id": 6581,
+      "vino": "Barras de cereal granola con semillas",
+      "bodega": "Golosinas",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380015024"
+    },
+    {
+      "id": 6580,
+      "vino": "Barras de cereal manzana",
+      "bodega": "golosinas",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380008286"
+    },
+    {
+      "id": 6582,
+      "vino": "Barras de cereal mix de fruta",
+      "bodega": "Golosinas",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380014928"
+    },
+    {
+      "id": 6569,
+      "vino": "Barras de cereal toddy",
+      "bodega": "golosinas ",
+      "precio": 700,
+      "stock": 0,
+      "barcode": "7790380020356"
+    },
+    {
+      "id": 6576,
+      "vino": "Bombon Tokke",
+      "bodega": "Golosinas",
+      "precio": 500,
+      "stock": -1,
+      "barcode": "7790380022176"
+    },
+    {
+      "id": 6585,
+      "vino": "Bombon full mani",
+      "bodega": "Golosinas",
+      "precio": 250,
+      "stock": 0,
+      "barcode": "77969347"
+    },
+    {
+      "id": 6575,
+      "vino": "Chocolate Blanco x25g",
+      "bodega": "Golosinas",
+      "precio": 750,
+      "stock": 0,
+      "barcode": "7790380024217"
+    },
+    {
+      "id": 6574,
+      "vino": "Chocolate x25g",
+      "bodega": "Golosinas",
+      "precio": 750,
+      "stock": 0,
+      "barcode": "7790380024194"
+    },
+    {
+      "id": 6570,
+      "vino": "Frambuesas",
+      "bodega": "golosinas",
+      "precio": 5700,
+      "stock": 0,
+      "barcode": "7790380037033"
+    },
+    {
+      "id": 6572,
+      "vino": "Full mani x140g",
+      "bodega": "Golosinas",
+      "precio": 12000,
+      "stock": 0,
+      "barcode": "7790380025061"
+    },
+    {
+      "id": 6586,
+      "vino": "Mantecol cubanito ",
+      "bodega": "Golosinas",
+      "precio": 250,
+      "stock": 0,
+      "barcode": "7790380026433"
+    },
+    {
+      "id": 6573,
+      "vino": "Mantecol marmolado",
+      "bodega": "Golosinas",
+      "precio": 2850,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6571,
+      "vino": "Pasas con chocolate",
+      "bodega": "Golosinas",
+      "precio": 2950,
+      "stock": 0,
+      "barcode": "7790380037774"
     },
     {
       "id": 6523,
@@ -127,6 +255,22 @@
       "precio": 15000,
       "stock": 0,
       "barcode": ""
+    },
+    {
+      "id": 6577,
+      "vino": "Tokke Dulce de leche",
+      "bodega": "Golosinas",
+      "precio": 2100,
+      "stock": 0,
+      "barcode": "7790380022107"
+    },
+    {
+      "id": 6578,
+      "vino": "Tokke Leche y Mani",
+      "bodega": "Golosinas",
+      "precio": 1600,
+      "stock": 0,
+      "barcode": "7790380022121"
     },
     {
       "id": 6519,
@@ -1405,7 +1549,7 @@
       "vino": "Vodka Oddka",
       "bodega": "BEBIDAS FUERTES",
       "precio": 5000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7792410135535"
     },
     {
@@ -2613,7 +2757,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 32000,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790577001151"
     },
     {
@@ -5981,7 +6125,7 @@
       "vino": "Santa Fe Pilsen x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2200,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7793147572075"
     },
     {
@@ -6453,7 +6597,7 @@
       "vino": "Deseado Rose espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 9550,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798116191486"
     },
     {
@@ -7621,7 +7765,7 @@
       "vino": "Estuche Champ x 2 Copa",
       "bodega": "Estuches cerveza",
       "precio": 19000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "18"
     },
     {
@@ -8221,7 +8365,7 @@
       "vino": "Fuego Negro malbec",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7798109156164"
     },
     {
@@ -8533,7 +8677,7 @@
       "vino": "Paso de los toros pomelo S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791813080039"
     },
     {
@@ -9653,7 +9797,7 @@
       "vino": "Abrasado Historic blend cab - malb - merl",
       "bodega": "Mosquita muerta",
       "precio": 5900,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798159947156"
     },
     {
@@ -9661,7 +9805,7 @@
       "vino": "Abrasado Historic blend malbec bonarda",
       "bodega": "Mosquita muerta",
       "precio": 5900,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798159947422"
     },
     {
@@ -12542,5 +12686,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-04-16T20:58:10.845Z"
+  "lastUpdate": "2026-04-16T22:54:10.243Z"
 }
