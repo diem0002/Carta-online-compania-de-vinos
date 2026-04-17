@@ -453,7 +453,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7790036001647"
     },
     {
@@ -557,7 +557,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -63,
+      "stock": -64,
       "barcode": "7790036975481"
     },
     {
@@ -3909,7 +3909,7 @@
       "vino": "Ruca Malen  - malbec",
       "bodega": "Bodega  Ruca Malen",
       "precio": 6650,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790070651068"
     },
     {
@@ -4389,7 +4389,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798123970098"
     },
     {
@@ -5429,7 +5429,7 @@
       "vino": "Gancia S/Alc 6x473",
       "bodega": "CEO",
       "precio": 2100,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790950147926"
     },
     {
@@ -8533,7 +8533,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -25,
+      "stock": -26,
       "barcode": "7790895005374"
     },
     {
@@ -10725,7 +10725,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
       "precio": 1300,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790503000296"
     },
     {
@@ -11509,7 +11509,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4500,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7798366220028"
     },
     {
@@ -12686,5 +12686,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-04-16T22:54:10.243Z"
+  "lastUpdate": "2026-04-17T00:40:35.455Z"
 }
