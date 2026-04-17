@@ -201,6 +201,14 @@
       "barcode": ""
     },
     {
+      "id": 6587,
+      "vino": "Promo Patagonia",
+      "bodega": "Promos",
+      "precio": 10400,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6524,
       "vino": "Promo Smirnoff",
       "bodega": "Promos",
@@ -2365,7 +2373,7 @@
       "vino": "Marcus Malbec",
       "bodega": "BODEGA H.CANALE",
       "precio": 4950,
-      "stock": -15,
+      "stock": -18,
       "barcode": "7790805012027"
     },
     {
@@ -2813,7 +2821,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -59,
+      "stock": -61,
       "barcode": "7790577002165"
     },
     {
@@ -2909,7 +2917,7 @@
       "vino": "El Portillo  - cabernet",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5350,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798074860233"
     },
     {
@@ -4549,7 +4557,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798123971309"
     },
     {
@@ -6893,7 +6901,7 @@
       "vino": "Copa vino x2 OCEAN",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 25000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "8850222179785"
     },
     {
@@ -6957,7 +6965,7 @@
       "vino": "Estuche x 1 copas barone de vino",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 14500,
-      "stock": -1,
+      "stock": -3,
       "barcode": ""
     },
     {
@@ -8365,7 +8373,7 @@
       "vino": "Fuego Negro malbec",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -17,
+      "stock": -20,
       "barcode": "7798109156164"
     },
     {
@@ -8509,7 +8517,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3750,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790895067617"
     },
     {
@@ -8621,7 +8629,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -25,
+      "stock": -27,
       "barcode": "7790036004594"
     },
     {
@@ -10277,7 +10285,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -21,
+      "stock": -25,
       "barcode": "7790070760722"
     },
     {
@@ -12655,7 +12663,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 30
+      "vendidos": 32
     },
     {
       "id": 6518,
@@ -12686,5 +12694,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-04-17T00:40:35.455Z"
+  "lastUpdate": "2026-04-17T21:12:44.517Z"
 }
