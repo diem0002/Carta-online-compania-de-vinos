@@ -1428,7 +1428,7 @@
       "id": 5135,
       "vino": "Grapa valleviejo",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 5500,
+      "precio": 8700,
       "stock": 0,
       "barcode": "7790260008016"
     },
@@ -12694,5 +12694,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-04-18T00:21:33.510Z"
+  "lastUpdate": "2026-04-18T00:35:10.873Z"
 }
