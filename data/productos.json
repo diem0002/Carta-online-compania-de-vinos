@@ -9470,7 +9470,7 @@
       "bodega": "LICORES",
       "precio": 7400,
       "stock": 0,
-      "barcode": "7792410938532"
+      "barcode": "7792410008532"
     },
     {
       "id": 6119,
@@ -10566,7 +10566,7 @@
       "bodega": "PULPAS",
       "precio": 5600,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7795933000519"
     },
     {
       "id": 6261,
@@ -12758,5 +12758,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-04-20T13:19:09.814Z"
+  "lastUpdate": "2026-04-20T15:16:28.891Z"
 }
