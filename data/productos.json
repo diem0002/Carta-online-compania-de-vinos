@@ -493,7 +493,7 @@
       "vino": "Agua Saborizada x1,5 naranja s/a",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790036974750"
     },
     {
@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -69,
+      "stock": -70,
       "barcode": "7790036975481"
     },
     {
@@ -1709,7 +1709,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16000,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7798191780117"
     },
     {
@@ -2437,7 +2437,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798089430414"
     },
     {
@@ -3437,7 +3437,7 @@
       "vino": "Piatelli reserva - malbec Mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7798124010137"
     },
     {
@@ -4541,7 +4541,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 24800,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7798123970616"
     },
     {
@@ -6021,7 +6021,7 @@
       "vino": "Heineken x 473 S/Alco",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
-      "stock": -20,
+      "stock": -22,
       "barcode": "7793147572808"
     },
     {
@@ -6029,7 +6029,7 @@
       "vino": "Imperial  x 473 ipa",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2750,
-      "stock": -4,
+      "stock": -6,
       "barcode": "7793147570743"
     },
     {
@@ -8677,7 +8677,7 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -4,
+      "stock": -6,
       "barcode": "7790036105956"
     },
     {
@@ -8685,7 +8685,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7790036129136"
     },
     {
@@ -8693,7 +8693,7 @@
       "vino": "Mirinda manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2400,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7791813423317"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Sprite 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -4,
+      "stock": -6,
       "barcode": "7790895000447"
     },
     {
@@ -10094,7 +10094,7 @@
       "bodega": "NAVARRO CORREAS",
       "precio": 6300,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7791250002564"
     },
     {
       "id": 6196,
@@ -10925,7 +10925,7 @@
       "vino": "Doña Paula  - Cabernet",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798090160287"
     },
     {
@@ -11165,7 +11165,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 10500,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7798127632077"
     },
     {
@@ -12727,28 +12727,14 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 33
+      "vendidos": 30
     },
     {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 29
-    },
-    {
-      "id": 5950,
-      "vino": "Alma Mora Select Reserva  malbec",
-      "bodega": "FINCA LAS MORAS",
-      "precio": 7100,
-      "vendidos": 20
-    },
-    {
-      "id": 6350,
-      "vino": "Sottano  - malbec",
-      "bodega": "Vicentin Family Wines",
-      "precio": 7350,
-      "vendidos": 19
+      "vendidos": 28
     },
     {
       "id": 5420,
@@ -12756,7 +12742,21 @@
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
       "vendidos": 19
+    },
+    {
+      "id": 6374,
+      "vino": "Bautismo  - malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4800,
+      "vendidos": 17
+    },
+    {
+      "id": 6335,
+      "vino": "Indomable blend de malbec",
+      "bodega": "Vicentin Family Wines",
+      "precio": 10500,
+      "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-20T15:16:28.891Z"
+  "lastUpdate": "2026-04-21T13:28:15.097Z"
 }
