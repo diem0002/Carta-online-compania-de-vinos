@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7790380025191"
     },
     {
@@ -437,7 +437,7 @@
       "vino": "Agua Saborizada  x600 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1050,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -453,7 +453,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790036008974"
     },
     {
@@ -485,7 +485,7 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7790036001562"
     },
     {
@@ -533,7 +533,7 @@
       "vino": "PRONTO BAGGIO 1,5LT",
       "bodega": "AGUA Y SODA",
       "precio": 2600,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790036002606"
     },
     {
@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -70,
+      "stock": -71,
       "barcode": "7790036975481"
     },
     {
@@ -1813,7 +1813,7 @@
       "vino": "New Age",
       "bodega": "BODEGA BIANCHI",
       "precio": 3950,
-      "stock": -1,
+      "stock": -4,
       "barcode": "7790703165207"
     },
     {
@@ -2277,7 +2277,7 @@
       "vino": "Saurus  - pinot",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 10990,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798116190335"
     },
     {
@@ -2885,7 +2885,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790577040921"
     },
     {
@@ -4509,7 +4509,7 @@
       "vino": "Las Perdices Reseva - pinot",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798123970432"
     },
     {
@@ -5205,7 +5205,7 @@
       "vino": "DV Caber. Malbec estuche x 2",
       "bodega": "CATENA ZAPATA",
       "precio": 39000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794450091376"
     },
     {
@@ -5924,8 +5924,8 @@
       "id": 5695,
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2900,
-      "stock": -37,
+      "precio": 2700,
+      "stock": -43,
       "barcode": "7792798014873"
     },
     {
@@ -6069,7 +6069,7 @@
       "vino": "Miller x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2900,
-      "stock": -6,
+      "stock": -10,
       "barcode": "7793147573492"
     },
     {
@@ -6093,7 +6093,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5900,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7792798002399"
     },
     {
@@ -6101,7 +6101,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5900,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7792798002351"
     },
     {
@@ -6116,7 +6116,7 @@
       "id": 5719,
       "vino": "Quilmes 0% sin alcohol x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 1800,
+      "precio": 1900,
       "stock": -1,
       "barcode": "7792798009107"
     },
@@ -6124,7 +6124,7 @@
       "id": 5720,
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2200,
+      "precio": 2400,
       "stock": -26,
       "barcode": "7792798001316"
     },
@@ -8317,7 +8317,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva chardonay",
       "bodega": "FRATELLI BRANCA",
       "precio": 10500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798000211061"
     },
     {
@@ -8716,7 +8716,7 @@
       "id": 6038,
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3100,
+      "precio": 3250,
       "stock": -14,
       "barcode": "7791813421382"
     },
@@ -8724,7 +8724,7 @@
       "id": 6039,
       "vino": "Paso de los toros pomelo S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3100,
+      "precio": 3250,
       "stock": -1,
       "barcode": "7791813080039"
     },
@@ -8732,7 +8732,7 @@
       "id": 6040,
       "vino": "Paso de los toros tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3100,
+      "precio": 3250,
       "stock": -7,
       "barcode": "7791813421368"
     },
@@ -9589,7 +9589,7 @@
       "vino": "Marsalla El Abuelo",
       "bodega": "LICORES",
       "precio": 3300,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790119010528"
     },
     {
@@ -9901,7 +9901,7 @@
       "vino": "Cordero piel de lobo - malbec",
       "bodega": "Mosquita muerta",
       "precio": 4900,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7798353194653"
     },
     {
@@ -9973,7 +9973,7 @@
       "vino": "Perro callejero malbec",
       "bodega": "Mosquita muerta",
       "precio": 7250,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7798353194721"
     },
     {
@@ -10813,7 +10813,7 @@
       "vino": "Mistela Crotta x 2lt",
       "bodega": "VINOS DULCE",
       "precio": 11250,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794068000128"
     },
     {
@@ -11949,7 +11949,7 @@
       "vino": "El Buscador Obstinado",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 27500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798353193175"
     },
     {
@@ -12013,7 +12013,7 @@
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 29500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "5010103800310"
     },
     {
@@ -12727,7 +12727,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 30
+      "vendidos": 29
     },
     {
       "id": 6518,
@@ -12741,14 +12741,14 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "vendidos": 19
+      "vendidos": 18
     },
     {
       "id": 6374,
       "vino": "Bautismo  - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4800,
-      "vendidos": 17
+      "vendidos": 16
     },
     {
       "id": 6335,
@@ -12758,5 +12758,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-21T13:28:15.097Z"
+  "lastUpdate": "2026-04-22T21:27:14.953Z"
 }
