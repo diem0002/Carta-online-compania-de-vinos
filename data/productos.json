@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -71,
+      "stock": -72,
       "barcode": "7790036975481"
     },
     {
@@ -1709,7 +1709,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16000,
-      "stock": -14,
+      "stock": -16,
       "barcode": "7798191780117"
     },
     {
@@ -2437,7 +2437,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798089430414"
     },
     {
@@ -2885,7 +2885,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7790577040921"
     },
     {
@@ -5093,7 +5093,7 @@
       "vino": "Alamos pinot",
       "bodega": "CATENA ZAPATA",
       "precio": 7800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794450940193"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7794450088581"
     },
     {
@@ -6093,7 +6093,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5900,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7792798002399"
     },
     {
@@ -6573,7 +6573,7 @@
       "vino": "Cordero  espumante dulce espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 7800,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798353192246"
     },
     {
@@ -8581,7 +8581,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -29,
+      "stock": -30,
       "barcode": "7790895005374"
     },
     {
@@ -10925,7 +10925,7 @@
       "vino": "Doña Paula  - Cabernet",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798090160287"
     },
     {
@@ -11285,7 +11285,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7350,
-      "stock": -27,
+      "stock": -28,
       "barcode": ""
     },
     {
@@ -12758,5 +12758,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-04-22T21:27:14.953Z"
+  "lastUpdate": "2026-04-23T12:19:16.059Z"
 }
