@@ -533,7 +533,7 @@
       "vino": "PRONTO BAGGIO 1,5LT",
       "bodega": "AGUA Y SODA",
       "precio": 2600,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790036002606"
     },
     {
@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -76,
+      "stock": -77,
       "barcode": "7790036975481"
     },
     {
@@ -773,7 +773,7 @@
       "vino": "Aperol x 750",
       "bodega": "APERITIVOS",
       "precio": 10850,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7891136057029"
     },
     {
@@ -2437,7 +2437,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7798089430414"
     },
     {
@@ -3437,7 +3437,7 @@
       "vino": "Piatelli reserva - malbec Mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7798124010137"
     },
     {
@@ -3981,7 +3981,7 @@
       "vino": "Tucumen  reseva Petit verdot",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798080491803"
     },
     {
@@ -4557,7 +4557,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7798123971309"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7794450088581"
     },
     {
@@ -6397,7 +6397,7 @@
       "vino": "DAMAJUNA duret roble lacrado cabernet",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": -4,
+      "stock": -5,
       "barcode": "1148547501310"
     },
     {
@@ -8581,7 +8581,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7790895005374"
     },
     {
@@ -8661,7 +8661,7 @@
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790036004587"
     },
     {
@@ -10949,7 +10949,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798090165114"
     },
     {
@@ -12751,12 +12751,12 @@
       "vendidos": 19
     },
     {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 17
+      "id": 6171,
+      "vino": "Cordero piel de lobo - malbec",
+      "bodega": "Mosquita muerta",
+      "precio": 4900,
+      "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-04-29T23:14:45.978Z"
+  "lastUpdate": "2026-04-30T12:12:46.183Z"
 }
