@@ -3630,7 +3630,7 @@
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5200,
       "stock": 0,
-      "barcode": "7791728000863"
+      "barcode": "7791728243932"
     },
     {
       "id": 5415,
@@ -12758,5 +12758,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-01T13:32:09.509Z"
+  "lastUpdate": "2026-05-01T13:35:13.123Z"
 }
