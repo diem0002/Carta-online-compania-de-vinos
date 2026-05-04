@@ -2533,7 +2533,7 @@
       "vino": "Norton 1895",
       "bodega": "BODEGA NORTON",
       "precio": 3950,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7792319065254"
     },
     {
@@ -2885,7 +2885,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -17,
+      "stock": -18,
       "barcode": "7790577040921"
     },
     {
@@ -5237,7 +5237,7 @@
       "vino": "El enemigo cabenet Franc",
       "bodega": "CATENA ZAPATA",
       "precio": 25100,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7794450003645"
     },
     {
@@ -6388,7 +6388,7 @@
       "id": 5753,
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
-      "precio": 11070,
+      "precio": 11900,
       "stock": -29,
       "barcode": "7794068000012"
     },
@@ -8525,7 +8525,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -48,
+      "stock": -50,
       "barcode": "7790895000430"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Sprite 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790895000447"
     },
     {
@@ -9364,7 +9364,7 @@
       "id": 6105,
       "vino": "Jeez El Abuelo",
       "bodega": "LICORES",
-      "precio": 3300,
+      "precio": 5550,
       "stock": -1,
       "barcode": "7790119000031"
     },
@@ -9588,7 +9588,7 @@
       "id": 6133,
       "vino": "Marsalla El Abuelo",
       "bodega": "LICORES",
-      "precio": 3300,
+      "precio": 5550,
       "stock": -5,
       "barcode": "7790119010528"
     },
@@ -9612,7 +9612,7 @@
       "id": 6136,
       "vino": "Oporto El Abuelo",
       "bodega": "LICORES",
-      "precio": 3300,
+      "precio": 5550,
       "stock": -5,
       "barcode": "7790119010511"
     },
@@ -10317,7 +10317,7 @@
       "vino": "Emilia  - chardonay",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -7,
+      "stock": -10,
       "barcode": "7790070778109"
     },
     {
@@ -10325,7 +10325,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -25,
+      "stock": -28,
       "barcode": "7790070760722"
     },
     {
@@ -12758,5 +12758,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-04T14:36:59.414Z"
+  "lastUpdate": "2026-05-04T20:46:46.376Z"
 }
