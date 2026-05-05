@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -81,
+      "stock": -82,
       "barcode": "7790036975481"
     },
     {
@@ -2413,7 +2413,7 @@
       "vino": "Jugo de uva Correa Grieco",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7795633003049"
     },
     {
@@ -2429,7 +2429,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7795633000154"
     },
     {
@@ -2437,7 +2437,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7798089430414"
     },
     {
@@ -2885,7 +2885,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7790577040921"
     },
     {
@@ -3654,7 +3654,7 @@
       "bodega": "BODEGA ZUCCARDI",
       "precio": 7500,
       "stock": -3,
-      "barcode": "7791728000566"
+      "barcode": "7791728247671"
     },
     {
       "id": 5418,
@@ -3773,7 +3773,7 @@
       "vino": "santa Julia  - malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5200,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7791728247114"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7794450088581"
     },
     {
@@ -5693,7 +5693,7 @@
       "vino": "Hombre de la bolsa",
       "bodega": "Cepas de origen SRL",
       "precio": 4100,
-      "stock": 10,
+      "stock": 9,
       "barcode": "7798454560029"
     },
     {
@@ -5709,7 +5709,7 @@
       "vino": "Viejo con gafas",
       "bodega": "Cepas de origen srl",
       "precio": 4100,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7798454560012"
     },
     {
@@ -6405,7 +6405,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": -7,
+      "stock": -8,
       "barcode": "1148547501013"
     },
     {
@@ -6525,7 +6525,7 @@
       "vino": "Equilibrista Joven",
       "bodega": "EQUILIBRISTA",
       "precio": 8500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798193470016"
     },
     {
@@ -8581,7 +8581,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790895005374"
     },
     {
@@ -12727,14 +12727,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 27
-    },
-    {
-      "id": 6350,
-      "vino": "Sottano  - malbec",
-      "bodega": "Vicentin Family Wines",
-      "precio": 7350,
-      "vendidos": 21
+      "vendidos": 24
     },
     {
       "id": 5420,
@@ -12755,8 +12748,15 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 20
+      "vendidos": 19
+    },
+    {
+      "id": 5322,
+      "vino": "Trumpeter x 375",
+      "bodega": "BODEGA RUTINI",
+      "precio": 5900,
+      "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-05-04T20:46:46.376Z"
+  "lastUpdate": "2026-05-05T15:12:56.895Z"
 }
