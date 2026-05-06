@@ -101,7 +101,7 @@
       "vino": "Chocolate Blanco x25g",
       "bodega": "Golosinas",
       "precio": 750,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7790380024217"
     },
     {
@@ -453,7 +453,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790036008974"
     },
     {
@@ -461,7 +461,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -28,
+      "stock": -29,
       "barcode": "7790036001647"
     },
     {
@@ -2205,7 +2205,7 @@
       "vino": "Dilema Day Blanco Dce",
       "bodega": "BODEGA FECOVITA",
       "precio": 3960,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790314001475"
     },
     {
@@ -2429,7 +2429,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -17,
+      "stock": -29,
       "barcode": "7795633000154"
     },
     {
@@ -2741,7 +2741,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 17200,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7790577001663"
     },
     {
@@ -3421,7 +3421,7 @@
       "vino": "Piatelli reserva - cabernet  salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798124010212"
     },
     {
@@ -4149,7 +4149,7 @@
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 8500,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7790415129122"
     },
     {
@@ -4469,7 +4469,7 @@
       "vino": "Las Perdices PARTRIDGE Bag In Box",
       "bodega": "Bodega Las Perdices",
       "precio": 18000,
-      "stock": -6,
+      "stock": -10,
       "barcode": "7798123974515"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -17,
+      "stock": -18,
       "barcode": "7794450088581"
     },
     {
@@ -8357,7 +8357,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2100,
-      "stock": -39,
+      "stock": -40,
       "barcode": "66"
     },
     {
@@ -9893,7 +9893,7 @@
       "vino": "Cordero piel de lobo - cabernet",
       "bodega": "Mosquita muerta",
       "precio": 4900,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7798353194660"
     },
     {
@@ -11268,7 +11268,7 @@
       "id": 6348,
       "vino": "Sottano  - blend",
       "bodega": "Vicentin Family Wines",
-      "precio": 7350,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7798127631322"
     },
@@ -11276,7 +11276,7 @@
       "id": 6349,
       "vino": "Sottano  - cabernet",
       "bodega": "Vicentin Family Wines",
-      "precio": 7350,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7798127630042"
     },
@@ -11284,7 +11284,7 @@
       "id": 6350,
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 7350,
+      "precio": 7800,
       "stock": -37,
       "barcode": ""
     },
@@ -11292,7 +11292,7 @@
       "id": 6351,
       "vino": "Sottano -Torrontes",
       "bodega": "Vicentin Family Wines",
-      "precio": 7350,
+      "precio": 7800,
       "stock": 0,
       "barcode": ""
     },
@@ -11300,7 +11300,7 @@
       "id": 6352,
       "vino": "Sottano -Torrontes Dulce",
       "bodega": "Vicentin Family Wines",
-      "precio": 7350,
+      "precio": 7800,
       "stock": 0,
       "barcode": ""
     },
@@ -11308,7 +11308,7 @@
       "id": 6353,
       "vino": "Sottano Famiglia",
       "bodega": "Vicentin Family Wines",
-      "precio": 19100,
+      "precio": 20300,
       "stock": -4,
       "barcode": "7798127630837"
     },
@@ -11324,8 +11324,8 @@
       "id": 6355,
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
-      "precio": 7350,
-      "stock": -2,
+      "precio": 7800,
+      "stock": -5,
       "barcode": "7798127630011"
     },
     {
@@ -11661,7 +11661,7 @@
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 3900,
-      "stock": -13,
+      "stock": -17,
       "barcode": "7798162670713"
     },
     {
@@ -12744,19 +12744,19 @@
       "vendidos": 20
     },
     {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 19
-    },
-    {
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
       "vendidos": 18
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
+      "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-05-05T15:12:56.895Z"
+  "lastUpdate": "2026-05-06T13:21:58.242Z"
 }
