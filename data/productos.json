@@ -37,7 +37,7 @@
       "vino": "Barras de cereal frutos del bosque",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380020028"
     },
     {
@@ -45,7 +45,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380020172"
     },
     {
@@ -69,7 +69,7 @@
       "vino": "Barras de cereal mix de fruta",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380014928"
     },
     {
@@ -421,7 +421,7 @@
       "vino": "Agua Bidon de las Misiones",
       "bodega": "AGUA Y SODA",
       "precio": 2750,
-      "stock": -3,
+      "stock": -4,
       "barcode": ""
     },
     {
@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -82,
+      "stock": -84,
       "barcode": "7790036975481"
     },
     {
@@ -805,7 +805,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 17150,
-      "stock": -25,
+      "stock": -26,
       "barcode": "7790290101602"
     },
     {
@@ -2013,7 +2013,7 @@
       "vino": "Latitud 33 malbec",
       "bodega": "BODEGA CHANDON",
       "precio": 6700,
-      "stock": 0,
+      "stock": -3,
       "barcode": "7790975204062"
     },
     {
@@ -3413,7 +3413,7 @@
       "vino": "Piatelli natural sweet (bco dul)",
       "bodega": "BODEGA VISTALBA",
       "precio": 8800,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7798276560771"
     },
     {
@@ -4565,7 +4565,7 @@
       "vino": "Las perdices PARTRIDGE Cabernet",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798123971316"
     },
     {
@@ -5005,7 +5005,7 @@
       "vino": "Felino malbec",
       "bodega": "Bodega Viñas de Cobos",
       "precio": 19300,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798145140172"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7794450088581"
     },
     {
@@ -6093,7 +6093,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5900,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7792798002399"
     },
     {
@@ -6333,7 +6333,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "DAMAJUANAS",
       "precio": 24050,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7794068000449"
     },
     {
@@ -6389,7 +6389,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -29,
+      "stock": -31,
       "barcode": "7794068000012"
     },
     {
@@ -6743,6 +6743,14 @@
       "precio": 25600,
       "stock": -4,
       "barcode": "32"
+    },
+    {
+      "id": 6596,
+      "vino": "Estuche Dalmata ",
+      "bodega": "ESTUCHES",
+      "precio": 43000,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 5796,
@@ -8525,7 +8533,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -50,
+      "stock": -52,
       "barcode": "7790895000430"
     },
     {
@@ -8549,7 +8557,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3750,
-      "stock": -43,
+      "stock": -44,
       "barcode": "7790895000218"
     },
     {
@@ -8725,7 +8733,7 @@
       "vino": "Paso de los toros pomelo S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3250,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7791813080039"
     },
     {
@@ -10325,7 +10333,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -28,
+      "stock": -31,
       "barcode": "7790070760722"
     },
     {
@@ -11821,7 +11829,7 @@
       "vino": "vino del espacio - cabernet franc",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 6100,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798112631047"
     },
     {
@@ -12285,7 +12293,7 @@
       "vino": "Old Smugler",
       "bodega": "WHISKYS NACIONALES",
       "precio": 9850,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798131200613"
     },
     {
@@ -12744,19 +12752,19 @@
       "vendidos": 20
     },
     {
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6600,
+      "vendidos": 19
+    },
+    {
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
       "vendidos": 18
-    },
-    {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-05-06T13:21:58.242Z"
+  "lastUpdate": "2026-05-07T15:07:06.501Z"
 }
