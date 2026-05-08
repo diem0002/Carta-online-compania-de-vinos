@@ -5781,7 +5781,7 @@
       "vino": "Kaiserdon x 1 lt Pilsener",
       "bodega": "Cervezas Importadas latas",
       "precio": 16100,
-      "stock": -1,
+      "stock": -2,
       "barcode": "4004591037038"
     },
     {
@@ -8692,7 +8692,7 @@
       "id": 6035,
       "vino": "Mirinda manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2400,
+      "precio": 2500,
       "stock": -7,
       "barcode": "7791813423317"
     },
@@ -8716,7 +8716,7 @@
       "id": 6038,
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3250,
+      "precio": 3500,
       "stock": -15,
       "barcode": "7791813421382"
     },
@@ -8724,7 +8724,7 @@
       "id": 6039,
       "vino": "Paso de los toros pomelo S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3250,
+      "precio": 3500,
       "stock": -3,
       "barcode": "7791813080039"
     },
@@ -8732,7 +8732,7 @@
       "id": 6040,
       "vino": "Paso de los toros tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3250,
+      "precio": 3500,
       "stock": -8,
       "barcode": "7791813421368"
     },
@@ -12766,5 +12766,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-05-08T15:30:20.158Z"
+  "lastUpdate": "2026-05-08T15:35:17.882Z"
 }
