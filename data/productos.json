@@ -8548,7 +8548,7 @@
       "id": 6017,
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3750,
+      "precio": 3850,
       "stock": -44,
       "barcode": "7790895000218"
     },
@@ -8556,7 +8556,7 @@
       "id": 6018,
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3750,
+      "precio": 3850,
       "stock": -8,
       "barcode": "7790895067617"
     },
@@ -8564,7 +8564,7 @@
       "id": 6019,
       "vino": "Coca Cola lata x220",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 900,
+      "precio": 1150,
       "stock": -5,
       "barcode": "7790895642081"
     },
@@ -8572,7 +8572,7 @@
       "id": 6020,
       "vino": "Coca Cola lata x310",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 0,
+      "precio": 1600,
       "stock": -1,
       "barcode": ""
     },
@@ -8588,7 +8588,7 @@
       "id": 6022,
       "vino": "Coca Cola x500",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1400,
+      "precio": 1800,
       "stock": -3,
       "barcode": "7790895000782"
     },
@@ -8700,7 +8700,7 @@
       "id": 6036,
       "vino": "Monster",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2500,
+      "precio": 3450,
       "stock": 0,
       "barcode": "7798422620014"
     },
@@ -8708,7 +8708,7 @@
       "id": 6037,
       "vino": "Monster mango",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2500,
+      "precio": 3450,
       "stock": -1,
       "barcode": "7798422620045"
     },
@@ -8740,7 +8740,7 @@
       "id": 6041,
       "vino": "Powerade x500 azul",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2350,
+      "precio": 2500,
       "stock": -4,
       "barcode": "7790895640025"
     },
@@ -8748,7 +8748,7 @@
       "id": 6042,
       "vino": "Powerade x500 manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2350,
+      "precio": 2500,
       "stock": -2,
       "barcode": "7790895640018"
     },
@@ -8756,7 +8756,7 @@
       "id": 6043,
       "vino": "Powerade x500 rojo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2350,
+      "precio": 2500,
       "stock": 0,
       "barcode": "7790895641183"
     },
@@ -8828,7 +8828,7 @@
       "id": 6052,
       "vino": "Sprite retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3750,
+      "precio": 3850,
       "stock": -7,
       "barcode": "7790895000225"
     },
@@ -8836,7 +8836,7 @@
       "id": 6053,
       "vino": "Sprite x 500",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1400,
+      "precio": 1800,
       "stock": -1,
       "barcode": "7790895000829"
     },
@@ -12766,5 +12766,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-05-08T15:35:17.882Z"
+  "lastUpdate": "2026-05-08T15:41:28.443Z"
 }
