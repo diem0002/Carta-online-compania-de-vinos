@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7790380025191"
     },
     {
@@ -204,7 +204,7 @@
       "id": 6587,
       "vino": "Promo Patagonia",
       "bodega": "Promos",
-      "precio": 10400,
+      "precio": 11000,
       "stock": 0,
       "barcode": ""
     },
@@ -220,7 +220,7 @@
       "id": 6568,
       "vino": "Promo Stella lata x473",
       "bodega": "Promos",
-      "precio": 19400,
+      "precio": 20000,
       "stock": 0,
       "barcode": ""
     },
@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -84,
+      "stock": -85,
       "barcode": "7790036975481"
     },
     {
@@ -1596,7 +1596,7 @@
       "id": 5156,
       "vino": "clasico inmigrante estuche",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 37100,
+      "precio": 37200,
       "stock": -1,
       "barcode": "7798375760089"
     },
@@ -1620,7 +1620,7 @@
       "id": 5159,
       "vino": "gin inmigrante pomelo",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 20600,
+      "precio": 20750,
       "stock": -3,
       "barcode": "7798375760041"
     },
@@ -1644,7 +1644,7 @@
       "id": 5162,
       "vino": "pomelo inmigrante estuche",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 38300,
+      "precio": 38400,
       "stock": -1,
       "barcode": "7798375760065"
     },
@@ -2741,7 +2741,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 17200,
-      "stock": -17,
+      "stock": -18,
       "barcode": "7790577001663"
     },
     {
@@ -2821,7 +2821,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -74,
+      "stock": -75,
       "barcode": "7790577002165"
     },
     {
@@ -3013,7 +3013,7 @@
       "vino": "Killka malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 7600,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798074865191"
     },
     {
@@ -3445,7 +3445,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -25,
+      "stock": -26,
       "barcode": "7798124010243"
     },
     {
@@ -4397,7 +4397,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7798123970098"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7794450088581"
     },
     {
@@ -5709,7 +5709,7 @@
       "vino": "Viejo con gafas",
       "bodega": "Cepas de origen srl",
       "precio": 4100,
-      "stock": 6,
+      "stock": 5,
       "barcode": "7798454560012"
     },
     {
@@ -5916,7 +5916,7 @@
       "id": 5694,
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3350,
+      "precio": 3700,
       "stock": -61,
       "barcode": "7792798003709"
     },
@@ -5924,7 +5924,7 @@
       "id": 5695,
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2700,
+      "precio": 2800,
       "stock": -43,
       "barcode": "7792798014873"
     },
@@ -5932,7 +5932,7 @@
       "id": 5696,
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5500,
+      "precio": 5600,
       "stock": -14,
       "barcode": "7792798003716"
     },
@@ -6082,9 +6082,9 @@
     },
     {
       "id": 5715,
-      "vino": "Patagonia x 473",
+      "vino": "Patagonia lata 24/7 x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 4100,
+      "precio": 4350,
       "stock": -2,
       "barcode": "7792798001965"
     },
@@ -6092,7 +6092,7 @@
       "id": 5716,
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5900,
+      "precio": 6310,
       "stock": -11,
       "barcode": "7792798002399"
     },
@@ -6100,7 +6100,7 @@
       "id": 5717,
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5900,
+      "precio": 6310,
       "stock": -5,
       "barcode": "7792798002351"
     },
@@ -6108,7 +6108,7 @@
       "id": 5718,
       "vino": "Patagonia x 730 Lager sur",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5900,
+      "precio": 6310,
       "stock": 0,
       "barcode": "7792798015023"
     },
@@ -6124,7 +6124,7 @@
       "id": 5720,
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2400,
+      "precio": 2560,
       "stock": -26,
       "barcode": "7792798001316"
     },
@@ -6180,7 +6180,7 @@
       "id": 5727,
       "vino": "Stella x 710",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5320,
+      "precio": 5670,
       "stock": -5,
       "barcode": ""
     },
@@ -6188,23 +6188,15 @@
       "id": 5728,
       "vino": "Stella x473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3680,
+      "precio": 3900,
       "stock": -22,
       "barcode": "7792798010615"
-    },
-    {
-      "id": 5729,
-      "vino": "Stella x710",
-      "bodega": "Cervezas Nacionales latas",
-      "precio": 0,
-      "stock": 0,
-      "barcode": ""
     },
     {
       "id": 5730,
       "vino": "StellaSin Alcohol x473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2500,
+      "precio": 2800,
       "stock": -6,
       "barcode": "7792798013487"
     },
@@ -6333,7 +6325,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "DAMAJUANAS",
       "precio": 24050,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7794068000449"
     },
     {
@@ -6573,7 +6565,7 @@
       "vino": "Cordero  espumante dulce espumante dulce",
       "bodega": "ESPUMANTES DULCES",
       "precio": 7800,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798353192246"
     },
     {
@@ -7989,7 +7981,7 @@
       "vino": "329 marsellan",
       "bodega": "FINCA FENIX",
       "precio": 16000,
-      "stock": -8,
+      "stock": -11,
       "barcode": "727373047257"
     },
     {
@@ -8005,7 +7997,7 @@
       "vino": "329 tannat",
       "bodega": "FINCA FENIX",
       "precio": 16000,
-      "stock": -8,
+      "stock": -10,
       "barcode": "727373047233"
     },
     {
@@ -8693,7 +8685,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7790036129136"
     },
     {
@@ -10357,7 +10349,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7790070760777"
     },
     {
@@ -10373,7 +10365,7 @@
       "vino": "Emilia rose coktail",
       "bodega": "Nieto Senetiner",
       "precio": 5900,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790070764027"
     },
     {
@@ -10949,7 +10941,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7798090160065"
     },
     {
@@ -12601,6 +12593,14 @@
       "barcode": "47"
     },
     {
+      "id": 6597,
+      "vino": "Michelob x275",
+      "bodega": "cervezas nacionales",
+      "precio": 2600,
+      "stock": 0,
+      "barcode": "7840050009737"
+    },
+    {
       "id": 5829,
       "vino": "Gin copa vidrio",
       "bodega": "cristaleria",
@@ -12738,13 +12738,6 @@
       "vendidos": 24
     },
     {
-      "id": 5420,
-      "vino": "Santa Julia tinto Dulce",
-      "bodega": "BODEGA ZUCCARDI",
-      "precio": 6150,
-      "vendidos": 21
-    },
-    {
       "id": 6001,
       "vino": "Fuego Negro malbec",
       "bodega": "FUEGO NEGRO",
@@ -12752,10 +12745,17 @@
       "vendidos": 20
     },
     {
-      "id": 6224,
-      "vino": "Emilia  - malbec",
-      "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "id": 5420,
+      "vino": "Santa Julia tinto Dulce",
+      "bodega": "BODEGA ZUCCARDI",
+      "precio": 6150,
+      "vendidos": 19
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
       "vendidos": 19
     },
     {
@@ -12766,5 +12766,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-05-07T15:07:06.501Z"
+  "lastUpdate": "2026-05-08T15:30:20.158Z"
 }
