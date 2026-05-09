@@ -3773,7 +3773,7 @@
       "vino": "santa Julia  - malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5200,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7791728247114"
     },
     {
@@ -12108,7 +12108,7 @@
       "id": 6449,
       "vino": "Johnnie Walker Black Label x 1Lt",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 65500,
+      "precio": 75500,
       "stock": -1,
       "barcode": "5000267023601"
     },
@@ -12782,5 +12782,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-09T12:25:20.911Z"
+  "lastUpdate": "2026-05-09T13:11:25.049Z"
 }
