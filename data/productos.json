@@ -413,7 +413,7 @@
       "vino": "Agua Bidon Fresh",
       "bodega": "AGUA Y SODA",
       "precio": 2400,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790036975566"
     },
     {
@@ -893,7 +893,7 @@
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
       "precio": 8380,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790950000160"
     },
     {
@@ -2701,7 +2701,7 @@
       "vino": "Ricordi",
       "bodega": "BODEGA RPB.S.A",
       "precio": 9800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790036009513"
     },
     {
@@ -2717,7 +2717,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13900,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7790577006101"
     },
     {
@@ -3029,7 +3029,7 @@
       "vino": "Pyros Syrah",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12600,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798108833080"
     },
     {
@@ -3045,7 +3045,7 @@
       "vino": "Salentein  - blend corte tinta",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12600,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7798074864194"
     },
     {
@@ -3301,7 +3301,7 @@
       "vino": "Fond de Cave  - malbec",
       "bodega": "BODEGA TRAPICHE",
       "precio": 7700,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7790240041460"
     },
     {
@@ -3677,7 +3677,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7791728248265"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -22,
+      "stock": -24,
       "barcode": "7794450088581"
     },
     {
@@ -7317,7 +7317,7 @@
       "vino": "Baron B  Extra Brut",
       "bodega": "Espumantes",
       "precio": 35350,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790975000152"
     },
     {
@@ -8413,7 +8413,7 @@
       "vino": "Fuego Negro Syrah",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798109156140"
     },
     {
@@ -8461,7 +8461,7 @@
       "vino": "Eugenio bustos malbec",
       "bodega": "Fca.LA CELIA",
       "precio": 5900,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798141877362"
     },
     {
@@ -8541,7 +8541,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -56,
+      "stock": -57,
       "barcode": "7790895000430"
     },
     {
@@ -8549,7 +8549,7 @@
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5600,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7790895000997"
     },
     {
@@ -8733,7 +8733,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3500,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7791813421382"
     },
     {
@@ -9045,7 +9045,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7798112631306"
     },
     {
@@ -10565,7 +10565,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790480089741"
     },
     {
@@ -11005,7 +11005,7 @@
       "vino": "Doña Paula  - Unique organico",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8100,
-      "stock": -2,
+      "stock": -3,
       "barcode": ""
     },
     {
@@ -11845,7 +11845,7 @@
       "vino": "vino del espacio - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 6100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798112631030"
     },
     {
@@ -12045,7 +12045,7 @@
       "vino": "Jack Daniel´s  Honey",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 44000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "082184000335"
     },
     {
@@ -12747,24 +12747,24 @@
   ],
   "destacados": [
     {
+      "id": 5627,
+      "vino": "Saint Felicien malbec",
+      "bodega": "CATENA ZAPATA",
+      "precio": 12100,
+      "vendidos": 21
+    },
+    {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 24
+      "vendidos": 20
     },
     {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 21
-    },
-    {
-      "id": 5627,
-      "vino": "Saint Felicien malbec",
-      "bodega": "CATENA ZAPATA",
-      "precio": 12100,
       "vendidos": 19
     },
     {
@@ -12782,5 +12782,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-10T15:02:45.190Z"
+  "lastUpdate": "2026-05-11T12:40:31.902Z"
 }
