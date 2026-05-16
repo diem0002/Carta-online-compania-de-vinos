@@ -565,7 +565,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -91,
+      "stock": -92,
       "barcode": "7790036975481"
     },
     {
@@ -1820,7 +1820,7 @@
       "id": 5184,
       "vino": "Callia Alta Estuche x 1",
       "bodega": "BODEGA CALLIA",
-      "precio": 6500,
+      "precio": 7000,
       "stock": 0,
       "barcode": ""
     },
@@ -1828,7 +1828,7 @@
       "id": 5185,
       "vino": "Callia Varietales  - Criolla rosado",
       "bodega": "BODEGA CALLIA",
-      "precio": 4600,
+      "precio": 4800,
       "stock": 0,
       "barcode": "7798108834445"
     },
@@ -1836,7 +1836,7 @@
       "id": 5186,
       "vino": "Callia Varietales  - cabernet",
       "bodega": "BODEGA CALLIA",
-      "precio": 4600,
+      "precio": 4800,
       "stock": 0,
       "barcode": "7798108833530"
     },
@@ -1844,7 +1844,7 @@
       "id": 5187,
       "vino": "Callia Varietales  - malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 4600,
+      "precio": 4800,
       "stock": -3,
       "barcode": "7798108833462"
     },
@@ -1852,7 +1852,7 @@
       "id": 5188,
       "vino": "Callia Varietales  - syrah caber",
       "bodega": "BODEGA CALLIA",
-      "precio": 4600,
+      "precio": 4800,
       "stock": 0,
       "barcode": ""
     },
@@ -1860,7 +1860,7 @@
       "id": 5189,
       "vino": "Callia Varietales  - syrah malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 4600,
+      "precio": 4800,
       "stock": 0,
       "barcode": "7798108833486"
     },
@@ -1892,7 +1892,7 @@
       "id": 5193,
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 5170,
+      "precio": 5400,
       "stock": -11,
       "barcode": "7798108834339"
     },
@@ -1900,7 +1900,7 @@
       "id": 5194,
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 5170,
+      "precio": 5400,
       "stock": -15,
       "barcode": "7798108834377"
     },
@@ -1908,7 +1908,7 @@
       "id": 5195,
       "vino": "Esperado Syrah/ cabernet",
       "bodega": "BODEGA CALLIA",
-      "precio": 5170,
+      "precio": 5400,
       "stock": 0,
       "barcode": "7798108832533"
     },
@@ -1916,7 +1916,7 @@
       "id": 5196,
       "vino": "Esperado cabernet",
       "bodega": "BODEGA CALLIA",
-      "precio": 5170,
+      "precio": 5400,
       "stock": 0,
       "barcode": "7798108833127"
     },
@@ -2892,7 +2892,7 @@
       "id": 5323,
       "vino": "Contra cara blend",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 6300,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7798108833387"
     },
@@ -2900,7 +2900,7 @@
       "id": 5324,
       "vino": "Contra cara cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 6300,
+      "precio": 7000,
       "stock": 0,
       "barcode": ""
     },
@@ -2908,7 +2908,7 @@
       "id": 5325,
       "vino": "Contra cara malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 6300,
+      "precio": 7000,
       "stock": -1,
       "barcode": "7798108833400"
     },
@@ -2916,7 +2916,7 @@
       "id": 5326,
       "vino": "El Portillo  - cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5350,
+      "precio": 5600,
       "stock": -1,
       "barcode": "7798074860233"
     },
@@ -2924,7 +2924,7 @@
       "id": 5327,
       "vino": "El Portillo  - chardonay",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5350,
+      "precio": 5600,
       "stock": -6,
       "barcode": "7798074864750"
     },
@@ -2932,7 +2932,7 @@
       "id": 5328,
       "vino": "El Portillo  - dulce",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5550,
+      "precio": 5850,
       "stock": -1,
       "barcode": "7798074863708"
     },
@@ -2940,7 +2940,7 @@
       "id": 5329,
       "vino": "El Portillo  - malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5350,
+      "precio": 5600,
       "stock": -1,
       "barcode": "7798074860240"
     },
@@ -2948,7 +2948,7 @@
       "id": 5330,
       "vino": "El Portillo  - tempranillo",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5350,
+      "precio": 5600,
       "stock": 0,
       "barcode": "7798074860264"
     },
@@ -2956,7 +2956,7 @@
       "id": 5331,
       "vino": "El Portillo - Merlot",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5350,
+      "precio": 5600,
       "stock": 0,
       "barcode": "7798074860257"
     },
@@ -2964,7 +2964,7 @@
       "id": 5332,
       "vino": "El Portillo - sauv. Blanc",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5350,
+      "precio": 5200,
       "stock": 0,
       "barcode": "7798074864774"
     },
@@ -6820,7 +6820,7 @@
       "id": 5803,
       "vino": "Portillo x2",
       "bodega": "ESTUCHES",
-      "precio": 10500,
+      "precio": 13000,
       "stock": 0,
       "barcode": "7798074863098"
     },
@@ -8373,7 +8373,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2100,
-      "stock": -42,
+      "stock": -43,
       "barcode": "66"
     },
     {
@@ -8597,7 +8597,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -40,
+      "stock": -41,
       "barcode": "7790895005374"
     },
     {
@@ -12782,5 +12782,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-16T23:01:13.893Z"
+  "lastUpdate": "2026-05-16T23:13:19.201Z"
 }
