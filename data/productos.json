@@ -877,7 +877,7 @@
       "vino": "Cynar",
       "bodega": "APERITIVOS",
       "precio": 9750,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7791200000626"
     },
     {
@@ -2805,7 +2805,7 @@
       "vino": "Trumpeter  - cabernet franc",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790577044837"
     },
     {
@@ -2821,7 +2821,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -80,
+      "stock": -81,
       "barcode": "7790577002165"
     },
     {
@@ -2972,7 +2972,7 @@
       "id": 5333,
       "vino": "Killka Malbec blanco",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7600,
+      "precio": 7900,
       "stock": -4,
       "barcode": "7798074865177"
     },
@@ -2980,7 +2980,7 @@
       "id": 5334,
       "vino": "Killka Sauv.Blanc",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7600,
+      "precio": 7900,
       "stock": -3,
       "barcode": "7798074862756"
     },
@@ -2988,7 +2988,7 @@
       "id": 5335,
       "vino": "Killka blend",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7600,
+      "precio": 7900,
       "stock": -2,
       "barcode": "7798074865153"
     },
@@ -2996,7 +2996,7 @@
       "id": 5336,
       "vino": "Killka cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7600,
+      "precio": 7900,
       "stock": 0,
       "barcode": "7798074862084"
     },
@@ -3004,7 +3004,7 @@
       "id": 5337,
       "vino": "Killka chardonay",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7600,
+      "precio": 7900,
       "stock": 0,
       "barcode": "7798074865115"
     },
@@ -3012,7 +3012,7 @@
       "id": 5338,
       "vino": "Killka malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7600,
+      "precio": 7900,
       "stock": -5,
       "barcode": "7798074865191"
     },
@@ -3069,7 +3069,7 @@
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12000,
-      "stock": -20,
+      "stock": -24,
       "barcode": "7798074865313"
     },
     {
@@ -6852,7 +6852,7 @@
       "id": 5807,
       "vino": "Salentein x2 Estuche",
       "bodega": "ESTUCHES",
-      "precio": 40800,
+      "precio": 43000,
       "stock": -2,
       "barcode": "7798074869359"
     },
@@ -7636,7 +7636,7 @@
       "id": 5911,
       "vino": "Salentein Blanc de Blanc espumante",
       "bodega": "Espumantes",
-      "precio": 12900,
+      "precio": 14700,
       "stock": -1,
       "barcode": "7798074865016"
     },
@@ -7644,7 +7644,7 @@
       "id": 5912,
       "vino": "Salentein Brut Nature",
       "bodega": "Espumantes",
-      "precio": 13150,
+      "precio": 14050,
       "stock": -9,
       "barcode": "7798074864910"
     },
@@ -7652,7 +7652,7 @@
       "id": 5913,
       "vino": "Salentein Brut rose espumante",
       "bodega": "Espumantes",
-      "precio": 13150,
+      "precio": 14050,
       "stock": -1,
       "barcode": "7798074864996"
     },
@@ -7660,7 +7660,7 @@
       "id": 5914,
       "vino": "Salentein Extra brut espumante",
       "bodega": "Espumantes",
-      "precio": 12900,
+      "precio": 13800,
       "stock": 0,
       "barcode": "7798074864972"
     },
@@ -8797,7 +8797,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -13,
+      "stock": -16,
       "barcode": "7790895010088"
     },
     {
@@ -10125,7 +10125,7 @@
       "vino": "Los Arboles malbec",
       "bodega": "NAVARRO CORREAS",
       "precio": 4600,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7791250000935"
     },
     {
@@ -12758,7 +12758,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 21
+      "vendidos": 22
     },
     {
       "id": 6350,
@@ -12782,5 +12782,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-16T22:46:06.503Z"
+  "lastUpdate": "2026-05-16T23:01:13.893Z"
 }
