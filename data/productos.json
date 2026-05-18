@@ -164,7 +164,7 @@
       "id": 6520,
       "vino": "Promo Branca",
       "bodega": "Promos",
-      "precio": 22500,
+      "precio": 22800,
       "stock": 0,
       "barcode": ""
     },
@@ -796,7 +796,7 @@
       "id": 5055,
       "vino": "Branca Menta x 750",
       "bodega": "APERITIVOS",
-      "precio": 17150,
+      "precio": 17500,
       "stock": -1,
       "barcode": "7790290101473"
     },
@@ -812,7 +812,7 @@
       "id": 5057,
       "vino": "Branca x 450",
       "bodega": "APERITIVOS",
-      "precio": 11460,
+      "precio": 11550,
       "stock": -6,
       "barcode": "7790290001179"
     },
@@ -820,7 +820,7 @@
       "id": 5058,
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
-      "precio": 17150,
+      "precio": 17500,
       "stock": -31,
       "barcode": "7790290101602"
     },
@@ -828,7 +828,7 @@
       "id": 5059,
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
-      "precio": 24050,
+      "precio": 24100,
       "stock": -9,
       "barcode": "7790290000523"
     },
@@ -12806,5 +12806,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-18T15:40:01.566Z"
+  "lastUpdate": "2026-05-18T15:42:04.300Z"
 }
