@@ -249,10 +249,26 @@
       "barcode": ""
     },
     {
+      "id": 6602,
+      "vino": "Promo barrita ",
+      "bodega": "Promos",
+      "precio": 4000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6538,
       "vino": "Promo cacheuta gran reserva 1+1",
       "bodega": "Promos",
       "precio": 25000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6601,
+      "vino": "Promo dulce ",
+      "bodega": "Promos",
+      "precio": 5000,
       "stock": 0,
       "barcode": ""
     },
@@ -820,7 +836,7 @@
       "id": 5060,
       "vino": "Campari",
       "bodega": "APERITIVOS",
-      "precio": 10850,
+      "precio": 11000,
       "stock": -6,
       "barcode": "7891136052000"
     },
@@ -844,7 +860,7 @@
       "id": 5063,
       "vino": "Carpano rosso",
       "bodega": "APERITIVOS",
-      "precio": 8260,
+      "precio": 8300,
       "stock": -1,
       "barcode": "7790290008192"
     },
@@ -1772,7 +1788,7 @@
       "id": 5178,
       "vino": "Don Valentin Lacrado",
       "bodega": "BODEGA BIANCHI",
-      "precio": 3350,
+      "precio": 4350,
       "stock": 0,
       "barcode": ""
     },
@@ -1812,7 +1828,7 @@
       "id": 5183,
       "vino": "New Age",
       "bodega": "BODEGA BIANCHI",
-      "precio": 3950,
+      "precio": 4500,
       "stock": -4,
       "barcode": "7790703165207"
     },
@@ -2012,7 +2028,7 @@
       "id": 5208,
       "vino": "Latitud 33 malbec",
       "bodega": "BODEGA CHANDON",
-      "precio": 6700,
+      "precio": 7150,
       "stock": -3,
       "barcode": "7790975204062"
     },
@@ -2676,7 +2692,7 @@
       "id": 5296,
       "vino": "Bodega privada Epico",
       "bodega": "BODEGA RPB.S.A",
-      "precio": 8500,
+      "precio": 8300,
       "stock": 0,
       "barcode": "7790036008011"
     },
@@ -2700,7 +2716,7 @@
       "id": 5299,
       "vino": "Ricordi",
       "bodega": "BODEGA RPB.S.A",
-      "precio": 9800,
+      "precio": 5700,
       "stock": -1,
       "barcode": "7790036009513"
     },
@@ -8820,7 +8836,7 @@
       "id": 6049,
       "vino": "Speed x 473",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2700,
+      "precio": 2800,
       "stock": -1,
       "barcode": "7798119220183"
     },
@@ -9420,7 +9436,7 @@
       "id": 6110,
       "vino": "Licor Frangelico",
       "bodega": "LICORES",
-      "precio": 43120,
+      "precio": 44000,
       "stock": 0,
       "barcode": "8004160660304"
     },
@@ -11884,7 +11900,7 @@
       "id": 6421,
       "vino": "Ballantines x 1000",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 42000,
+      "precio": 45000,
       "stock": -3,
       "barcode": "5010106111925"
     },
@@ -11892,7 +11908,7 @@
       "id": 6422,
       "vino": "Ballantines x 750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 33500,
+      "precio": 37000,
       "stock": 0,
       "barcode": "5010106111536"
     },
@@ -11932,7 +11948,7 @@
       "id": 6427,
       "vino": "Chivas Regal Estuche x 750 12 años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 59500,
+      "precio": 62000,
       "stock": -1,
       "barcode": "080432402931"
     },
@@ -12044,7 +12060,7 @@
       "id": 6441,
       "vino": "Jack Daniel´s  Honey",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 44000,
+      "precio": 48100,
       "stock": -2,
       "barcode": "082184000335"
     },
@@ -12052,7 +12068,7 @@
       "id": 6442,
       "vino": "Jameson 8 Años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 38000,
+      "precio": 40500,
       "stock": 4,
       "barcode": "5011007003005"
     },
@@ -12252,7 +12268,7 @@
       "id": 6467,
       "vino": "Blenders x 1 lt",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 11700,
+      "precio": 13000,
       "stock": -2,
       "barcode": "7792410532181"
     },
@@ -12268,7 +12284,7 @@
       "id": 6469,
       "vino": "Doble - V Etiqueta Negra",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 6550,
+      "precio": 7300,
       "stock": -4,
       "barcode": "7792410527880"
     },
@@ -12276,7 +12292,7 @@
       "id": 6470,
       "vino": "Hiram Walker",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 4800,
+      "precio": 6200,
       "stock": 0,
       "barcode": "7792410527903"
     },
@@ -12284,7 +12300,7 @@
       "id": 6471,
       "vino": "Los Criadores x 1L",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 8800,
+      "precio": 10500,
       "stock": -2,
       "barcode": "7790480089765"
     },
@@ -12308,7 +12324,7 @@
       "id": 6474,
       "vino": "Premiun",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 6050,
+      "precio": 6100,
       "stock": 0,
       "barcode": "7792410523806"
     },
@@ -12609,6 +12625,14 @@
       "barcode": "47"
     },
     {
+      "id": 6600,
+      "vino": "Estrella galicia x330 ",
+      "bodega": "cerveza",
+      "precio": 2800,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6597,
       "vino": "Michelob x275",
       "bodega": "cervezas nacionales",
@@ -12782,5 +12806,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-18T12:11:18.449Z"
+  "lastUpdate": "2026-05-18T15:40:01.566Z"
 }
