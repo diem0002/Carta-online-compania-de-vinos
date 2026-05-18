@@ -11445,7 +11445,7 @@
       "vino": "061 Red Blend",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 9000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798081669164"
     },
     {
@@ -12758,7 +12758,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 23
+      "vendidos": 21
     },
     {
       "id": 6350,
@@ -12775,12 +12775,12 @@
       "vendidos": 18
     },
     {
-      "id": 6397,
-      "vino": "Profugo Malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3900,
+      "id": 5322,
+      "vino": "Trumpeter x 375",
+      "bodega": "BODEGA RUTINI",
+      "precio": 5900,
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-17T16:11:53.128Z"
+  "lastUpdate": "2026-05-18T12:11:18.449Z"
 }
