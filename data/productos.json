@@ -493,7 +493,7 @@
       "vino": "Agua Saborizada x1,5 mix frutal",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790036001678"
     },
     {
@@ -2518,7 +2518,7 @@
       "bodega": "BODEGA LOPEZ",
       "precio": 3900,
       "stock": -5,
-      "barcode": ""
+      "barcode": "7790336020720"
     },
     {
       "id": 5270,
@@ -6109,7 +6109,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6310,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7792798002399"
     },
     {
@@ -6117,7 +6117,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6310,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7792798002351"
     },
     {
@@ -12792,19 +12792,19 @@
       "vendidos": 21
     },
     {
-      "id": 6335,
-      "vino": "Indomable blend de malbec",
-      "bodega": "Vicentin Family Wines",
-      "precio": 10500,
-      "vendidos": 16
-    },
-    {
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
       "vendidos": 16
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
+      "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-05-20T23:33:40.297Z"
+  "lastUpdate": "2026-05-21T12:17:15.952Z"
 }
