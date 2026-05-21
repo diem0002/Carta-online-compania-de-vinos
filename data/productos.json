@@ -405,7 +405,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7792180146137"
     },
     {
@@ -4589,7 +4589,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7798123971309"
     },
     {
@@ -8053,7 +8053,7 @@
       "vino": "Alma Mora Select Reserva  malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 7100,
-      "stock": -41,
+      "stock": -42,
       "barcode": "7791540044106"
     },
     {
@@ -9749,7 +9749,7 @@
       "vino": "Sheridan's",
       "bodega": "LICORES",
       "precio": 50500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "5011013500680"
     },
     {
@@ -11149,7 +11149,7 @@
       "vino": "Arrogante Malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 14500,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790843000239"
     },
     {
@@ -11453,7 +11453,7 @@
       "vino": "Vicentin Indomable Blanc de Malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 8200,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798127632084"
     },
     {
@@ -12822,5 +12822,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-05-21T15:35:53.462Z"
+  "lastUpdate": "2026-05-21T23:10:34.395Z"
 }
