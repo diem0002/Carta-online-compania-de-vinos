@@ -273,6 +273,22 @@
       "barcode": ""
     },
     {
+      "id": 6603,
+      "vino": "Promo estrella galicia lata ",
+      "bodega": "Promos",
+      "precio": 15000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6604,
+      "vino": "Promo estrella galicia x330",
+      "bodega": "Promos",
+      "precio": 15000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6534,
       "vino": "Promo verano",
       "bodega": "Promos",
@@ -2837,7 +2853,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -82,
+      "stock": -83,
       "barcode": "7790577002165"
     },
     {
@@ -2853,7 +2869,7 @@
       "vino": "Trumpeter Reserva  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790577041515"
     },
     {
@@ -4205,7 +4221,7 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 5850,
-      "stock": -27,
+      "stock": -33,
       "barcode": "7790415130791"
     },
     {
@@ -5085,7 +5101,7 @@
       "vino": "Alamos cabernet",
       "bodega": "CATENA ZAPATA",
       "precio": 7800,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794450000798"
     },
     {
@@ -5101,7 +5117,7 @@
       "vino": "Alamos malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 7800,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7794450000781"
     },
     {
@@ -6357,7 +6373,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "DAMAJUANAS",
       "precio": 24050,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7794068000449"
     },
     {
@@ -9781,7 +9797,7 @@
       "vino": "Fca La Linda syrah",
       "bodega": "LUIGGI BOSCA",
       "precio": 9580,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791203000531"
     },
     {
@@ -12792,19 +12808,19 @@
       "vendidos": 21
     },
     {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
+      "vendidos": 17
+    },
+    {
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
       "vendidos": 16
-    },
-    {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-05-21T12:17:15.952Z"
+  "lastUpdate": "2026-05-21T15:35:53.462Z"
 }
