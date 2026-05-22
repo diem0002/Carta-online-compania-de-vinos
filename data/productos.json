@@ -4181,7 +4181,7 @@
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 8500,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7790415129122"
     },
     {
@@ -5965,7 +5965,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5600,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7792798003716"
     },
     {
@@ -8341,7 +8341,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8050,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7798000213737"
     },
     {
@@ -8357,7 +8357,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798000213515"
     },
     {
@@ -10373,7 +10373,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -31,
+      "stock": -32,
       "barcode": "7790070760722"
     },
     {
@@ -11684,7 +11684,7 @@
       "id": 6393,
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3700,
+      "precio": 4200,
       "stock": -26,
       "barcode": "7798162671673"
     },
@@ -11700,7 +11700,7 @@
       "id": 6395,
       "vino": "Profugo - Blanco dulce",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3900,
+      "precio": 4200,
       "stock": 0,
       "barcode": "7798162670881"
     },
@@ -11708,7 +11708,7 @@
       "id": 6396,
       "vino": "Profugo - cabernet",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3900,
+      "precio": 4200,
       "stock": 0,
       "barcode": ""
     },
@@ -11716,7 +11716,7 @@
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3900,
+      "precio": 4200,
       "stock": -35,
       "barcode": "7798162670713"
     },
@@ -12789,7 +12789,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -72,
+      "stock": -75,
       "barcode": ""
     }
   ],
@@ -12812,7 +12812,7 @@
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 3900,
+      "precio": 4200,
       "vendidos": 22
     },
     {
@@ -12830,5 +12830,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-22T13:28:20.905Z"
+  "lastUpdate": "2026-05-22T15:32:52.152Z"
 }
