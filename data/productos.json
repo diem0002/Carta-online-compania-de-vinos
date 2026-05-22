@@ -8229,7 +8229,7 @@
       "vino": "Los Intocables Black Malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7791540049347"
     },
     {
@@ -11281,6 +11281,14 @@
       "barcode": "7798127631643"
     },
     {
+      "id": 6605,
+      "vino": "Reto Varietales - blend",
+      "bodega": "Vicentin Family Wines",
+      "precio": 7450,
+      "stock": 0,
+      "barcode": "7790843001151"
+    },
+    {
       "id": 6344,
       "vino": "Reto Varietales - cabernet",
       "bodega": "Vicentin Family Wines",
@@ -11294,7 +11302,7 @@
       "bodega": "Vicentin Family Wines",
       "precio": 7450,
       "stock": 0,
-      "barcode": "7790843001151"
+      "barcode": "7790843000208"
     },
     {
       "id": 6346,
@@ -12822,5 +12830,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-05-22T13:21:09.658Z"
+  "lastUpdate": "2026-05-22T13:28:20.905Z"
 }
