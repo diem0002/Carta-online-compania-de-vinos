@@ -597,7 +597,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1030,
-      "stock": -96,
+      "stock": -97,
       "barcode": "7790036975481"
     },
     {
@@ -709,7 +709,7 @@
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
       "precio": 4800,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790093132728"
     },
     {
@@ -1533,7 +1533,7 @@
       "vino": "Smirnoff",
       "bodega": "BEBIDAS FUERTES",
       "precio": 9850,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791250001345"
     },
     {
@@ -2734,7 +2734,7 @@
       "bodega": "BODEGA RPB.S.A",
       "precio": 5700,
       "stock": -1,
-      "barcode": "7790036009513"
+      "barcode": "7790036974057"
     },
     {
       "id": 5300,
@@ -3477,7 +3477,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -28,
+      "stock": -29,
       "barcode": "7798124010243"
     },
     {
@@ -4429,7 +4429,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7798123970098"
     },
     {
@@ -4589,7 +4589,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -23,
+      "stock": -35,
       "barcode": "7798123971309"
     },
     {
@@ -5037,7 +5037,7 @@
       "vino": "Felino malbec",
       "bodega": "Bodega Viñas de Cobos",
       "precio": 19300,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798145140172"
     },
     {
@@ -5373,7 +5373,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7794450088581"
     },
     {
@@ -8197,7 +8197,7 @@
       "vino": "Finca Las Moras malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 4600,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7790240128598"
     },
     {
@@ -8229,7 +8229,7 @@
       "vino": "Los Intocables Black Malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7791540049347"
     },
     {
@@ -8340,7 +8340,7 @@
       "id": 5986,
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
-      "precio": 7900,
+      "precio": 8050,
       "stock": -21,
       "barcode": "7798000213737"
     },
@@ -8629,7 +8629,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -43,
+      "stock": -44,
       "barcode": "7790895005374"
     },
     {
@@ -9941,7 +9941,7 @@
       "vino": "Cordero piel de lobo - cabernet",
       "bodega": "Mosquita muerta",
       "precio": 4900,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7798353194660"
     },
     {
@@ -10405,7 +10405,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -11,
+      "stock": -23,
       "barcode": "7790070760739"
     },
     {
@@ -10717,7 +10717,7 @@
       "vino": "Sidra 1888 x 750",
       "bodega": "SIDRAS",
       "precio": 8400,
-      "stock": -7,
+      "stock": -19,
       "barcode": "7790119002370"
     },
     {
@@ -10989,7 +10989,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7798090160065"
     },
     {
@@ -12781,17 +12781,24 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -71,
+      "stock": -72,
       "barcode": ""
     }
   ],
   "destacados": [
     {
+      "id": 5529,
+      "vino": "Las perdices PARTRIDGE  Malbec",
+      "bodega": "Bodega Las Perdices",
+      "precio": 6000,
+      "vendidos": 25
+    },
+    {
       "id": 5627,
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "vendidos": 23
+      "vendidos": 24
     },
     {
       "id": 6397,
@@ -12813,14 +12820,7 @@
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
       "vendidos": 17
-    },
-    {
-      "id": 5322,
-      "vino": "Trumpeter x 375",
-      "bodega": "BODEGA RUTINI",
-      "precio": 5900,
-      "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-05-21T23:10:34.395Z"
+  "lastUpdate": "2026-05-22T13:21:09.658Z"
 }
