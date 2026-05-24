@@ -3900,7 +3900,7 @@
       "id": 5443,
       "vino": "Aime - rosado",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 4900,
+      "precio": 4980,
       "stock": -2,
       "barcode": "7790070760524"
     },
@@ -3908,7 +3908,7 @@
       "id": 5444,
       "vino": "Aime dulce",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 4900,
+      "precio": 4980,
       "stock": -1,
       "barcode": "7798090852502"
     },
@@ -3924,7 +3924,7 @@
       "id": 5446,
       "vino": "Ruca Malen  - Chardonnay",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 6650,
+      "precio": 7950,
       "stock": 0,
       "barcode": "7798090852663"
     },
@@ -3932,7 +3932,7 @@
       "id": 5447,
       "vino": "Ruca Malen  - blend",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 6650,
+      "precio": 7950,
       "stock": -1,
       "barcode": "7798090852687"
     },
@@ -3940,7 +3940,7 @@
       "id": 5448,
       "vino": "Ruca Malen  - cabernet",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 6650,
+      "precio": 7950,
       "stock": 0,
       "barcode": "7798090852670"
     },
@@ -3948,7 +3948,7 @@
       "id": 5449,
       "vino": "Ruca Malen  - malbec",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 6650,
+      "precio": 7950,
       "stock": -4,
       "barcode": "7790070651068"
     },
@@ -3956,7 +3956,7 @@
       "id": 5450,
       "vino": "Ruca Malen Reserva  - cabernet",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 11500,
+      "precio": 14300,
       "stock": -1,
       "barcode": "7798090851420"
     },
@@ -3964,7 +3964,7 @@
       "id": 5451,
       "vino": "Ruca Malen Reserva  - malbec",
       "bodega": "Bodega  Ruca Malen",
-      "precio": 11500,
+      "precio": 14300,
       "stock": 0,
       "barcode": "7798090851710"
     },
@@ -4517,7 +4517,7 @@
       "vino": "Las Perdices Reseva - cabernet",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798123970388"
     },
     {
@@ -4533,7 +4533,7 @@
       "vino": "Las Perdices Reseva - malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798123970296"
     },
     {
@@ -6844,7 +6844,7 @@
       "id": 5802,
       "vino": "Nieto Senetier x 1 ( espumante) estuche",
       "bodega": "ESTUCHES",
-      "precio": 15300,
+      "precio": 16200,
       "stock": 0,
       "barcode": ""
     },
@@ -7588,7 +7588,7 @@
       "id": 5901,
       "vino": "Nieto Senetiner B.Nat  espumante",
       "bodega": "Espumantes",
-      "precio": 12380,
+      "precio": 12800,
       "stock": 0,
       "barcode": "7790070761026"
     },
@@ -7596,7 +7596,7 @@
       "id": 5902,
       "vino": "Nieto Senetiner B.rose espumante",
       "bodega": "Espumantes",
-      "precio": 9980,
+      "precio": 11850,
       "stock": 0,
       "barcode": "7790070761040"
     },
@@ -7604,7 +7604,7 @@
       "id": 5903,
       "vino": "Nieto Senetiner Extra Brut espumante",
       "bodega": "Espumantes",
-      "precio": 11800,
+      "precio": 11850,
       "stock": 0,
       "barcode": "7793440700830"
     },
@@ -8605,7 +8605,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3850,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7790895067617"
     },
     {
@@ -10268,7 +10268,7 @@
       "id": 6211,
       "vino": "Cadus Assemplage",
       "bodega": "Nieto Senetiner",
-      "precio": 47500,
+      "precio": 53500,
       "stock": 0,
       "barcode": "7790070760234"
     },
@@ -10276,7 +10276,7 @@
       "id": 6212,
       "vino": "Cadus Blend",
       "bodega": "Nieto Senetiner",
-      "precio": 23300,
+      "precio": 23700,
       "stock": 0,
       "barcode": "7790070777089"
     },
@@ -10284,7 +10284,7 @@
       "id": 6213,
       "vino": "Cadus Tupungato Appellation",
       "bodega": "Nieto Senetiner",
-      "precio": 23300,
+      "precio": 23700,
       "stock": -1,
       "barcode": "7790070777461"
     },
@@ -10292,7 +10292,7 @@
       "id": 6214,
       "vino": "Cadus los chacases Appellation",
       "bodega": "Nieto Senetiner",
-      "precio": 23300,
+      "precio": 23700,
       "stock": 0,
       "barcode": "7790070777188"
     },
@@ -10300,7 +10300,7 @@
       "id": 6215,
       "vino": "Cadus tupungato cabernet",
       "bodega": "Nieto Senetiner",
-      "precio": 23300,
+      "precio": 23700,
       "stock": 0,
       "barcode": "7790070760449"
     },
@@ -10460,7 +10460,7 @@
       "id": 6235,
       "vino": "Nieto Patrimonial Malbec Doc",
       "bodega": "Nieto Senetiner",
-      "precio": 8300,
+      "precio": 10450,
       "stock": -4,
       "barcode": "7793440000060"
     },
@@ -10468,7 +10468,7 @@
       "id": 6236,
       "vino": "Nieto Senetiner Believe Rose",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7793440000633"
     },
@@ -10476,7 +10476,7 @@
       "id": 6237,
       "vino": "Nieto Senetiner Blend Collection",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7793440003016"
     },
@@ -10484,7 +10484,7 @@
       "id": 6238,
       "vino": "Nieto senetiner  - Bonarda",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7793440703398"
     },
@@ -10492,7 +10492,7 @@
       "id": 6239,
       "vino": "Nieto senetiner  - cabernet",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7793440000039"
     },
@@ -10500,7 +10500,7 @@
       "id": 6240,
       "vino": "Nieto senetiner  - chardonay",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": ""
     },
@@ -10508,7 +10508,7 @@
       "id": 6241,
       "vino": "Nieto senetiner  - malbec",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": -2,
       "barcode": "7793440000046"
     },
@@ -10516,7 +10516,7 @@
       "id": 6242,
       "vino": "Nieto senetiner  - pinot",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7793440704876"
     },
@@ -10524,7 +10524,7 @@
       "id": 6243,
       "vino": "Nieto senetiner  - syrah",
       "bodega": "Nieto Senetiner",
-      "precio": 7250,
+      "precio": 7800,
       "stock": 0,
       "barcode": "7793440000053"
     },
@@ -10932,7 +10932,7 @@
       "id": 6300,
       "vino": "Benjamin Nieto x 375",
       "bodega": "VINOS x 377",
-      "precio": 3300,
+      "precio": 3450,
       "stock": 0,
       "barcode": "7793440703800"
     },
@@ -12830,5 +12830,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-24T14:01:44.218Z"
+  "lastUpdate": "2026-05-24T14:46:05.780Z"
 }
