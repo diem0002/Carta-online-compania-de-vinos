@@ -4996,7 +4996,7 @@
       "id": 5579,
       "vino": "Bramare Uco",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 36200,
+      "precio": 52400,
       "stock": -2,
       "barcode": "7798145140332"
     },
@@ -5004,7 +5004,7 @@
       "id": 5580,
       "vino": "Bramare cuyo",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 36200,
+      "precio": 52400,
       "stock": -3,
       "barcode": "7798145140110"
     },
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-24T15:31:45.666Z"
+  "lastUpdate": "2026-05-24T15:33:56.167Z"
 }
