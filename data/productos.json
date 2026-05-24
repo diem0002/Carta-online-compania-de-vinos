@@ -2757,7 +2757,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13900,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7790577006101"
     },
     {
@@ -3613,7 +3613,7 @@
       "vino": "Malamado Malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 20200,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7791728002478"
     },
     {
@@ -3973,7 +3973,7 @@
       "vino": "Ruca Malen Reserva  - malbec",
       "bodega": "Bodega  Ruca Malen",
       "precio": 14300,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798090851710"
     },
     {
@@ -5012,7 +5012,7 @@
       "id": 5581,
       "vino": "Cocodrilo",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 33600,
+      "precio": 41800,
       "stock": -3,
       "barcode": "7798145140424"
     },
@@ -5020,7 +5020,7 @@
       "id": 5582,
       "vino": "Felino Red Blend",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 19300,
+      "precio": 24100,
       "stock": 0,
       "barcode": "7798145140905"
     },
@@ -5028,7 +5028,7 @@
       "id": 5583,
       "vino": "Felino cabernet",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 19300,
+      "precio": 24100,
       "stock": 0,
       "barcode": "7798145140202"
     },
@@ -5036,7 +5036,7 @@
       "id": 5584,
       "vino": "Felino chardonay",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 19300,
+      "precio": 24100,
       "stock": 0,
       "barcode": "7798145140233"
     },
@@ -5044,7 +5044,7 @@
       "id": 5585,
       "vino": "Felino malbec",
       "bodega": "Bodega Viñas de Cobos",
-      "precio": 19300,
+      "precio": 24100,
       "stock": -6,
       "barcode": "7798145140172"
     },
@@ -5381,7 +5381,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "stock": -28,
+      "stock": -29,
       "barcode": "7794450088581"
     },
     {
@@ -6668,7 +6668,7 @@
       "id": 5782,
       "vino": "Emilia dulce espumante",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 7450,
+      "precio": 9200,
       "stock": 0,
       "barcode": "7790070761019"
     },
@@ -7460,7 +7460,7 @@
       "id": 5884,
       "vino": "Emilia Brut rose espumante",
       "bodega": "Espumantes",
-      "precio": 7450,
+      "precio": 9200,
       "stock": 0,
       "barcode": "7793440002439"
     },
@@ -7468,7 +7468,7 @@
       "id": 5885,
       "vino": "Emilia Extra Brut espumante",
       "bodega": "Espumantes",
-      "precio": 7450,
+      "precio": 9200,
       "stock": -2,
       "barcode": "7793440002194"
     },
@@ -8365,7 +8365,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -10,
+      "stock": -12,
       "barcode": "7798000213515"
     },
     {
@@ -8605,7 +8605,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3850,
-      "stock": -45,
+      "stock": -46,
       "barcode": "7790895000218"
     },
     {
@@ -8637,7 +8637,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -44,
+      "stock": -45,
       "barcode": "7790895005374"
     },
     {
@@ -8845,7 +8845,7 @@
       "vino": "Schwepps tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7790895006715"
     },
     {
@@ -9085,7 +9085,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -42,
+      "stock": -43,
       "barcode": "7798112631306"
     },
     {
@@ -10396,7 +10396,7 @@
       "id": 6226,
       "vino": "Emilia clarea coktail",
       "bodega": "Nieto Senetiner",
-      "precio": 5900,
+      "precio": 7900,
       "stock": 0,
       "barcode": "7790070764010"
     },
@@ -10420,7 +10420,7 @@
       "id": 6229,
       "vino": "Emilia rose coktail",
       "bodega": "Nieto Senetiner",
-      "precio": 5900,
+      "precio": 7000,
       "stock": -3,
       "barcode": "7790070764027"
     },
@@ -10428,7 +10428,7 @@
       "id": 6230,
       "vino": "Emilia sangria coktail",
       "bodega": "Nieto Senetiner",
-      "precio": 5900,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7790070764034"
     },
@@ -10436,7 +10436,7 @@
       "id": 6231,
       "vino": "Emilia spritz coktail",
       "bodega": "Nieto Senetiner",
-      "precio": 5900,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7790070764041"
     },
@@ -12781,7 +12781,7 @@
       "vino": "chacabuco malbec",
       "bodega": "flia falasco",
       "precio": 4350,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791843023471"
     },
     {
@@ -12814,7 +12814,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12100,
-      "vendidos": 23
+      "vendidos": 24
     },
     {
       "id": 6397,
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-24T14:47:41.861Z"
+  "lastUpdate": "2026-05-24T15:31:45.666Z"
 }
