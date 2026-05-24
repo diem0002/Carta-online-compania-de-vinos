@@ -10276,7 +10276,7 @@
       "id": 6212,
       "vino": "Cadus Blend",
       "bodega": "Nieto Senetiner",
-      "precio": 20800,
+      "precio": 23300,
       "stock": 0,
       "barcode": "7790070777089"
     },
@@ -10284,7 +10284,7 @@
       "id": 6213,
       "vino": "Cadus Tupungato Appellation",
       "bodega": "Nieto Senetiner",
-      "precio": 20800,
+      "precio": 23300,
       "stock": -1,
       "barcode": "7790070777461"
     },
@@ -10292,7 +10292,7 @@
       "id": 6214,
       "vino": "Cadus los chacases Appellation",
       "bodega": "Nieto Senetiner",
-      "precio": 20800,
+      "precio": 23300,
       "stock": 0,
       "barcode": "7790070777188"
     },
@@ -10300,7 +10300,7 @@
       "id": 6215,
       "vino": "Cadus tupungato cabernet",
       "bodega": "Nieto Senetiner",
-      "precio": 20800,
+      "precio": 23300,
       "stock": 0,
       "barcode": "7790070760449"
     },
@@ -12830,5 +12830,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-24T13:46:43.243Z"
+  "lastUpdate": "2026-05-24T14:01:44.218Z"
 }
