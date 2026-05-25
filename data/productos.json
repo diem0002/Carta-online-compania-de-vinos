@@ -5276,7 +5276,7 @@
       "id": 5614,
       "vino": "El enemigo cabenet Franc",
       "bodega": "CATENA ZAPATA",
-      "precio": 25100,
+      "precio": 26500,
       "stock": -4,
       "barcode": "7794450003645"
     },
@@ -5284,7 +5284,7 @@
       "id": 5615,
       "vino": "El enemigo malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 25100,
+      "precio": 26500,
       "stock": -3,
       "barcode": "7794450000972"
     },
@@ -5460,7 +5460,7 @@
       "id": 5637,
       "vino": "el gran enemigo cabernet",
       "bodega": "CATENA ZAPATA",
-      "precio": 55000,
+      "precio": 58500,
       "stock": 0,
       "barcode": "7798126082415"
     },
@@ -5468,7 +5468,7 @@
       "id": 5638,
       "vino": "el gran enemigo malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 55000,
+      "precio": 58500,
       "stock": -1,
       "barcode": ""
     },
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-25T14:03:16.952Z"
+  "lastUpdate": "2026-05-25T14:07:13.130Z"
 }
