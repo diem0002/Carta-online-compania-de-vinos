@@ -5244,7 +5244,7 @@
       "id": 5610,
       "vino": "DV Caber. Malbec estuche x 2",
       "bodega": "CATENA ZAPATA",
-      "precio": 39000,
+      "precio": 44000,
       "stock": -3,
       "barcode": "7794450091376"
     },
@@ -5252,7 +5252,7 @@
       "id": 5611,
       "vino": "DV Cabernet Malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 16000,
+      "precio": 18700,
       "stock": -14,
       "barcode": "7794450090492"
     },
@@ -5268,7 +5268,7 @@
       "id": 5613,
       "vino": "DV Malbec Malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 22500,
+      "precio": 26500,
       "stock": -18,
       "barcode": "7794450090096"
     },
@@ -6756,7 +6756,7 @@
       "id": 5792,
       "vino": "DV Cabernet Cabernet",
       "bodega": "ESTUCHES",
-      "precio": 22500,
+      "precio": 26500,
       "stock": -3,
       "barcode": "7794450090102"
     },
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-25T13:48:56.497Z"
+  "lastUpdate": "2026-05-25T13:53:32.416Z"
 }
