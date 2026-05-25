@@ -5324,7 +5324,7 @@
       "id": 5620,
       "vino": "Nicasia Blanco Viognier",
       "bodega": "CATENA ZAPATA",
-      "precio": 9350,
+      "precio": 11000,
       "stock": 0,
       "barcode": "7794450000163"
     },
@@ -5332,7 +5332,7 @@
       "id": 5621,
       "vino": "Nicasia Contenedor 2x1,5",
       "bodega": "CATENA ZAPATA",
-      "precio": 38000,
+      "precio": 44000,
       "stock": 0,
       "barcode": ""
     },
@@ -5340,7 +5340,7 @@
       "id": 5622,
       "vino": "Nicasia cabernet",
       "bodega": "CATENA ZAPATA",
-      "precio": 9350,
+      "precio": 11000,
       "stock": -2,
       "barcode": "7794450000156"
     },
@@ -5348,7 +5348,7 @@
       "id": 5623,
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 9350,
+      "precio": 11000,
       "stock": -30,
       "barcode": "7794450000149"
     },
@@ -5356,7 +5356,7 @@
       "id": 5624,
       "vino": "Nicasia x 1,5",
       "bodega": "CATENA ZAPATA",
-      "precio": 17900,
+      "precio": 22000,
       "stock": -1,
       "barcode": "7794450940704"
     },
@@ -6844,7 +6844,7 @@
       "id": 5801,
       "vino": "Nicasia Estuche x 2 Bot",
       "bodega": "ESTUCHES",
-      "precio": 22500,
+      "precio": 31000,
       "stock": 0,
       "barcode": "7794450004642"
     },
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-25T13:43:15.540Z"
+  "lastUpdate": "2026-05-25T13:47:15.578Z"
 }
