@@ -5164,7 +5164,7 @@
       "id": 5600,
       "vino": "Angelica Chardonnay",
       "bodega": "CATENA ZAPATA",
-      "precio": 31000,
+      "precio": 33350,
       "stock": 0,
       "barcode": "7794450008268"
     },
@@ -5172,7 +5172,7 @@
       "id": 5601,
       "vino": "Angelica Zapata Cabernet",
       "bodega": "CATENA ZAPATA",
-      "precio": 31000,
+      "precio": 33350,
       "stock": -1,
       "barcode": "7794450008282"
     },
@@ -5180,7 +5180,7 @@
       "id": 5602,
       "vino": "Angelica Zapata Malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 34000,
+      "precio": 37700,
       "stock": -9,
       "barcode": "7794450008275"
     },
@@ -5188,7 +5188,7 @@
       "id": 5603,
       "vino": "Angelica Zapata Merlot",
       "bodega": "CATENA ZAPATA",
-      "precio": 31000,
+      "precio": 33350,
       "stock": 0,
       "barcode": "7794450008961"
     },
@@ -5196,7 +5196,7 @@
       "id": 5604,
       "vino": "Angelica Zapata cavernet franc",
       "bodega": "CATENA ZAPATA",
-      "precio": 31000,
+      "precio": 33350,
       "stock": 0,
       "barcode": "7794450088963"
     },
@@ -5316,7 +5316,7 @@
       "id": 5619,
       "vino": "Malbec Argentino",
       "bodega": "CATENA ZAPATA",
-      "precio": 81000,
+      "precio": 99200,
       "stock": 0,
       "barcode": "7794450941145"
     },
@@ -6828,7 +6828,7 @@
       "id": 5799,
       "vino": "Malbec Argentino Est x 4",
       "bodega": "ESTUCHES",
-      "precio": 375000,
+      "precio": 395000,
       "stock": 0,
       "barcode": ""
     },
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-25T13:53:32.416Z"
+  "lastUpdate": "2026-05-25T14:03:16.952Z"
 }
