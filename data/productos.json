@@ -148,7 +148,7 @@
       "id": 6606,
       "vino": "Nieto Senetiner E.Brut 0%",
       "bodega": "Vinos",
-      "precio": 15700,
+      "precio": 16100,
       "stock": 0,
       "barcode": "7790070104854"
     },
@@ -717,7 +717,7 @@
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
       "precio": 4800,
-      "stock": -5,
+      "stock": -11,
       "barcode": "7790093132728"
     },
     {
@@ -2789,7 +2789,7 @@
       "vino": "Rutini Cabernet / Malbec Est x 1 Bot",
       "bodega": "BODEGA RUTINI",
       "precio": 28000,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7790577001670"
     },
     {
@@ -4077,7 +4077,7 @@
       "vino": "Amalaya Gran Corte",
       "bodega": "Bodega Colome - Hess",
       "precio": 13100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798104769116"
     },
     {
@@ -6644,7 +6644,7 @@
       "id": 5779,
       "vino": "Deseado Estuche espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 11800,
+      "precio": 15000,
       "stock": 0,
       "barcode": "7798116191547"
     },
@@ -6652,7 +6652,7 @@
       "id": 5780,
       "vino": "Deseado Rose espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 9550,
+      "precio": 11600,
       "stock": -5,
       "barcode": "7798116191486"
     },
@@ -6660,7 +6660,7 @@
       "id": 5781,
       "vino": "Deseado blanco espumante dulce",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 9550,
+      "precio": 11600,
       "stock": -8,
       "barcode": "7798116190519"
     },
@@ -7452,7 +7452,7 @@
       "id": 5883,
       "vino": "Deseado extra brut  espumante",
       "bodega": "Espumantes",
-      "precio": 9550,
+      "precio": 11600,
       "stock": 0,
       "barcode": "7798116191691"
     },
@@ -11292,7 +11292,7 @@
       "id": 6605,
       "vino": "Reto Varietales - blend",
       "bodega": "Vicentin Family Wines",
-      "precio": 7450,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7790843001151"
     },
@@ -11300,7 +11300,7 @@
       "id": 6344,
       "vino": "Reto Varietales - cabernet",
       "bodega": "Vicentin Family Wines",
-      "precio": 7450,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7790843000536"
     },
@@ -11308,7 +11308,7 @@
       "id": 6345,
       "vino": "Reto Varietales - malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 7450,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7790843000208"
     },
@@ -12221,7 +12221,7 @@
       "vino": "Johnnie Walker Red Label x 750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 35200,
-      "stock": -3,
+      "stock": -4,
       "barcode": "5000267014005"
     },
     {
@@ -12838,5 +12838,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-27T12:17:50.434Z"
+  "lastUpdate": "2026-05-27T22:14:04.806Z"
 }
