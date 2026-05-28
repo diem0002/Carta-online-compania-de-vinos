@@ -305,6 +305,22 @@
       "barcode": ""
     },
     {
+      "id": 6609,
+      "vino": "Promo inmigrante estuche negroni",
+      "bodega": "Promos",
+      "precio": 26800,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6608,
+      "vino": "Promo inmigrante estuche pomelo",
+      "bodega": "Promos",
+      "precio": 33000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6534,
       "vino": "Promo verano",
       "bodega": "Promos",
@@ -12846,5 +12862,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-28T12:24:34.412Z"
+  "lastUpdate": "2026-05-28T12:27:21.197Z"
 }
