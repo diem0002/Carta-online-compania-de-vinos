@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Vinos",
       "precio": 850,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7790380025191"
     },
     {
@@ -159,6 +159,14 @@
       "precio": 2950,
       "stock": -1,
       "barcode": "7790380037774"
+    },
+    {
+      "id": 6612,
+      "vino": "Pico Vertedor",
+      "bodega": "accesorios",
+      "precio": 8900,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 6523,
@@ -901,7 +909,7 @@
       "vino": "Campari",
       "bodega": "APERITIVOS",
       "precio": 11000,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7891136052000"
     },
     {
@@ -2389,7 +2397,7 @@
       "vino": "H.Canale Estate Cab Franc",
       "bodega": "BODEGA H.CANALE",
       "precio": 9850,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7790805000376"
     },
     {
@@ -2669,7 +2677,7 @@
       "vino": "Norton Talisman",
       "bodega": "BODEGA NORTON",
       "precio": 3600,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7792319971722"
     },
     {
@@ -3789,7 +3797,7 @@
       "vino": "Zucardi A estuche x1",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 17100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791728021929"
     },
     {
@@ -4229,7 +4237,7 @@
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 8500,
-      "stock": -11,
+      "stock": -17,
       "barcode": "7790415129122"
     },
     {
@@ -5773,7 +5781,7 @@
       "vino": "Hombre de la bolsa",
       "bodega": "Cepas de origen SRL",
       "precio": 4100,
-      "stock": 5,
+      "stock": 4,
       "barcode": "7798454560029"
     },
     {
@@ -5789,7 +5797,7 @@
       "vino": "Viejo con gafas",
       "bodega": "Cepas de origen srl",
       "precio": 4100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798454560012"
     },
     {
@@ -5829,7 +5837,7 @@
       "vino": "Kaiserdon estuche",
       "bodega": "Cervezas Importadas latas",
       "precio": 41500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "4004591137363"
     },
     {
@@ -6780,7 +6788,7 @@
       "id": 6588,
       "vino": "castelo x6 estuche",
       "bodega": "ESTUCHE",
-      "precio": 0,
+      "precio": 28000,
       "stock": 0,
       "barcode": "7798334490224"
     },
@@ -6949,7 +6957,7 @@
       "vino": "Schofferhofer estuche c/ vaso",
       "bodega": "ESTUCHES",
       "precio": 34500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "4053400942520"
     },
     {
@@ -8372,7 +8380,7 @@
       "id": 5984,
       "vino": "Fabre Gran reserva - cabernet",
       "bodega": "FRATELLI BRANCA",
-      "precio": 17500,
+      "precio": 20800,
       "stock": -1,
       "barcode": "7798000212389"
     },
@@ -8380,7 +8388,7 @@
       "id": 5985,
       "vino": "Fabre Gran reserva - malbec",
       "bodega": "FRATELLI BRANCA",
-      "precio": 17500,
+      "precio": 20800,
       "stock": 0,
       "barcode": ""
     },
@@ -8389,7 +8397,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8050,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7798000213737"
     },
     {
@@ -8405,7 +8413,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7798000213515"
     },
     {
@@ -8428,7 +8436,7 @@
       "id": 5991,
       "vino": "H. J. Fabre Reserva",
       "bodega": "FRATELLI BRANCA",
-      "precio": 15800,
+      "precio": 10700,
       "stock": -1,
       "barcode": "7798000210521"
     },
@@ -8493,7 +8501,7 @@
       "vino": "Fuego Negro Syrah",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7798109156140"
     },
     {
@@ -9117,7 +9125,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7798112630521"
     },
     {
@@ -9797,7 +9805,7 @@
       "vino": "Sheridan's",
       "bodega": "LICORES",
       "precio": 50500,
-      "stock": -4,
+      "stock": -5,
       "barcode": "5011013500680"
     },
     {
@@ -10197,7 +10205,7 @@
       "vino": "Los Arboles cabernet",
       "bodega": "NAVARRO CORREAS",
       "precio": 4600,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7791250000942"
     },
     {
@@ -11037,7 +11045,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -22,
+      "stock": -24,
       "barcode": "7798090160065"
     },
     {
@@ -11261,7 +11269,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 10500,
-      "stock": -37,
+      "stock": -38,
       "barcode": "7798127632077"
     },
     {
@@ -11429,7 +11437,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7798127630011"
     },
     {
@@ -11693,7 +11701,7 @@
       "vino": "Lola - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4300,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790415131194"
     },
     {
@@ -11733,7 +11741,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4200,
-      "stock": -36,
+      "stock": -43,
       "barcode": "7798162671673"
     },
     {
@@ -12621,7 +12629,7 @@
       "vino": "set carton + 4 accesorios (3)",
       "bodega": "accesorios",
       "precio": 16700,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -12864,19 +12872,19 @@
       "vendidos": 22
     },
     {
+      "id": 6335,
+      "vino": "Indomable blend de malbec",
+      "bodega": "Vicentin Family Wines",
+      "precio": 10500,
+      "vendidos": 21
+    },
+    {
       "id": 5194,
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
       "vendidos": 21
-    },
-    {
-      "id": 6335,
-      "vino": "Indomable blend de malbec",
-      "bodega": "Vicentin Family Wines",
-      "precio": 10500,
-      "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-29T15:18:53.732Z"
+  "lastUpdate": "2026-05-29T23:22:49.639Z"
 }
