@@ -885,7 +885,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 17500,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7790290101602"
     },
     {
@@ -2821,7 +2821,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 17200,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7790577001663"
     },
     {
@@ -4653,7 +4653,7 @@
       "vino": "Las perdices PARTRIDGE Red Blend",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798123972115"
     },
     {
@@ -8621,7 +8621,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -76,
+      "stock": -78,
       "barcode": "7790895000430"
     },
     {
@@ -9990,7 +9990,7 @@
       "bodega": "Mosquita muerta",
       "precio": 4900,
       "stock": -18,
-      "barcode": "7798353194660"
+      "barcode": "7798159948856"
     },
     {
       "id": 6171,
@@ -10101,7 +10101,7 @@
       "vino": "Pispi",
       "bodega": "Mosquita muerta",
       "precio": 9400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798353194752"
     },
     {
@@ -10189,7 +10189,7 @@
       "vino": "Finca dolores",
       "bodega": "NAVARRO CORREAS",
       "precio": 6300,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791250002564"
     },
     {
@@ -12878,5 +12878,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-05-29T13:08:51.066Z"
+  "lastUpdate": "2026-05-29T15:17:24.292Z"
 }
