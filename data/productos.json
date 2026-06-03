@@ -2917,7 +2917,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -84,
+      "stock": -85,
       "barcode": "7790577002165"
     },
     {
@@ -4665,14 +4665,6 @@
       "barcode": "7798123971316"
     },
     {
-      "id": 5531,
-      "vino": "Las perdices PARTRIDGE Red Blend",
-      "bodega": "Bodega Las Perdices",
-      "precio": 6000,
-      "stock": -9,
-      "barcode": "7798123972115"
-    },
-    {
       "id": 5532,
       "vino": "Enrique Foster Reserva x750",
       "bodega": "Bodega Lorca",
@@ -5797,7 +5789,7 @@
       "vino": "No creas todo",
       "bodega": "Cepas de origen SRL",
       "precio": 4100,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798454560036"
     },
     {
@@ -5805,7 +5797,7 @@
       "vino": "Viejo con gafas",
       "bodega": "Cepas de origen srl",
       "precio": 4100,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798454560012"
     },
     {
@@ -9929,6 +9921,14 @@
       "barcode": "7791203000142"
     },
     {
+      "id": 6615,
+      "vino": "Las perdices PARTRIDGE red blend",
+      "bodega": "Las perdices ",
+      "precio": 6000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6161,
       "vino": "Gran Mascota  cabernet",
       "bodega": "MASCOTA",
@@ -10229,7 +10229,7 @@
       "vino": "Los Arboles malbec",
       "bodega": "NAVARRO CORREAS",
       "precio": 4600,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7791250000935"
     },
     {
@@ -12852,7 +12852,7 @@
       "id": 6517,
       "vino": "Motomandado",
       "bodega": "servicios",
-      "precio": 6000,
+      "precio": 7900,
       "stock": -3,
       "barcode": "31"
     },
@@ -12902,5 +12902,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-06-03T21:56:26.457Z"
+  "lastUpdate": "2026-06-03T22:39:16.745Z"
 }
