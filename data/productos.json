@@ -153,6 +153,30 @@
       "barcode": "7790070104854"
     },
     {
+      "id": 6617,
+      "vino": "Padrillos Malbec",
+      "bodega": "Vinos",
+      "precio": 11500,
+      "stock": 0,
+      "barcode": "7798126080534"
+    },
+    {
+      "id": 6618,
+      "vino": "Padrillos Trifecta ",
+      "bodega": "Vinos",
+      "precio": 11500,
+      "stock": 0,
+      "barcode": "7798126083696"
+    },
+    {
+      "id": 6619,
+      "vino": "Padrillos rosado",
+      "bodega": "Vinos",
+      "precio": 11500,
+      "stock": 0,
+      "barcode": "7798126083726"
+    },
+    {
       "id": 6571,
       "vino": "Pasas con chocolate",
       "bodega": "Golosinas",
@@ -353,6 +377,14 @@
       "barcode": ""
     },
     {
+      "id": 6616,
+      "vino": "Tilia Organico Malbec",
+      "bodega": "Vinos",
+      "precio": 9950,
+      "stock": 0,
+      "barcode": "7794450947550"
+    },
+    {
       "id": 6577,
       "vino": "Tokke Dulce de leche",
       "bodega": "Golosinas",
@@ -367,6 +399,14 @@
       "precio": 1600,
       "stock": -3,
       "barcode": "7790380022121"
+    },
+    {
+      "id": 6620,
+      "vino": "padrillos Pinot",
+      "bodega": "Vinos",
+      "precio": 12600,
+      "stock": 0,
+      "barcode": "7798126080954"
     },
     {
       "id": 6519,
@@ -653,7 +693,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -107,
+      "stock": -108,
       "barcode": "7790036975481"
     },
     {
@@ -5229,7 +5269,7 @@
       "vino": "Angelica Zapata Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 37700,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7794450008275"
     },
     {
@@ -5333,7 +5373,7 @@
       "vino": "El enemigo malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 26500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7794450000972"
     },
     {
@@ -5364,7 +5404,7 @@
       "id": 5619,
       "vino": "Malbec Argentino",
       "bodega": "CATENA ZAPATA",
-      "precio": 99200,
+      "precio": 76000,
       "stock": 0,
       "barcode": "7794450941145"
     },
@@ -5412,7 +5452,7 @@
       "id": 5625,
       "vino": "Saint Felicien cabernet",
       "bodega": "CATENA ZAPATA",
-      "precio": 13500,
+      "precio": 12300,
       "stock": -4,
       "barcode": "7794450024015"
     },
@@ -5420,7 +5460,7 @@
       "id": 5626,
       "vino": "Saint Felicien chardo",
       "bodega": "CATENA ZAPATA",
-      "precio": 13500,
+      "precio": 12300,
       "stock": 0,
       "barcode": "7794450002549"
     },
@@ -5428,7 +5468,7 @@
       "id": 5627,
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
-      "precio": 13500,
+      "precio": 12300,
       "stock": -32,
       "barcode": "7794450088581"
     },
@@ -6293,7 +6333,7 @@
       "vino": "Warsteiner 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5200,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7793147570989"
     },
     {
@@ -6301,7 +6341,7 @@
       "vino": "Warsteiner x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7793147570927"
     },
     {
@@ -6876,7 +6916,7 @@
       "id": 5799,
       "vino": "Malbec Argentino Est x 4",
       "bodega": "ESTUCHES",
-      "precio": 395000,
+      "precio": 315000,
       "stock": 0,
       "barcode": ""
     },
@@ -7053,7 +7093,7 @@
       "vino": "Copon barone (vino)",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 6900,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7891155042594"
     },
     {
@@ -8501,7 +8541,7 @@
       "vino": "Fuego Negro Syrah",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798109156140"
     },
     {
@@ -8685,7 +8725,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -48,
+      "stock": -49,
       "barcode": "7790895005374"
     },
     {
@@ -12721,6 +12761,14 @@
       "barcode": "47"
     },
     {
+      "id": 6621,
+      "vino": "Dv catena Pinot",
+      "bodega": "cAtena ",
+      "precio": 18500,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6600,
       "vino": "Estrella galicia x330 ",
       "bodega": "cerveza",
@@ -12853,7 +12901,7 @@
       "vino": "Motomandado",
       "bodega": "servicios",
       "precio": 7900,
-      "stock": -3,
+      "stock": -4,
       "barcode": "31"
     },
     {
@@ -12902,5 +12950,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-06-03T22:39:16.745Z"
+  "lastUpdate": "2026-06-04T00:09:06.887Z"
 }
