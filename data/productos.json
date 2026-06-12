@@ -6884,7 +6884,7 @@
       "id": 6516,
       "vino": "Estuche Branca 750 + fernetometro",
       "bodega": "ESTUCHES",
-      "precio": 25600,
+      "precio": 28000,
       "stock": -5,
       "barcode": "32"
     },
@@ -12957,7 +12957,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -87,
+      "stock": -90,
       "barcode": ""
     }
   ],
@@ -12977,6 +12977,13 @@
       "vendidos": 26
     },
     {
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 23
+    },
+    {
       "id": 6335,
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
@@ -12989,14 +12996,7 @@
       "bodega": "BODEGA SALENTEIN",
       "precio": 12000,
       "vendidos": 21
-    },
-    {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-06-12T14:11:51.770Z"
+  "lastUpdate": "2026-06-12T15:18:44.358Z"
 }
