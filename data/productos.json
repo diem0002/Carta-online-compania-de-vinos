@@ -3,7 +3,7 @@
     {
       "id": 6559,
       "vino": "Alfajor full mani ",
-      "bodega": "Vinos",
+      "bodega": "Golosinas",
       "precio": 850,
       "stock": -34,
       "barcode": "7790380025191"
@@ -132,9 +132,41 @@
       "id": 6572,
       "vino": "Full mani x140g",
       "bodega": "Golosinas",
-      "precio": 3450,
+      "precio": 3000,
       "stock": -12,
       "barcode": "7790380025061"
+    },
+    {
+      "id": 6634,
+      "vino": "Full mani x150",
+      "bodega": "Golosinas",
+      "precio": 3000,
+      "stock": 0,
+      "barcode": "7790380025108"
+    },
+    {
+      "id": 6636,
+      "vino": "Full mani x30",
+      "bodega": "Golosinas",
+      "precio": 1050,
+      "stock": 0,
+      "barcode": "7790380025177"
+    },
+    {
+      "id": 6633,
+      "vino": "Full mani x500",
+      "bodega": "Golosinas",
+      "precio": 12500,
+      "stock": 0,
+      "barcode": "7790380025283"
+    },
+    {
+      "id": 6635,
+      "vino": "Full mani x90",
+      "bodega": "Golosinas",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7790380025085"
     },
     {
       "id": 6631,
@@ -421,7 +453,7 @@
       "vino": "padrillos Pinot",
       "bodega": "Vinos",
       "precio": 12600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798126080954"
     },
     {
@@ -701,7 +733,7 @@
       "vino": "Pronto baggio naranja",
       "bodega": "AGUA Y SODA",
       "precio": 2000,
-      "stock": -41,
+      "stock": -42,
       "barcode": "7790036000329"
     },
     {
@@ -709,7 +741,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -124,
+      "stock": -125,
       "barcode": "7790036975481"
     },
     {
@@ -1853,7 +1885,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16000,
-      "stock": -26,
+      "stock": -27,
       "barcode": "7798191780117"
     },
     {
@@ -2997,7 +3029,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": -15,
+      "stock": -18,
       "barcode": "7790577041553"
     },
     {
@@ -4557,7 +4589,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -24,
+      "stock": -26,
       "barcode": "7798123970098"
     },
     {
@@ -4741,7 +4773,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 17500,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7798103165711"
     },
     {
@@ -5677,7 +5709,7 @@
       "vino": "Cigarro Pacific (belgica)",
       "bodega": "CIGARROS",
       "precio": 1000,
-      "stock": 0,
+      "stock": -5,
       "barcode": ""
     },
     {
@@ -5869,7 +5901,7 @@
       "vino": "No creas todo",
       "bodega": "Cepas de origen SRL",
       "precio": 4100,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7798454560036"
     },
     {
@@ -6453,7 +6485,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 5850,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7790168904663"
     },
     {
@@ -6565,7 +6597,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -50,
+      "stock": -51,
       "barcode": "7794068000012"
     },
     {
@@ -7717,7 +7749,7 @@
       "vino": "Navarro Correa Extra Brut rose espumante",
       "bodega": "Espumantes",
       "precio": 11200,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791250001543"
     },
     {
@@ -8741,7 +8773,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3850,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7790895067617"
     },
     {
@@ -11117,7 +11149,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "VINOS x 377",
       "precio": 3450,
-      "stock": -10,
+      "stock": -13,
       "barcode": "7793440703800"
     },
     {
@@ -12077,7 +12109,7 @@
       "vino": "Dolcezza Bco Dce",
       "bodega": "Vinos Rav.sa",
       "precio": 3170,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790717153474"
     },
     {
@@ -12357,7 +12389,7 @@
       "vino": "Johnnie Walker Doble Black",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 72000,
-      "stock": -4,
+      "stock": -5,
       "barcode": "5000267116297"
     },
     {
@@ -12485,7 +12517,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 19200,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7791250001253"
     },
     {
@@ -12989,7 +13021,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -95,
+      "stock": -96,
       "barcode": ""
     }
   ],
@@ -13000,6 +13032,13 @@
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4200,
       "vendidos": 23
+    },
+    {
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 21
     },
     {
       "id": 5314,
@@ -13016,13 +13055,6 @@
       "vendidos": 21
     },
     {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 20
-    },
-    {
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
@@ -13030,5 +13062,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-06-25T15:31:24.058Z"
+  "lastUpdate": "2026-06-26T15:52:18.374Z"
 }
