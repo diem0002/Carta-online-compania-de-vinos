@@ -957,7 +957,7 @@
       "vino": "Aperol x 750",
       "bodega": "APERITIVOS",
       "precio": 10850,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7891136057029"
     },
     {
@@ -3637,7 +3637,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7798124010243"
     },
     {
@@ -4109,7 +4109,7 @@
       "vino": "Ruca Malen  - malbec",
       "bodega": "Bodega  Ruca Malen",
       "precio": 7950,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790070651068"
     },
     {
@@ -5813,7 +5813,7 @@
       "vino": "Caja tapa corrediza x1",
       "bodega": "Cajas y canastas para vino",
       "precio": 16000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "34"
     },
     {
@@ -6125,7 +6125,7 @@
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3700,
-      "stock": -98,
+      "stock": -104,
       "barcode": "7792798003709"
     },
     {
@@ -6485,7 +6485,7 @@
       "vino": "Colon Durazno",
       "bodega": "Colon",
       "precio": 5950,
-      "stock": -5,
+      "stock": -10,
       "barcode": "7790168904649"
     },
     {
@@ -6493,7 +6493,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 5950,
-      "stock": -15,
+      "stock": -20,
       "barcode": "7790168904663"
     },
     {
@@ -7173,7 +7173,7 @@
       "vino": "Copon barone (vino)",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 6900,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7891155042594"
     },
     {
@@ -8629,7 +8629,7 @@
       "vino": "Fuego Negro cabernet",
       "bodega": "FUEGO NEGRO",
       "precio": 5060,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798109156157"
     },
     {
@@ -8757,7 +8757,7 @@
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5600,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790895000997"
     },
     {
@@ -9005,7 +9005,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790895010088"
     },
     {
@@ -9053,7 +9053,7 @@
       "vino": "Sprite 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 5600,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790895001000"
     },
     {
@@ -9261,7 +9261,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7798112630521"
     },
     {
@@ -9309,7 +9309,7 @@
       "vino": "Finca Gabriel varietal  - cabernet",
       "bodega": "JORGE RUBIO",
       "precio": 4900,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7798112630019"
     },
     {
@@ -10093,7 +10093,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 4500,
-      "stock": -9,
+      "stock": -11,
       "barcode": "7790762754107"
     },
     {
@@ -11157,7 +11157,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "VINOS x 377",
       "precio": 3450,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7793440703800"
     },
     {
@@ -11221,7 +11221,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 10200,
-      "stock": -26,
+      "stock": -27,
       "barcode": "7798090165114"
     },
     {
@@ -11701,7 +11701,7 @@
       "vino": "061 Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 9600,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7798081669133"
     },
     {
@@ -12317,7 +12317,7 @@
       "vino": "Jameson 8 Años",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 40500,
-      "stock": -2,
+      "stock": -3,
       "barcode": "5011007003005"
     },
     {
@@ -13070,5 +13070,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-06-27T13:09:45.085Z"
+  "lastUpdate": "2026-06-27T20:33:41.051Z"
 }
