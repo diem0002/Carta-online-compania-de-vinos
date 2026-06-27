@@ -21,7 +21,7 @@
       "vino": "Alfajor toddy mousse",
       "bodega": "Vinos",
       "precio": 1100,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790380023579"
     },
     {
@@ -140,7 +140,7 @@
       "id": 6634,
       "vino": "Full mani x150",
       "bodega": "Golosinas",
-      "precio": 3000,
+      "precio": 3600,
       "stock": 0,
       "barcode": "7790380025108"
     },
@@ -164,7 +164,7 @@
       "id": 6635,
       "vino": "Full mani x90",
       "bodega": "Golosinas",
-      "precio": 0,
+      "precio": 2260,
       "stock": 0,
       "barcode": "7790380025085"
     },
@@ -188,7 +188,7 @@
       "id": 6586,
       "vino": "Mantecol cubanito ",
       "bodega": "Golosinas",
-      "precio": 250,
+      "precio": 320,
       "stock": -10,
       "barcode": "7790380026433"
     },
@@ -196,7 +196,7 @@
       "id": 6573,
       "vino": "Mantecol marmolado",
       "bodega": "Golosinas",
-      "precio": 2850,
+      "precio": 3100,
       "stock": -2,
       "barcode": ""
     },
@@ -213,7 +213,7 @@
       "vino": "Padrillos Malbec",
       "bodega": "Vinos",
       "precio": 11500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798126080534"
     },
     {
@@ -316,7 +316,7 @@
       "id": 6524,
       "vino": "Promo Smirnoff",
       "bodega": "Promos",
-      "precio": 11700,
+      "precio": 12700,
       "stock": 0,
       "barcode": ""
     },
@@ -437,14 +437,14 @@
       "vino": "Tokke Dulce de leche",
       "bodega": "Golosinas",
       "precio": 2100,
-      "stock": -27,
+      "stock": -29,
       "barcode": "7790380022107"
     },
     {
       "id": 6578,
       "vino": "Tokke Leche y Mani",
       "bodega": "Golosinas",
-      "precio": 1600,
+      "precio": 2200,
       "stock": -4,
       "barcode": "7790380022121"
     },
@@ -463,6 +463,14 @@
       "precio": 19200,
       "stock": -1,
       "barcode": "7798074864484"
+    },
+    {
+      "id": 6637,
+      "vino": "tokke blanco con dulce de leche",
+      "bodega": "Vinos",
+      "precio": 2200,
+      "stock": 0,
+      "barcode": "7790380022190"
     },
     {
       "id": 4994,
@@ -685,7 +693,7 @@
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7790036001579"
     },
     {
@@ -741,14 +749,14 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -125,
+      "stock": -126,
       "barcode": "7790036975481"
     },
     {
       "id": 5029,
       "vino": "Soda sifon",
       "bodega": "AGUA Y SODA",
-      "precio": 1350,
+      "precio": 1600,
       "stock": -14,
       "barcode": "7792758372432"
     },
@@ -981,7 +989,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 17500,
-      "stock": -47,
+      "stock": -48,
       "barcode": "7790290101602"
     },
     {
@@ -1053,7 +1061,7 @@
       "vino": "Cynar",
       "bodega": "APERITIVOS",
       "precio": 9750,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7791200000626"
     },
     {
@@ -1684,7 +1692,7 @@
       "id": 5144,
       "vino": "Smirnoff",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 9850,
+      "precio": 10100,
       "stock": -2,
       "barcode": "7791250001345"
     },
@@ -2765,7 +2773,7 @@
       "vino": "Norton Sexy Fish malbec",
       "bodega": "BODEGA NORTON",
       "precio": 5300,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7792319972712"
     },
     {
@@ -4317,7 +4325,7 @@
       "vino": "Escorihuela Gascon Rosaura - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 26100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790415133471"
     },
     {
@@ -4365,7 +4373,7 @@
       "vino": "Gascon Roble Reserva  - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 7000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790415128767"
     },
     {
@@ -4373,7 +4381,7 @@
       "vino": "Gascon Roble Reserva  - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 7000,
-      "stock": -10,
+      "stock": -16,
       "barcode": "7790415128729"
     },
     {
@@ -4397,7 +4405,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790415127777"
     },
     {
@@ -4605,7 +4613,7 @@
       "vino": "Las Perdices - Syrah/Vognier",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798123970401"
     },
     {
@@ -5469,7 +5477,7 @@
       "vino": "Esmeralda malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 7400,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794450941237"
     },
     {
@@ -5509,7 +5517,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 11000,
-      "stock": -37,
+      "stock": -38,
       "barcode": "7794450000149"
     },
     {
@@ -5933,7 +5941,7 @@
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
       "precio": 2800,
-      "stock": -26,
+      "stock": -32,
       "barcode": "7898953990157"
     },
     {
@@ -6468,7 +6476,7 @@
       "id": 5739,
       "vino": "Colon Blanco dulce",
       "bodega": "Colon",
-      "precio": 5850,
+      "precio": 5950,
       "stock": 0,
       "barcode": "7790168903895"
     },
@@ -6476,7 +6484,7 @@
       "id": 6599,
       "vino": "Colon Durazno",
       "bodega": "Colon",
-      "precio": 5850,
+      "precio": 5950,
       "stock": -5,
       "barcode": "7790168904649"
     },
@@ -6484,7 +6492,7 @@
       "id": 6598,
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
-      "precio": 5850,
+      "precio": 5950,
       "stock": -15,
       "barcode": "7790168904663"
     },
@@ -6492,7 +6500,7 @@
       "id": 5740,
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
-      "precio": 5850,
+      "precio": 5950,
       "stock": -31,
       "barcode": "7790168904328"
     },
@@ -6549,7 +6557,7 @@
       "vino": "DAMAJUANA Crotta x 5 Lts.  Malbec",
       "bodega": "DAMAJUANAS",
       "precio": 15000,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7794068001071"
     },
     {
@@ -6597,7 +6605,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -51,
+      "stock": -53,
       "barcode": "7794068000012"
     },
     {
@@ -8573,7 +8581,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2100,
-      "stock": -72,
+      "stock": -75,
       "barcode": "66"
     },
     {
@@ -8741,7 +8749,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -101,
+      "stock": -103,
       "barcode": "7790895000430"
     },
     {
@@ -8797,7 +8805,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -58,
+      "stock": -59,
       "barcode": "7790895005374"
     },
     {
@@ -8997,7 +9005,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -34,
+      "stock": -36,
       "barcode": "7790895010088"
     },
     {
@@ -9156,7 +9164,7 @@
       "id": 6541,
       "vino": "Mantecol x26g",
       "bodega": "Georgalos",
-      "precio": 770,
+      "precio": 850,
       "stock": -3,
       "barcode": "7622201816384"
     },
@@ -9164,7 +9172,7 @@
       "id": 6542,
       "vino": "Mantecol x41g",
       "bodega": "Georgalos",
-      "precio": 850,
+      "precio": 1200,
       "stock": -8,
       "barcode": "7622201816414"
     },
@@ -9212,7 +9220,7 @@
       "id": 6614,
       "vino": "Tokke con leche ",
       "bodega": "Golosinas",
-      "precio": 1700,
+      "precio": 2000,
       "stock": -8,
       "barcode": "7790380022114"
     },
@@ -10085,7 +10093,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 4500,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7790762754107"
     },
     {
@@ -10133,7 +10141,7 @@
       "vino": "Contra viento",
       "bodega": "Mosquita muerta",
       "precio": 4500,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798159947057"
     },
     {
@@ -10197,7 +10205,7 @@
       "vino": "Malcriado",
       "bodega": "Mosquita muerta",
       "precio": 52600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798159946630"
     },
     {
@@ -10828,7 +10836,7 @@
       "id": 6260,
       "vino": "Frutilla enteras x 850 Gr",
       "bodega": "PULPAS",
-      "precio": 5600,
+      "precio": 6550,
       "stock": 0,
       "barcode": "7795933000519"
     },
@@ -10836,7 +10844,7 @@
       "id": 6261,
       "vino": "Pulpa Anana",
       "bodega": "PULPAS",
-      "precio": 5100,
+      "precio": 5600,
       "stock": -1,
       "barcode": "7795933202029"
     },
@@ -10844,7 +10852,7 @@
       "id": 6262,
       "vino": "Pulpa Durazno",
       "bodega": "PULPAS",
-      "precio": 4400,
+      "precio": 4800,
       "stock": -1,
       "barcode": "7795933207017"
     },
@@ -10852,7 +10860,7 @@
       "id": 6263,
       "vino": "Pulpa de Frutilla",
       "bodega": "PULPAS",
-      "precio": 4400,
+      "precio": 4800,
       "stock": -2,
       "barcode": "7795933000526"
     },
@@ -11004,7 +11012,7 @@
       "id": 6282,
       "vino": "Snack Arroz Asado",
       "bodega": "SNACKS",
-      "precio": 1300,
+      "precio": 1500,
       "stock": -3,
       "barcode": "7790503000302"
     },
@@ -11012,7 +11020,7 @@
       "id": 6283,
       "vino": "Snack Arroz Jamon",
       "bodega": "SNACKS",
-      "precio": 1300,
+      "precio": 1500,
       "stock": -3,
       "barcode": "7790503000289"
     },
@@ -11020,7 +11028,7 @@
       "id": 6284,
       "vino": "Snack Arroz Queso",
       "bodega": "SNACKS",
-      "precio": 1300,
+      "precio": 1500,
       "stock": -4,
       "barcode": "7790503000272"
     },
@@ -11028,7 +11036,7 @@
       "id": 6285,
       "vino": "Snack Arroz Salame",
       "bodega": "SNACKS",
-      "precio": 1300,
+      "precio": 1500,
       "stock": 0,
       "barcode": "7790503199044"
     },
@@ -11036,7 +11044,7 @@
       "id": 6286,
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
-      "precio": 1300,
+      "precio": 1500,
       "stock": -16,
       "barcode": "7790503000296"
     },
@@ -11044,7 +11052,7 @@
       "id": 6287,
       "vino": "Snacks Arroz Pizza",
       "bodega": "SNACKS",
-      "precio": 1300,
+      "precio": 1500,
       "stock": 0,
       "barcode": "7790503199150"
     },
@@ -11213,7 +11221,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 10200,
-      "stock": -25,
+      "stock": -26,
       "barcode": "7798090165114"
     },
     {
@@ -11557,7 +11565,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -54,
+      "stock": -55,
       "barcode": ""
     },
     {
@@ -12293,7 +12301,7 @@
       "vino": "Jack Daniel´s",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 48100,
-      "stock": -1,
+      "stock": -2,
       "barcode": "082184090466"
     },
     {
@@ -13062,5 +13070,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-06-26T15:52:18.374Z"
+  "lastUpdate": "2026-06-27T13:09:45.085Z"
 }
