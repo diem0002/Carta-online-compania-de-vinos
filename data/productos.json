@@ -260,7 +260,7 @@
       "id": 6520,
       "vino": "Promo Branca",
       "bodega": "Promos",
-      "precio": 22800,
+      "precio": 23600,
       "stock": 0,
       "barcode": ""
     },
@@ -589,7 +589,7 @@
       "vino": "Agua   x1.5",
       "bodega": "AGUA Y SODA",
       "precio": 990,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7790036974514"
     },
     {
@@ -749,7 +749,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -128,
+      "stock": -129,
       "barcode": "7790036975481"
     },
     {
@@ -964,7 +964,7 @@
       "id": 5055,
       "vino": "Branca Menta x 750",
       "bodega": "APERITIVOS",
-      "precio": 17500,
+      "precio": 18000,
       "stock": -1,
       "barcode": "7790290101473"
     },
@@ -988,7 +988,7 @@
       "id": 5058,
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
-      "precio": 17500,
+      "precio": 18000,
       "stock": -48,
       "barcode": "7790290101602"
     },
@@ -996,7 +996,7 @@
       "id": 5059,
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
-      "precio": 24100,
+      "precio": 24400,
       "stock": -12,
       "barcode": "7790290000523"
     },
@@ -2637,7 +2637,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7798089430414"
     },
     {
@@ -2653,7 +2653,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "stock": -31,
+      "stock": -32,
       "barcode": "7798089430179"
     },
     {
@@ -4749,7 +4749,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 24800,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7798123970616"
     },
     {
@@ -4765,7 +4765,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -42,
+      "stock": -43,
       "barcode": "7798123971309"
     },
     {
@@ -6309,7 +6309,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6310,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7792798002399"
     },
     {
@@ -6317,7 +6317,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6310,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7792798002351"
     },
     {
@@ -8357,7 +8357,7 @@
       "vino": "Dada Fca Las Moras 8",
       "bodega": "FINCA LAS MORAS",
       "precio": 5400,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7791540049590"
     },
     {
@@ -8677,7 +8677,7 @@
       "vino": "Eugenio bustos malbec",
       "bodega": "Fca.LA CELIA",
       "precio": 5900,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798141877362"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3000,
-      "stock": -60,
+      "stock": -61,
       "barcode": "7790895005374"
     },
     {
@@ -10445,7 +10445,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790070760104"
     },
     {
@@ -11165,7 +11165,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "VINOS x 377",
       "precio": 3450,
-      "stock": -16,
+      "stock": -18,
       "barcode": "7793440703800"
     },
     {
@@ -13057,13 +13057,6 @@
       "vendidos": 22
     },
     {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 21
-    },
-    {
       "id": 5194,
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
@@ -13076,7 +13069,14 @@
       "bodega": "Nieto Senetiner",
       "precio": 6600,
       "vendidos": 19
+    },
+    {
+      "id": 6068,
+      "vino": "Finca Gabriel dulce blanco",
+      "bodega": "JORGE RUBIO",
+      "precio": 5870,
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-06-29T12:47:10.869Z"
+  "lastUpdate": "2026-06-30T15:44:01.468Z"
 }
