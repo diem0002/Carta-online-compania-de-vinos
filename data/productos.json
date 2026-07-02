@@ -141,7 +141,7 @@
       "vino": "Full mani x150",
       "bodega": "Golosinas",
       "precio": 3600,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7790380025108"
     },
     {
@@ -533,7 +533,7 @@
       "vino": "Crujitas queso",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7792180146106"
     },
     {
@@ -2517,7 +2517,7 @@
       "vino": "H.Canale Estate Merlot",
       "bodega": "BODEGA H.CANALE",
       "precio": 11900,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790805120067"
     },
     {
@@ -2541,7 +2541,7 @@
       "vino": "Intimo  cabernet",
       "bodega": "BODEGA H.CANALE",
       "precio": 8500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790805131162"
     },
     {
@@ -6021,7 +6021,7 @@
       "vino": "Orange",
       "bodega": "Cervezas Importadas latas",
       "precio": 5200,
-      "stock": 0,
+      "stock": -2,
       "barcode": "8725000174958"
     },
     {
@@ -6037,7 +6037,7 @@
       "vino": "Weidman",
       "bodega": "Cervezas Importadas latas",
       "precio": 4700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "8718104902350"
     },
     {
@@ -6501,7 +6501,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 5950,
-      "stock": -21,
+      "stock": -23,
       "barcode": "7790168904663"
     },
     {
@@ -6613,7 +6613,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -54,
+      "stock": -55,
       "barcode": "7794068000012"
     },
     {
@@ -8541,7 +8541,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7798000213515"
     },
     {
@@ -11165,7 +11165,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "VINOS x 377",
       "precio": 3450,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7793440703800"
     },
     {
@@ -11844,7 +11844,7 @@
       "id": 6384,
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4500,
+      "precio": 4900,
       "stock": -14,
       "barcode": "7798366220028"
     },
@@ -11908,7 +11908,7 @@
       "id": 6392,
       "vino": "Otro Loco",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4900,
+      "precio": 5250,
       "stock": -5,
       "barcode": "7795232000524"
     },
@@ -11916,7 +11916,7 @@
       "id": 6393,
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4200,
+      "precio": 4350,
       "stock": -56,
       "barcode": "7798162671673"
     },
@@ -11948,7 +11948,7 @@
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4200,
+      "precio": 4350,
       "stock": -59,
       "barcode": "7798162670713"
     },
@@ -13037,7 +13037,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -96,
+      "stock": -99,
       "barcode": ""
     }
   ],
@@ -13046,7 +13046,7 @@
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4200,
+      "precio": 4350,
       "vendidos": 24
     },
     {
@@ -13064,19 +13064,19 @@
       "vendidos": 22
     },
     {
+      "id": 6300,
+      "vino": "Benjamin Nieto x 375",
+      "bodega": "VINOS x 377",
+      "precio": 3450,
+      "vendidos": 21
+    },
+    {
       "id": 5194,
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
       "vendidos": 21
-    },
-    {
-      "id": 6300,
-      "vino": "Benjamin Nieto x 375",
-      "bodega": "VINOS x 377",
-      "precio": 3450,
-      "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-07-02T15:47:42.281Z"
+  "lastUpdate": "2026-07-02T22:37:09.677Z"
 }
