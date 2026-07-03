@@ -3021,7 +3021,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -109,
+      "stock": -110,
       "barcode": "7790577002165"
     },
     {
@@ -3045,7 +3045,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7790577041553"
     },
     {
@@ -4357,7 +4357,7 @@
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 8500,
-      "stock": -26,
+      "stock": -27,
       "barcode": "7790415129122"
     },
     {
@@ -6173,7 +6173,7 @@
       "vino": "Goyeneche x500 Golden",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
-      "stock": -3,
+      "stock": -9,
       "barcode": "714604205234"
     },
     {
@@ -6181,7 +6181,7 @@
       "vino": "Goyeneche x500 Honey",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
-      "stock": -4,
+      "stock": -6,
       "barcode": "714604205142"
     },
     {
@@ -6189,7 +6189,7 @@
       "vino": "Goyeneche x500 Porter",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2700,
-      "stock": 0,
+      "stock": -4,
       "barcode": "714604205135"
     },
     {
@@ -6637,7 +6637,7 @@
       "vino": "Aceituna verde c/ carozo",
       "bodega": "ENCURTIDOS VANOLI",
       "precio": 2950,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790127000085"
     },
     {
@@ -9557,7 +9557,7 @@
       "vino": "Cognac Reserva San Juan",
       "bodega": "LICORES",
       "precio": 8000,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790197120218"
     },
     {
@@ -10061,7 +10061,7 @@
       "vino": "Las perdices PARTRIDGE red blend",
       "bodega": "Las perdices ",
       "precio": 6000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798123972115"
     },
     {
@@ -11309,7 +11309,7 @@
       "vino": "Doña Paula Blue",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7798090163073"
     },
     {
@@ -11317,7 +11317,7 @@
       "vino": "Doña paula Smoked Red Blent",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798090163400"
     },
     {
@@ -13047,7 +13047,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 25
+      "vendidos": 26
     },
     {
       "id": 6397,
@@ -13078,5 +13078,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-07-03T14:35:51.472Z"
+  "lastUpdate": "2026-07-03T14:56:04.932Z"
 }
