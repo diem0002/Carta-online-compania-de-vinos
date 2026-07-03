@@ -2077,7 +2077,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
-      "stock": -30,
+      "stock": -36,
       "barcode": "7798108834339"
     },
     {
@@ -3021,7 +3021,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -108,
+      "stock": -109,
       "barcode": "7790577002165"
     },
     {
@@ -5685,7 +5685,7 @@
       "vino": "Cigarro CafeCream brown café (holanda)",
       "bodega": "CIGARROS",
       "precio": 13750,
-      "stock": 0,
+      "stock": -1,
       "barcode": "8720400252589"
     },
     {
@@ -8780,15 +8780,15 @@
       "id": 6017,
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3970,
-      "stock": -59,
+      "precio": 3980,
+      "stock": -60,
       "barcode": "7790895000218"
     },
     {
       "id": 6018,
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3970,
+      "precio": 3980,
       "stock": -26,
       "barcode": "7790895067617"
     },
@@ -9068,7 +9068,7 @@
       "id": 6052,
       "vino": "Sprite retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3970,
+      "precio": 3980,
       "stock": -15,
       "barcode": "7790895000225"
     },
@@ -9269,7 +9269,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7798112630521"
     },
     {
@@ -9957,7 +9957,7 @@
       "vino": "Tia Maria Botella",
       "bodega": "LICORES",
       "precio": 9800,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7792410504324"
     },
     {
@@ -12533,7 +12533,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 19200,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7791250001253"
     },
     {
@@ -13043,17 +13043,17 @@
   ],
   "destacados": [
     {
-      "id": 6397,
-      "vino": "Profugo Malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4350,
-      "vendidos": 24
-    },
-    {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
+      "vendidos": 25
+    },
+    {
+      "id": 6397,
+      "vino": "Profugo Malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4350,
       "vendidos": 24
     },
     {
@@ -13064,19 +13064,19 @@
       "vendidos": 22
     },
     {
-      "id": 6300,
-      "vino": "Benjamin Nieto x 375",
-      "bodega": "VINOS x 377",
-      "precio": 3450,
-      "vendidos": 21
-    },
-    {
       "id": 5194,
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
       "vendidos": 21
+    },
+    {
+      "id": 5193,
+      "vino": "Esperado Malbec",
+      "bodega": "BODEGA CALLIA",
+      "precio": 5400,
+      "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-07-02T22:37:09.677Z"
+  "lastUpdate": "2026-07-03T14:35:51.472Z"
 }
