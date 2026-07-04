@@ -2637,7 +2637,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7798089430414"
     },
     {
@@ -3021,7 +3021,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -112,
+      "stock": -113,
       "barcode": "7790577002165"
     },
     {
@@ -6238,7 +6238,7 @@
       "bodega": "Cervezas Nacionales latas",
       "precio": 3230,
       "stock": -35,
-      "barcode": "7793147572808"
+      "barcode": "7793147574093"
     },
     {
       "id": 5708,
@@ -8757,7 +8757,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -106,
+      "stock": -107,
       "barcode": "7790895000430"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3150,
-      "stock": -63,
+      "stock": -65,
       "barcode": "7790895005374"
     },
     {
@@ -8949,7 +8949,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3500,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7791813421382"
     },
     {
@@ -9277,7 +9277,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -63,
+      "stock": -64,
       "barcode": "7798112631306"
     },
     {
@@ -11261,7 +11261,7 @@
       "vino": "Doña Paula  - Single vineyard malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 12430,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798090164681"
     },
     {
@@ -13071,12 +13071,12 @@
       "vendidos": 21
     },
     {
-      "id": 5193,
-      "vino": "Esperado Malbec",
-      "bodega": "BODEGA CALLIA",
-      "precio": 5400,
+      "id": 6068,
+      "vino": "Finca Gabriel dulce blanco",
+      "bodega": "JORGE RUBIO",
+      "precio": 5870,
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-07-03T21:22:08.242Z"
+  "lastUpdate": "2026-07-04T00:38:18.263Z"
 }
