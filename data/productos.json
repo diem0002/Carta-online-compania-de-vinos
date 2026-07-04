@@ -6132,7 +6132,7 @@
       "id": 5694,
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3700,
+      "precio": 3900,
       "stock": -110,
       "barcode": "7792798003709"
     },
@@ -6140,7 +6140,7 @@
       "id": 5695,
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2800,
+      "precio": 3000,
       "stock": -56,
       "barcode": "7792798014873"
     },
@@ -6148,7 +6148,7 @@
       "id": 5696,
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5600,
+      "precio": 6100,
       "stock": -19,
       "barcode": "7792798003716"
     },
@@ -13078,5 +13078,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-07-04T12:42:44.815Z"
+  "lastUpdate": "2026-07-04T12:47:30.223Z"
 }
