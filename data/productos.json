@@ -6156,7 +6156,7 @@
       "id": 5697,
       "vino": "Corona x473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3600,
+      "precio": 3800,
       "stock": 0,
       "barcode": "7792798014705"
     },
@@ -13078,5 +13078,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-07-04T12:47:30.223Z"
+  "lastUpdate": "2026-07-04T12:49:53.328Z"
 }
