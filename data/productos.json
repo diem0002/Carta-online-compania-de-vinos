@@ -4516,7 +4516,7 @@
       "id": 5498,
       "vino": "Altas Cumbres cabernet",
       "bodega": "Bodega Lagarde",
-      "precio": 6800,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7792756200331"
     },
@@ -4524,7 +4524,7 @@
       "id": 5499,
       "vino": "Altas Cumbres malbec",
       "bodega": "Bodega Lagarde",
-      "precio": 6800,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7792756200324"
     },
@@ -13078,5 +13078,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-07T12:37:04.606Z"
+  "lastUpdate": "2026-07-07T12:37:56.105Z"
 }
