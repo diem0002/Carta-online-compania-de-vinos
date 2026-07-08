@@ -2133,7 +2133,7 @@
       "vino": "Casarena single vineyard jamillas malbec",
       "bodega": "BODEGA CASARENA",
       "precio": 31000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798086530902"
     },
     {
@@ -2197,7 +2197,7 @@
       "vino": "Latitud 33 malbec",
       "bodega": "BODEGA CHANDON",
       "precio": 7150,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790975204062"
     },
     {
@@ -3085,7 +3085,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7790577040921"
     },
     {
@@ -4765,7 +4765,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -45,
+      "stock": -47,
       "barcode": "7798123971309"
     },
     {
@@ -5925,7 +5925,7 @@
       "vino": "Viejo con gafas",
       "bodega": "Cepas de origen srl",
       "precio": 4100,
-      "stock": -12,
+      "stock": -16,
       "barcode": "7798454560012"
     },
     {
@@ -6581,7 +6581,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco",
       "bodega": "DAMAJUANAS",
       "precio": 10400,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794068000029"
     },
     {
@@ -8213,7 +8213,7 @@
       "vino": "329 marsellan",
       "bodega": "FINCA FENIX",
       "precio": 16000,
-      "stock": -14,
+      "stock": -15,
       "barcode": "727373047257"
     },
     {
@@ -9285,7 +9285,7 @@
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -31,
+      "stock": -33,
       "barcode": "7798112630309"
     },
     {
@@ -11221,7 +11221,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -34,
+      "stock": -36,
       "barcode": "7798090160065"
     },
     {
@@ -11573,7 +11573,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -61,
+      "stock": -63,
       "barcode": ""
     },
     {
@@ -12908,7 +12908,7 @@
       "id": 5829,
       "vino": "Gin copa vidrio",
       "bodega": "cristaleria",
-      "precio": 4000,
+      "precio": 5000,
       "stock": 0,
       "barcode": "7891155056584"
     },
@@ -13078,5 +13078,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-08T15:03:32.526Z"
+  "lastUpdate": "2026-07-08T22:01:16.925Z"
 }
