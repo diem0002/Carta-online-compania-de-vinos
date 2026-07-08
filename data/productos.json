@@ -469,7 +469,7 @@
       "vino": "tokke blanco con dulce de leche",
       "bodega": "Vinos",
       "precio": 2200,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380022190"
     },
     {
@@ -637,7 +637,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7790036008974"
     },
     {
@@ -749,7 +749,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -133,
+      "stock": -134,
       "barcode": "7790036975481"
     },
     {
@@ -2645,7 +2645,7 @@
       "vino": "Viña de Caroya Amabile x750",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4200,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7798089430124"
     },
     {
@@ -3877,7 +3877,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -47,
+      "stock": -53,
       "barcode": "7791728248265"
     },
     {
@@ -4605,7 +4605,7 @@
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 8300,
-      "stock": -28,
+      "stock": -30,
       "barcode": "7798123970098"
     },
     {
@@ -5301,7 +5301,7 @@
       "vino": "Alamos malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9200,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7794450000781"
     },
     {
@@ -6149,7 +6149,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6100,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7792798003716"
     },
     {
@@ -6309,7 +6309,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -28,
+      "stock": -29,
       "barcode": "7792798002399"
     },
     {
@@ -6317,7 +6317,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7792798002351"
     },
     {
@@ -6557,7 +6557,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "DAMAJUANAS",
       "precio": 24050,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7794068000449"
     },
     {
@@ -6565,7 +6565,7 @@
       "vino": "DAMAJUANA Crotta x 5 Lts.  Malbec",
       "bodega": "DAMAJUANAS",
       "precio": 15000,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7794068001071"
     },
     {
@@ -6613,7 +6613,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -58,
+      "stock": -59,
       "barcode": "7794068000012"
     },
     {
@@ -8541,7 +8541,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7798000213515"
     },
     {
@@ -8757,7 +8757,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -113,
+      "stock": -114,
       "barcode": "7790895000430"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3150,
-      "stock": -67,
+      "stock": -69,
       "barcode": "7790895005374"
     },
     {
@@ -8901,7 +8901,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -52,
+      "stock": -54,
       "barcode": "7790036004594"
     },
     {
@@ -9165,7 +9165,7 @@
       "vino": "Mantecol x111g",
       "bodega": "Georgalos",
       "precio": 2280,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7622201812652"
     },
     {
@@ -9229,7 +9229,7 @@
       "vino": "Tokke con leche ",
       "bodega": "Golosinas",
       "precio": 2000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790380022114"
     },
     {
@@ -9285,7 +9285,7 @@
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -28,
+      "stock": -31,
       "barcode": "7798112630309"
     },
     {
@@ -9629,7 +9629,7 @@
       "vino": "Legui x 750cc",
       "bodega": "LICORES",
       "precio": 4700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791250001482"
     },
     {
@@ -9637,7 +9637,7 @@
       "vino": "Licor 3 plumas seco",
       "bodega": "LICORES",
       "precio": 6950,
-      "stock": 0,
+      "stock": -3,
       "barcode": "7790260016011"
     },
     {
@@ -9949,7 +9949,7 @@
       "vino": "Sheridan's",
       "bodega": "LICORES",
       "precio": 50500,
-      "stock": -6,
+      "stock": -7,
       "barcode": "5011013500680"
     },
     {
@@ -10277,7 +10277,7 @@
       "vino": "Sapo de otro poso",
       "bodega": "Mosquita muerta",
       "precio": 13500,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798159944339"
     },
     {
@@ -10445,7 +10445,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790070760104"
     },
     {
@@ -10726,7 +10726,7 @@
       "bodega": "Nieto Senetiner",
       "precio": 7800,
       "stock": -2,
-      "barcode": "7793440000046"
+      "barcode": "7790070760821"
     },
     {
       "id": 6242,
@@ -11229,7 +11229,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 10200,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7798090165114"
     },
     {
@@ -13068,7 +13068,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 24
+      "vendidos": 23
     },
     {
       "id": 6224,
@@ -13078,5 +13078,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-07T12:37:56.105Z"
+  "lastUpdate": "2026-07-08T15:00:53.814Z"
 }
