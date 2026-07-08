@@ -185,6 +185,14 @@
       "barcode": "7798000213652"
     },
     {
+      "id": 6639,
+      "vino": "Intimo Pinot",
+      "bodega": "Vinos",
+      "precio": 13450,
+      "stock": 0,
+      "barcode": "7790805120128"
+    },
+    {
       "id": 6586,
       "vino": "Mantecol cubanito ",
       "bodega": "Golosinas",
@@ -13078,5 +13086,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-08T22:01:16.925Z"
+  "lastUpdate": "2026-07-08T22:13:32.105Z"
 }
