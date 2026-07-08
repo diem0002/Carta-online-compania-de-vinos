@@ -205,7 +205,7 @@
       "vino": "Mantecol marmolado",
       "bodega": "Golosinas",
       "precio": 3100,
-      "stock": -2,
+      "stock": -3,
       "barcode": ""
     },
     {
@@ -757,7 +757,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -134,
+      "stock": -135,
       "barcode": "7790036975481"
     },
     {
@@ -2534,7 +2534,7 @@
       "bodega": "BODEGA H.CANALE",
       "precio": 15000,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7790805120128"
     },
     {
       "id": 5248,
@@ -3317,7 +3317,7 @@
       "vino": "Salentein Numina malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 16470,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7798074869311"
     },
     {
@@ -4589,7 +4589,7 @@
       "vino": "Las Perdices  - Blend",
       "bodega": "Bodega Las Perdices",
       "precio": 9050,
-      "stock": -8,
+      "stock": -10,
       "barcode": "7798123971170"
     },
     {
@@ -6285,7 +6285,7 @@
       "vino": "Miller 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4650,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7793147570088"
     },
     {
@@ -6317,7 +6317,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -29,
+      "stock": -31,
       "barcode": "7792798002399"
     },
     {
@@ -6325,7 +6325,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7792798002351"
     },
     {
@@ -6445,7 +6445,7 @@
       "vino": "cerveza 361 x1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 1950,
-      "stock": -12,
+      "stock": -15,
       "barcode": "7798054012980"
     },
     {
@@ -6757,7 +6757,7 @@
       "vino": "Equilibrista Joven",
       "bodega": "EQUILIBRISTA",
       "precio": 8500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798193470016"
     },
     {
@@ -8533,7 +8533,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8050,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7798000213737"
     },
     {
@@ -8741,7 +8741,7 @@
       "vino": "Felix Lavaque blend",
       "bodega": "Finca Ribera del Chuscha",
       "precio": 25300,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798260190168"
     },
     {
@@ -8797,7 +8797,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3980,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7790895067617"
     },
     {
@@ -11061,7 +11061,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
       "precio": 1500,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7790503000296"
     },
     {
@@ -11237,7 +11237,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 10200,
-      "stock": -28,
+      "stock": -29,
       "barcode": "7798090165114"
     },
     {
@@ -11317,7 +11317,7 @@
       "vino": "Doña Paula Blue",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -25,
+      "stock": -27,
       "barcode": "7798090163073"
     },
     {
@@ -11853,7 +11853,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -15,
+      "stock": -17,
       "barcode": "7798366220028"
     },
     {
@@ -13086,5 +13086,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-08T22:13:32.105Z"
+  "lastUpdate": "2026-07-08T23:30:14.172Z"
 }
