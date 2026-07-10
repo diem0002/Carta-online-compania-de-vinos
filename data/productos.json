@@ -3045,7 +3045,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -118,
+      "stock": -119,
       "barcode": "7790577002165"
     },
     {
@@ -3525,7 +3525,7 @@
       "vino": "Fond de Cave  - malbec",
       "bodega": "BODEGA TRAPICHE",
       "precio": 7700,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7790240041460"
     },
     {
@@ -6333,7 +6333,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -31,
+      "stock": -32,
       "barcode": "7792798002399"
     },
     {
@@ -6341,7 +6341,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7792798002351"
     },
     {
@@ -9309,7 +9309,7 @@
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7798112630309"
     },
     {
@@ -10782,7 +10782,7 @@
       "bodega": "Nieto senetiner",
       "precio": 10200,
       "stock": -4,
-      "barcode": "7790070106292"
+      "barcode": "7790070106919"
     },
     {
       "id": 6244,
@@ -13081,17 +13081,17 @@
       "vendidos": 28
     },
     {
-      "id": 6397,
-      "vino": "Profugo Malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4350,
-      "vendidos": 24
-    },
-    {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
+      "vendidos": 25
+    },
+    {
+      "id": 6397,
+      "vino": "Profugo Malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4350,
       "vendidos": 24
     },
     {
@@ -13102,5 +13102,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-10T22:14:58.727Z"
+  "lastUpdate": "2026-07-10T22:59:29.272Z"
 }
