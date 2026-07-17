@@ -2782,7 +2782,7 @@
       "bodega": "BODEGA NORTON",
       "precio": 5550,
       "stock": 0,
-      "barcode": "7792319972231"
+      "barcode": "7792319972248"
     },
     {
       "id": 5282,
@@ -13126,5 +13126,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-17T12:14:49.626Z"
+  "lastUpdate": "2026-07-17T12:18:35.337Z"
 }
