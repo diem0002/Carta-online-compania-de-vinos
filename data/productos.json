@@ -221,7 +221,7 @@
       "vino": "Padrillos Malbec",
       "bodega": "Vinos",
       "precio": 11500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798126080534"
     },
     {
@@ -1420,7 +1420,7 @@
       "id": 5107,
       "vino": "Gin Heredero",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 16100,
+      "precio": 17800,
       "stock": -2,
       "barcode": "724751009876"
     },
@@ -1428,7 +1428,7 @@
       "id": 5108,
       "vino": "Gin Heredero pink",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 16100,
+      "precio": 17800,
       "stock": 0,
       "barcode": ""
     },
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790577040921"
     },
     {
@@ -4733,7 +4733,7 @@
       "vino": "Las Perdices Reseva - malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": -9,
+      "stock": -11,
       "barcode": "7798123970296"
     },
     {
@@ -4773,7 +4773,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 24800,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7798123970616"
     },
     {
@@ -5709,7 +5709,7 @@
       "vino": "Cigarro CafeCream brown café (holanda)",
       "bodega": "CIGARROS",
       "precio": 13750,
-      "stock": -1,
+      "stock": -2,
       "barcode": "8720400252589"
     },
     {
@@ -7621,7 +7621,7 @@
       "vino": "Chandon Delice",
       "bodega": "Espumantes",
       "precio": 19100,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790975198651"
     },
     {
@@ -8829,7 +8829,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3980,
-      "stock": -70,
+      "stock": -71,
       "barcode": "7790895000218"
     },
     {
@@ -8965,7 +8965,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7790036129136"
     },
     {
@@ -9101,7 +9101,7 @@
       "vino": "Sprite 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790895000447"
     },
     {
@@ -13126,5 +13126,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-17T12:22:28.403Z"
+  "lastUpdate": "2026-07-17T15:48:18.663Z"
 }
