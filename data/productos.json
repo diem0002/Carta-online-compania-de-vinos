@@ -7622,7 +7622,7 @@
       "bodega": "Espumantes",
       "precio": 19100,
       "stock": -4,
-      "barcode": ""
+      "barcode": "7790975198651"
     },
     {
       "id": 5877,
@@ -7630,7 +7630,7 @@
       "bodega": "Espumantes",
       "precio": 19100,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7790975198613"
     },
     {
       "id": 5878,
@@ -13126,5 +13126,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-17T12:13:03.289Z"
+  "lastUpdate": "2026-07-17T12:14:49.626Z"
 }
