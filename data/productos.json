@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Golosinas",
       "precio": 850,
-      "stock": -40,
+      "stock": -42,
       "barcode": "7790380025191"
     },
     {
@@ -85,7 +85,7 @@
       "vino": "Bombon Tokke",
       "bodega": "Golosinas",
       "precio": 500,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7790380022176"
     },
     {
@@ -205,7 +205,7 @@
       "vino": "Mantecol marmolado",
       "bodega": "Golosinas",
       "precio": 3100,
-      "stock": -3,
+      "stock": -5,
       "barcode": ""
     },
     {
@@ -661,7 +661,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -15,
+      "stock": -17,
       "barcode": "7790036008974"
     },
     {
@@ -757,7 +757,7 @@
       "vino": "Pronto baggio multifrutal",
       "bodega": "AGUA Y SODA",
       "precio": 2000,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7790036000466"
     },
     {
@@ -773,7 +773,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -145,
+      "stock": -147,
       "barcode": "7790036975481"
     },
     {
@@ -2661,7 +2661,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -38,
+      "stock": -39,
       "barcode": "7798089430414"
     },
     {
@@ -2685,7 +2685,7 @@
       "vino": "San Felipe Roble",
       "bodega": "BODEGA LA RURAL",
       "precio": 5650,
-      "stock": -12,
+      "stock": -14,
       "barcode": "7790577002424"
     },
     {
@@ -2757,7 +2757,7 @@
       "vino": "Norton 1895",
       "bodega": "BODEGA NORTON",
       "precio": 4500,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7792319065254"
     },
     {
@@ -2813,7 +2813,7 @@
       "vino": "Norton Talisman",
       "bodega": "BODEGA NORTON",
       "precio": 3600,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7792319971722"
     },
     {
@@ -3069,7 +3069,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7790577041553"
     },
     {
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -32,
+      "stock": -34,
       "barcode": "7790577040921"
     },
     {
@@ -3333,7 +3333,7 @@
       "vino": "Salentein Numina malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 16470,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798074869311"
     },
     {
@@ -3653,7 +3653,7 @@
       "vino": "Piatelli reserva - cabernet mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798124010144"
     },
     {
@@ -3901,7 +3901,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -60,
+      "stock": -61,
       "barcode": "7791728248265"
     },
     {
@@ -4086,7 +4086,7 @@
       "bodega": "Bodega  Ruca Malen",
       "precio": 4900,
       "stock": 0,
-      "barcode": "7790070760500"
+      "barcode": "7798090852533"
     },
     {
       "id": 5443,
@@ -4413,7 +4413,7 @@
       "vino": "Gascon Roble Reserva  - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 7000,
-      "stock": -18,
+      "stock": -24,
       "barcode": "7790415128729"
     },
     {
@@ -4701,7 +4701,7 @@
       "vino": "Las Perdices PARTRIDGE Bag In Box",
       "bodega": "Bodega Las Perdices",
       "precio": 18000,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7798123974515"
     },
     {
@@ -4773,7 +4773,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 24800,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7798123970616"
     },
     {
@@ -5253,7 +5253,7 @@
       "vino": "Branca mundial x750",
       "bodega": "Branca",
       "precio": 22700,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790290101817"
     },
     {
@@ -5261,7 +5261,7 @@
       "vino": "Sernova",
       "bodega": "Branca",
       "precio": 10500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790290101510"
     },
     {
@@ -5549,7 +5549,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 11000,
-      "stock": -38,
+      "stock": -39,
       "barcode": "7794450000149"
     },
     {
@@ -6357,7 +6357,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -41,
+      "stock": -42,
       "barcode": "7792798002399"
     },
     {
@@ -6365,7 +6365,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -30,
+      "stock": -31,
       "barcode": "7792798002351"
     },
     {
@@ -6549,7 +6549,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 5950,
-      "stock": -29,
+      "stock": -31,
       "barcode": "7790168904663"
     },
     {
@@ -6661,7 +6661,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -64,
+      "stock": -65,
       "barcode": "7794068000012"
     },
     {
@@ -6677,7 +6677,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "DAMAJUANAS",
       "precio": 16000,
-      "stock": -12,
+      "stock": -13,
       "barcode": "1148547501013"
     },
     {
@@ -8597,7 +8597,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -41,
+      "stock": -43,
       "barcode": "7798000213515"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -127,
+      "stock": -128,
       "barcode": "7790895000430"
     },
     {
@@ -8837,7 +8837,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3980,
-      "stock": -78,
+      "stock": -79,
       "barcode": "7790895000218"
     },
     {
@@ -8853,7 +8853,7 @@
       "vino": "Coca Cola lata x220",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1150,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790895642081"
     },
     {
@@ -9029,7 +9029,7 @@
       "vino": "Powerade x500 azul",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2500,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790895640025"
     },
     {
@@ -9213,7 +9213,7 @@
       "vino": "Cocolate confitados",
       "bodega": "Georgalos",
       "precio": 2850,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790380037903"
     },
     {
@@ -9325,7 +9325,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -25,
+      "stock": -27,
       "barcode": "7798112630521"
     },
     {
@@ -9341,7 +9341,7 @@
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
       "precio": 5870,
-      "stock": -43,
+      "stock": -44,
       "barcode": "7798112630309"
     },
     {
@@ -9373,7 +9373,7 @@
       "vino": "Finca Gabriel varietal  - cabernet",
       "bodega": "JORGE RUBIO",
       "precio": 4900,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798112630019"
     },
     {
@@ -9381,7 +9381,7 @@
       "vino": "Finca Gabriel varietal  - malbec",
       "bodega": "JORGE RUBIO",
       "precio": 4900,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798112630026"
     },
     {
@@ -9613,7 +9613,7 @@
       "vino": "Cognac Reserva San Juan",
       "bodega": "LICORES",
       "precio": 8000,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790197120218"
     },
     {
@@ -10669,7 +10669,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -33,
+      "stock": -39,
       "barcode": "7790070760777"
     },
     {
@@ -10885,7 +10885,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7790480089741"
     },
     {
@@ -11093,7 +11093,7 @@
       "vino": "Snack Arroz Queso",
       "bodega": "SNACKS",
       "precio": 1500,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790503000272"
     },
     {
@@ -11277,7 +11277,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -46,
+      "stock": -47,
       "barcode": "7798090160065"
     },
     {
@@ -11933,7 +11933,7 @@
       "vino": "Lola - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4300,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790415131194"
     },
     {
@@ -11973,7 +11973,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -57,
+      "stock": -58,
       "barcode": "7798162671673"
     },
     {
@@ -12005,7 +12005,7 @@
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -71,
+      "stock": -72,
       "barcode": "7798162670713"
     },
     {
@@ -13093,7 +13093,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -117,
+      "stock": -118,
       "barcode": ""
     }
   ],
@@ -13106,33 +13106,33 @@
       "vendidos": 35
     },
     {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 24
-    },
-    {
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "vendidos": 24
+      "vendidos": 25
     },
     {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 9200,
-      "vendidos": 22
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 23
     },
     {
       "id": 5420,
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
+      "vendidos": 22
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 9200,
       "vendidos": 21
     }
   ],
-  "lastUpdate": "2026-07-21T14:32:17.196Z"
+  "lastUpdate": "2026-07-23T12:47:13.923Z"
 }
