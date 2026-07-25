@@ -6004,7 +6004,7 @@
       "id": 5673,
       "vino": "Kaiserdon estuche",
       "bodega": "Cervezas Importadas latas",
-      "precio": 44000,
+      "precio": 45000,
       "stock": -2,
       "barcode": "4004591137363"
     },
@@ -6012,7 +6012,7 @@
       "id": 5674,
       "vino": "Kaiserdon x 1 lt Hefe",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16100,
+      "precio": 16500,
       "stock": -6,
       "barcode": "4004591037366"
     },
@@ -6020,7 +6020,7 @@
       "id": 5675,
       "vino": "Kaiserdon x 1 lt Kellerbier",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16100,
+      "precio": 16500,
       "stock": -3,
       "barcode": "4004591037557"
     },
@@ -6028,7 +6028,7 @@
       "id": 5676,
       "vino": "Kaiserdon x 1 lt Negra",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16100,
+      "precio": 16500,
       "stock": -2,
       "barcode": "4004591037441"
     },
@@ -6036,7 +6036,7 @@
       "id": 5677,
       "vino": "Kaiserdon x 1 lt Pilsener",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16100,
+      "precio": 16500,
       "stock": -2,
       "barcode": "4004591037038"
     },
@@ -6044,7 +6044,7 @@
       "id": 5678,
       "vino": "Kaiserdon x473 Grapefruit sin alcohol",
       "bodega": "Cervezas Importadas latas",
-      "precio": 5950,
+      "precio": 6100,
       "stock": 0,
       "barcode": "4053400279398"
     },
@@ -6052,7 +6052,7 @@
       "id": 5679,
       "vino": "Kaiserdon x500 sin alcohol pink",
       "bodega": "Cervezas Importadas latas",
-      "precio": 5500,
+      "precio": 6100,
       "stock": -2,
       "barcode": "4004591038769"
     },
@@ -6092,7 +6092,7 @@
       "id": 5683,
       "vino": "kaiserdon x 500 sin alcohol lemon",
       "bodega": "Cervezas Importadas latas",
-      "precio": 5950,
+      "precio": 6100,
       "stock": -1,
       "barcode": "4004591038738"
     },
@@ -6100,7 +6100,7 @@
       "id": 5684,
       "vino": "kaiserdon x 500 strong",
       "bodega": "Cervezas Importadas latas",
-      "precio": 5950,
+      "precio": 6700,
       "stock": -2,
       "barcode": "4004591039469"
     },
@@ -6108,7 +6108,7 @@
       "id": 5685,
       "vino": "kaiserdon x500 smoked",
       "bodega": "Cervezas Importadas latas",
-      "precio": 5950,
+      "precio": 6700,
       "stock": -7,
       "barcode": "4004591039452"
     },
@@ -9452,7 +9452,7 @@
       "id": 6081,
       "vino": "baggio exprimido",
       "bodega": "Jugos",
-      "precio": 3300,
+      "precio": 3500,
       "stock": -3,
       "barcode": "7790036976488"
     },
@@ -13134,5 +13134,5 @@
       "vendidos": 23
     }
   ],
-  "lastUpdate": "2026-07-25T12:24:30.513Z"
+  "lastUpdate": "2026-07-25T13:28:31.507Z"
 }
