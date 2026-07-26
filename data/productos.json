@@ -669,7 +669,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7790036001647"
     },
     {
@@ -781,7 +781,7 @@
       "vino": "Soda sifon",
       "bodega": "AGUA Y SODA",
       "precio": 1600,
-      "stock": -14,
+      "stock": -16,
       "barcode": "7792758372432"
     },
     {
@@ -1013,7 +1013,7 @@
       "vino": "Branca x 750",
       "bodega": "APERITIVOS",
       "precio": 18000,
-      "stock": -59,
+      "stock": -60,
       "barcode": "7790290101602"
     },
     {
@@ -1100,7 +1100,7 @@
       "id": 5069,
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
-      "precio": 8380,
+      "precio": 8250,
       "stock": -14,
       "barcode": "7790950000160"
     },
@@ -1108,7 +1108,7 @@
       "id": 5070,
       "vino": "Gancia x 450",
       "bodega": "APERITIVOS",
-      "precio": 4800,
+      "precio": 4600,
       "stock": -2,
       "barcode": "7790950000191"
     },
@@ -1124,15 +1124,15 @@
       "id": 5071,
       "vino": "Martini Blanco",
       "bodega": "APERITIVOS",
-      "precio": 8870,
-      "stock": -1,
+      "precio": 8400,
+      "stock": -2,
       "barcode": "7790950134834"
     },
     {
       "id": 5072,
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
-      "precio": 8870,
+      "precio": 8400,
       "stock": -4,
       "barcode": "7790950134810"
     },
@@ -1909,7 +1909,7 @@
       "vino": "Luna llena - cabernet Franc",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16000,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7798191780186"
     },
     {
@@ -1980,7 +1980,7 @@
       "id": 5178,
       "vino": "Don Valentin Lacrado",
       "bodega": "BODEGA BIANCHI",
-      "precio": 4350,
+      "precio": 3800,
       "stock": 0,
       "barcode": ""
     },
@@ -2637,7 +2637,7 @@
       "vino": "Jugo de uva Correa Grieco",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -13,
+      "stock": -16,
       "barcode": "7795633003049"
     },
     {
@@ -2653,7 +2653,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": -31,
+      "stock": -33,
       "barcode": "7795633000154"
     },
     {
@@ -2965,7 +2965,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 17200,
-      "stock": -32,
+      "stock": -35,
       "barcode": "7790577001663"
     },
     {
@@ -3021,7 +3021,7 @@
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -10,
+      "stock": -12,
       "barcode": "7790577002141"
     },
     {
@@ -3045,7 +3045,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "stock": -128,
+      "stock": -129,
       "barcode": "7790577002165"
     },
     {
@@ -3061,7 +3061,7 @@
       "vino": "Trumpeter Reserva  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790577041515"
     },
     {
@@ -3069,7 +3069,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": -33,
+      "stock": -37,
       "barcode": "7790577041553"
     },
     {
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -34,
+      "stock": -36,
       "barcode": "7790577040921"
     },
     {
@@ -3285,7 +3285,7 @@
       "vino": "Salentein  - cabernet franc",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12600,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7798074864224"
     },
     {
@@ -3293,7 +3293,7 @@
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12000,
-      "stock": -48,
+      "stock": -49,
       "barcode": "7798074865313"
     },
     {
@@ -3669,7 +3669,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -43,
+      "stock": -44,
       "barcode": "7798124010243"
     },
     {
@@ -3901,7 +3901,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -62,
+      "stock": -63,
       "barcode": "7791728248265"
     },
     {
@@ -3925,7 +3925,7 @@
       "vino": "Textual carmenere",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 13100,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7791728021424"
     },
     {
@@ -4701,7 +4701,7 @@
       "vino": "Las Perdices PARTRIDGE Bag In Box",
       "bodega": "Bodega Las Perdices",
       "precio": 18000,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7798123974515"
     },
     {
@@ -4741,7 +4741,7 @@
       "vino": "Las Perdices Reseva - pinot",
       "bodega": "Bodega Las Perdices",
       "precio": 12550,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7798123970432"
     },
     {
@@ -4901,7 +4901,7 @@
       "vino": "Lorca Fantasia cabernet franc",
       "bodega": "Bodega Lorca",
       "precio": 9800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798103165476"
     },
     {
@@ -5677,7 +5677,7 @@
       "vino": "Gancia S/Alc 6x473",
       "bodega": "CEO",
       "precio": 2100,
-      "stock": -101,
+      "stock": -107,
       "barcode": "7790950147926"
     },
     {
@@ -5789,7 +5789,7 @@
       "vino": "Cigarro Principe corona  cherry (dominicano)",
       "bodega": "CIGARROS",
       "precio": 3750,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -6197,7 +6197,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6100,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7792798003716"
     },
     {
@@ -8413,7 +8413,7 @@
       "vino": "Dada Fca Las Moras 8",
       "bodega": "FINCA LAS MORAS",
       "precio": 5900,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7791540049590"
     },
     {
@@ -8645,7 +8645,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2100,
-      "stock": -100,
+      "stock": -101,
       "barcode": "66"
     },
     {
@@ -8789,7 +8789,7 @@
       "vino": "Felix Lavaque blend",
       "bodega": "Finca Ribera del Chuscha",
       "precio": 25300,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7798260190168"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -128,
+      "stock": -129,
       "barcode": "7790895000430"
     },
     {
@@ -8821,7 +8821,7 @@
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 6100,
-      "stock": -30,
+      "stock": -32,
       "barcode": "7790895000997"
     },
     {
@@ -8837,7 +8837,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3980,
-      "stock": -80,
+      "stock": -81,
       "barcode": "7790895000218"
     },
     {
@@ -8949,7 +8949,7 @@
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7790036004587"
     },
     {
@@ -8957,7 +8957,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1900,
-      "stock": -58,
+      "stock": -59,
       "barcode": "7790036004594"
     },
     {
@@ -9005,7 +9005,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3500,
-      "stock": -19,
+      "stock": -21,
       "barcode": "7791813421382"
     },
     {
@@ -10157,7 +10157,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 4600,
-      "stock": -18,
+      "stock": -20,
       "barcode": "7790762754107"
     },
     {
@@ -10677,7 +10677,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790070760739"
     },
     {
@@ -10805,7 +10805,7 @@
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
       "precio": 10200,
-      "stock": -3,
+      "stock": -6,
       "barcode": "7790070104847"
     },
     {
@@ -10829,7 +10829,7 @@
       "vino": "Ajies",
       "bodega": "OLIVARES DEL CESAR",
       "precio": 3500,
-      "stock": -3,
+      "stock": -4,
       "barcode": ""
     },
     {
@@ -11285,7 +11285,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 10200,
-      "stock": -29,
+      "stock": -30,
       "barcode": "7798090165114"
     },
     {
@@ -11365,7 +11365,7 @@
       "vino": "Doña Paula Blue",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7798090163073"
     },
     {
@@ -11469,7 +11469,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7790843001328"
     },
     {
@@ -11629,7 +11629,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -66,
+      "stock": -68,
       "barcode": ""
     },
     {
@@ -11901,7 +11901,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -22,
+      "stock": -24,
       "barcode": "7798366220028"
     },
     {
@@ -12461,7 +12461,7 @@
       "vino": "Johnnie Walker Doble Black",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 72000,
-      "stock": -5,
+      "stock": -6,
       "barcode": "5000267116297"
     },
     {
@@ -13124,15 +13124,15 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "vendidos": 23
+      "vendidos": 24
     },
     {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 23
+      "vendidos": 24
     }
   ],
-  "lastUpdate": "2026-07-25T13:53:50.275Z"
+  "lastUpdate": "2026-07-26T14:13:44.078Z"
 }
