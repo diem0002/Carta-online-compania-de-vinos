@@ -781,7 +781,7 @@
       "vino": "Soda sifon",
       "bodega": "AGUA Y SODA",
       "precio": 1600,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7792758372432"
     },
     {
@@ -901,7 +901,7 @@
       "vino": "Altos Las Hormigas Appelation altamira malbec",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 35000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798051950438"
     },
     {
@@ -1004,7 +1004,7 @@
       "id": 5057,
       "vino": "Branca x 450",
       "bodega": "APERITIVOS",
-      "precio": 11550,
+      "precio": 12200,
       "stock": -10,
       "barcode": "7790290001179"
     },
@@ -1020,7 +1020,7 @@
       "id": 5059,
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
-      "precio": 24400,
+      "precio": 24650,
       "stock": -13,
       "barcode": "7790290000523"
     },
@@ -1029,7 +1029,7 @@
       "vino": "Campari",
       "bodega": "APERITIVOS",
       "precio": 11000,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7891136052000"
     },
     {
@@ -1092,7 +1092,7 @@
       "id": 5068,
       "vino": "Fernet Buhero",
       "bodega": "APERITIVOS",
-      "precio": 11300,
+      "precio": 11700,
       "stock": -1,
       "barcode": "7792410523165"
     },
@@ -2501,7 +2501,7 @@
       "vino": "Saurus - cabernet",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9000,
-      "stock": -3,
+      "stock": -6,
       "barcode": "7798116190366"
     },
     {
@@ -2941,7 +2941,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13900,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7790577006101"
     },
     {
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790577040921"
     },
     {
@@ -3285,7 +3285,7 @@
       "vino": "Salentein  - cabernet franc",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12600,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7798074864224"
     },
     {
@@ -4405,7 +4405,7 @@
       "vino": "Gascon Roble Reserva  - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 7000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790415128767"
     },
     {
@@ -5749,7 +5749,7 @@
       "vino": "Cigarro Pacific (belgica)",
       "bodega": "CIGARROS",
       "precio": 1000,
-      "stock": -5,
+      "stock": -12,
       "barcode": ""
     },
     {
@@ -6116,7 +6116,7 @@
       "id": 5686,
       "vino": "Amstel Lager",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2550,
+      "precio": 2750,
       "stock": -21,
       "barcode": "7793147573546"
     },
@@ -6252,7 +6252,7 @@
       "id": 5703,
       "vino": "Grolsch 1L",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5850,
+      "precio": 6200,
       "stock": -16,
       "barcode": "7793147570842"
     },
@@ -6260,7 +6260,7 @@
       "id": 5704,
       "vino": "Grolsch x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3400,
+      "precio": 3700,
       "stock": -18,
       "barcode": "7793147570866"
     },
@@ -6268,7 +6268,7 @@
       "id": 5705,
       "vino": "Heineken x 330",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3900,
+      "precio": 3970,
       "stock": -18,
       "barcode": "7793147009137"
     },
@@ -6276,7 +6276,7 @@
       "id": 5706,
       "vino": "Heineken x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3900,
+      "precio": 3970,
       "stock": -30,
       "barcode": "7793147009199"
     },
@@ -6284,7 +6284,7 @@
       "id": 5707,
       "vino": "Heineken x 473 S/Alco",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3230,
+      "precio": 3000,
       "stock": -41,
       "barcode": "7793147574093"
     },
@@ -6292,7 +6292,7 @@
       "id": 5708,
       "vino": "Imperial  x 473 ipa",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2800,
+      "precio": 3000,
       "stock": -10,
       "barcode": "7793147570743"
     },
@@ -6300,7 +6300,7 @@
       "id": 5709,
       "vino": "Imperial Golden x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2550,
+      "precio": 2800,
       "stock": -1,
       "barcode": "7793147571689"
     },
@@ -6308,7 +6308,7 @@
       "id": 5710,
       "vino": "Imperial x 473 Extra Lager",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2550,
+      "precio": 2650,
       "stock": -7,
       "barcode": "7793147000752"
     },
@@ -6316,7 +6316,7 @@
       "id": 5711,
       "vino": "Imperial x 473 stout",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2800,
+      "precio": 3000,
       "stock": -8,
       "barcode": "7793147001742"
     },
@@ -6324,7 +6324,7 @@
       "id": 5712,
       "vino": "Miller 1L",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 4650,
+      "precio": 4950,
       "stock": -19,
       "barcode": "7793147570088"
     },
@@ -6340,7 +6340,7 @@
       "id": 5714,
       "vino": "Miller x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2750,
+      "precio": 2900,
       "stock": 0,
       "barcode": "7793147573386"
     },
@@ -6404,7 +6404,7 @@
       "id": 5722,
       "vino": "Santa Fe x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2300,
+      "precio": 2500,
       "stock": -6,
       "barcode": "7793147570286"
     },
@@ -6412,7 +6412,7 @@
       "id": 5723,
       "vino": "Santa fe 1L",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 4200,
+      "precio": 4370,
       "stock": -18,
       "barcode": "7793147573744"
     },
@@ -6468,7 +6468,7 @@
       "id": 5731,
       "vino": "Warsteiner 1L",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 5200,
+      "precio": 5550,
       "stock": -13,
       "barcode": "7793147570989"
     },
@@ -6476,7 +6476,7 @@
       "id": 5732,
       "vino": "Warsteiner x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3000,
+      "precio": 3300,
       "stock": -7,
       "barcode": "7793147570927"
     },
@@ -9005,7 +9005,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3500,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7791813421382"
     },
     {
@@ -9221,7 +9221,7 @@
       "vino": "Mantecol x111g",
       "bodega": "Georgalos",
       "precio": 2280,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7622201812652"
     },
     {
@@ -9996,7 +9996,7 @@
       "id": 6146,
       "vino": "Piña Colada",
       "bodega": "LICORES",
-      "precio": 6850,
+      "precio": 8000,
       "stock": -1,
       "barcode": "7790260006029"
     },
@@ -10157,7 +10157,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 4600,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7790762754107"
     },
     {
@@ -11469,7 +11469,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790843001328"
     },
     {
@@ -12109,7 +12109,7 @@
       "vino": "pascual toso varietales - cabernet",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 7400,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791670026911"
     },
     {
@@ -13134,5 +13134,5 @@
       "vendidos": 24
     }
   ],
-  "lastUpdate": "2026-07-26T14:13:44.078Z"
+  "lastUpdate": "2026-07-26T16:00:57.700Z"
 }
