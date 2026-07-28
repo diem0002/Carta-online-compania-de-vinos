@@ -1085,7 +1085,7 @@
       "vino": "Cynar",
       "bodega": "APERITIVOS",
       "precio": 9750,
-      "stock": -13,
+      "stock": -15,
       "barcode": "7791200000626"
     },
     {
@@ -2101,7 +2101,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
-      "stock": -64,
+      "stock": -65,
       "barcode": "7798108834339"
     },
     {
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -37,
+      "stock": -39,
       "barcode": "7790577040921"
     },
     {
@@ -3669,7 +3669,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -44,
+      "stock": -45,
       "barcode": "7798124010243"
     },
     {
@@ -3869,7 +3869,7 @@
       "vino": "Santa Julia Lata x473",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 2850,
-      "stock": -12,
+      "stock": -14,
       "barcode": "7791728239331"
     },
     {
@@ -4773,7 +4773,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 24800,
-      "stock": -36,
+      "stock": -38,
       "barcode": "7798123970616"
     },
     {
@@ -5581,7 +5581,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12300,
-      "stock": -42,
+      "stock": -44,
       "barcode": "7794450088581"
     },
     {
@@ -6021,7 +6021,7 @@
       "vino": "Kaiserdon x 1 lt Kellerbier",
       "bodega": "Cervezas Importadas latas",
       "precio": 16500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "4004591037557"
     },
     {
@@ -6069,7 +6069,7 @@
       "vino": "Orange",
       "bodega": "Cervezas Importadas latas",
       "precio": 5200,
-      "stock": -4,
+      "stock": -5,
       "barcode": "8725000174958"
     },
     {
@@ -6357,7 +6357,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -44,
+      "stock": -45,
       "barcode": "7792798002399"
     },
     {
@@ -6365,7 +6365,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -31,
+      "stock": -32,
       "barcode": "7792798002351"
     },
     {
@@ -8613,7 +8613,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva melot",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798000211030"
     },
     {
@@ -8645,7 +8645,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2100,
-      "stock": -101,
+      "stock": -103,
       "barcode": "66"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -129,
+      "stock": -130,
       "barcode": "7790895000430"
     },
     {
@@ -9069,7 +9069,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -43,
+      "stock": -45,
       "barcode": "7790895010088"
     },
     {
@@ -9325,7 +9325,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -27,
+      "stock": -28,
       "barcode": "7798112630521"
     },
     {
@@ -11444,7 +11444,7 @@
       "id": 6328,
       "vino": "Arrogante Syrah",
       "bodega": "Vicentin Family Wines",
-      "precio": 16000,
+      "precio": 17000,
       "stock": -2,
       "barcode": "7798127631612"
     },
@@ -11492,7 +11492,7 @@
       "id": 6334,
       "vino": "Indomable Robusto blend de malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 10800,
+      "precio": 11400,
       "stock": -7,
       "barcode": "7790843001281"
     },
@@ -11500,7 +11500,7 @@
       "id": 6335,
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 10500,
+      "precio": 11100,
       "stock": -46,
       "barcode": "7798127632077"
     },
@@ -11548,7 +11548,7 @@
       "id": 6341,
       "vino": "Prisionero  - cabernet",
       "bodega": "Vicentin Family Wines",
-      "precio": 5800,
+      "precio": 6600,
       "stock": 0,
       "barcode": "7798153600194"
     },
@@ -11556,7 +11556,7 @@
       "id": 6342,
       "vino": "Prisionero  - malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 5800,
+      "precio": 6600,
       "stock": -1,
       "barcode": "7790843001366"
     },
@@ -11564,7 +11564,7 @@
       "id": 6343,
       "vino": "Prisionero - Chenin",
       "bodega": "Vicentin Family Wines",
-      "precio": 5700,
+      "precio": 6600,
       "stock": -3,
       "barcode": "7798127631643"
     },
@@ -11901,7 +11901,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7798366220028"
     },
     {
@@ -12365,7 +12365,7 @@
       "vino": "Jack Daniel´s",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 48100,
-      "stock": -2,
+      "stock": -3,
       "barcode": "082184090466"
     },
     {
@@ -13053,7 +13053,7 @@
       "vino": "chacabucho chenin",
       "bodega": "flia falasco",
       "precio": 5500,
-      "stock": -29,
+      "stock": -32,
       "barcode": "7791843013441"
     },
     {
@@ -13103,20 +13103,13 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
-      "vendidos": 39
+      "vendidos": 37
     },
     {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 26
-    },
-    {
-      "id": 6397,
-      "vino": "Profugo Malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4350,
       "vendidos": 25
     },
     {
@@ -13131,8 +13124,15 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 9200,
-      "vendidos": 24
+      "vendidos": 23
+    },
+    {
+      "id": 6397,
+      "vino": "Profugo Malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4350,
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-07-26T16:00:57.700Z"
+  "lastUpdate": "2026-07-28T00:54:57.011Z"
 }
