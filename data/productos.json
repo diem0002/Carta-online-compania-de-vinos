@@ -685,7 +685,7 @@
       "vino": "Agua Saborizada x1,5 mix frutal",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790036001678"
     },
     {
@@ -773,7 +773,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -150,
+      "stock": -151,
       "barcode": "7790036975481"
     },
     {
@@ -3861,7 +3861,7 @@
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -14,
+      "stock": -16,
       "barcode": "7791728247091"
     },
     {
@@ -3893,7 +3893,7 @@
       "vino": "Santa Julia Tardio Torronte x500cc",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6400,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7791728001686"
     },
     {
@@ -6357,7 +6357,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -46,
+      "stock": -48,
       "barcode": "7792798002399"
     },
     {
@@ -6365,7 +6365,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -32,
+      "stock": -34,
       "barcode": "7792798002351"
     },
     {
@@ -8581,7 +8581,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8050,
-      "stock": -40,
+      "stock": -42,
       "barcode": "7798000213737"
     },
     {
@@ -8813,7 +8813,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4350,
-      "stock": -130,
+      "stock": -131,
       "barcode": "7790895000430"
     },
     {
@@ -8837,7 +8837,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3980,
-      "stock": -81,
+      "stock": -82,
       "barcode": "7790895000218"
     },
     {
@@ -10093,7 +10093,7 @@
       "vino": "Luigi Bosca chardonay",
       "bodega": "LUIGGI BOSCA",
       "precio": 14600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791203000029"
     },
     {
@@ -10805,7 +10805,7 @@
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
       "precio": 10200,
-      "stock": -6,
+      "stock": -8,
       "barcode": "7790070104847"
     },
     {
@@ -10813,7 +10813,7 @@
       "vino": "Nieto senetiner 0% malbec rose",
       "bodega": "Nieto senetiner",
       "precio": 10200,
-      "stock": -10,
+      "stock": -13,
       "barcode": "7790070106919"
     },
     {
@@ -11749,7 +11749,7 @@
       "vino": "Vicentin Indomable Blanc de Malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 8200,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7798127632084"
     },
     {
@@ -13134,5 +13134,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-31T12:28:39.367Z"
+  "lastUpdate": "2026-07-31T23:14:49.249Z"
 }
