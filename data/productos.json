@@ -29,7 +29,7 @@
       "vino": "Barras de cereal avellanas y arandanos",
       "bodega": "Golosinas",
       "precio": 800,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790380020271"
     },
     {
@@ -37,7 +37,7 @@
       "vino": "Barras de cereal frutos del bosque",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790380020028"
     },
     {
@@ -45,7 +45,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790380020172"
     },
     {
@@ -53,7 +53,7 @@
       "vino": "Barras de cereal granola con semillas",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790380015024"
     },
     {
@@ -61,7 +61,7 @@
       "vino": "Barras de cereal manzana",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790380008286"
     },
     {
@@ -69,7 +69,7 @@
       "vino": "Barras de cereal mix de fruta",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790380014928"
     },
     {
@@ -661,7 +661,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -19,
+      "stock": -21,
       "barcode": "7790036008974"
     },
     {
@@ -2101,7 +2101,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
-      "stock": -65,
+      "stock": -66,
       "barcode": "7798108834339"
     },
     {
@@ -2661,7 +2661,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -39,
+      "stock": -40,
       "barcode": "7798089430414"
     },
     {
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "stock": -43,
+      "stock": -44,
       "barcode": "7790577040921"
     },
     {
@@ -4789,7 +4789,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -53,
+      "stock": -54,
       "barcode": "7798123971309"
     },
     {
@@ -5485,7 +5485,7 @@
       "vino": "El enemigo malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 26500,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7794450000972"
     },
     {
@@ -5549,7 +5549,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 11000,
-      "stock": -42,
+      "stock": -43,
       "barcode": "7794450000149"
     },
     {
@@ -8413,7 +8413,7 @@
       "vino": "Dada Fca Las Moras 8",
       "bodega": "FINCA LAS MORAS",
       "precio": 5900,
-      "stock": -9,
+      "stock": -11,
       "barcode": "7791540049590"
     },
     {
@@ -8821,7 +8821,7 @@
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 6100,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7790895000997"
     },
     {
@@ -8980,7 +8980,7 @@
       "id": 6035,
       "vino": "Mirinda manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 2650,
+      "precio": 2700,
       "stock": -21,
       "barcode": "7791813423317"
     },
@@ -9933,7 +9933,7 @@
       "vino": "Petaca Cusenier Café Cognac",
       "bodega": "LICORES",
       "precio": 2800,
-      "stock": -4,
+      "stock": -5,
       "barcode": "77908377"
     },
     {
@@ -10677,7 +10677,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6600,
-      "stock": -37,
+      "stock": -39,
       "barcode": "7790070760739"
     },
     {
@@ -10781,7 +10781,7 @@
       "vino": "Nieto senetiner  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 7800,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790070760821"
     },
     {
@@ -10813,7 +10813,7 @@
       "vino": "Nieto senetiner 0% malbec rose",
       "bodega": "Nieto senetiner",
       "precio": 10200,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790070106919"
     },
     {
@@ -11109,7 +11109,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
       "precio": 1500,
-      "stock": -21,
+      "stock": -23,
       "barcode": "7790503000296"
     },
     {
@@ -11277,7 +11277,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8050,
-      "stock": -49,
+      "stock": -50,
       "barcode": "7798090160065"
     },
     {
@@ -11669,7 +11669,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7798127630011"
     },
     {
@@ -13103,7 +13103,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
-      "vendidos": 37
+      "vendidos": 38
     },
     {
       "id": 6518,
@@ -13131,8 +13131,8 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 5900,
-      "vendidos": 21
+      "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-07-30T21:25:20.339Z"
+  "lastUpdate": "2026-07-31T12:28:39.367Z"
 }
