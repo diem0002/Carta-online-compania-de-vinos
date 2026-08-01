@@ -204,7 +204,7 @@
       "id": 6573,
       "vino": "Mantecol marmolado",
       "bodega": "Golosinas",
-      "precio": 3100,
+      "precio": 3250,
       "stock": -5,
       "barcode": ""
     },
@@ -9220,7 +9220,7 @@
       "id": 6544,
       "vino": "Mantecol x111g",
       "bodega": "Georgalos",
-      "precio": 2280,
+      "precio": 2350,
       "stock": -12,
       "barcode": "7622201812652"
     },
@@ -9228,7 +9228,7 @@
       "id": 6541,
       "vino": "Mantecol x26g",
       "bodega": "Georgalos",
-      "precio": 850,
+      "precio": 920,
       "stock": -3,
       "barcode": "7622201816384"
     },
@@ -9236,7 +9236,7 @@
       "id": 6542,
       "vino": "Mantecol x41g",
       "bodega": "Georgalos",
-      "precio": 1200,
+      "precio": 1350,
       "stock": -9,
       "barcode": "7622201816414"
     },
@@ -9244,7 +9244,7 @@
       "id": 6543,
       "vino": "Mantecol x64g",
       "bodega": "Georgalos",
-      "precio": 1460,
+      "precio": 1560,
       "stock": -3,
       "barcode": "7622201816445"
     },
@@ -13134,5 +13134,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-08-01T20:36:01.632Z"
+  "lastUpdate": "2026-08-01T20:43:00.154Z"
 }
