@@ -1164,7 +1164,7 @@
       "id": 5076,
       "vino": "Bar butler",
       "bodega": "Accesorios",
-      "precio": 75000,
+      "precio": 60000,
       "stock": 0,
       "barcode": "52"
     },
@@ -11277,7 +11277,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": -50,
+      "stock": -51,
       "barcode": "7798090160065"
     },
     {
@@ -11765,7 +11765,7 @@
       "vino": "061 Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 10800,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7798081669133"
     },
     {
@@ -12012,7 +12012,7 @@
       "id": 6398,
       "vino": "Rocky - blend argentino",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4100,
+      "precio": 5300,
       "stock": -1,
       "barcode": "7790415130753"
     },
@@ -12020,7 +12020,7 @@
       "id": 6399,
       "vino": "Rocky - blend español",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4100,
+      "precio": 5300,
       "stock": 0,
       "barcode": "7790415130777"
     },
@@ -12028,7 +12028,7 @@
       "id": 6400,
       "vino": "Rocky - cabernet",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 5420,
+      "precio": 5300,
       "stock": -1,
       "barcode": "7790415131255"
     },
@@ -12036,7 +12036,7 @@
       "id": 6401,
       "vino": "Rocky - malbec",
       "bodega": "Vinos JOVENES VARIOS",
-      "precio": 5420,
+      "precio": 5300,
       "stock": -2,
       "barcode": "7790415131231"
     },
@@ -13134,5 +13134,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-08-03T23:27:52.993Z"
+  "lastUpdate": "2026-08-03T23:45:54.257Z"
 }
