@@ -661,7 +661,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -21,
+      "stock": -23,
       "barcode": "7790036008974"
     },
     {
@@ -2932,7 +2932,7 @@
       "id": 5300,
       "vino": "Encuentro varietales - cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 13900,
+      "precio": 14800,
       "stock": -3,
       "barcode": "7790577006125"
     },
@@ -2940,7 +2940,7 @@
       "id": 5301,
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 13900,
+      "precio": 14800,
       "stock": -37,
       "barcode": "7790577006101"
     },
@@ -2948,7 +2948,7 @@
       "id": 5302,
       "vino": "Rutini Cab franc",
       "bodega": "BODEGA RUTINI",
-      "precio": 25900,
+      "precio": 28950,
       "stock": -3,
       "barcode": "7790577008075"
     },
@@ -2956,7 +2956,7 @@
       "id": 5303,
       "vino": "Rutini Cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 25900,
+      "precio": 28950,
       "stock": 0,
       "barcode": "7790577003711"
     },
@@ -2964,7 +2964,7 @@
       "id": 5304,
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 17200,
+      "precio": 18500,
       "stock": -38,
       "barcode": "7790577001663"
     },
@@ -2972,7 +2972,7 @@
       "id": 5305,
       "vino": "Rutini Cabernet / Malbec Est x 1 Bot",
       "bodega": "BODEGA RUTINI",
-      "precio": 28000,
+      "precio": 28600,
       "stock": -5,
       "barcode": "7790577001670"
     },
@@ -2980,7 +2980,7 @@
       "id": 5306,
       "vino": "Rutini Cabernet /Merlot",
       "bodega": "BODEGA RUTINI",
-      "precio": 17200,
+      "precio": 18500,
       "stock": -6,
       "barcode": "7790577039949"
     },
@@ -2988,7 +2988,7 @@
       "id": 5307,
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 32000,
+      "precio": 34500,
       "stock": -20,
       "barcode": "7790577001151"
     },
@@ -2996,7 +2996,7 @@
       "id": 5308,
       "vino": "Rutini Merlot",
       "bodega": "BODEGA RUTINI",
-      "precio": 20400,
+      "precio": 21100,
       "stock": -1,
       "barcode": "7790577000840"
     },
@@ -3004,7 +3004,7 @@
       "id": 5309,
       "vino": "Rutini chardonay",
       "bodega": "BODEGA RUTINI",
-      "precio": 25500,
+      "precio": 27600,
       "stock": -2,
       "barcode": ""
     },
@@ -3012,7 +3012,7 @@
       "id": 5310,
       "vino": "Rutini pinot",
       "bodega": "BODEGA RUTINI",
-      "precio": 37800,
+      "precio": 48700,
       "stock": -1,
       "barcode": "7790577003117"
     },
@@ -10157,7 +10157,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 4600,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7790762754107"
     },
     {
@@ -13134,5 +13134,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-08-03T21:39:10.942Z"
+  "lastUpdate": "2026-08-03T22:21:53.577Z"
 }
