@@ -11212,7 +11212,7 @@
       "id": 6299,
       "vino": "Los cardos x 375",
       "bodega": "VINOS x 376",
-      "precio": 4460,
+      "precio": 0,
       "stock": 0,
       "barcode": ""
     },
@@ -11260,7 +11260,7 @@
       "id": 6305,
       "vino": "Doña Paula  - Cabernet",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": -10,
       "barcode": "7798090160287"
     },
@@ -11268,7 +11268,7 @@
       "id": 6306,
       "vino": "Doña Paula  - Chardonay",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": 0,
       "barcode": "7798090160072"
     },
@@ -11276,7 +11276,7 @@
       "id": 6307,
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": -50,
       "barcode": "7798090160065"
     },
@@ -11284,7 +11284,7 @@
       "id": 6308,
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 10200,
+      "precio": 12000,
       "stock": -30,
       "barcode": "7798090165114"
     },
@@ -11292,7 +11292,7 @@
       "id": 6309,
       "vino": "Doña Paula  - Riesling",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": 0,
       "barcode": "7798090162076"
     },
@@ -11300,7 +11300,7 @@
       "id": 6310,
       "vino": "Doña Paula  - Rose",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": 0,
       "barcode": "7798090162595"
     },
@@ -11308,7 +11308,7 @@
       "id": 6311,
       "vino": "Doña Paula  - S.Blanc",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": -4,
       "barcode": "7798090160935"
     },
@@ -11316,7 +11316,7 @@
       "id": 6312,
       "vino": "Doña Paula  - Single vineyard malbec",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 12430,
+      "precio": 13500,
       "stock": -6,
       "barcode": "7798090164681"
     },
@@ -11324,7 +11324,7 @@
       "id": 6313,
       "vino": "Doña Paula  - Unique organico",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8100,
+      "precio": 8400,
       "stock": -8,
       "barcode": "7798090164582"
     },
@@ -11332,7 +11332,7 @@
       "id": 6314,
       "vino": "Doña Paula 1100",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 14850,
+      "precio": 15850,
       "stock": -2,
       "barcode": "7798090162465"
     },
@@ -11340,7 +11340,7 @@
       "id": 6315,
       "vino": "Doña Paula 1350",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 14850,
+      "precio": 15850,
       "stock": -9,
       "barcode": "7798090162779"
     },
@@ -11348,7 +11348,7 @@
       "id": 6316,
       "vino": "Doña Paula 969",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 14850,
+      "precio": 15850,
       "stock": -1,
       "barcode": "7798090163219"
     },
@@ -11356,7 +11356,7 @@
       "id": 6317,
       "vino": "Doña Paula Black",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": -4,
       "barcode": "7798090162212"
     },
@@ -11364,7 +11364,7 @@
       "id": 6318,
       "vino": "Doña Paula Blue",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": -35,
       "barcode": "7798090163073"
     },
@@ -11372,7 +11372,7 @@
       "id": 6319,
       "vino": "Doña paula Smoked Red Blent",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8050,
+      "precio": 8200,
       "stock": -2,
       "barcode": "7798090163400"
     },
@@ -11380,7 +11380,7 @@
       "id": 6320,
       "vino": "Los Cardos Varietales - blend",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 5500,
+      "precio": 5350,
       "stock": 0,
       "barcode": "7798090162526"
     },
@@ -11388,7 +11388,7 @@
       "id": 6321,
       "vino": "Los Cardos Varietales - cabernet",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 5500,
+      "precio": 5350,
       "stock": 0,
       "barcode": "7798090160201"
     },
@@ -11396,7 +11396,7 @@
       "id": 6322,
       "vino": "Los Cardos Varietales - malbec",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 5500,
+      "precio": 5350,
       "stock": -2,
       "barcode": "7798090160140"
     },
@@ -11404,7 +11404,7 @@
       "id": 6535,
       "vino": "estuche doña paula x2",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 20000,
+      "precio": 24000,
       "stock": 0,
       "barcode": "7798090163448"
     },
@@ -13134,5 +13134,5 @@
       "vendidos": 22
     }
   ],
-  "lastUpdate": "2026-08-03T22:21:53.577Z"
+  "lastUpdate": "2026-08-03T22:44:29.535Z"
 }
