@@ -1780,7 +1780,7 @@
       "id": 5144,
       "vino": "Smirnoff",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10100,
+      "precio": 10250,
       "stock": -3,
       "barcode": "7791250001345"
     },
@@ -1788,7 +1788,7 @@
       "id": 5145,
       "vino": "Smirnoff Citric",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10950,
+      "precio": 11400,
       "stock": 0,
       "barcode": "7791250003011"
     },
@@ -1796,7 +1796,7 @@
       "id": 5146,
       "vino": "Smirnoff Citrus",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10950,
+      "precio": 11400,
       "stock": 0,
       "barcode": "7791250001864"
     },
@@ -1804,7 +1804,7 @@
       "id": 5147,
       "vino": "Smirnoff Green Apple",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10950,
+      "precio": 11400,
       "stock": -1,
       "barcode": "7791250001857"
     },
@@ -1812,7 +1812,7 @@
       "id": 5148,
       "vino": "Smirnoff Raspberry",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10950,
+      "precio": 11400,
       "stock": -1,
       "barcode": "7791250001871"
     },
@@ -1820,7 +1820,7 @@
       "id": 5149,
       "vino": "Smirnoff Spicy Tamarind",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10950,
+      "precio": 11400,
       "stock": 0,
       "barcode": "7791250003400"
     },
@@ -1828,7 +1828,7 @@
       "id": 5150,
       "vino": "Smirnoff Watermelon",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10950,
+      "precio": 11400,
       "stock": 0,
       "barcode": "7791250002243"
     },
@@ -3829,7 +3829,7 @@
       "vino": "Alambrado malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 8450,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7791728002690"
     },
     {
@@ -4501,7 +4501,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "stock": -28,
+      "stock": -30,
       "barcode": "7790415127777"
     },
     {
@@ -9069,7 +9069,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3500,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7791813421382"
     },
     {
@@ -9660,7 +9660,7 @@
       "id": 6096,
       "vino": "Baileys x750",
       "bodega": "LICORES",
-      "precio": 35800,
+      "precio": 36850,
       "stock": -3,
       "barcode": "5011013100132"
     },
@@ -10221,7 +10221,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 5000,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790762754107"
     },
     {
@@ -11965,7 +11965,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -26,
+      "stock": -27,
       "barcode": "7798366220028"
     },
     {
@@ -12037,7 +12037,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -60,
+      "stock": -61,
       "barcode": "7798162671673"
     },
     {
@@ -12292,7 +12292,7 @@
       "id": 6423,
       "vino": "Buchanan´s",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 70500,
+      "precio": 71800,
       "stock": -2,
       "barcode": "50196388"
     },
@@ -12508,7 +12508,7 @@
       "id": 6450,
       "vino": "Johnnie Walker Black Label x 750cc",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 61500,
+      "precio": 63500,
       "stock": -4,
       "barcode": "5000267024004"
     },
@@ -12524,7 +12524,7 @@
       "id": 6452,
       "vino": "Johnnie Walker Doble Black",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 72000,
+      "precio": 72500,
       "stock": -6,
       "barcode": "5000267116297"
     },
@@ -12652,7 +12652,7 @@
       "id": 6468,
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 19600,
+      "precio": 20350,
       "stock": -19,
       "barcode": "7791250001253"
     },
@@ -13174,7 +13174,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "vendidos": 24
+      "vendidos": 26
     },
     {
       "id": 5322,
@@ -13198,5 +13198,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-08-04T22:46:25.747Z"
+  "lastUpdate": "2026-08-04T23:36:11.043Z"
 }
