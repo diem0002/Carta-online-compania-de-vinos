@@ -773,7 +773,7 @@
       "vino": "Agua Saborizada x1,5 pera",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -1,
+      "stock": -2,
       "barcode": ""
     },
     {
@@ -1564,7 +1564,7 @@
       "id": 5117,
       "vino": "Gin Tanqueray",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 33500,
+      "precio": 34200,
       "stock": -1,
       "barcode": "5000281015248"
     },
@@ -1572,7 +1572,7 @@
       "id": 5118,
       "vino": "Gin Tanqueray Dark Berry",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 40600,
+      "precio": 41500,
       "stock": 0,
       "barcode": "5000291026548"
     },
@@ -1580,7 +1580,7 @@
       "id": 5119,
       "vino": "Gin Tanqueray sevilla",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 40600,
+      "precio": 34200,
       "stock": 0,
       "barcode": "5000291023462"
     },
@@ -3965,7 +3965,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": -65,
+      "stock": -66,
       "barcode": "7791728248265"
     },
     {
@@ -10068,7 +10068,7 @@
       "id": 6147,
       "vino": "Sheridan's",
       "bodega": "LICORES",
-      "precio": 50500,
+      "precio": 51600,
       "stock": -7,
       "barcode": "5011013500680"
     },
@@ -12308,7 +12308,7 @@
       "id": 6425,
       "vino": "Caol Ila",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 166600,
+      "precio": 171000,
       "stock": 0,
       "barcode": "5000281016320"
     },
@@ -12316,7 +12316,7 @@
       "id": 6426,
       "vino": "Cardhu",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 162400,
+      "precio": 166000,
       "stock": 0,
       "barcode": "5000267102573"
     },
@@ -12516,7 +12516,7 @@
       "id": 6451,
       "vino": "Johnnie Walker Blue Label",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 580000,
+      "precio": 598000,
       "stock": 0,
       "barcode": "5000267114279"
     },
@@ -12548,7 +12548,7 @@
       "id": 6455,
       "vino": "Johnnie Walker Platinum / 18 Años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 236000,
+      "precio": 241000,
       "stock": 0,
       "barcode": ""
     },
@@ -12572,7 +12572,7 @@
       "id": 6458,
       "vino": "Johnnie Walker Swing",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 147500,
+      "precio": 151000,
       "stock": 0,
       "barcode": "5000267091013"
     },
@@ -12596,7 +12596,7 @@
       "id": 6461,
       "vino": "Old Parr",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 59200,
+      "precio": 59800,
       "stock": -4,
       "barcode": "5000281003160"
     },
@@ -12604,7 +12604,7 @@
       "id": 6462,
       "vino": "Talisker",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 152000,
+      "precio": 154800,
       "stock": 0,
       "barcode": "5000281002903"
     },
@@ -13198,5 +13198,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-08-04T23:36:11.043Z"
+  "lastUpdate": "2026-08-04T23:56:26.953Z"
 }
