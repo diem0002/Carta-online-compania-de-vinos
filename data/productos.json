@@ -2941,7 +2941,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "stock": -37,
+      "stock": -40,
       "barcode": "7790577006101"
     },
     {
@@ -3061,7 +3061,7 @@
       "vino": "Trumpeter Reserva  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 13560,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790577041515"
     },
     {
@@ -3349,7 +3349,7 @@
       "vino": "Salentein barrel pettit mallbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 8800,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798074865726"
     },
     {
@@ -3661,7 +3661,7 @@
       "vino": "Piatelli reserva - malbec Mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -13,
+      "stock": -15,
       "barcode": "7798124010137"
     },
     {
@@ -3837,7 +3837,7 @@
       "vino": "Poligonos tupun malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 30250,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7791728237894"
     },
     {
@@ -4405,7 +4405,7 @@
       "vino": "Gascon Roble Reserva  - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 7000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790415128767"
     },
     {
@@ -4421,7 +4421,7 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "stock": -40,
+      "stock": -42,
       "barcode": "7790415130791"
     },
     {
@@ -5301,7 +5301,7 @@
       "vino": "Alamos blend",
       "bodega": "CATENA ZAPATA",
       "precio": 9200,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7794450004802"
     },
     {
@@ -5349,7 +5349,7 @@
       "vino": "Alto Uxmal Alternative cabernet melo",
       "bodega": "CATENA ZAPATA",
       "precio": 10300,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7794450090386"
     },
     {
@@ -5493,7 +5493,7 @@
       "vino": "Esmeralda blend",
       "bodega": "CATENA ZAPATA",
       "precio": 7400,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794450941299"
     },
     {
@@ -5501,7 +5501,7 @@
       "vino": "Esmeralda cabernet",
       "bodega": "CATENA ZAPATA",
       "precio": 7400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794450941251"
     },
     {
@@ -5621,7 +5621,7 @@
       "vino": "Uxmal malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 6450,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794450090713"
     },
     {
@@ -5637,7 +5637,7 @@
       "vino": "Uxmal redblend",
       "bodega": "CATENA ZAPATA",
       "precio": 6450,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794450004789"
     },
     {
@@ -5996,7 +5996,7 @@
       "id": 5672,
       "vino": "Guinnes",
       "bodega": "Cervezas Importadas latas",
-      "precio": 3400,
+      "precio": 4000,
       "stock": -19,
       "barcode": "7798339251509"
     },
@@ -6389,7 +6389,7 @@
       "vino": "Quilmes Stout x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 2560,
-      "stock": -34,
+      "stock": -40,
       "barcode": "7792798001316"
     },
     {
@@ -7645,7 +7645,7 @@
       "vino": "Chandon demisec espumante",
       "bodega": "Espumantes",
       "precio": 19600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790975198637"
     },
     {
@@ -8325,7 +8325,7 @@
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 5700,
-      "stock": -29,
+      "stock": -30,
       "barcode": "7790240042108"
     },
     {
@@ -8341,7 +8341,7 @@
       "vino": "Alma Mora syrah",
       "bodega": "FINCA LAS MORAS",
       "precio": 5700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790240042092"
     },
     {
@@ -8477,7 +8477,7 @@
       "vino": "Los Intocables Blend Syrah Merlot",
       "bodega": "FINCA LAS MORAS",
       "precio": 9300,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7791540054037"
     },
     {
@@ -9237,7 +9237,7 @@
       "vino": "Mantecol x41g",
       "bodega": "Georgalos",
       "precio": 1350,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7622201816414"
     },
     {
@@ -10325,7 +10325,7 @@
       "vino": "Pispi",
       "bodega": "Mosquita muerta",
       "precio": 9400,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798353194752"
     },
     {
@@ -10333,7 +10333,7 @@
       "vino": "Sapo de otro poso",
       "bodega": "Mosquita muerta",
       "precio": 13500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798159944339"
     },
     {
@@ -11277,7 +11277,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": -51,
+      "stock": -52,
       "barcode": "7798090160065"
     },
     {
@@ -12364,7 +12364,7 @@
       "id": 6440,
       "vino": "Jack Daniel´s",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 48100,
+      "precio": 50500,
       "stock": -3,
       "barcode": "082184090466"
     },
@@ -12372,7 +12372,7 @@
       "id": 6441,
       "vino": "Jack Daniel´s  Honey",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 48100,
+      "precio": 50500,
       "stock": -2,
       "barcode": "082184000335"
     },
@@ -13106,13 +13106,6 @@
       "vendidos": 36
     },
     {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 29
-    },
-    {
       "id": 5485,
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
@@ -13127,12 +13120,19 @@
       "vendidos": 24
     },
     {
-      "id": 5420,
-      "vino": "Santa Julia tinto Dulce",
-      "bodega": "BODEGA ZUCCARDI",
-      "precio": 6150,
-      "vendidos": 22
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 21
+    },
+    {
+      "id": 6307,
+      "vino": "Doña Paula  - Malbec",
+      "bodega": "VIÑA DOÑA PAULA",
+      "precio": 8200,
+      "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-08-03T23:45:54.257Z"
+  "lastUpdate": "2026-08-04T13:20:19.060Z"
 }
