@@ -2364,7 +2364,7 @@
       "id": 5218,
       "vino": "El Esteco Malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 17850,
+      "precio": 18550,
       "stock": 0,
       "barcode": "7798136300158"
     },
@@ -13163,18 +13163,11 @@
   ],
   "destacados": [
     {
-      "id": 5193,
-      "vino": "Esperado Malbec",
-      "bodega": "BODEGA CALLIA",
-      "precio": 5400,
-      "vendidos": 36
-    },
-    {
       "id": 5485,
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "vendidos": 26
+      "vendidos": 25
     },
     {
       "id": 5322,
@@ -13184,19 +13177,26 @@
       "vendidos": 24
     },
     {
+      "id": 5193,
+      "vino": "Esperado Malbec",
+      "bodega": "BODEGA CALLIA",
+      "precio": 5400,
+      "vendidos": 23
+    },
+    {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 21
+      "vendidos": 19
     },
     {
-      "id": 6307,
-      "vino": "Doña Paula  - Malbec",
-      "bodega": "VIÑA DOÑA PAULA",
-      "precio": 8200,
-      "vendidos": 20
+      "id": 6397,
+      "vino": "Profugo Malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4350,
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-04T23:56:26.953Z"
+  "lastUpdate": "2026-08-05T00:07:14.912Z"
 }
