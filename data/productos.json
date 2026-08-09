@@ -741,7 +741,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7790036001647"
     },
     {
@@ -11573,7 +11573,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 11100,
-      "stock": -53,
+      "stock": -54,
       "barcode": "7798127632077"
     },
     {
@@ -13206,5 +13206,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-09T15:19:17.756Z"
+  "lastUpdate": "2026-08-09T15:51:01.710Z"
 }
