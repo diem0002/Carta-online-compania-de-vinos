@@ -12518,7 +12518,7 @@
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 63500,
       "stock": -5,
-      "barcode": "5000267024004"
+      "barcode": "5000267024011"
     },
     {
       "id": 6451,
@@ -13206,5 +13206,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-10T21:04:08.822Z"
+  "lastUpdate": "2026-08-10T21:07:19.323Z"
 }
