@@ -5,7 +5,7 @@
       "vino": "Alfajor full mani ",
       "bodega": "Golosinas",
       "precio": 850,
-      "stock": -42,
+      "stock": -45,
       "barcode": "7790380025191"
     },
     {
@@ -13,7 +13,7 @@
       "vino": "Alfajor toddy Mousse blanco",
       "bodega": "Vinos",
       "precio": 1100,
-      "stock": -8,
+      "stock": -11,
       "barcode": "7790380023630"
     },
     {
@@ -3085,7 +3085,7 @@
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 10450,
-      "stock": -13,
+      "stock": -19,
       "barcode": "7790577002141"
     },
     {
@@ -6125,7 +6125,7 @@
       "vino": "Martens (Belgica) x500ml",
       "bodega": "Cervezas Importadas latas",
       "precio": 5800,
-      "stock": -1,
+      "stock": -2,
       "barcode": "5411616008789"
     },
     {
@@ -6149,7 +6149,7 @@
       "vino": "Weidman",
       "bodega": "Cervezas Importadas latas",
       "precio": 4700,
-      "stock": -1,
+      "stock": -2,
       "barcode": "8718104902350"
     },
     {
@@ -11357,7 +11357,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 12000,
-      "stock": -32,
+      "stock": -33,
       "barcode": "7798090165114"
     },
     {
@@ -12517,7 +12517,7 @@
       "vino": "Johnnie Walker Black Label x 750cc",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 63500,
-      "stock": -4,
+      "stock": -5,
       "barcode": "5000267024004"
     },
     {
@@ -13206,5 +13206,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-10T14:36:27.092Z"
+  "lastUpdate": "2026-08-10T21:04:08.822Z"
 }
