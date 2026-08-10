@@ -329,14 +329,6 @@
       "barcode": ""
     },
     {
-      "id": 6607,
-      "vino": "Promo Inmigrante estuche london",
-      "bodega": "Promos",
-      "precio": 32000,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
       "id": 6653,
       "vino": "Promo Lola x6",
       "bodega": "Promos",
@@ -445,7 +437,7 @@
       "vino": "Promo bombon x10 full mani",
       "bodega": "Vinos",
       "precio": 3500,
-      "stock": -1,
+      "stock": -2,
       "barcode": ""
     },
     {
@@ -481,18 +473,18 @@
       "barcode": ""
     },
     {
-      "id": 6609,
-      "vino": "Promo inmigrante estuche negroni",
+      "id": 6656,
+      "vino": "Promo inmigrante London + paso de los toros ",
       "bodega": "Promos",
-      "precio": 37500,
+      "precio": 15800,
       "stock": 0,
       "barcode": ""
     },
     {
-      "id": 6608,
-      "vino": "Promo inmigrante estuche pomelo",
+      "id": 6657,
+      "vino": "Promo inmigrante pomelo + paso de los toros",
       "bodega": "Promos",
-      "precio": 33000,
+      "precio": 20750,
       "stock": 0,
       "barcode": ""
     },
@@ -500,7 +492,7 @@
       "id": 6611,
       "vino": "Promo terrier + Mocoreta tonica",
       "bodega": "Promos",
-      "precio": 14000,
+      "precio": 14100,
       "stock": 0,
       "barcode": ""
     },
@@ -3997,7 +3989,7 @@
       "vino": "Textual carmenere",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 13100,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7791728021424"
     },
     {
@@ -4501,7 +4493,7 @@
       "vino": "Gascon Varietales - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7790415127814"
     },
     {
@@ -4861,7 +4853,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -56,
+      "stock": -57,
       "barcode": "7798123971309"
     },
     {
@@ -6269,7 +6261,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6100,
-      "stock": -37,
+      "stock": -39,
       "barcode": "7792798003716"
     },
     {
@@ -8893,7 +8885,7 @@
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 6100,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7790895000997"
     },
     {
@@ -8988,7 +8980,7 @@
       "id": 6027,
       "vino": "Gaseosas Mocoreta Citrus",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -7,
       "barcode": "7790036976280"
     },
@@ -8996,7 +8988,7 @@
       "id": 6028,
       "vino": "Gaseosas Mocoreta Cola",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -1,
       "barcode": "7790036004617"
     },
@@ -9004,7 +8996,7 @@
       "id": 6029,
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -12,
       "barcode": "7790036004600"
     },
@@ -9012,7 +9004,7 @@
       "id": 6030,
       "vino": "Gaseosas Mocoreta Manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -10,
       "barcode": "7790036004631"
     },
@@ -9020,7 +9012,7 @@
       "id": 6031,
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -12,
       "barcode": "7790036004587"
     },
@@ -9028,7 +9020,7 @@
       "id": 6032,
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -61,
       "barcode": "7790036004594"
     },
@@ -9036,7 +9028,7 @@
       "id": 6033,
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -15,
       "barcode": "7790036105956"
     },
@@ -9044,7 +9036,7 @@
       "id": 6034,
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1900,
+      "precio": 2000,
       "stock": -39,
       "barcode": "7790036129136"
     },
@@ -9053,7 +9045,7 @@
       "vino": "Mirinda manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2700,
-      "stock": -22,
+      "stock": -24,
       "barcode": "7791813423317"
     },
     {
@@ -9189,7 +9181,7 @@
       "vino": "Sprite 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 6100,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790895001000"
     },
     {
@@ -9351,6 +9343,14 @@
       "precio": 2350,
       "stock": 12,
       "barcode": "7790380025115"
+    },
+    {
+      "id": 6655,
+      "vino": "Full mani x110g",
+      "bodega": "Golosinas",
+      "precio": 2300,
+      "stock": 0,
+      "barcode": "7790380025078"
     },
     {
       "id": 6614,
@@ -9957,7 +9957,7 @@
       "vino": "Marsalla Crotta",
       "bodega": "LICORES",
       "precio": 7450,
-      "stock": -6,
+      "stock": -8,
       "barcode": "7794068000111"
     },
     {
@@ -10573,7 +10573,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7790070760579"
     },
     {
@@ -11573,7 +11573,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 11100,
-      "stock": -54,
+      "stock": -55,
       "barcode": "7798127632077"
     },
     {
@@ -11973,7 +11973,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -29,
+      "stock": -30,
       "barcode": "7798366220028"
     },
     {
@@ -12077,7 +12077,7 @@
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -78,
+      "stock": -79,
       "barcode": "7798162670713"
     },
     {
@@ -12453,7 +12453,7 @@
       "vino": "Jameson 8 Años",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 40500,
-      "stock": -7,
+      "stock": -8,
       "barcode": "5011007003005"
     },
     {
@@ -13156,8 +13156,8 @@
       "id": 6517,
       "vino": "Motomandado",
       "bodega": "servicios",
-      "precio": 3000,
-      "stock": -7,
+      "precio": 4000,
+      "stock": -8,
       "barcode": "31"
     },
     {
@@ -13182,7 +13182,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "vendidos": 29
+      "vendidos": 27
     },
     {
       "id": 5322,
@@ -13192,19 +13192,19 @@
       "vendidos": 25
     },
     {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 10450,
-      "vendidos": 20
-    },
-    {
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "vendidos": 19
+      "vendidos": 20
+    },
+    {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 10450,
+      "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-09T15:51:01.710Z"
+  "lastUpdate": "2026-08-10T14:25:09.278Z"
 }
