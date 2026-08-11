@@ -733,7 +733,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790036001647"
     },
     {
@@ -757,7 +757,7 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790036001562"
     },
     {
@@ -837,7 +837,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -158,
+      "stock": -159,
       "barcode": "7790036975481"
     },
     {
@@ -2725,7 +2725,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -40,
+      "stock": -41,
       "barcode": "7798089430414"
     },
     {
@@ -3389,7 +3389,7 @@
       "vino": "Salentein Numina franc",
       "bodega": "BODEGA SALENTEIN",
       "precio": 18900,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798074869304"
     },
     {
@@ -3861,7 +3861,7 @@
       "vino": "Malamado Malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 20200,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7791728002478"
     },
     {
@@ -5743,6 +5743,14 @@
       "precio": 2100,
       "stock": -125,
       "barcode": "7790950147926"
+    },
+    {
+      "id": 6658,
+      "vino": "Estrella Galicia x 330 lata 0%",
+      "bodega": "CERVEZA",
+      "precio": 2350,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 5639,
@@ -8885,7 +8893,7 @@
       "vino": "Coca Cola 2,25",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 6100,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7790895000997"
     },
     {
@@ -10213,7 +10221,7 @@
       "vino": "Mascota cabernet",
       "bodega": "MASCOTA",
       "precio": 13150,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790762054085"
     },
     {
@@ -10565,7 +10573,7 @@
       "vino": "Benjamin Nieto  - cabernet",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7793440702964"
     },
     {
@@ -10757,7 +10765,7 @@
       "vino": "Emilia rose coktail",
       "bodega": "Nieto Senetiner",
       "precio": 7000,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790070764027"
     },
     {
@@ -10949,7 +10957,7 @@
       "vino": "Si Diet x 600cc",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790036020235"
     },
     {
@@ -11357,7 +11365,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 12000,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7798090165114"
     },
     {
@@ -12109,7 +12117,7 @@
       "vino": "Rocky - malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 5300,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790415131231"
     },
     {
@@ -13175,14 +13183,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5400,
-      "vendidos": 30
-    },
-    {
-      "id": 5485,
-      "vino": "Gascon Varietales - malbec",
-      "bodega": "Bodega Escorihuela",
-      "precio": 6000,
-      "vendidos": 27
+      "vendidos": 28
     },
     {
       "id": 5322,
@@ -13190,6 +13191,13 @@
       "bodega": "BODEGA RUTINI",
       "precio": 6550,
       "vendidos": 25
+    },
+    {
+      "id": 5485,
+      "vino": "Gascon Varietales - malbec",
+      "bodega": "Bodega Escorihuela",
+      "precio": 6000,
+      "vendidos": 24
     },
     {
       "id": 6397,
@@ -13206,5 +13214,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-10T21:09:22.455Z"
+  "lastUpdate": "2026-08-11T13:30:47.724Z"
 }
