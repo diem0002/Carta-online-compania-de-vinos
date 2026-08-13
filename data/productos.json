@@ -3437,7 +3437,7 @@
       "vino": "Salentein x1500",
       "bodega": "BODEGA SALENTEIN",
       "precio": 24150,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7798074861841"
     },
     {
@@ -5625,6 +5625,14 @@
       "barcode": "7794450940704"
     },
     {
+      "id": 6661,
+      "vino": "Nicasia x1,5",
+      "bodega": "CATENA ZAPATA",
+      "precio": 21000,
+      "stock": 0,
+      "barcode": "7794450940704"
+    },
+    {
       "id": 5625,
       "vino": "Saint Felicien cabernet",
       "bodega": "CATENA ZAPATA",
@@ -5909,7 +5917,7 @@
       "vino": "Caja carton Negra Gde",
       "bodega": "Cajas y canastas para vino",
       "precio": 11000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "45"
     },
     {
@@ -13165,7 +13173,7 @@
       "vino": "Motomandado",
       "bodega": "servicios",
       "precio": 4000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "31"
     },
     {
@@ -13214,5 +13222,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-13T13:50:39.113Z"
+  "lastUpdate": "2026-08-13T15:48:32.302Z"
 }
