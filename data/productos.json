@@ -165,7 +165,7 @@
       "vino": "Full mani x90",
       "bodega": "Golosinas",
       "precio": 2260,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790380025085"
     },
     {
@@ -460,7 +460,7 @@
       "id": 6603,
       "vino": "Promo estrella galicia lata ",
       "bodega": "Promos",
-      "precio": 15000,
+      "precio": 16000,
       "stock": 0,
       "barcode": ""
     },
@@ -468,7 +468,7 @@
       "id": 6604,
       "vino": "Promo estrella galicia x330",
       "bodega": "Promos",
-      "precio": 15000,
+      "precio": 16000,
       "stock": 0,
       "barcode": ""
     },
@@ -653,7 +653,7 @@
       "vino": "Aceite La Posta del Olivo x 250",
       "bodega": "ACEITES DE OLIVA",
       "precio": 8300,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790036972169"
     },
     {
@@ -661,7 +661,7 @@
       "vino": "Aceite La Posta del Olivo x500",
       "bodega": "ACEITES DE OLIVA",
       "precio": 14200,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790036972176"
     },
     {
@@ -677,7 +677,7 @@
       "vino": "Agua   x1.5",
       "bodega": "AGUA Y SODA",
       "precio": 990,
-      "stock": -18,
+      "stock": -19,
       "barcode": "7790036974514"
     },
     {
@@ -725,7 +725,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -25,
+      "stock": -27,
       "barcode": "7790036008974"
     },
     {
@@ -3005,7 +3005,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "stock": -43,
+      "stock": -45,
       "barcode": "7790577006101"
     },
     {
@@ -4501,7 +4501,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "stock": -36,
+      "stock": -37,
       "barcode": "7790415127777"
     },
     {
@@ -4877,7 +4877,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 17500,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7798103165711"
     },
     {
@@ -6044,7 +6044,7 @@
       "id": 6556,
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
-      "precio": 2800,
+      "precio": 3000,
       "stock": -44,
       "barcode": "7898953990157"
     },
@@ -6733,7 +6733,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -75,
+      "stock": -77,
       "barcode": "7794068000012"
     },
     {
@@ -8917,7 +8917,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -33,
+      "stock": -34,
       "barcode": "7790895067617"
     },
     {
@@ -8925,7 +8925,7 @@
       "vino": "Coca Cola lata x220",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 1150,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790895642081"
     },
     {
@@ -9045,7 +9045,7 @@
       "vino": "Gaseosas Mocoreta Tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2000,
-      "stock": -39,
+      "stock": -40,
       "barcode": "7790036129136"
     },
     {
@@ -11749,7 +11749,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -38,
+      "stock": -40,
       "barcode": "7798127630011"
     },
     {
@@ -11981,7 +11981,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -30,
+      "stock": -31,
       "barcode": "7798366220028"
     },
     {
@@ -12541,7 +12541,7 @@
       "vino": "Johnnie Walker Doble Black",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 72500,
-      "stock": -6,
+      "stock": -7,
       "barcode": "5000267116419"
     },
     {
@@ -12605,7 +12605,7 @@
       "vino": "Monkey Shoulder",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 69000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "5010327105215"
     },
     {
@@ -12709,7 +12709,7 @@
       "vino": "Old Smugler",
       "bodega": "WHISKYS NACIONALES",
       "precio": 9850,
-      "stock": -7,
+      "stock": -10,
       "barcode": "7798131200613"
     },
     {
@@ -13026,11 +13026,11 @@
     },
     {
       "id": 6600,
-      "vino": "Estrella galicia x330 ",
+      "vino": "Estrella galicia tostada 0% x330 ",
       "bodega": "cerveza",
       "precio": 2800,
       "stock": -24,
-      "barcode": ""
+      "barcode": "8412598007767"
     },
     {
       "id": 6597,
@@ -13173,7 +13173,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -129,
+      "stock": -131,
       "barcode": ""
     }
   ],
@@ -13190,7 +13190,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "vendidos": 26
+      "vendidos": 27
     },
     {
       "id": 5322,
@@ -13214,5 +13214,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-12T15:54:48.925Z"
+  "lastUpdate": "2026-08-13T13:50:39.113Z"
 }
