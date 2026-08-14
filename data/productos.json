@@ -725,7 +725,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -27,
+      "stock": -29,
       "barcode": "7790036008974"
     },
     {
@@ -837,7 +837,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -161,
+      "stock": -162,
       "barcode": "7790036975481"
     },
     {
@@ -957,7 +957,7 @@
       "vino": "Altos Las Hormigas Appelation  gualtallary malbec",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 35000,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7798051950469"
     },
     {
@@ -2725,7 +2725,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -41,
+      "stock": -48,
       "barcode": "7798089430414"
     },
     {
@@ -2733,7 +2733,7 @@
       "vino": "Viña de Caroya Amabile x750",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4200,
-      "stock": -21,
+      "stock": -27,
       "barcode": "7798089430124"
     },
     {
@@ -3109,7 +3109,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10450,
-      "stock": -153,
+      "stock": -154,
       "barcode": "7790577002165"
     },
     {
@@ -3204,7 +3204,7 @@
       "id": 5326,
       "vino": "El Portillo  - cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5600,
+      "precio": 5700,
       "stock": -1,
       "barcode": "7798074860233"
     },
@@ -3212,7 +3212,7 @@
       "id": 5327,
       "vino": "El Portillo  - chardonay",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5600,
+      "precio": 5700,
       "stock": -8,
       "barcode": "7798074864750"
     },
@@ -3228,7 +3228,7 @@
       "id": 5329,
       "vino": "El Portillo  - malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5600,
+      "precio": 5700,
       "stock": -4,
       "barcode": "7798074860240"
     },
@@ -3236,7 +3236,7 @@
       "id": 5330,
       "vino": "El Portillo  - tempranillo",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5600,
+      "precio": 5700,
       "stock": 0,
       "barcode": "7798074860264"
     },
@@ -3244,7 +3244,7 @@
       "id": 5331,
       "vino": "El Portillo - Merlot",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5600,
+      "precio": 5700,
       "stock": 0,
       "barcode": "7798074860257"
     },
@@ -3252,7 +3252,7 @@
       "id": 5332,
       "vino": "El Portillo - sauv. Blanc",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 5200,
+      "precio": 5700,
       "stock": 0,
       "barcode": "7798074864774"
     },
@@ -3380,7 +3380,7 @@
       "id": 5348,
       "vino": "Salentein Numina Cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 16470,
+      "precio": 16990,
       "stock": 0,
       "barcode": "7798074865641"
     },
@@ -3388,7 +3388,7 @@
       "id": 5349,
       "vino": "Salentein Numina franc",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 18900,
+      "precio": 19500,
       "stock": -2,
       "barcode": "7798074869304"
     },
@@ -3396,7 +3396,7 @@
       "id": 5350,
       "vino": "Salentein Numina malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 16470,
+      "precio": 16990,
       "stock": -9,
       "barcode": "7798074869311"
     },
@@ -7172,7 +7172,7 @@
       "id": 5803,
       "vino": "Portillo x2",
       "bodega": "ESTUCHES",
-      "precio": 13000,
+      "precio": 16000,
       "stock": 0,
       "barcode": "7798074863098"
     },
@@ -9149,7 +9149,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4320,
-      "stock": -45,
+      "stock": -47,
       "barcode": "7790895010088"
     },
     {
@@ -9317,7 +9317,7 @@
       "vino": "Mantecol x41g",
       "bodega": "Georgalos",
       "precio": 1350,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7622201816414"
     },
     {
@@ -11989,7 +11989,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -32,
+      "stock": -34,
       "barcode": "7798366220028"
     },
     {
@@ -13181,7 +13181,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -131,
+      "stock": -133,
       "barcode": ""
     }
   ],
@@ -13219,8 +13219,8 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10450,
-      "vendidos": 18
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-14T15:58:55.366Z"
+  "lastUpdate": "2026-08-14T22:48:15.749Z"
 }
