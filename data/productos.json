@@ -29,7 +29,7 @@
       "vino": "Barras de cereal avellanas y arandanos",
       "bodega": "Golosinas",
       "precio": 800,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790380020271"
     },
     {
@@ -37,7 +37,7 @@
       "vino": "Barras de cereal frutos del bosque",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790380020028"
     },
     {
@@ -45,7 +45,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790380020172"
     },
     {
@@ -53,7 +53,7 @@
       "vino": "Barras de cereal granola con semillas",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790380015024"
     },
     {
@@ -61,7 +61,7 @@
       "vino": "Barras de cereal manzana",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790380008286"
     },
     {
@@ -69,7 +69,7 @@
       "vino": "Barras de cereal mix de fruta",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790380014928"
     },
     {
@@ -2164,7 +2164,7 @@
       "id": 5193,
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 5400,
+      "precio": 5500,
       "stock": -79,
       "barcode": "7798108834339"
     },
@@ -2172,7 +2172,7 @@
       "id": 5194,
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 5400,
+      "precio": 5500,
       "stock": -54,
       "barcode": "7798108834377"
     },
@@ -2180,7 +2180,7 @@
       "id": 5195,
       "vino": "Esperado Syrah/ cabernet",
       "bodega": "BODEGA CALLIA",
-      "precio": 5400,
+      "precio": 5500,
       "stock": -1,
       "barcode": "7798108832533"
     },
@@ -2188,7 +2188,7 @@
       "id": 5196,
       "vino": "Esperado cabernet",
       "bodega": "BODEGA CALLIA",
-      "precio": 5400,
+      "precio": 5500,
       "stock": 0,
       "barcode": "7798108833127"
     },
@@ -3260,7 +3260,7 @@
       "id": 5333,
       "vino": "Killka Malbec blanco",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7900,
+      "precio": 8050,
       "stock": -5,
       "barcode": "7798074865177"
     },
@@ -3268,7 +3268,7 @@
       "id": 5334,
       "vino": "Killka Sauv.Blanc",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7900,
+      "precio": 8050,
       "stock": -3,
       "barcode": "7798074862756"
     },
@@ -3276,7 +3276,7 @@
       "id": 5335,
       "vino": "Killka blend",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7900,
+      "precio": 8050,
       "stock": -2,
       "barcode": "7798074865153"
     },
@@ -3284,7 +3284,7 @@
       "id": 5336,
       "vino": "Killka cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7900,
+      "precio": 8050,
       "stock": 0,
       "barcode": "7798074862084"
     },
@@ -3292,7 +3292,7 @@
       "id": 5337,
       "vino": "Killka chardonay",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7900,
+      "precio": 8050,
       "stock": -1,
       "barcode": "7798074865115"
     },
@@ -3300,7 +3300,7 @@
       "id": 5338,
       "vino": "Killka malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7900,
+      "precio": 8050,
       "stock": -8,
       "barcode": "7798074865191"
     },
@@ -3332,7 +3332,7 @@
       "id": 5342,
       "vino": "Salentein  - blend corte tinta",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 13100,
+      "precio": 13300,
       "stock": -3,
       "barcode": "7798074864194"
     },
@@ -3340,7 +3340,7 @@
       "id": 5343,
       "vino": "Salentein  - cabernet",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 12000,
+      "precio": 12300,
       "stock": -2,
       "barcode": "7798074860349"
     },
@@ -3348,7 +3348,7 @@
       "id": 5344,
       "vino": "Salentein  - cabernet franc",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 12600,
+      "precio": 12850,
       "stock": -11,
       "barcode": "7798074864224"
     },
@@ -3356,7 +3356,7 @@
       "id": 5345,
       "vino": "Salentein  - malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 12000,
+      "precio": 12300,
       "stock": -49,
       "barcode": "7798074865313"
     },
@@ -3364,7 +3364,7 @@
       "id": 5346,
       "vino": "Salentein  - merlot",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 12000,
+      "precio": 12300,
       "stock": -5,
       "barcode": "7798074865368"
     },
@@ -3372,7 +3372,7 @@
       "id": 5347,
       "vino": "Salentein  - pinot",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 12600,
+      "precio": 12900,
       "stock": -4,
       "barcode": "7798074860363"
     },
@@ -3404,7 +3404,7 @@
       "id": 5351,
       "vino": "Salentein barrel cabernet malbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 8800,
+      "precio": 8950,
       "stock": -1,
       "barcode": "7798074865702"
     },
@@ -3412,7 +3412,7 @@
       "id": 5352,
       "vino": "Salentein barrel pettit mallbec",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 8800,
+      "precio": 8950,
       "stock": -2,
       "barcode": "7798074865726"
     },
@@ -3420,7 +3420,7 @@
       "id": 5353,
       "vino": "Salentein rose",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 12000,
+      "precio": 12300,
       "stock": 0,
       "barcode": "7798074863746"
     },
@@ -3428,7 +3428,7 @@
       "id": 5354,
       "vino": "Salentein x 375",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 7800,
+      "precio": 8000,
       "stock": -1,
       "barcode": "7798074860653"
     },
@@ -3436,7 +3436,7 @@
       "id": 5355,
       "vino": "Salentein x1500",
       "bodega": "BODEGA SALENTEIN",
-      "precio": 24150,
+      "precio": 24650,
       "stock": -5,
       "barcode": "7798074861841"
     },
@@ -4765,7 +4765,7 @@
       "vino": "Las Perdices PARTRIDGE Bag In Box",
       "bodega": "Bodega Las Perdices",
       "precio": 18000,
-      "stock": -39,
+      "stock": -40,
       "barcode": "7798123974515"
     },
     {
@@ -6741,7 +6741,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -78,
+      "stock": -79,
       "barcode": "7794068000012"
     },
     {
@@ -7036,7 +7036,7 @@
       "id": 5790,
       "vino": "Salentein doux",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 13800,
+      "precio": 14800,
       "stock": -3,
       "barcode": "7798074864514"
     },
@@ -7196,7 +7196,7 @@
       "id": 5806,
       "vino": "Salentein x 1 Bot ESTUCHE",
       "bodega": "ESTUCHES",
-      "precio": 14200,
+      "precio": 14500,
       "stock": -2,
       "barcode": ""
     },
@@ -7204,7 +7204,7 @@
       "id": 5807,
       "vino": "Salentein x2 Estuche",
       "bodega": "ESTUCHES",
-      "precio": 43000,
+      "precio": 43500,
       "stock": -2,
       "barcode": "7798074869359"
     },
@@ -7988,7 +7988,7 @@
       "id": 5911,
       "vino": "Salentein Blanc de Blanc espumante",
       "bodega": "Espumantes",
-      "precio": 14700,
+      "precio": 15750,
       "stock": -2,
       "barcode": "7798074865016"
     },
@@ -7996,7 +7996,7 @@
       "id": 5912,
       "vino": "Salentein Brut Nature",
       "bodega": "Espumantes",
-      "precio": 14050,
+      "precio": 15100,
       "stock": -24,
       "barcode": "7798074864910"
     },
@@ -8004,7 +8004,7 @@
       "id": 5913,
       "vino": "Salentein Brut rose espumante",
       "bodega": "Espumantes",
-      "precio": 14050,
+      "precio": 15100,
       "stock": -5,
       "barcode": "7798074864996"
     },
@@ -9101,7 +9101,7 @@
       "vino": "Paso de los toros tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3500,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7791813421368"
     },
     {
@@ -9421,7 +9421,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 6300,
-      "stock": -73,
+      "stock": -74,
       "barcode": "7798112631306"
     },
     {
@@ -9917,7 +9917,7 @@
       "vino": "Licores tres plumas (café al dulce de leche)",
       "bodega": "LICORES",
       "precio": 6950,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790260002250"
     },
     {
@@ -10773,7 +10773,7 @@
       "vino": "Emilia rose coktail",
       "bodega": "Nieto Senetiner",
       "precio": 7000,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7790070764027"
     },
     {
@@ -11757,7 +11757,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -40,
+      "stock": -41,
       "barcode": "7798127630011"
     },
     {
@@ -12061,7 +12061,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -65,
+      "stock": -66,
       "barcode": "7798162671673"
     },
     {
@@ -13190,7 +13190,7 @@
       "id": 5193,
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
-      "precio": 5400,
+      "precio": 5500,
       "vendidos": 28
     },
     {
@@ -13222,5 +13222,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-14T12:19:43.184Z"
+  "lastUpdate": "2026-08-14T15:58:55.366Z"
 }
