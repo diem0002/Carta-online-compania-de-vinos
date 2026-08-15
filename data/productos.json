@@ -7220,7 +7220,7 @@
       "id": 5809,
       "vino": "Schofferhofer estuche c/ vaso",
       "bodega": "ESTUCHES",
-      "precio": 34500,
+      "precio": 36000,
       "stock": -3,
       "barcode": "4053400942520"
     },
@@ -13222,5 +13222,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-15T14:12:34.079Z"
+  "lastUpdate": "2026-08-15T14:14:16.551Z"
 }
