@@ -677,7 +677,7 @@
       "vino": "Agua   x1.5",
       "bodega": "AGUA Y SODA",
       "precio": 990,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7790036974514"
     },
     {
@@ -837,7 +837,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -162,
+      "stock": -163,
       "barcode": "7790036975481"
     },
     {
@@ -3005,7 +3005,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "stock": -45,
+      "stock": -46,
       "barcode": "7790577006101"
     },
     {
@@ -3733,7 +3733,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -49,
+      "stock": -51,
       "barcode": "7798124010243"
     },
     {
@@ -4205,7 +4205,7 @@
       "vino": "Ruca Malen  - malbec",
       "bodega": "Bodega  Ruca Malen",
       "precio": 7950,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790070651068"
     },
     {
@@ -4853,7 +4853,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -57,
+      "stock": -58,
       "barcode": "7798123971309"
     },
     {
@@ -6053,7 +6053,7 @@
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
       "precio": 3000,
-      "stock": -44,
+      "stock": -45,
       "barcode": "7898953990157"
     },
     {
@@ -6357,7 +6357,7 @@
       "vino": "Heineken x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3970,
-      "stock": -30,
+      "stock": -33,
       "barcode": "7793147009199"
     },
     {
@@ -6365,7 +6365,7 @@
       "vino": "Heineken x 473 S/Alco",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3000,
-      "stock": -46,
+      "stock": -49,
       "barcode": "7793147574093"
     },
     {
@@ -6405,7 +6405,7 @@
       "vino": "Miller 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4950,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7793147570088"
     },
     {
@@ -9084,7 +9084,7 @@
       "id": 6038,
       "vino": "Paso de los toros pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3500,
+      "precio": 3850,
       "stock": -27,
       "barcode": "7791813421382"
     },
@@ -9092,7 +9092,7 @@
       "id": 6039,
       "vino": "Paso de los toros pomelo S/Az",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3500,
+      "precio": 3850,
       "stock": -4,
       "barcode": "7791813080039"
     },
@@ -9100,7 +9100,7 @@
       "id": 6040,
       "vino": "Paso de los toros tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 3500,
+      "precio": 3850,
       "stock": -13,
       "barcode": "7791813421368"
     },
@@ -9413,7 +9413,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -30,
+      "stock": -33,
       "barcode": "7798112630521"
     },
     {
@@ -9421,7 +9421,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 6300,
-      "stock": -74,
+      "stock": -80,
       "barcode": "7798112631306"
     },
     {
@@ -9469,7 +9469,7 @@
       "vino": "Finca Gabriel varietal  - malbec",
       "bodega": "JORGE RUBIO",
       "precio": 5800,
-      "stock": -12,
+      "stock": -14,
       "barcode": "7798112630026"
     },
     {
@@ -11717,7 +11717,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -76,
+      "stock": -77,
       "barcode": ""
     },
     {
@@ -12309,8 +12309,8 @@
       "vino": "Ballantines x 750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 37000,
-      "stock": -3,
-      "barcode": "5010106111536"
+      "stock": -4,
+      "barcode": "5010106113073"
     },
     {
       "id": 6423,
@@ -13201,18 +13201,18 @@
       "vendidos": 27
     },
     {
-      "id": 6397,
-      "vino": "Profugo Malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4350,
-      "vendidos": 26
-    },
-    {
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 6550,
       "vendidos": 25
+    },
+    {
+      "id": 6397,
+      "vino": "Profugo Malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4350,
+      "vendidos": 20
     },
     {
       "id": 5314,
@@ -13222,5 +13222,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-14T22:48:28.763Z"
+  "lastUpdate": "2026-08-15T14:12:27.340Z"
 }
