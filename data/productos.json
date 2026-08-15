@@ -13,7 +13,7 @@
       "vino": "Alfajor toddy Mousse blanco",
       "bodega": "Vinos",
       "precio": 1100,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7790380023630"
     },
     {
@@ -21,7 +21,7 @@
       "vino": "Alfajor toddy mousse",
       "bodega": "Vinos",
       "precio": 1100,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7790380023579"
     },
     {
@@ -29,7 +29,7 @@
       "vino": "Barras de cereal avellanas y arandanos",
       "bodega": "Golosinas",
       "precio": 800,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790380020271"
     },
     {
@@ -37,7 +37,7 @@
       "vino": "Barras de cereal frutos del bosque",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790380020028"
     },
     {
@@ -45,7 +45,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790380020172"
     },
     {
@@ -53,7 +53,7 @@
       "vino": "Barras de cereal granola con semillas",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790380015024"
     },
     {
@@ -61,7 +61,7 @@
       "vino": "Barras de cereal manzana",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790380008286"
     },
     {
@@ -69,7 +69,7 @@
       "vino": "Barras de cereal mix de fruta",
       "bodega": "Golosinas",
       "precio": 700,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7790380014928"
     },
     {
@@ -85,7 +85,7 @@
       "vino": "Bombon Tokke",
       "bodega": "Golosinas",
       "precio": 500,
-      "stock": -15,
+      "stock": -25,
       "barcode": "7790380022176"
     },
     {
@@ -133,7 +133,7 @@
       "vino": "Full mani x140g",
       "bodega": "Golosinas",
       "precio": 3000,
-      "stock": -14,
+      "stock": -16,
       "barcode": "7790380025061"
     },
     {
@@ -197,7 +197,7 @@
       "vino": "Mantecol cubanito ",
       "bodega": "Golosinas",
       "precio": 320,
-      "stock": -18,
+      "stock": -20,
       "barcode": "7790380026433"
     },
     {
@@ -517,7 +517,7 @@
       "vino": "Tokke Dulce de leche",
       "bodega": "Golosinas",
       "precio": 2100,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7790380022107"
     },
     {
@@ -1181,7 +1181,7 @@
       "vino": "Kumquat aperit del litoal",
       "bodega": "APERITIVOS",
       "precio": 7500,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798397970015"
     },
     {
@@ -9317,7 +9317,7 @@
       "vino": "Mantecol x41g",
       "bodega": "Georgalos",
       "precio": 1350,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7622201816414"
     },
     {
@@ -9941,7 +9941,7 @@
       "vino": "Licores tres plumas (chocolate al dulce de leche)",
       "bodega": "LICORES",
       "precio": 7400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790260013300"
     },
     {
@@ -11365,7 +11365,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": -52,
+      "stock": -53,
       "barcode": "7798090160065"
     },
     {
@@ -11469,7 +11469,7 @@
       "vino": "Los Cardos Varietales - blend",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 5350,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798090162526"
     },
     {
@@ -11589,7 +11589,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 11100,
-      "stock": -56,
+      "stock": -57,
       "barcode": "7798127632077"
     },
     {
@@ -13172,7 +13172,7 @@
       "id": 6517,
       "vino": "Motomandado",
       "bodega": "servicios",
-      "precio": 4000,
+      "precio": 3500,
       "stock": -9,
       "barcode": "31"
     },
@@ -13222,5 +13222,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-15T14:14:16.551Z"
+  "lastUpdate": "2026-08-15T20:21:13.998Z"
 }
