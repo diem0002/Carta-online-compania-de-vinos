@@ -561,6 +561,14 @@
       "barcode": "7790380022190"
     },
     {
+      "id": 6664,
+      "vino": "Goyeneche x500 IPA",
+      "bodega": "\tCervezas Nacionales latas",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 4994,
       "vino": "Alfajor 9 de ORO blanco",
       "bodega": "9 de oro",
@@ -6297,6 +6305,14 @@
       "barcode": "714604205180"
     },
     {
+      "id": 6662,
+      "vino": "Goyeneche x500 Blonde",
+      "bodega": "Cervezas Nacionales latas",
+      "precio": 2900,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 5700,
       "vino": "Goyeneche x500 Golden",
       "bodega": "Cervezas Nacionales latas",
@@ -6319,6 +6335,14 @@
       "precio": 2900,
       "stock": -5,
       "barcode": "714604205135"
+    },
+    {
+      "id": 6663,
+      "vino": "Goyeneche x500 Scotich",
+      "bodega": "Cervezas Nacionales latas",
+      "precio": 2900,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 5702,
@@ -13222,5 +13246,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-08-18T15:25:25.434Z"
+  "lastUpdate": "2026-08-18T15:34:24.421Z"
 }
