@@ -4684,7 +4684,7 @@
       "id": 5507,
       "vino": "Las Perdices  - Cabernet",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": -2,
       "barcode": "7798123970111"
     },
@@ -4692,7 +4692,7 @@
       "id": 5508,
       "vino": "Las Perdices  - Chardonay",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": 0,
       "barcode": ""
     },
@@ -4700,7 +4700,7 @@
       "id": 5509,
       "vino": "Las Perdices  - Malbec",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": -34,
       "barcode": "7798123970098"
     },
@@ -4708,7 +4708,7 @@
       "id": 5510,
       "vino": "Las Perdices  - Sauvignon Blanc",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": -6,
       "barcode": "7798123970166"
     },
@@ -4716,7 +4716,7 @@
       "id": 5511,
       "vino": "Las Perdices - Syrah/Vognier",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": -7,
       "barcode": "7798123970401"
     },
@@ -4724,7 +4724,7 @@
       "id": 5512,
       "vino": "Las Perdices Ala Colorada Cab Franc",
       "bodega": "Bodega Las Perdices",
-      "precio": 16600,
+      "precio": 17600,
       "stock": -9,
       "barcode": "7798123970593"
     },
@@ -4732,7 +4732,7 @@
       "id": 5513,
       "vino": "Las Perdices Ala Colorada ancelotta",
       "bodega": "Bodega Las Perdices",
-      "precio": 16600,
+      "precio": 17600,
       "stock": -5,
       "barcode": "7798123970692"
     },
@@ -4740,7 +4740,7 @@
       "id": 5514,
       "vino": "Las Perdices Ala Colorada petit",
       "bodega": "Bodega Las Perdices",
-      "precio": 16600,
+      "precio": 17600,
       "stock": 0,
       "barcode": "7798123971149"
     },
@@ -4748,7 +4748,7 @@
       "id": 5515,
       "vino": "Las Perdices Ala Colorada tanat",
       "bodega": "Bodega Las Perdices",
-      "precio": 16600,
+      "precio": 17600,
       "stock": -1,
       "barcode": "7798123972207"
     },
@@ -4780,7 +4780,7 @@
       "id": 5519,
       "vino": "Las Perdices Reseva - blanc",
       "bodega": "Bodega Las Perdices",
-      "precio": 12550,
+      "precio": 13800,
       "stock": -4,
       "barcode": "7798123970425"
     },
@@ -4788,7 +4788,7 @@
       "id": 5520,
       "vino": "Las Perdices Reseva - cabernet",
       "bodega": "Bodega Las Perdices",
-      "precio": 12550,
+      "precio": 13800,
       "stock": -4,
       "barcode": "7798123970388"
     },
@@ -4796,7 +4796,7 @@
       "id": 5521,
       "vino": "Las Perdices Reseva - chardonay",
       "bodega": "Bodega Las Perdices",
-      "precio": 12550,
+      "precio": 13800,
       "stock": 0,
       "barcode": "7798123970685"
     },
@@ -4804,7 +4804,7 @@
       "id": 5522,
       "vino": "Las Perdices Reseva - malbec",
       "bodega": "Bodega Las Perdices",
-      "precio": 12550,
+      "precio": 13800,
       "stock": -13,
       "barcode": "7798123970296"
     },
@@ -4812,7 +4812,7 @@
       "id": 5523,
       "vino": "Las Perdices Reseva - pinot",
       "bodega": "Bodega Las Perdices",
-      "precio": 12550,
+      "precio": 13800,
       "stock": -13,
       "barcode": "7798123970432"
     },
@@ -4820,7 +4820,7 @@
       "id": 5524,
       "vino": "Las Perdices Tardio x 500",
       "bodega": "Bodega Las Perdices",
-      "precio": 12550,
+      "precio": 13800,
       "stock": 0,
       "barcode": "7798123970227"
     },
@@ -4828,7 +4828,7 @@
       "id": 5525,
       "vino": "Las Perdices Torrontes",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": -1,
       "barcode": "7798123970289"
     },
@@ -4836,7 +4836,7 @@
       "id": 5526,
       "vino": "Las Perdices Torrontes Dce",
       "bodega": "Bodega Las Perdices",
-      "precio": 8300,
+      "precio": 9050,
       "stock": -2,
       "barcode": "7798123970630"
     },
@@ -7028,7 +7028,7 @@
       "id": 5786,
       "vino": "Las Perdices sweet Espumante",
       "bodega": "ESPUMANTES DULCES",
-      "precio": 9050,
+      "precio": 10000,
       "stock": -2,
       "barcode": "7798123970449"
     },
@@ -7844,7 +7844,7 @@
       "id": 5890,
       "vino": "Las Perdices Brut nature Espumante",
       "bodega": "Espumantes",
-      "precio": 14100,
+      "precio": 16200,
       "stock": 0,
       "barcode": ""
     },
@@ -7852,7 +7852,7 @@
       "id": 5891,
       "vino": "Las Perdices Extra Brut  champenoise",
       "bodega": "Espumantes",
-      "precio": 11900,
+      "precio": 13800,
       "stock": 0,
       "barcode": "7798123971903"
     },
@@ -7860,7 +7860,7 @@
       "id": 5892,
       "vino": "Las Perdices Extra Brut Espumante",
       "bodega": "Espumantes",
-      "precio": 10000,
+      "precio": 13800,
       "stock": 0,
       "barcode": "7798123970234"
     },
@@ -13246,5 +13246,5 @@
       "vendidos": 20
     }
   ],
-  "lastUpdate": "2026-08-18T15:34:24.421Z"
+  "lastUpdate": "2026-08-18T15:51:06.198Z"
 }
