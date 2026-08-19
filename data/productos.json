@@ -3164,7 +3164,7 @@
       "id": 5320,
       "vino": "Trumpeter estuche x 1",
       "bodega": "BODEGA RUTINI",
-      "precio": 14700,
+      "precio": 14100,
       "stock": -4,
       "barcode": "7790577006903"
     },
@@ -3172,7 +3172,7 @@
       "id": 5321,
       "vino": "Trumpeter estuche x 2",
       "bodega": "BODEGA RUTINI",
-      "precio": 28300,
+      "precio": 27100,
       "stock": -2,
       "barcode": "7790577003889"
     },
@@ -7260,7 +7260,7 @@
       "id": 5814,
       "vino": "Trumpeter reserva estuche x1",
       "bodega": "ESTUCHES",
-      "precio": 22300,
+      "precio": 21300,
       "stock": 0,
       "barcode": "7790577041577"
     },
@@ -8076,7 +8076,7 @@
       "id": 5919,
       "vino": "Trumpeter brut nature",
       "bodega": "Espumantes",
-      "precio": 14650,
+      "precio": 14000,
       "stock": 0,
       "barcode": "7790577040020"
     },
@@ -8084,7 +8084,7 @@
       "id": 5920,
       "vino": "Trumpeter brut rose",
       "bodega": "Espumantes",
-      "precio": 13600,
+      "precio": 13000,
       "stock": 0,
       "barcode": "7790577039369"
     },
@@ -8092,7 +8092,7 @@
       "id": 5921,
       "vino": "Trumpeter extra brut",
       "bodega": "Espumantes",
-      "precio": 12900,
+      "precio": 12400,
       "stock": -2,
       "barcode": "7790577004299"
     },
@@ -13246,5 +13246,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-19T22:52:03.757Z"
+  "lastUpdate": "2026-08-19T22:58:29.052Z"
 }
