@@ -3013,7 +3013,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "stock": -48,
+      "stock": -50,
       "barcode": "7790577006101"
     },
     {
@@ -3124,7 +3124,7 @@
       "id": 5315,
       "vino": "Trumpeter Malbec  fort…",
       "bodega": "BODEGA RUTINI",
-      "precio": 17200,
+      "precio": 16500,
       "stock": -3,
       "barcode": "7790577043021"
     },
@@ -3132,7 +3132,7 @@
       "id": 5316,
       "vino": "Trumpeter Reserva  - cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 13560,
+      "precio": 13000,
       "stock": -9,
       "barcode": "7790577041515"
     },
@@ -3140,7 +3140,7 @@
       "id": 5317,
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 13560,
+      "precio": 13000,
       "stock": -41,
       "barcode": "7790577041553"
     },
@@ -3148,7 +3148,7 @@
       "id": 5318,
       "vino": "Trumpeter Reserva -  Rosado",
       "bodega": "BODEGA RUTINI",
-      "precio": 13560,
+      "precio": 13000,
       "stock": -5,
       "barcode": "7790577040983"
     },
@@ -3156,7 +3156,7 @@
       "id": 5319,
       "vino": "Trumpeter Reserva - doux blanco",
       "bodega": "BODEGA RUTINI",
-      "precio": 13560,
+      "precio": 13000,
       "stock": -1,
       "barcode": "7790577042802"
     },
@@ -3180,7 +3180,7 @@
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
-      "precio": 6550,
+      "precio": 6300,
       "stock": -48,
       "barcode": "7790577040921"
     },
@@ -3605,7 +3605,7 @@
       "vino": "Fond de Cave Gran  Reserva - blend",
       "bodega": "BODEGA TRAPICHE",
       "precio": 21550,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790240094732"
     },
     {
@@ -3613,7 +3613,7 @@
       "vino": "Fond de Cave Gran  Reserva - malbec",
       "bodega": "BODEGA TRAPICHE",
       "precio": 21550,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790240042481"
     },
     {
@@ -6733,7 +6733,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco",
       "bodega": "DAMAJUANAS",
       "precio": 11100,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7794068000029"
     },
     {
@@ -13242,9 +13242,9 @@
       "id": 5322,
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
-      "precio": 6550,
+      "precio": 6300,
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-19T21:22:17.508Z"
+  "lastUpdate": "2026-08-19T22:52:03.757Z"
 }
