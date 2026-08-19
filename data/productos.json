@@ -141,7 +141,7 @@
       "vino": "Full mani x150",
       "bodega": "Golosinas",
       "precio": 3600,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790380025108"
     },
     {
@@ -2181,7 +2181,7 @@
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
-      "stock": -54,
+      "stock": -60,
       "barcode": "7798108834377"
     },
     {
@@ -2756,7 +2756,7 @@
       "id": 5264,
       "vino": "San Felipe Roble",
       "bodega": "BODEGA LA RURAL",
-      "precio": 6280,
+      "precio": 6250,
       "stock": -14,
       "barcode": "7790577002424"
     },
@@ -2780,7 +2780,7 @@
       "id": 5267,
       "vino": "San Felipe x 375",
       "bodega": "BODEGA LA RURAL",
-      "precio": 4100,
+      "precio": 3700,
       "stock": 0,
       "barcode": "7790577000048"
     },
@@ -3020,7 +3020,7 @@
       "id": 5302,
       "vino": "Rutini Cab franc",
       "bodega": "BODEGA RUTINI",
-      "precio": 28950,
+      "precio": 27700,
       "stock": -3,
       "barcode": "7790577008075"
     },
@@ -3028,7 +3028,7 @@
       "id": 5303,
       "vino": "Rutini Cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 28950,
+      "precio": 27700,
       "stock": 0,
       "barcode": "7790577003711"
     },
@@ -3036,7 +3036,7 @@
       "id": 5304,
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 18500,
+      "precio": 17700,
       "stock": -41,
       "barcode": "7790577001663"
     },
@@ -3052,7 +3052,7 @@
       "id": 5306,
       "vino": "Rutini Cabernet /Merlot",
       "bodega": "BODEGA RUTINI",
-      "precio": 18500,
+      "precio": 17700,
       "stock": -7,
       "barcode": "7790577039949"
     },
@@ -3060,7 +3060,7 @@
       "id": 5307,
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 34500,
+      "precio": 33150,
       "stock": -20,
       "barcode": "7790577001151"
     },
@@ -3076,7 +3076,7 @@
       "id": 5309,
       "vino": "Rutini chardonay",
       "bodega": "BODEGA RUTINI",
-      "precio": 27600,
+      "precio": 26400,
       "stock": -2,
       "barcode": ""
     },
@@ -3084,7 +3084,7 @@
       "id": 5310,
       "vino": "Rutini pinot",
       "bodega": "BODEGA RUTINI",
-      "precio": 48700,
+      "precio": 43800,
       "stock": -1,
       "barcode": "7790577003117"
     },
@@ -13246,5 +13246,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-19T22:58:29.052Z"
+  "lastUpdate": "2026-08-19T23:21:50.436Z"
 }
