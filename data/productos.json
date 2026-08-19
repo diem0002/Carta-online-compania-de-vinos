@@ -765,7 +765,7 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "AGUA Y SODA",
       "precio": 1500,
-      "stock": -37,
+      "stock": -39,
       "barcode": "7790036001562"
     },
     {
@@ -2733,7 +2733,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": -48,
+      "stock": -49,
       "barcode": "7798089430414"
     },
     {
@@ -3165,7 +3165,7 @@
       "vino": "Trumpeter estuche x 1",
       "bodega": "BODEGA RUTINI",
       "precio": 14700,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7790577006903"
     },
     {
@@ -5661,7 +5661,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12300,
-      "stock": -47,
+      "stock": -53,
       "barcode": "7794450088581"
     },
     {
@@ -6461,7 +6461,7 @@
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -51,
+      "stock": -52,
       "barcode": "7792798002399"
     },
     {
@@ -6469,7 +6469,7 @@
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6650,
-      "stock": -37,
+      "stock": -38,
       "barcode": "7792798002351"
     },
     {
@@ -6765,7 +6765,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -79,
+      "stock": -80,
       "barcode": "7794068000012"
     },
     {
@@ -8037,7 +8037,7 @@
       "vino": "Salentein Extra brut espumante",
       "bodega": "Espumantes",
       "precio": 13800,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798074864972"
     },
     {
@@ -9045,7 +9045,7 @@
       "vino": "Gaseosas Mocoreta Manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2000,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7790036004631"
     },
     {
@@ -9325,7 +9325,7 @@
       "vino": "Mantecol x111g",
       "bodega": "Georgalos",
       "precio": 2350,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7622201812652"
     },
     {
@@ -10732,7 +10732,7 @@
       "id": 6221,
       "vino": "Emilia  - blend",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "precio": 6800,
       "stock": 0,
       "barcode": "7793440002538"
     },
@@ -10740,7 +10740,7 @@
       "id": 6222,
       "vino": "Emilia  - cabernet",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "precio": 6800,
       "stock": 0,
       "barcode": "7793440002316"
     },
@@ -10748,7 +10748,7 @@
       "id": 6223,
       "vino": "Emilia  - chardonay",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "precio": 6800,
       "stock": -10,
       "barcode": "7790070778109"
     },
@@ -10756,7 +10756,7 @@
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "precio": 6800,
       "stock": -56,
       "barcode": "7790070760722"
     },
@@ -10764,7 +10764,7 @@
       "id": 6225,
       "vino": "Emilia  - sauv blanc",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "precio": 6800,
       "stock": 0,
       "barcode": "7793440002552"
     },
@@ -10780,7 +10780,7 @@
       "id": 6227,
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
+      "precio": 6800,
       "stock": -40,
       "barcode": "7790070760777"
     },
@@ -10788,8 +10788,8 @@
       "id": 6228,
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
-      "precio": 6600,
-      "stock": -40,
+      "precio": 6800,
+      "stock": -41,
       "barcode": "7790070760739"
     },
     {
@@ -10852,7 +10852,7 @@
       "id": 6236,
       "vino": "Nieto Senetiner Believe Rose",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": 0,
       "barcode": "7793440000633"
     },
@@ -10860,7 +10860,7 @@
       "id": 6237,
       "vino": "Nieto Senetiner Blend Collection",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": 0,
       "barcode": "7793440003016"
     },
@@ -10868,7 +10868,7 @@
       "id": 6238,
       "vino": "Nieto senetiner  - Bonarda",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": 0,
       "barcode": "7793440703398"
     },
@@ -10876,7 +10876,7 @@
       "id": 6239,
       "vino": "Nieto senetiner  - cabernet",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": 0,
       "barcode": "7793440000039"
     },
@@ -10884,7 +10884,7 @@
       "id": 6240,
       "vino": "Nieto senetiner  - chardonay",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": 0,
       "barcode": ""
     },
@@ -10892,7 +10892,7 @@
       "id": 6241,
       "vino": "Nieto senetiner  - malbec",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": -4,
       "barcode": "7790070760821"
     },
@@ -10900,7 +10900,7 @@
       "id": 6242,
       "vino": "Nieto senetiner  - pinot",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": -1,
       "barcode": "7793440704876"
     },
@@ -10908,7 +10908,7 @@
       "id": 6243,
       "vino": "Nieto senetiner  - syrah",
       "bodega": "Nieto Senetiner",
-      "precio": 7800,
+      "precio": 8250,
       "stock": 0,
       "barcode": "7793440000053"
     },
@@ -10916,7 +10916,7 @@
       "id": 6623,
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
-      "precio": 10200,
+      "precio": 11000,
       "stock": -8,
       "barcode": "7790070104847"
     },
@@ -10924,7 +10924,7 @@
       "id": 6624,
       "vino": "Nieto senetiner 0% malbec rose",
       "bodega": "Nieto senetiner",
-      "precio": 10200,
+      "precio": 11000,
       "stock": -15,
       "barcode": "7790070106919"
     },
@@ -11332,7 +11332,7 @@
       "id": 6300,
       "vino": "Benjamin Nieto x 375",
       "bodega": "VINOS x 377",
-      "precio": 3450,
+      "precio": 3600,
       "stock": -24,
       "barcode": "7793440703800"
     },
@@ -11669,7 +11669,7 @@
       "vino": "Prisionero  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 6600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790843001366"
     },
     {
@@ -11781,7 +11781,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -42,
+      "stock": -43,
       "barcode": "7798127630011"
     },
     {
@@ -12085,7 +12085,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -66,
+      "stock": -67,
       "barcode": "7798162671673"
     },
     {
@@ -12749,7 +12749,7 @@
       "vino": "Premiun",
       "bodega": "WHISKYS NACIONALES",
       "precio": 6100,
-      "stock": 0,
+      "stock": -3,
       "barcode": "7792410523806"
     },
     {
@@ -13215,7 +13215,7 @@
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 6000,
-      "vendidos": 28
+      "vendidos": 26
     },
     {
       "id": 6397,
@@ -13243,8 +13243,8 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 6550,
-      "vendidos": 20
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-18T15:51:06.198Z"
+  "lastUpdate": "2026-08-19T13:26:19.668Z"
 }
