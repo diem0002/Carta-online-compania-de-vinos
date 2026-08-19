@@ -2741,7 +2741,7 @@
       "vino": "Viña de Caroya Amabile x750",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4200,
-      "stock": -27,
+      "stock": -33,
       "barcode": "7798089430124"
     },
     {
@@ -3092,7 +3092,7 @@
       "id": 5311,
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
-      "precio": 10450,
+      "precio": 10000,
       "stock": -19,
       "barcode": "7790577002141"
     },
@@ -3100,7 +3100,7 @@
       "id": 5312,
       "vino": "Trumpeter  - cabernet franc",
       "bodega": "BODEGA RUTINI",
-      "precio": 10450,
+      "precio": 10000,
       "stock": -5,
       "barcode": "7790577044837"
     },
@@ -3108,7 +3108,7 @@
       "id": 5313,
       "vino": "Trumpeter  - chardonay",
       "bodega": "BODEGA RUTINI",
-      "precio": 10450,
+      "precio": 10000,
       "stock": 0,
       "barcode": "7790577002189"
     },
@@ -3116,7 +3116,7 @@
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 10450,
+      "precio": 10000,
       "stock": -158,
       "barcode": "7790577002165"
     },
@@ -8941,7 +8941,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4100,
-      "stock": -86,
+      "stock": -88,
       "barcode": "7790895000218"
     },
     {
@@ -9045,7 +9045,7 @@
       "vino": "Gaseosas Mocoreta Manzana",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2000,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7790036004631"
     },
     {
@@ -13235,7 +13235,7 @@
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
-      "precio": 10450,
+      "precio": 10000,
       "vendidos": 21
     },
     {
@@ -13246,5 +13246,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-08-19T13:26:19.668Z"
+  "lastUpdate": "2026-08-19T21:22:17.508Z"
 }
