@@ -845,7 +845,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": -166,
+      "stock": -167,
       "barcode": "7790036975481"
     },
     {
@@ -4396,7 +4396,7 @@
       "id": 5472,
       "vino": "Escorihuela - pinot",
       "bodega": "Bodega Escorihuela",
-      "precio": 8500,
+      "precio": 11760,
       "stock": 0,
       "barcode": "7790415001480"
     },
@@ -4404,7 +4404,7 @@
       "id": 5473,
       "vino": "Escorihuela Gascon Gran Reserva Estuche x 6",
       "bodega": "Bodega Escorihuela",
-      "precio": 164000,
+      "precio": 130000,
       "stock": 0,
       "barcode": ""
     },
@@ -4412,7 +4412,7 @@
       "id": 5474,
       "vino": "Escorihuela Gascon Gran Reserva cabenet",
       "bodega": "Bodega Escorihuela",
-      "precio": 15900,
+      "precio": 18900,
       "stock": -1,
       "barcode": "7790415004610"
     },
@@ -4420,7 +4420,7 @@
       "id": 5475,
       "vino": "Escorihuela Gascon Gran Reserva malbec",
       "bodega": "Bodega Escorihuela",
-      "precio": 15900,
+      "precio": 18900,
       "stock": -5,
       "barcode": "7790415001916"
     },
@@ -4436,7 +4436,7 @@
       "id": 5476,
       "vino": "Escorihuela gascon - cabernet",
       "bodega": "Bodega Escorihuela",
-      "precio": 8500,
+      "precio": 11760,
       "stock": 0,
       "barcode": "7790415129085"
     },
@@ -4444,7 +4444,7 @@
       "id": 5477,
       "vino": "Escorihuela gascon - franc",
       "bodega": "Bodega Escorihuela",
-      "precio": 8500,
+      "precio": 11760,
       "stock": 0,
       "barcode": "7790415005747"
     },
@@ -4452,7 +4452,7 @@
       "id": 5478,
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
-      "precio": 8500,
+      "precio": 11760,
       "stock": -27,
       "barcode": "7790415129122"
     },
@@ -4460,7 +4460,7 @@
       "id": 5479,
       "vino": "Familia Gascon Estuche x 1",
       "bodega": "Bodega Escorihuela",
-      "precio": 11000,
+      "precio": 14100,
       "stock": 0,
       "barcode": "7790415000810"
     },
@@ -4468,7 +4468,7 @@
       "id": 5480,
       "vino": "Gascon Roble Reserva  - blend",
       "bodega": "Bodega Escorihuela",
-      "precio": 7000,
+      "precio": 8850,
       "stock": -2,
       "barcode": "7790415130814"
     },
@@ -4476,7 +4476,7 @@
       "id": 5481,
       "vino": "Gascon Roble Reserva  - cabernet",
       "bodega": "Bodega Escorihuela",
-      "precio": 7000,
+      "precio": 8850,
       "stock": -3,
       "barcode": "7790415128767"
     },
@@ -4484,7 +4484,7 @@
       "id": 5482,
       "vino": "Gascon Roble Reserva  - malbec",
       "bodega": "Bodega Escorihuela",
-      "precio": 7000,
+      "precio": 8850,
       "stock": -25,
       "barcode": "7790415128729"
     },
@@ -4492,7 +4492,7 @@
       "id": 5483,
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
-      "precio": 6000,
+      "precio": 7450,
       "stock": -42,
       "barcode": "7790415130791"
     },
@@ -4500,7 +4500,7 @@
       "id": 5484,
       "vino": "Gascon Varietales - cabernet",
       "bodega": "Bodega Escorihuela",
-      "precio": 6000,
+      "precio": 7450,
       "stock": -14,
       "barcode": "7790415127814"
     },
@@ -4508,7 +4508,7 @@
       "id": 5485,
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
-      "precio": 6000,
+      "precio": 7450,
       "stock": -39,
       "barcode": "7790415127777"
     },
@@ -4516,7 +4516,7 @@
       "id": 5486,
       "vino": "Gascon blanco dulce",
       "bodega": "Bodega Escorihuela",
-      "precio": 6000,
+      "precio": 7450,
       "stock": -2,
       "barcode": "7790415000469"
     },
@@ -4524,7 +4524,7 @@
       "id": 5487,
       "vino": "Pequeñas producciones",
       "bodega": "Bodega Escorihuela",
-      "precio": 28600,
+      "precio": 33600,
       "stock": -2,
       "barcode": "7790415129870"
     },
@@ -6381,7 +6381,7 @@
       "vino": "Heineken x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3970,
-      "stock": -36,
+      "stock": -38,
       "barcode": "7793147009199"
     },
     {
@@ -7100,7 +7100,7 @@
       "id": 5794,
       "vino": "Escorihuela Black Estuche x 1",
       "bodega": "ESTUCHES",
-      "precio": 23500,
+      "precio": 25100,
       "stock": -9,
       "barcode": "7790415000834"
     },
@@ -7812,7 +7812,7 @@
       "id": 5886,
       "vino": "Escorihuela extra brut  espumante",
       "bodega": "Espumantes",
-      "precio": 10680,
+      "precio": 17750,
       "stock": 0,
       "barcode": "7790415128255"
     },
@@ -7820,7 +7820,7 @@
       "id": 5887,
       "vino": "Familia Gascon Extra Brut espumante",
       "bodega": "Espumantes",
-      "precio": 7950,
+      "precio": 12750,
       "stock": 0,
       "barcode": "7790415128019"
     },
@@ -8973,7 +8973,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3150,
-      "stock": -93,
+      "stock": -94,
       "barcode": "7790895005374"
     },
     {
@@ -11221,7 +11221,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "SNACKS",
       "precio": 1500,
-      "stock": -30,
+      "stock": -31,
       "barcode": "7790503000296"
     },
     {
@@ -12013,7 +12013,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4900,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7798366220028"
     },
     {
@@ -13214,15 +13214,8 @@
       "id": 5485,
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
-      "precio": 6000,
-      "vendidos": 26
-    },
-    {
-      "id": 6397,
-      "vino": "Profugo Malbec",
-      "bodega": "Vinos JOVENES VARIOS",
-      "precio": 4350,
-      "vendidos": 23
+      "precio": 7450,
+      "vendidos": 25
     },
     {
       "id": 5193,
@@ -13232,19 +13225,26 @@
       "vendidos": 23
     },
     {
+      "id": 5301,
+      "vino": "Encuentro varietales - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 14800,
+      "vendidos": 18
+    },
+    {
+      "id": 6397,
+      "vino": "Profugo Malbec",
+      "bodega": "Vinos JOVENES VARIOS",
+      "precio": 4350,
+      "vendidos": 17
+    },
+    {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "vendidos": 21
-    },
-    {
-      "id": 5322,
-      "vino": "Trumpeter x 375",
-      "bodega": "BODEGA RUTINI",
-      "precio": 6300,
-      "vendidos": 19
+      "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-19T23:21:50.436Z"
+  "lastUpdate": "2026-08-20T00:33:00.442Z"
 }
