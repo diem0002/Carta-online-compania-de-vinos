@@ -3892,7 +3892,7 @@
       "id": 5410,
       "vino": "Poligonos altamira",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 30250,
+      "precio": 31500,
       "stock": -3,
       "barcode": "7791728237917"
     },
@@ -3900,7 +3900,7 @@
       "id": 5411,
       "vino": "Poligonos gualtallary",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 30250,
+      "precio": 31500,
       "stock": -1,
       "barcode": "7791728245721"
     },
@@ -3908,7 +3908,7 @@
       "id": 5412,
       "vino": "Poligonos tupun malbec",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 30250,
+      "precio": 31500,
       "stock": -4,
       "barcode": "7791728237894"
     },
@@ -3916,7 +3916,7 @@
       "id": 5413,
       "vino": "Poligonos tupungato semillon",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 30250,
+      "precio": 31500,
       "stock": 0,
       "barcode": "7791728245479"
     },
@@ -3988,7 +3988,7 @@
       "id": 5422,
       "vino": "Textual Caladog",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 13100,
+      "precio": 13860,
       "stock": 0,
       "barcode": "7791728018264"
     },
@@ -3996,7 +3996,7 @@
       "id": 5423,
       "vino": "Textual carmenere",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 13100,
+      "precio": 13860,
       "stock": -5,
       "barcode": "7791728021424"
     },
@@ -4004,7 +4004,7 @@
       "id": 6553,
       "vino": "Zucardi A estuche x1",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 17100,
+      "precio": 18000,
       "stock": -1,
       "barcode": "7791728021929"
     },
@@ -4012,7 +4012,7 @@
       "id": 5424,
       "vino": "Zucardi Q",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 21900,
+      "precio": 22750,
       "stock": -1,
       "barcode": "7791728001075"
     },
@@ -4028,7 +4028,7 @@
       "id": 5426,
       "vino": "Zucardi serie A",
       "bodega": "BODEGA ZUCCARDI",
-      "precio": 14300,
+      "precio": 14900,
       "stock": -9,
       "barcode": "7791728021301"
     },
@@ -12660,7 +12660,7 @@
       "id": 6463,
       "vino": "Tullamore Dew x 750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 54000,
+      "precio": 63000,
       "stock": 0,
       "barcode": ""
     },
@@ -12701,7 +12701,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 20350,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7791250001253"
     },
     {
@@ -13246,5 +13246,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-20T00:33:00.442Z"
+  "lastUpdate": "2026-08-20T14:56:46.135Z"
 }
