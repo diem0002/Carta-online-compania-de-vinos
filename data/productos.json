@@ -1093,7 +1093,7 @@
       "vino": "Branca x1000",
       "bodega": "APERITIVOS",
       "precio": 24650,
-      "stock": -13,
+      "stock": -19,
       "barcode": "7790290000523"
     },
     {
@@ -2053,7 +2053,7 @@
       "vino": "Don Valentin Lacrado",
       "bodega": "BODEGA BIANCHI",
       "precio": 3800,
-      "stock": 0,
+      "stock": -6,
       "barcode": ""
     },
     {
@@ -3117,7 +3117,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "stock": -158,
+      "stock": -175,
       "barcode": "7790577002165"
     },
     {
@@ -6661,7 +6661,7 @@
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 6300,
-      "stock": -36,
+      "stock": -42,
       "barcode": "7790168904328"
     },
     {
@@ -6765,7 +6765,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "DAMAJUANAS",
       "precio": 11900,
-      "stock": -80,
+      "stock": -81,
       "barcode": "7794068000012"
     },
     {
@@ -8684,7 +8684,7 @@
       "id": 5986,
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
-      "precio": 8050,
+      "precio": 8250,
       "stock": -42,
       "barcode": "7798000213737"
     },
@@ -10613,7 +10613,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -18,
+      "stock": -24,
       "barcode": "7790070760579"
     },
     {
@@ -12605,7 +12605,7 @@
       "vino": "Johnnie Walker Red Label x 1Lt",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 42300,
-      "stock": -5,
+      "stock": -6,
       "barcode": "5000267013602"
     },
     {
@@ -13225,6 +13225,13 @@
       "vendidos": 23
     },
     {
+      "id": 5314,
+      "vino": "Trumpeter  - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 10000,
+      "vendidos": 18
+    },
+    {
       "id": 5301,
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
@@ -13237,14 +13244,7 @@
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
       "vendidos": 17
-    },
-    {
-      "id": 5314,
-      "vino": "Trumpeter  - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 10000,
-      "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-21T12:12:07.332Z"
+  "lastUpdate": "2026-08-21T14:59:14.179Z"
 }
