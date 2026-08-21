@@ -3665,6 +3665,14 @@
       "barcode": "7790240094459"
     },
     {
+      "id": 6665,
+      "vino": "Trapiche tesoro",
+      "bodega": "BODEGA TRAPICHE",
+      "precio": 12300,
+      "stock": 0,
+      "barcode": "7791540053887"
+    },
+    {
       "id": 5383,
       "vino": "Viejo Isaias Cabernet",
       "bodega": "BODEGA VIEJO ISAIAS",
@@ -13246,5 +13254,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-21T14:59:14.179Z"
+  "lastUpdate": "2026-08-21T15:01:24.299Z"
 }
