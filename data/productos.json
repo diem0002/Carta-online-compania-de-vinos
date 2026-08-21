@@ -653,7 +653,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7792180146137"
     },
     {
@@ -1502,7 +1502,7 @@
       "bodega": "BEBIDAS FUERTES",
       "precio": 17800,
       "stock": 0,
-      "barcode": ""
+      "barcode": "763571806012"
     },
     {
       "id": 5109,
@@ -1989,7 +1989,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16000,
-      "stock": -34,
+      "stock": -35,
       "barcode": "7798191780117"
     },
     {
@@ -2293,7 +2293,7 @@
       "vino": "Latitud 33 malbec",
       "bodega": "BODEGA CHANDON",
       "precio": 7150,
-      "stock": -8,
+      "stock": -12,
       "barcode": "7790975204062"
     },
     {
@@ -3237,7 +3237,7 @@
       "vino": "El Portillo  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5700,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798074860240"
     },
     {
@@ -3381,7 +3381,7 @@
       "vino": "Salentein  - pinot",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12900,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798074860363"
     },
     {
@@ -4285,7 +4285,7 @@
       "vino": "Tucumen  reseva cabenet",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798080490417"
     },
     {
@@ -4485,7 +4485,7 @@
       "vino": "Gascon Roble Reserva  - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 8850,
-      "stock": -25,
+      "stock": -26,
       "barcode": "7790415128729"
     },
     {
@@ -4493,7 +4493,7 @@
       "vino": "Gascon Varietales - blend",
       "bodega": "Bodega Escorihuela",
       "precio": 7450,
-      "stock": -42,
+      "stock": -44,
       "barcode": "7790415130791"
     },
     {
@@ -4861,7 +4861,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": -58,
+      "stock": -61,
       "barcode": "7798123971309"
     },
     {
@@ -5557,7 +5557,7 @@
       "vino": "El enemigo malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 22800,
-      "stock": -9,
+      "stock": -15,
       "barcode": "7794450000972"
     },
     {
@@ -8717,7 +8717,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva melot",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -11,
+      "stock": -13,
       "barcode": "7798000211030"
     },
     {
@@ -9069,7 +9069,7 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2000,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7790036105956"
     },
     {
@@ -9181,7 +9181,7 @@
       "vino": "Schwepps tonica",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 4320,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7790895006715"
     },
     {
@@ -10157,7 +10157,7 @@
       "vino": "Fca La Linda malbec",
       "bodega": "LUIGGI BOSCA",
       "precio": 9580,
-      "stock": -10,
+      "stock": -16,
       "barcode": "7791203003341"
     },
     {
@@ -10269,7 +10269,7 @@
       "vino": "El cazador",
       "bodega": "Mascota",
       "precio": 5000,
-      "stock": -26,
+      "stock": -29,
       "barcode": "7790762754107"
     },
     {
@@ -10341,7 +10341,7 @@
       "vino": "Cordero piel de lobo - rosado",
       "bodega": "Mosquita muerta",
       "precio": 4900,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7798353190426"
     },
     {
@@ -10917,7 +10917,7 @@
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
       "precio": 11000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790070104847"
     },
     {
@@ -11397,7 +11397,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 12000,
-      "stock": -35,
+      "stock": -36,
       "barcode": "7798090165114"
     },
     {
@@ -12085,7 +12085,7 @@
       "vino": "Oveja black malbec",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 4350,
-      "stock": -67,
+      "stock": -68,
       "barcode": "7798162671673"
     },
     {
@@ -13246,5 +13246,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-20T14:56:46.135Z"
+  "lastUpdate": "2026-08-21T12:12:07.332Z"
 }
