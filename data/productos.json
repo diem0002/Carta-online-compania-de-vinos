@@ -2613,7 +2613,7 @@
       "vino": "H.Canale Estate Malbec",
       "bodega": "BODEGA H.CANALE",
       "precio": 11900,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790805120043"
     },
     {
@@ -12901,7 +12901,7 @@
       "vino": "medida grande",
       "bodega": "accesorios",
       "precio": 4700,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -13262,5 +13262,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-08-24T22:36:34.944Z"
+  "lastUpdate": "2026-08-24T22:38:21.597Z"
 }
