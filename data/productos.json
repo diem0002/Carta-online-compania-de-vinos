@@ -116,7 +116,7 @@
       "id": 6670,
       "vino": "El Jimador Tequila blanco",
       "bodega": "Vinos",
-      "precio": 0,
+      "precio": 30100,
       "stock": 0,
       "barcode": "7501145268100"
     },
@@ -204,7 +204,7 @@
       "id": 6668,
       "vino": "Jack Daniels GENTELMAN",
       "bodega": "Vinos",
-      "precio": 0,
+      "precio": 56950,
       "stock": 0,
       "barcode": "5099873038758"
     },
@@ -4457,6 +4457,14 @@
       "barcode": "7790415001916"
     },
     {
+      "id": 5795,
+      "vino": "Escorihuela Gascon Pinot",
+      "bodega": "Bodega Escorihuela",
+      "precio": 11760,
+      "stock": 0,
+      "barcode": "7790415001480"
+    },
+    {
       "id": 6632,
       "vino": "Escorihuela Gascon Rosaura - malbec",
       "bodega": "Bodega Escorihuela",
@@ -4519,6 +4527,14 @@
       "precio": 8850,
       "stock": -26,
       "barcode": "7790415128729"
+    },
+    {
+      "id": 6671,
+      "vino": "Gascon Varietal x 375",
+      "bodega": "Bodega Escorihuela",
+      "precio": 5350,
+      "stock": 0,
+      "barcode": "7790415133426"
     },
     {
       "id": 5483,
@@ -7135,14 +7151,6 @@
       "precio": 25100,
       "stock": -9,
       "barcode": "7790415000834"
-    },
-    {
-      "id": 5795,
-      "vino": "Escorihuela Gascon x 6",
-      "bodega": "ESTUCHES",
-      "precio": 0,
-      "stock": 0,
-      "barcode": ""
     },
     {
       "id": 6516,
@@ -11268,7 +11276,7 @@
       "id": 6667,
       "vino": "Essentia Malbec Organico",
       "bodega": "Salentein",
-      "precio": 0,
+      "precio": 8500,
       "stock": 0,
       "barcode": "7798074865894"
     },
@@ -11276,7 +11284,7 @@
       "id": 6669,
       "vino": "Pyros Block 2",
       "bodega": "Salentein",
-      "precio": 0,
+      "precio": 18750,
       "stock": 0,
       "barcode": "7798108834650"
     },
@@ -13294,5 +13302,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-26T21:17:12.089Z"
+  "lastUpdate": "2026-08-26T22:36:29.308Z"
 }
