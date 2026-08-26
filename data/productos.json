@@ -113,6 +113,14 @@
       "barcode": "7790380024194"
     },
     {
+      "id": 6670,
+      "vino": "El Jimador Tequila blanco",
+      "bodega": "Vinos",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7501145268100"
+    },
+    {
       "id": 6629,
       "vino": "Finca gabriel Tempranillo",
       "bodega": "Vinos",
@@ -191,6 +199,14 @@
       "precio": 13450,
       "stock": -1,
       "barcode": "7790805120128"
+    },
+    {
+      "id": 6668,
+      "vino": "Jack Daniels GENTELMAN",
+      "bodega": "Vinos",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "5099873038758"
     },
     {
       "id": 6586,
@@ -11249,6 +11265,22 @@
       "barcode": "7790503199150"
     },
     {
+      "id": 6667,
+      "vino": "Essentia Malbec Organico",
+      "bodega": "Salentein",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798074865894"
+    },
+    {
+      "id": 6669,
+      "vino": "Pyros Block 2",
+      "bodega": "Salentein",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798108834650"
+    },
+    {
       "id": 6288,
       "vino": "Terma Serrano",
       "bodega": "TERMA",
@@ -13262,5 +13294,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-26T15:56:22.006Z"
+  "lastUpdate": "2026-08-26T21:17:12.089Z"
 }
