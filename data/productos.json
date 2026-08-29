@@ -11172,7 +11172,7 @@
       "id": 6273,
       "vino": "Sidra 1888 x 750",
       "bodega": "SIDRAS",
-      "precio": 8400,
+      "precio": 9600,
       "stock": -20,
       "barcode": "7790119002370"
     },
@@ -13318,5 +13318,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-29T12:44:50.701Z"
+  "lastUpdate": "2026-08-29T12:45:59.172Z"
 }
