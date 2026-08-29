@@ -8916,7 +8916,7 @@
       "id": 6008,
       "vino": "Finca La celia heritage",
       "bodega": "Fca.LA CELIA",
-      "precio": 44350,
+      "precio": 45750,
       "stock": -1,
       "barcode": "7798141871469"
     },
@@ -11156,7 +11156,7 @@
       "id": 6271,
       "vino": "Sidra 1888 Rosada",
       "bodega": "SIDRAS",
-      "precio": 9700,
+      "precio": 11300,
       "stock": -1,
       "barcode": "7790119010474"
     },
@@ -11172,7 +11172,7 @@
       "id": 6273,
       "vino": "Sidra 1888 x 750",
       "bodega": "SIDRAS",
-      "precio": 9600,
+      "precio": 10550,
       "stock": -20,
       "barcode": "7790119002370"
     },
@@ -13318,5 +13318,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-29T12:55:33.581Z"
+  "lastUpdate": "2026-08-29T13:03:48.333Z"
 }
