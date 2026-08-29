@@ -8876,7 +8876,7 @@
       "id": 6003,
       "vino": "Eugenio bustos blanc dulce",
       "bodega": "Fca.LA CELIA",
-      "precio": 6500,
+      "precio": 7500,
       "stock": -1,
       "barcode": "7798141877638"
     },
@@ -8884,7 +8884,7 @@
       "id": 6004,
       "vino": "Eugenio bustos cabernet",
       "bodega": "Fca.LA CELIA",
-      "precio": 6500,
+      "precio": 7500,
       "stock": -3,
       "barcode": "7798141877379"
     },
@@ -8892,7 +8892,7 @@
       "id": 6005,
       "vino": "Eugenio bustos malbec",
       "bodega": "Fca.LA CELIA",
-      "precio": 6500,
+      "precio": 7500,
       "stock": -6,
       "barcode": "7798141877362"
     },
@@ -13318,5 +13318,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-29T12:45:59.172Z"
+  "lastUpdate": "2026-08-29T12:55:33.581Z"
 }
