@@ -6418,7 +6418,7 @@
     },
     {
       "id": 5705,
-      "vino": "Heineken x 330",
+      "vino": "Heineken x 330 Botella",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3970,
       "stock": -30,
@@ -13318,5 +13318,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-29T12:42:46.317Z"
+  "lastUpdate": "2026-08-29T12:44:50.701Z"
 }
