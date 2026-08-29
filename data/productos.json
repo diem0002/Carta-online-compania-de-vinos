@@ -6692,7 +6692,7 @@
       "id": 6599,
       "vino": "Colon Durazno",
       "bodega": "Colon",
-      "precio": 6500,
+      "precio": 7600,
       "stock": -13,
       "barcode": "7790168904649"
     },
@@ -6700,7 +6700,7 @@
       "id": 6598,
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
-      "precio": 6500,
+      "precio": 7600,
       "stock": -32,
       "barcode": "7790168904663"
     },
@@ -6708,7 +6708,7 @@
       "id": 6673,
       "vino": "Colon Naranja Dce",
       "bodega": "Colon",
-      "precio": 6500,
+      "precio": 7600,
       "stock": 0,
       "barcode": "7790168904687"
     },
@@ -13318,5 +13318,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-29T12:37:42.549Z"
+  "lastUpdate": "2026-08-29T12:42:46.317Z"
 }
