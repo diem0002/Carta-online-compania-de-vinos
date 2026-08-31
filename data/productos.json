@@ -11,7 +11,7 @@
     {
       "id": 6558,
       "vino": "Alfajor toddy Mousse blanco",
-      "bodega": "Vinos",
+      "bodega": "Golosinas",
       "precio": 1100,
       "stock": -12,
       "barcode": "7790380023630"
@@ -19,7 +19,7 @@
     {
       "id": 6557,
       "vino": "Alfajor toddy mousse",
-      "bodega": "Vinos",
+      "bodega": "Golosinas",
       "precio": 1100,
       "stock": -12,
       "barcode": "7790380023579"
@@ -115,7 +115,7 @@
     {
       "id": 6670,
       "vino": "El Jimador Tequila blanco",
-      "bodega": "Vinos",
+      "bodega": "BEBIDAS FUERTES",
       "precio": 30100,
       "stock": 0,
       "barcode": "7501145268100"
@@ -203,7 +203,7 @@
     {
       "id": 6668,
       "vino": "Jack Daniels GENTELMAN",
-      "bodega": "Vinos",
+      "bodega": "WHISKY",
       "precio": 56950,
       "stock": -2,
       "barcode": "5099873038758"
@@ -555,7 +555,7 @@
     {
       "id": 6654,
       "vino": "kaiserdom IPA",
-      "bodega": "Vinos",
+      "bodega": "CERVEZA",
       "precio": 7150,
       "stock": 0,
       "barcode": "4004591039476"
@@ -579,7 +579,7 @@
     {
       "id": 6637,
       "vino": "tokke blanco con dulce de leche",
-      "bodega": "Vinos",
+      "bodega": "Golosinas",
       "precio": 2200,
       "stock": -4,
       "barcode": "7790380022190"
@@ -13342,5 +13342,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-31T14:29:01.727Z"
+  "lastUpdate": "2026-08-31T14:32:22.496Z"
 }
