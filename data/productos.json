@@ -10285,7 +10285,7 @@
       "vino": "Felix Lavaque blend",
       "bodega": "Lavaque",
       "precio": 25300,
-      "stock": 6,
+      "stock": 9,
       "barcode": "7798260190168"
     },
     {
@@ -13342,5 +13342,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-31T14:20:49.310Z"
+  "lastUpdate": "2026-08-31T14:29:01.727Z"
 }
