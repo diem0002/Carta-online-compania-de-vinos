@@ -10285,7 +10285,7 @@
       "vino": "Felix Lavaque blend",
       "bodega": "Lavaque",
       "precio": 25300,
-      "stock": -9,
+      "stock": 6,
       "barcode": "7798260190168"
     },
     {
@@ -10293,7 +10293,7 @@
       "vino": "Vallisto Malbec",
       "bodega": "Lavaque",
       "precio": 0,
-      "stock": 0,
+      "stock": 12,
       "barcode": "7798260190113"
     },
     {
@@ -10301,7 +10301,7 @@
       "vino": "Vallisto Rosado",
       "bodega": "Lavaque",
       "precio": 0,
-      "stock": 0,
+      "stock": 6,
       "barcode": "7798260190885"
     },
     {
@@ -10309,7 +10309,7 @@
       "vino": "Vallisto Tannat extremo",
       "bodega": "Lavaque",
       "precio": 0,
-      "stock": 0,
+      "stock": 6,
       "barcode": "7798260190267"
     },
     {
@@ -13342,5 +13342,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-31T14:19:27.287Z"
+  "lastUpdate": "2026-08-31T14:20:49.310Z"
 }
