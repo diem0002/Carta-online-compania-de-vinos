@@ -8945,14 +8945,6 @@
       "barcode": ""
     },
     {
-      "id": 6564,
-      "vino": "Felix Lavaque blend",
-      "bodega": "Finca Ribera del Chuscha",
-      "precio": 25300,
-      "stock": -9,
-      "barcode": "7798260190168"
-    },
-    {
       "id": 6012,
       "vino": "Cepita x200cc",
       "bodega": "GASEOSAS Y ENERGISANTES",
@@ -10287,6 +10279,38 @@
       "precio": 6000,
       "stock": -6,
       "barcode": "7798123972115"
+    },
+    {
+      "id": 6564,
+      "vino": "Felix Lavaque blend",
+      "bodega": "Lavaque",
+      "precio": 25300,
+      "stock": -9,
+      "barcode": "7798260190168"
+    },
+    {
+      "id": 6675,
+      "vino": "Vallisto Malbec",
+      "bodega": "Lavaque",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798260190113"
+    },
+    {
+      "id": 6676,
+      "vino": "Vallisto Rosado",
+      "bodega": "Lavaque",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798260190885"
+    },
+    {
+      "id": 6674,
+      "vino": "Vallisto Tannat extremo",
+      "bodega": "Lavaque",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798260190267"
     },
     {
       "id": 6161,
@@ -13318,5 +13342,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-31T12:27:24.444Z"
+  "lastUpdate": "2026-08-31T14:19:27.287Z"
 }
