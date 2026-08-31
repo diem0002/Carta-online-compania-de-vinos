@@ -2004,7 +2004,7 @@
       "id": 5169,
       "vino": "Luna llena - cabernet Franc",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 16000,
+      "precio": 16500,
       "stock": -6,
       "barcode": "7798191780186"
     },
@@ -2012,7 +2012,7 @@
       "id": 5170,
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
-      "precio": 16000,
+      "precio": 16500,
       "stock": -37,
       "barcode": "7798191780117"
     },
@@ -4932,7 +4932,7 @@
       "id": 5533,
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
-      "precio": 17500,
+      "precio": 18700,
       "stock": -26,
       "barcode": "7798103165711"
     },
@@ -4940,7 +4940,7 @@
       "id": 5534,
       "vino": "Foster Barrancos",
       "bodega": "Bodega Lorca",
-      "precio": 17500,
+      "precio": 18700,
       "stock": -3,
       "barcode": "7798103165728"
     },
@@ -10292,7 +10292,7 @@
       "id": 6675,
       "vino": "Vallisto Malbec",
       "bodega": "Lavaque",
-      "precio": 0,
+      "precio": 12350,
       "stock": 12,
       "barcode": "7798260190113"
     },
@@ -10300,7 +10300,7 @@
       "id": 6676,
       "vino": "Vallisto Rosado",
       "bodega": "Lavaque",
-      "precio": 0,
+      "precio": 12350,
       "stock": 6,
       "barcode": "7798260190885"
     },
@@ -10308,7 +10308,7 @@
       "id": 6674,
       "vino": "Vallisto Tannat extremo",
       "bodega": "Lavaque",
-      "precio": 0,
+      "precio": 12350,
       "stock": 6,
       "barcode": "7798260190267"
     },
@@ -13342,5 +13342,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-08-31T14:32:22.496Z"
+  "lastUpdate": "2026-08-31T15:20:55.439Z"
 }
