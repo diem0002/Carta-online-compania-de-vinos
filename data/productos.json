@@ -2685,7 +2685,7 @@
       "vino": "Intimo Trivarietal Cab/Malb/Merlot",
       "bodega": "BODEGA H.CANALE",
       "precio": 8500,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7790805131223"
     },
     {
@@ -9053,7 +9053,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790036004594"
     },
     {
@@ -13114,17 +13114,17 @@
     },
     {
       "id": 6508,
-      "vino": "Blsas friselina",
+      "vino": "Blsas Carton 1 botella",
       "bodega": "bolsas",
-      "precio": 0,
+      "precio": 500,
       "stock": 0,
       "barcode": ""
     },
     {
       "id": 6509,
-      "vino": "Bolsas Friselina manija",
+      "vino": "Bolsas Friselina manija 40x45",
       "bodega": "bolsas",
-      "precio": 1500,
+      "precio": 1100,
       "stock": 0,
       "barcode": ""
     },
@@ -13132,7 +13132,7 @@
       "id": 6510,
       "vino": "Bolsas Friselina x1 bot",
       "bodega": "bolsas",
-      "precio": 800,
+      "precio": 450,
       "stock": 0,
       "barcode": "48"
     },
@@ -13140,7 +13140,7 @@
       "id": 6511,
       "vino": "Bolsas Friselina x2 bot",
       "bodega": "bolsas",
-      "precio": 1500,
+      "precio": 850,
       "stock": 0,
       "barcode": "47"
     },
@@ -13334,5 +13334,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-09-01T21:36:43.655Z"
+  "lastUpdate": "2026-09-01T22:52:13.943Z"
 }
