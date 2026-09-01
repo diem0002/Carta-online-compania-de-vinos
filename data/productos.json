@@ -225,22 +225,6 @@
       "barcode": ""
     },
     {
-      "id": 6666,
-      "vino": "Nieto 0% Malbec Pinot",
-      "bodega": "Vinos",
-      "precio": 11000,
-      "stock": 0,
-      "barcode": "7790070106919"
-    },
-    {
-      "id": 6606,
-      "vino": "Nieto Senetiner E.Brut 0%",
-      "bodega": "Vinos",
-      "precio": 16100,
-      "stock": 0,
-      "barcode": "7790070104854"
-    },
-    {
       "id": 6571,
       "vino": "Pasas con chocolate",
       "bodega": "Golosinas",
@@ -535,14 +519,6 @@
       "precio": 7150,
       "stock": 0,
       "barcode": "4004591039476"
-    },
-    {
-      "id": 6519,
-      "vino": "salentein brut nature estuche x1",
-      "bodega": "Vinos",
-      "precio": 19200,
-      "stock": 0,
-      "barcode": "7798074864484"
     },
     {
       "id": 6637,
@@ -3257,6 +3233,14 @@
       "barcode": "7798074864774"
     },
     {
+      "id": 6667,
+      "vino": "Essentia Malbec Organico",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 8500,
+      "stock": 0,
+      "barcode": "7798074865894"
+    },
+    {
       "id": 5333,
       "vino": "Killka Malbec blanco",
       "bodega": "BODEGA SALENTEIN",
@@ -3311,6 +3295,14 @@
       "precio": 12600,
       "stock": 0,
       "barcode": "7798108833066"
+    },
+    {
+      "id": 6669,
+      "vino": "Pyros Block 2",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 18750,
+      "stock": 0,
+      "barcode": "7798108834650"
     },
     {
       "id": 5340,
@@ -3377,6 +3369,38 @@
       "barcode": "7798074860363"
     },
     {
+      "id": 5911,
+      "vino": "Salentein Blanc de Blanc espumante",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 15750,
+      "stock": 0,
+      "barcode": "7798074865016"
+    },
+    {
+      "id": 5912,
+      "vino": "Salentein Brut Nature",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 15100,
+      "stock": 0,
+      "barcode": "7798074864910"
+    },
+    {
+      "id": 5913,
+      "vino": "Salentein Brut rose espumante",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 15100,
+      "stock": 0,
+      "barcode": "7798074864996"
+    },
+    {
+      "id": 5914,
+      "vino": "Salentein Extra brut espumante",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 13800,
+      "stock": 0,
+      "barcode": "7798074864972"
+    },
+    {
       "id": 5348,
       "vino": "Salentein Numina Cabernet",
       "bodega": "BODEGA SALENTEIN",
@@ -3417,12 +3441,28 @@
       "barcode": "7798074865726"
     },
     {
+      "id": 5790,
+      "vino": "Salentein doux",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 14800,
+      "stock": 0,
+      "barcode": "7798074864514"
+    },
+    {
       "id": 5353,
       "vino": "Salentein rose",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12300,
       "stock": 0,
       "barcode": "7798074863746"
+    },
+    {
+      "id": 5806,
+      "vino": "Salentein x 1 Bot ESTUCHE",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 14500,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 5354,
@@ -3439,6 +3479,22 @@
       "precio": 24650,
       "stock": 0,
       "barcode": "7798074861841"
+    },
+    {
+      "id": 5807,
+      "vino": "Salentein x2 Estuche",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 43500,
+      "stock": 0,
+      "barcode": "7798074869359"
+    },
+    {
+      "id": 6519,
+      "vino": "salentein brut nature estuche x1",
+      "bodega": "BODEGA SALENTEIN",
+      "precio": 19200,
+      "stock": 0,
+      "barcode": "7798074864484"
     },
     {
       "id": 5356,
@@ -5657,20 +5713,20 @@
       "barcode": "7794450940704"
     },
     {
-      "id": 6661,
-      "vino": "Nicasia x1,5",
-      "bodega": "CATENA ZAPATA",
-      "precio": 21000,
-      "stock": 0,
-      "barcode": "7794450940704"
-    },
-    {
       "id": 6617,
       "vino": "Padrillos Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 11500,
       "stock": 0,
       "barcode": "7798126080534"
+    },
+    {
+      "id": 6620,
+      "vino": "Padrillos Pinot",
+      "bodega": "CATENA ZAPATA",
+      "precio": 12600,
+      "stock": 0,
+      "barcode": "7798126080954"
     },
     {
       "id": 6618,
@@ -5799,14 +5855,6 @@
       "precio": 60600,
       "stock": 0,
       "barcode": ""
-    },
-    {
-      "id": 6620,
-      "vino": "padrillos Pinot",
-      "bodega": "CATENA ZAPATA",
-      "precio": 12600,
-      "stock": 0,
-      "barcode": "7798126080954"
     },
     {
       "id": 6540,
@@ -7129,14 +7177,6 @@
       "barcode": "7791250001444"
     },
     {
-      "id": 5790,
-      "vino": "Salentein doux",
-      "bodega": "ESPUMANTES DULCES",
-      "precio": 14800,
-      "stock": 0,
-      "barcode": "7798074864514"
-    },
-    {
       "id": 6588,
       "vino": "castelo x6 estuche",
       "bodega": "ESTUCHE",
@@ -7249,14 +7289,6 @@
       "barcode": "7794450004642"
     },
     {
-      "id": 5802,
-      "vino": "Nieto Senetier x 1 ( espumante) estuche",
-      "bodega": "ESTUCHES",
-      "precio": 16200,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
       "id": 5803,
       "vino": "Portillo x2",
       "bodega": "ESTUCHES",
@@ -7279,22 +7311,6 @@
       "precio": 7500,
       "stock": 0,
       "barcode": ""
-    },
-    {
-      "id": 5806,
-      "vino": "Salentein x 1 Bot ESTUCHE",
-      "bodega": "ESTUCHES",
-      "precio": 14500,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
-      "id": 5807,
-      "vino": "Salentein x2 Estuche",
-      "bodega": "ESTUCHES",
-      "precio": 43500,
-      "stock": 0,
-      "barcode": "7798074869359"
     },
     {
       "id": 5808,
@@ -7993,30 +8009,6 @@
       "barcode": "7791250001543"
     },
     {
-      "id": 5901,
-      "vino": "Nieto Senetiner B.Nat  espumante",
-      "bodega": "Espumantes",
-      "precio": 12800,
-      "stock": 0,
-      "barcode": "7790070761026"
-    },
-    {
-      "id": 5902,
-      "vino": "Nieto Senetiner B.rose espumante",
-      "bodega": "Espumantes",
-      "precio": 11850,
-      "stock": 0,
-      "barcode": "7790070761040"
-    },
-    {
-      "id": 5903,
-      "vino": "Nieto Senetiner Extra Brut espumante",
-      "bodega": "Espumantes",
-      "precio": 11850,
-      "stock": 0,
-      "barcode": "7793440700830"
-    },
-    {
       "id": 5904,
       "vino": "Norton Cosecha especial espumante",
       "bodega": "Espumantes",
@@ -8071,38 +8063,6 @@
       "precio": 4900,
       "stock": 0,
       "barcode": "7791372000370"
-    },
-    {
-      "id": 5911,
-      "vino": "Salentein Blanc de Blanc espumante",
-      "bodega": "Espumantes",
-      "precio": 15750,
-      "stock": 0,
-      "barcode": "7798074865016"
-    },
-    {
-      "id": 5912,
-      "vino": "Salentein Brut Nature",
-      "bodega": "Espumantes",
-      "precio": 15100,
-      "stock": 0,
-      "barcode": "7798074864910"
-    },
-    {
-      "id": 5913,
-      "vino": "Salentein Brut rose espumante",
-      "bodega": "Espumantes",
-      "precio": 15100,
-      "stock": 0,
-      "barcode": "7798074864996"
-    },
-    {
-      "id": 5914,
-      "vino": "Salentein Extra brut espumante",
-      "bodega": "Espumantes",
-      "precio": 13800,
-      "stock": 0,
-      "barcode": "7798074864972"
     },
     {
       "id": 5915,
@@ -10721,6 +10681,14 @@
       "barcode": "7793440703152"
     },
     {
+      "id": 6300,
+      "vino": "Benjamin Nieto x 375",
+      "bodega": "Nieto Senetiner",
+      "precio": 3600,
+      "stock": 0,
+      "barcode": "7793440703800"
+    },
+    {
       "id": 6209,
       "vino": "Benjamin nieto - Rosado dulce",
       "bodega": "Nieto Senetiner",
@@ -10929,12 +10897,44 @@
       "barcode": "7790070760685"
     },
     {
+      "id": 6666,
+      "vino": "Nieto 0% Malbec Pinot",
+      "bodega": "Nieto Senetiner",
+      "precio": 11000,
+      "stock": 0,
+      "barcode": "7790070106919"
+    },
+    {
       "id": 6235,
       "vino": "Nieto Patrimonial Malbec Doc",
       "bodega": "Nieto Senetiner",
       "precio": 10450,
       "stock": 0,
       "barcode": "7793440000060"
+    },
+    {
+      "id": 5802,
+      "vino": "Nieto Senetier x 1 ( espumante) estuche",
+      "bodega": "Nieto Senetiner",
+      "precio": 16200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 5901,
+      "vino": "Nieto Senetiner B.Nat  espumante",
+      "bodega": "Nieto Senetiner",
+      "precio": 12800,
+      "stock": 0,
+      "barcode": "7790070761026"
+    },
+    {
+      "id": 5902,
+      "vino": "Nieto Senetiner B.rose espumante",
+      "bodega": "Nieto Senetiner",
+      "precio": 11850,
+      "stock": 0,
+      "barcode": "7790070761040"
     },
     {
       "id": 6236,
@@ -10951,6 +10951,22 @@
       "precio": 8250,
       "stock": 0,
       "barcode": "7793440003016"
+    },
+    {
+      "id": 6606,
+      "vino": "Nieto Senetiner E.Brut 0%",
+      "bodega": "Nieto Senetiner",
+      "precio": 16100,
+      "stock": 0,
+      "barcode": "7790070104854"
+    },
+    {
+      "id": 5903,
+      "vino": "Nieto Senetiner Extra Brut espumante",
+      "bodega": "Nieto Senetiner",
+      "precio": 11850,
+      "stock": 0,
+      "barcode": "7793440700830"
     },
     {
       "id": 6238,
@@ -10999,6 +11015,14 @@
       "precio": 8250,
       "stock": 0,
       "barcode": "7793440000053"
+    },
+    {
+      "id": 6301,
+      "vino": "Nieto senetiner x375",
+      "bodega": "Nieto Senetiner",
+      "precio": 4250,
+      "stock": 0,
+      "barcode": "7793440000114"
     },
     {
       "id": 6623,
@@ -11321,22 +11345,6 @@
       "barcode": "7790503199150"
     },
     {
-      "id": 6667,
-      "vino": "Essentia Malbec Organico",
-      "bodega": "Salentein",
-      "precio": 8500,
-      "stock": 0,
-      "barcode": "7798074865894"
-    },
-    {
-      "id": 6669,
-      "vino": "Pyros Block 2",
-      "bodega": "Salentein",
-      "precio": 18750,
-      "stock": 0,
-      "barcode": "7798108834650"
-    },
-    {
       "id": 6288,
       "vino": "Terma Serrano",
       "bodega": "TERMA",
@@ -11431,22 +11439,6 @@
       "precio": 0,
       "stock": 0,
       "barcode": ""
-    },
-    {
-      "id": 6300,
-      "vino": "Benjamin Nieto x 375",
-      "bodega": "VINOS x 377",
-      "precio": 3600,
-      "stock": 0,
-      "barcode": "7793440703800"
-    },
-    {
-      "id": 6301,
-      "vino": "Nieto senetiner x375",
-      "bodega": "VINOS x 378",
-      "precio": 4250,
-      "stock": 0,
-      "barcode": "7793440000114"
     },
     {
       "id": 6302,
@@ -13342,5 +13334,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-09-01T12:41:19.959Z"
+  "lastUpdate": "2026-09-01T14:28:28.599Z"
 }
