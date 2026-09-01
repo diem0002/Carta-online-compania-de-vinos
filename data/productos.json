@@ -837,7 +837,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790036975481"
     },
     {
@@ -957,7 +957,7 @@
       "vino": "Altos Las Hormigas Appelation  gualtallary malbec",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 35000,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7798051950469"
     },
     {
@@ -12029,7 +12029,7 @@
       "vino": "Bautismo  - blend",
       "bodega": "Vinos JOVENES VARIOS",
       "precio": 5100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791540049927"
     },
     {
@@ -13321,13 +13321,6 @@
       "vendidos": 21
     },
     {
-      "id": 5301,
-      "vino": "Encuentro varietales - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 14800,
-      "vendidos": 20
-    },
-    {
       "id": 6355,
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
@@ -13335,12 +13328,19 @@
       "vendidos": 18
     },
     {
-      "id": 5193,
-      "vino": "Esperado Malbec",
-      "bodega": "BODEGA CALLIA",
-      "precio": 5500,
+      "id": 5301,
+      "vino": "Encuentro varietales - malbec",
+      "bodega": "BODEGA RUTINI",
+      "precio": 14800,
       "vendidos": 18
+    },
+    {
+      "id": 5753,
+      "vino": "DAMAJUANA Crotta x 5Lts Tinto",
+      "bodega": "DAMAJUANAS",
+      "precio": 11900,
+      "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-08-31T15:49:35.389Z"
+  "lastUpdate": "2026-09-01T12:41:19.959Z"
 }
