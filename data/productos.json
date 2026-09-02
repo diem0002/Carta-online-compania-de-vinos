@@ -805,7 +805,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "AGUA Y SODA",
       "precio": 1100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790036975481"
     },
     {
@@ -2133,7 +2133,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798108834339"
     },
     {
@@ -5503,6 +5503,14 @@
       "precio": 3000,
       "stock": 0,
       "barcode": "742832585033"
+    },
+    {
+      "id": 6677,
+      "vino": "Bolsa Friselina 20x40",
+      "bodega": "Bolsas",
+      "precio": 500,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 6628,
@@ -8965,7 +8973,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 3150,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790895005374"
     },
     {
@@ -9581,7 +9589,7 @@
       "vino": "kermes - pinot",
       "bodega": "Kermes",
       "precio": 5500,
-      "stock": 0,
+      "stock": -2,
       "barcode": "076625259918"
     },
     {
@@ -13114,11 +13122,19 @@
     },
     {
       "id": 6508,
-      "vino": "Blsas Carton 1 botella",
+      "vino": "Bolsas Carton 1 botella",
       "bodega": "bolsas",
       "precio": 500,
       "stock": 0,
       "barcode": ""
+    },
+    {
+      "id": 6511,
+      "vino": "Bolsas Friselina 40x30",
+      "bodega": "bolsas",
+      "precio": 850,
+      "stock": 0,
+      "barcode": "47"
     },
     {
       "id": 6509,
@@ -13135,14 +13151,6 @@
       "precio": 450,
       "stock": 0,
       "barcode": "48"
-    },
-    {
-      "id": 6511,
-      "vino": "Bolsas Friselina x2 bot",
-      "bodega": "bolsas",
-      "precio": 850,
-      "stock": 0,
-      "barcode": "47"
     },
     {
       "id": 6600,
@@ -13334,5 +13342,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-09-01T22:52:13.943Z"
+  "lastUpdate": "2026-09-02T12:47:16.580Z"
 }
