@@ -337,14 +337,6 @@
       "barcode": "7792180146106"
     },
     {
-      "id": 5002,
-      "vino": "alfajores 9 de oro x4",
-      "bodega": "9 de oro",
-      "precio": 2200,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
       "id": 5003,
       "vino": "budines 9 de oro",
       "bodega": "9 de oro",
@@ -9385,6 +9377,14 @@
       "barcode": "7790380023579"
     },
     {
+      "id": 5002,
+      "vino": "Alfajores Toddy x4",
+      "bodega": "Georgalos",
+      "precio": 4000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6583,
       "vino": "Barras de cereal avellanas y arandanos",
       "bodega": "Georgalos",
@@ -13358,5 +13358,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-09-05T12:23:28.365Z"
+  "lastUpdate": "2026-09-05T13:25:27.170Z"
 }
