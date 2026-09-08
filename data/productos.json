@@ -1876,7 +1876,7 @@
       "id": 5178,
       "vino": "Don Valentin Lacrado",
       "bodega": "BODEGA BIANCHI",
-      "precio": 3800,
+      "precio": 3300,
       "stock": 0,
       "barcode": ""
     },
@@ -10477,7 +10477,7 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7790036105956"
     },
     {
@@ -10885,7 +10885,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7790070760579"
     },
     {
@@ -10909,7 +10909,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "Nieto Senetiner",
       "precio": 3600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7793440703800"
     },
     {
@@ -11389,7 +11389,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790480089741"
     },
     {
@@ -13390,5 +13390,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-09-08T13:44:31.755Z"
+  "lastUpdate": "2026-09-08T21:21:24.882Z"
 }
