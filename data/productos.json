@@ -2573,7 +2573,7 @@
       "vino": "Saurus - cabernet",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9000,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798116190366"
     },
     {
@@ -2788,7 +2788,7 @@
       "id": 5261,
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
-      "precio": 6150,
+      "precio": 6450,
       "stock": 14,
       "barcode": "7798089430414"
     },
@@ -3039,6 +3039,30 @@
       "precio": 43000,
       "stock": 0,
       "barcode": ""
+    },
+    {
+      "id": 6683,
+      "vino": "Pascual toso Alta cabernet franc",
+      "bodega": "BODEGA PASCUAL TOSO",
+      "precio": 28400,
+      "stock": 0,
+      "barcode": "7791670027819"
+    },
+    {
+      "id": 6682,
+      "vino": "Pascual toso Alta malbec",
+      "bodega": "BODEGA PASCUAL TOSO",
+      "precio": 28400,
+      "stock": 0,
+      "barcode": "7791670025105"
+    },
+    {
+      "id": 6684,
+      "vino": "Pascual toso Pedregal caber - malb ",
+      "bodega": "BODEGA PASCUAL TOSO",
+      "precio": 34500,
+      "stock": 0,
+      "barcode": "7791670023156"
     },
     {
       "id": 6410,
@@ -4301,7 +4325,7 @@
       "vino": "Santa Julia Reserva cabenet",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 7500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791728000535"
     },
     {
@@ -6741,7 +6765,7 @@
       "vino": "Schwepps tonica",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790895006715"
     },
     {
@@ -7676,7 +7700,7 @@
       "id": 5746,
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "Crotta",
-      "precio": 25750,
+      "precio": 26600,
       "stock": 0,
       "barcode": "7794068000449"
     },
@@ -7700,7 +7724,7 @@
       "id": 5749,
       "vino": "DAMAJUANA Crotta x 5 lts Blanco",
       "bodega": "Crotta",
-      "precio": 11100,
+      "precio": 12900,
       "stock": 2,
       "barcode": "7794068000029"
     },
@@ -7732,7 +7756,7 @@
       "id": 5753,
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
-      "precio": 11900,
+      "precio": 12300,
       "stock": 0,
       "barcode": "7794068000012"
     },
@@ -7925,7 +7949,7 @@
       "vino": "Equilibrista Funcion platea malbec",
       "bodega": "EQUILIBRISTA",
       "precio": 5660,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798193470207"
     },
     {
@@ -9029,7 +9053,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Cabernet",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798000211023"
     },
     {
@@ -11764,7 +11788,7 @@
       "id": 6291,
       "vino": "Mistela Crotta x 2lt",
       "bodega": "VINOS DULCE",
-      "precio": 11250,
+      "precio": 12400,
       "stock": 2,
       "barcode": "7794068000128"
     },
@@ -13284,7 +13308,7 @@
       "id": 5275,
       "vino": "chacabucho chenin",
       "bodega": "flia falasco",
-      "precio": 5500,
+      "precio": 7350,
       "stock": 42,
       "barcode": "7791843013441"
     },
@@ -13366,5 +13390,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-09-08T00:11:34.294Z"
+  "lastUpdate": "2026-09-08T13:44:31.755Z"
 }
