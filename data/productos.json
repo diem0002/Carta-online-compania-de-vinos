@@ -265,14 +265,6 @@
       "barcode": ""
     },
     {
-      "id": 6637,
-      "vino": "tokke blanco con dulce de leche",
-      "bodega": "Golosinas",
-      "precio": 2200,
-      "stock": -1,
-      "barcode": "7790380022190"
-    },
-    {
       "id": 6282,
       "vino": "Snack Arroz Asado",
       "bodega": "2 hermanos",
@@ -1077,7 +1069,7 @@
       "vino": "Pronto baggio naranja",
       "bodega": "BAGGIO",
       "precio": 2000,
-      "stock": 19,
+      "stock": 20,
       "barcode": "7790036000329"
     },
     {
@@ -2797,7 +2789,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6150,
-      "stock": 72,
+      "stock": 14,
       "barcode": "7798089430414"
     },
     {
@@ -3197,7 +3189,7 @@
       "vino": "Encuentro varietales - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "stock": 0,
+      "stock": 14,
       "barcode": "7790577006125"
     },
     {
@@ -3205,7 +3197,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "stock": -2,
+      "stock": 20,
       "barcode": "7790577006101"
     },
     {
@@ -3213,7 +3205,7 @@
       "vino": "Rutini Cab franc",
       "bodega": "BODEGA RUTINI",
       "precio": 27700,
-      "stock": -1,
+      "stock": 4,
       "barcode": "7790577008075"
     },
     {
@@ -3221,7 +3213,7 @@
       "vino": "Rutini Cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 27700,
-      "stock": 0,
+      "stock": 22,
       "barcode": "7790577003711"
     },
     {
@@ -3229,7 +3221,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 17700,
-      "stock": -1,
+      "stock": 44,
       "barcode": "7790577001663"
     },
     {
@@ -3237,7 +3229,7 @@
       "vino": "Rutini Cabernet / Malbec Est x 1 Bot",
       "bodega": "BODEGA RUTINI",
       "precio": 28600,
-      "stock": 0,
+      "stock": 11,
       "barcode": "7790577001670"
     },
     {
@@ -3245,7 +3237,7 @@
       "vino": "Rutini Cabernet /Merlot",
       "bodega": "BODEGA RUTINI",
       "precio": 17700,
-      "stock": 0,
+      "stock": 25,
       "barcode": "7790577039949"
     },
     {
@@ -3253,7 +3245,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 33150,
-      "stock": -1,
+      "stock": 29,
       "barcode": "7790577001151"
     },
     {
@@ -3261,7 +3253,7 @@
       "vino": "Rutini Merlot",
       "bodega": "BODEGA RUTINI",
       "precio": 21100,
-      "stock": 0,
+      "stock": 22,
       "barcode": "7790577000840"
     },
     {
@@ -3269,7 +3261,7 @@
       "vino": "Rutini chardonay",
       "bodega": "BODEGA RUTINI",
       "precio": 26400,
-      "stock": 0,
+      "stock": 12,
       "barcode": ""
     },
     {
@@ -3277,7 +3269,7 @@
       "vino": "Rutini pinot",
       "bodega": "BODEGA RUTINI",
       "precio": 43800,
-      "stock": 0,
+      "stock": 22,
       "barcode": "7790577003117"
     },
     {
@@ -3285,7 +3277,7 @@
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "stock": 0,
+      "stock": 28,
       "barcode": "7790577002141"
     },
     {
@@ -3293,7 +3285,7 @@
       "vino": "Trumpeter  - cabernet franc",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "stock": 0,
+      "stock": 40,
       "barcode": "7790577044837"
     },
     {
@@ -3301,7 +3293,7 @@
       "vino": "Trumpeter  - chardonay",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "stock": 0,
+      "stock": 34,
       "barcode": "7790577002189"
     },
     {
@@ -3309,7 +3301,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "stock": -18,
+      "stock": 34,
       "barcode": "7790577002165"
     },
     {
@@ -3317,7 +3309,7 @@
       "vino": "Trumpeter Malbec  fort…",
       "bodega": "BODEGA RUTINI",
       "precio": 16500,
-      "stock": 0,
+      "stock": 10,
       "barcode": "7790577043021"
     },
     {
@@ -3325,7 +3317,7 @@
       "vino": "Trumpeter Reserva  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 13000,
-      "stock": -2,
+      "stock": 17,
       "barcode": "7790577041515"
     },
     {
@@ -3341,7 +3333,7 @@
       "vino": "Trumpeter Reserva -  Rosado",
       "bodega": "BODEGA RUTINI",
       "precio": 13000,
-      "stock": 0,
+      "stock": 10,
       "barcode": "7790577040983"
     },
     {
@@ -3349,7 +3341,7 @@
       "vino": "Trumpeter Reserva - doux blanco",
       "bodega": "BODEGA RUTINI",
       "precio": 13000,
-      "stock": 0,
+      "stock": 13,
       "barcode": "7790577042802"
     },
     {
@@ -3357,7 +3349,7 @@
       "vino": "Trumpeter brut nature",
       "bodega": "BODEGA RUTINI",
       "precio": 14000,
-      "stock": 0,
+      "stock": 11,
       "barcode": "7790577040020"
     },
     {
@@ -3365,7 +3357,7 @@
       "vino": "Trumpeter brut rose",
       "bodega": "BODEGA RUTINI",
       "precio": 13000,
-      "stock": 0,
+      "stock": 10,
       "barcode": "7790577039369"
     },
     {
@@ -3373,7 +3365,7 @@
       "vino": "Trumpeter estuche x 1",
       "bodega": "BODEGA RUTINI",
       "precio": 14100,
-      "stock": 0,
+      "stock": 21,
       "barcode": "7790577006903"
     },
     {
@@ -3381,7 +3373,7 @@
       "vino": "Trumpeter estuche x 2",
       "bodega": "BODEGA RUTINI",
       "precio": 27100,
-      "stock": 0,
+      "stock": 12,
       "barcode": "7790577003889"
     },
     {
@@ -3389,7 +3381,7 @@
       "vino": "Trumpeter extra brut",
       "bodega": "BODEGA RUTINI",
       "precio": 12400,
-      "stock": 0,
+      "stock": 16,
       "barcode": "7790577004299"
     },
     {
@@ -3397,7 +3389,7 @@
       "vino": "Trumpeter reserva estuche x1",
       "bodega": "BODEGA RUTINI",
       "precio": 21300,
-      "stock": 0,
+      "stock": 2,
       "barcode": "7790577041577"
     },
     {
@@ -3405,7 +3397,7 @@
       "vino": "Trumpeter x 375",
       "bodega": "BODEGA RUTINI",
       "precio": 6300,
-      "stock": 0,
+      "stock": 43,
       "barcode": "7790577040921"
     },
     {
@@ -5389,7 +5381,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798123971309"
     },
     {
@@ -7685,7 +7677,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "Crotta",
       "precio": 25750,
-      "stock": 8,
+      "stock": 0,
       "barcode": "7794068000449"
     },
     {
@@ -7717,7 +7709,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco dulce",
       "bodega": "Crotta",
       "precio": 12500,
-      "stock": 3,
+      "stock": 0,
       "barcode": "7794068000043"
     },
     {
@@ -7741,7 +7733,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
       "precio": 11900,
-      "stock": 30,
+      "stock": 0,
       "barcode": "7794068000012"
     },
     {
@@ -7757,7 +7749,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 10,
+      "stock": 0,
       "barcode": "1148547501013"
     },
     {
@@ -8317,7 +8309,7 @@
       "vino": "Jeez El Abuelo",
       "bodega": "El abuelo",
       "precio": 5550,
-      "stock": 14,
+      "stock": 2,
       "barcode": "7790119000031"
     },
     {
@@ -8325,7 +8317,7 @@
       "vino": "Marsalla El Abuelo",
       "bodega": "El abuelo",
       "precio": 5550,
-      "stock": 23,
+      "stock": 6,
       "barcode": "7790119010528"
     },
     {
@@ -9565,7 +9557,7 @@
       "vino": "Full mani x30",
       "bodega": "Georgalos",
       "precio": 1050,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380025177"
     },
     {
@@ -9695,6 +9687,22 @@
       "precio": 2000,
       "stock": 0,
       "barcode": "7790380022114"
+    },
+    {
+      "id": 6681,
+      "vino": "Tokke dulce de leche x500",
+      "bodega": "Georgalos",
+      "precio": 13500,
+      "stock": -3,
+      "barcode": "7790380022183"
+    },
+    {
+      "id": 6637,
+      "vino": "tokke blanco con dulce de leche",
+      "bodega": "Georgalos",
+      "precio": 2200,
+      "stock": -1,
+      "barcode": "7790380022190"
     },
     {
       "id": 6571,
@@ -10397,7 +10405,7 @@
       "vino": "Gaseosas Mocoreta Citrus",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -2,
+      "stock": -12,
       "barcode": "7790036976280"
     },
     {
@@ -10405,7 +10413,7 @@
       "vino": "Gaseosas Mocoreta Cola",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -1,
+      "stock": -6,
       "barcode": "7790036004617"
     },
     {
@@ -10429,7 +10437,7 @@
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -3,
+      "stock": -18,
       "barcode": "7790036004587"
     },
     {
@@ -10437,7 +10445,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -4,
+      "stock": -24,
       "barcode": "7790036004594"
     },
     {
@@ -10445,7 +10453,7 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -2,
+      "stock": -12,
       "barcode": "7790036105956"
     },
     {
@@ -11117,7 +11125,7 @@
       "vino": "Nieto 0% Malbec Pinot",
       "bodega": "Nieto Senetiner",
       "precio": 11000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790070106919"
     },
     {
@@ -11245,7 +11253,7 @@
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
       "precio": 11000,
-      "stock": 0,
+      "stock": -3,
       "barcode": "7790070104847"
     },
     {
@@ -11253,7 +11261,7 @@
       "vino": "Nieto senetiner 0% malbec rose",
       "bodega": "Nieto senetiner",
       "precio": 11000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790070106919"
     },
     {
@@ -11629,7 +11637,7 @@
       "vino": "Licores tres plumas (Durazno)",
       "bodega": "TRES PLUMAS",
       "precio": 7400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790260013218"
     },
     {
@@ -11757,7 +11765,7 @@
       "vino": "Mistela Crotta x 2lt",
       "bodega": "VINOS DULCE",
       "precio": 11250,
-      "stock": 10,
+      "stock": 2,
       "barcode": "7794068000128"
     },
     {
@@ -13181,7 +13189,7 @@
       "vino": "Michelob x275",
       "bodega": "cervezas nacionales",
       "precio": 2600,
-      "stock": 0,
+      "stock": -6,
       "barcode": "7840050009737"
     },
     {
@@ -13334,29 +13342,29 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "vendidos": 21
+      "vendidos": 17
+    },
+    {
+      "id": 6355,
+      "vino": "Sottano Organico",
+      "bodega": "Vicentin Family Wines",
+      "precio": 7800,
+      "vendidos": 16
     },
     {
       "id": 5420,
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "vendidos": 18
+      "vendidos": 15
     },
     {
       "id": 5301,
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 14800,
-      "vendidos": 17
-    },
-    {
-      "id": 6393,
-      "vino": "Oveja black malbec",
-      "bodega": "BODEGA CASA LA PRIMAVERA",
-      "precio": 4350,
-      "vendidos": 16
+      "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-09-07T15:31:51.549Z"
+  "lastUpdate": "2026-09-08T00:11:34.294Z"
 }
