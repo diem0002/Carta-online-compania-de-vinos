@@ -949,7 +949,7 @@
       "vino": "Agua Saborizada x1,5 mix frutal",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 11,
+      "stock": 10,
       "barcode": "7790036001678"
     },
     {
@@ -981,7 +981,7 @@
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 10,
+      "stock": 9,
       "barcode": "7790036001579"
     },
     {
@@ -3325,7 +3325,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "stock": 34,
+      "stock": 22,
       "barcode": "7790577002165"
     },
     {
@@ -5437,7 +5437,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 18700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798103165711"
     },
     {
@@ -6373,7 +6373,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12300,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7794450088581"
     },
     {
@@ -8645,7 +8645,7 @@
       "vino": "Estuche Whisky Nihuil x2",
       "bodega": "Estuches cerveza",
       "precio": 18000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "24"
     },
     {
@@ -8709,7 +8709,7 @@
       "vino": "329 marsellan",
       "bodega": "FINCA FENIX",
       "precio": 18000,
-      "stock": 12,
+      "stock": 11,
       "barcode": "727373047257"
     },
     {
@@ -8725,7 +8725,7 @@
       "vino": "329 tannat",
       "bodega": "FINCA FENIX",
       "precio": 14000,
-      "stock": 5,
+      "stock": 4,
       "barcode": "727373047233"
     },
     {
@@ -9453,7 +9453,7 @@
       "vino": "Barras de cereal avellanas y arandanos",
       "bodega": "Georgalos",
       "precio": 800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380020271"
     },
     {
@@ -9461,7 +9461,7 @@
       "vino": "Barras de cereal frutos del bosque",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380020028"
     },
     {
@@ -9469,7 +9469,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380020172"
     },
     {
@@ -9477,7 +9477,7 @@
       "vino": "Barras de cereal granola con semillas",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380015024"
     },
     {
@@ -9485,7 +9485,7 @@
       "vino": "Barras de cereal manzana",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380008286"
     },
     {
@@ -9493,7 +9493,7 @@
       "vino": "Barras de cereal mix de fruta",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380014928"
     },
     {
@@ -9717,7 +9717,7 @@
       "vino": "Tokke dulce de leche x500",
       "bodega": "Georgalos",
       "precio": 13500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790380022183"
     },
     {
@@ -10389,7 +10389,7 @@
       "vino": "El cazador",
       "bodega": "MASCOTA",
       "precio": 5000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790762754107"
     },
     {
@@ -12117,7 +12117,7 @@
       "vino": "Indomable Robusto blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 11400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790843001281"
     },
     {
@@ -12765,7 +12765,7 @@
       "vino": "Johnnie Walker Red Label x 750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 36800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "5000267014005"
     },
     {
@@ -13349,7 +13349,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": -1,
+      "stock": -3,
       "barcode": ""
     }
   ],
@@ -13359,7 +13359,7 @@
       "vino": "Profugo Malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "vendidos": 30
+      "vendidos": 29
     },
     {
       "id": 5314,
@@ -13383,12 +13383,12 @@
       "vendidos": 15
     },
     {
-      "id": 5301,
-      "vino": "Encuentro varietales - malbec",
-      "bodega": "BODEGA RUTINI",
-      "precio": 14800,
-      "vendidos": 15
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6800,
+      "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-09-08T21:21:24.882Z"
+  "lastUpdate": "2026-09-09T13:20:37.428Z"
 }
