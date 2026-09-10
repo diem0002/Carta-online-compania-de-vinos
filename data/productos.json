@@ -220,7 +220,7 @@
       "id": 6604,
       "vino": "Promo estrella galicia x330",
       "bodega": "Promos",
-      "precio": 16000,
+      "precio": 16600,
       "stock": 0,
       "barcode": ""
     },
@@ -263,6 +263,14 @@
       "precio": 15000,
       "stock": 0,
       "barcode": ""
+    },
+    {
+      "id": 6686,
+      "vino": "estrella galicia x330",
+      "bodega": "Vinos",
+      "precio": 3100,
+      "stock": 0,
+      "barcode": "7898953990140"
     },
     {
       "id": 6282,
@@ -1781,7 +1789,7 @@
       "vino": "Viña unica - cabernet franc",
       "bodega": "BODEGA AMBROSIA",
       "precio": 22000,
-      "stock": 0,
+      "stock": 15,
       "barcode": ""
     },
     {
@@ -4677,7 +4685,7 @@
       "vino": "La vaca club",
       "bodega": "Bodega Budeguer",
       "precio": 5700,
-      "stock": 0,
+      "stock": 5,
       "barcode": "7798080492145"
     },
     {
@@ -4685,7 +4693,7 @@
       "vino": "Plan B cabernet",
       "bodega": "Bodega Budeguer",
       "precio": 5700,
-      "stock": 0,
+      "stock": 7,
       "barcode": "7798080490028"
     },
     {
@@ -4701,7 +4709,7 @@
       "vino": "Plan B malbec",
       "bodega": "Bodega Budeguer",
       "precio": 5700,
-      "stock": 0,
+      "stock": 7,
       "barcode": "7798080490011"
     },
     {
@@ -4709,7 +4717,7 @@
       "vino": "Tucumen  reseva Cab franc",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 0,
+      "stock": 28,
       "barcode": ""
     },
     {
@@ -4717,7 +4725,7 @@
       "vino": "Tucumen  reseva Petit verdot",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 0,
+      "stock": 33,
       "barcode": "7798080491803"
     },
     {
@@ -4725,7 +4733,7 @@
       "vino": "Tucumen  reseva cabenet",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": -1,
+      "stock": 34,
       "barcode": "7798080490417"
     },
     {
@@ -4733,7 +4741,7 @@
       "vino": "Tucumen malbec",
       "bodega": "Bodega Budeguer",
       "precio": 6000,
-      "stock": 0,
+      "stock": 32,
       "barcode": "7798080490363"
     },
     {
@@ -4741,7 +4749,7 @@
       "vino": "Tucumen reserva malbec",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 0,
+      "stock": 28,
       "barcode": "7798080490400"
     },
     {
@@ -13398,5 +13406,5 @@
       "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-09-10T14:30:06.270Z"
+  "lastUpdate": "2026-09-10T15:32:01.992Z"
 }
