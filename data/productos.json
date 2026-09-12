@@ -7244,7 +7244,7 @@
       "id": 5694,
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3900,
+      "precio": 4100,
       "stock": 0,
       "barcode": "7792798003709"
     },
@@ -7252,7 +7252,7 @@
       "id": 5695,
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3000,
+      "precio": 3200,
       "stock": 0,
       "barcode": "7792798014873"
     },
@@ -7260,7 +7260,7 @@
       "id": 5696,
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 6100,
+      "precio": 6310,
       "stock": -3,
       "barcode": "7792798003716"
     },
@@ -7444,7 +7444,7 @@
       "id": 5716,
       "vino": "Patagonia x 730 24/7",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 6650,
+      "precio": 6900,
       "stock": -3,
       "barcode": "7792798002399"
     },
@@ -7452,7 +7452,7 @@
       "id": 5717,
       "vino": "Patagonia x 730 Amber Lager",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 6650,
+      "precio": 6900,
       "stock": -3,
       "barcode": "7792798002351"
     },
@@ -7460,7 +7460,7 @@
       "id": 5718,
       "vino": "Patagonia x 730 Lager sur",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 6650,
+      "precio": 6900,
       "stock": 0,
       "barcode": "7792798015023"
     },
@@ -8724,7 +8724,7 @@
       "id": 5941,
       "vino": "Estuche x3 Cerveza Patagonia",
       "bodega": "Estuches cerveza",
-      "precio": 38000,
+      "precio": 39000,
       "stock": 0,
       "barcode": "10"
     },
@@ -13406,5 +13406,5 @@
       "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-09-12T12:20:08.219Z"
+  "lastUpdate": "2026-09-12T13:33:45.855Z"
 }
