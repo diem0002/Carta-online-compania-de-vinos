@@ -7700,7 +7700,7 @@
       "id": 5740,
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
-      "precio": 7600,
+      "precio": 6450,
       "stock": -6,
       "barcode": "7790168904328"
     },
@@ -9212,7 +9212,7 @@
       "id": 5994,
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
-      "precio": 2100,
+      "precio": 2200,
       "stock": -7,
       "barcode": "66"
     },
@@ -13438,5 +13438,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-09-19T11:51:48.588Z"
+  "lastUpdate": "2026-09-19T12:20:28.337Z"
 }
