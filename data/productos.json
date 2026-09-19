@@ -765,7 +765,7 @@
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
       "precio": 8400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790950134810"
     },
     {
@@ -1133,7 +1133,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": 4,
+      "stock": 3,
       "barcode": "7790036975481"
     },
     {
@@ -5941,7 +5941,7 @@
       "vino": "conejo verde - dulce natural",
       "bodega": "Bodega los aroldos",
       "precio": 9150,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7791843020760"
     },
     {
@@ -7277,7 +7277,7 @@
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4100,
-      "stock": 0,
+      "stock": -24,
       "barcode": "7792798003709"
     },
     {
@@ -9133,7 +9133,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8250,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798000213737"
     },
     {
@@ -9309,7 +9309,7 @@
       "vino": "Finca La Celia Reseva Malbec",
       "bodega": "Fca.LA CELIA",
       "precio": 9250,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798141877058"
     },
     {
@@ -10293,7 +10293,7 @@
       "vino": "jagermeister",
       "bodega": "LICORES",
       "precio": 36400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "4067700014559"
     },
     {
@@ -10476,7 +10476,7 @@
       "id": 6625,
       "vino": "El cazador",
       "bodega": "MASCOTA",
-      "precio": 5000,
+      "precio": 5150,
       "stock": -6,
       "barcode": "7790762754107"
     },
@@ -11125,7 +11125,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": -8,
+      "stock": -10,
       "barcode": "7790070760722"
     },
     {
@@ -13424,19 +13424,19 @@
       "vendidos": 20
     },
     {
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6800,
+      "vendidos": 17
+    },
+    {
       "id": 5420,
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
       "vendidos": 16
-    },
-    {
-      "id": 6518,
-      "vino": "vinos para cocinar",
-      "bodega": "vinos para cocinar",
-      "precio": 2000,
-      "vendidos": 15
     }
   ],
-  "lastUpdate": "2026-09-19T00:36:49.599Z"
+  "lastUpdate": "2026-09-19T11:51:48.588Z"
 }
