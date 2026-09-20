@@ -341,7 +341,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "2 hermanos",
       "precio": 1600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790503000296"
     },
     {
@@ -556,7 +556,7 @@
       "id": 5042,
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
-      "precio": 4800,
+      "precio": 4950,
       "stock": 6,
       "barcode": "7790093132728"
     },
@@ -1133,7 +1133,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": 1,
+      "stock": 0,
       "barcode": "7790036975481"
     },
     {
@@ -1932,7 +1932,7 @@
       "id": 5178,
       "vino": "Don Valentin Lacrado",
       "bodega": "BODEGA BIANCHI",
-      "precio": 3300,
+      "precio": 3700,
       "stock": 0,
       "barcode": ""
     },
@@ -3028,7 +3028,7 @@
       "id": 5904,
       "vino": "Norton Cosecha especial espumante",
       "bodega": "BODEGA NORTON",
-      "precio": 11100,
+      "precio": 14200,
       "stock": 0,
       "barcode": "7792319000217"
     },
@@ -6773,7 +6773,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7790895005374"
     },
     {
@@ -8204,7 +8204,7 @@
       "id": 5823,
       "vino": "Copon barone (agua)",
       "bodega": "ESTUCHES CON COPAS",
-      "precio": 6600,
+      "precio": 5800,
       "stock": 0,
       "barcode": "7891155040866"
     },
@@ -8212,7 +8212,7 @@
       "id": 5824,
       "vino": "Copon barone (vino)",
       "bodega": "ESTUCHES CON COPAS",
-      "precio": 6900,
+      "precio": 6000,
       "stock": -1,
       "barcode": "7891155042594"
     },
@@ -11652,7 +11652,7 @@
       "id": 6270,
       "vino": "Farruca",
       "bodega": "SIDRAS",
-      "precio": 2600,
+      "precio": 3600,
       "stock": 0,
       "barcode": ""
     },
@@ -12692,7 +12692,7 @@
       "id": 6442,
       "vino": "Jameson 8 Años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 40500,
+      "precio": 36000,
       "stock": 0,
       "barcode": "5011007003005"
     },
@@ -12916,7 +12916,7 @@
       "id": 6470,
       "vino": "Hiram Walker",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 6200,
+      "precio": 7100,
       "stock": 0,
       "barcode": "7792410527903"
     },
@@ -12924,7 +12924,7 @@
       "id": 6471,
       "vino": "Los Criadores x 1L",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 10500,
+      "precio": 12100,
       "stock": -1,
       "barcode": "7790480089765"
     },
@@ -12932,7 +12932,7 @@
       "id": 6472,
       "vino": "Los Criadores x 750cc",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 6700,
+      "precio": 9100,
       "stock": 0,
       "barcode": "7790480089772"
     },
@@ -13438,5 +13438,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-09-20T14:10:34.917Z"
+  "lastUpdate": "2026-09-20T14:32:24.299Z"
 }
