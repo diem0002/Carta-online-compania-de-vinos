@@ -1156,7 +1156,7 @@
       "id": 5090,
       "vino": "Absolut Vodka",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 30800,
+      "precio": 28400,
       "stock": 0,
       "barcode": "7312040017010"
     },
@@ -1164,7 +1164,7 @@
       "id": 5091,
       "vino": "Absolut Vodka Sabores",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 24000,
+      "precio": 28400,
       "stock": 0,
       "barcode": "7312040150755"
     },
@@ -1172,7 +1172,7 @@
       "id": 5092,
       "vino": "Beefeater Gin x 750cc",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 29600,
+      "precio": 26500,
       "stock": -1,
       "barcode": "5000299618417"
     },
@@ -1252,7 +1252,7 @@
       "id": 5101,
       "vino": "Gin Bombay",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 33500,
+      "precio": 35800,
       "stock": 0,
       "barcode": "7640175740047"
     },
@@ -1268,7 +1268,7 @@
       "id": 5103,
       "vino": "Gin Bulldog",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 33200,
+      "precio": 27500,
       "stock": 0,
       "barcode": "897076002010"
     },
@@ -1564,7 +1564,7 @@
       "id": 5139,
       "vino": "Ron Bacardi Oro",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 22200,
+      "precio": 23000,
       "stock": -1,
       "barcode": "7501008604021"
     },
@@ -1580,7 +1580,7 @@
       "id": 5141,
       "vino": "Ron Havana Club Añejo (3 años)",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 16700,
+      "precio": 16500,
       "stock": 0,
       "barcode": "7792410532433"
     },
@@ -6036,7 +6036,7 @@
       "id": 6627,
       "vino": "Sernova",
       "bodega": "Branca",
-      "precio": 10500,
+      "precio": 8500,
       "stock": 0,
       "barcode": "7790290101510"
     },
@@ -6852,7 +6852,7 @@
       "id": 6102,
       "vino": "Granadina Cusenier",
       "bodega": "CUSENIER",
-      "precio": 5450,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7792410517348"
     },
@@ -10180,7 +10180,7 @@
       "id": 6107,
       "vino": "Legui x 750cc",
       "bodega": "LICORES",
-      "precio": 4700,
+      "precio": 5900,
       "stock": 0,
       "barcode": "7791250001482"
     },
@@ -10260,7 +10260,7 @@
       "id": 6146,
       "vino": "Piña Colada",
       "bodega": "LICORES",
-      "precio": 8000,
+      "precio": 8500,
       "stock": 0,
       "barcode": "7790260006029"
     },
@@ -11756,7 +11756,7 @@
       "id": 6108,
       "vino": "Licor 3 plumas seco",
       "bodega": "TRES PLUMAS",
-      "precio": 6950,
+      "precio": 7400,
       "stock": 0,
       "barcode": "7790260016011"
     },
@@ -11812,7 +11812,7 @@
       "id": 6125,
       "vino": "Licores tres plumas (café al dulce de leche)",
       "bodega": "TRES PLUMAS",
-      "precio": 6950,
+      "precio": 7400,
       "stock": 0,
       "barcode": "7790260002250"
     },
@@ -12516,7 +12516,7 @@
       "id": 6421,
       "vino": "Ballantines x 1000",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 45000,
+      "precio": 38000,
       "stock": 0,
       "barcode": "5010106111925"
     },
@@ -12524,7 +12524,7 @@
       "id": 6422,
       "vino": "Ballantines x 750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 37000,
+      "precio": 31000,
       "stock": 0,
       "barcode": "5010106113073"
     },
@@ -12564,7 +12564,7 @@
       "id": 6427,
       "vino": "Chivas Regal Estuche x 750 12 años",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 62000,
+      "precio": 52000,
       "stock": 0,
       "barcode": "080432402931"
     },
@@ -12908,7 +12908,7 @@
       "id": 6469,
       "vino": "Doble - V Etiqueta Negra",
       "bodega": "WHISKYS NACIONALES",
-      "precio": 7300,
+      "precio": 7000,
       "stock": 0,
       "barcode": "7792410527880"
     },
@@ -13438,5 +13438,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-09-20T13:48:31.815Z"
+  "lastUpdate": "2026-09-20T14:10:34.917Z"
 }
