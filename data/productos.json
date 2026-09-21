@@ -289,6 +289,14 @@
       "barcode": ""
     },
     {
+      "id": 6692,
+      "vino": "Prromo Etchart Privado x6",
+      "bodega": "Promos",
+      "precio": 25200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6686,
       "vino": "estrella galicia x330",
       "bodega": "Vinos",
@@ -941,7 +949,7 @@
       "vino": "Agua Bidon Fresh",
       "bodega": "BAGGIO",
       "precio": 2400,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7790036975566"
     },
     {
@@ -1133,7 +1141,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790036975481"
     },
     {
@@ -3741,7 +3749,7 @@
       "vino": "Salentein Numina malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 16990,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798074869311"
     },
     {
@@ -4341,7 +4349,7 @@
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": 55,
+      "stock": 54,
       "barcode": "7791728247091"
     },
     {
@@ -4589,7 +4597,7 @@
       "vino": "Branca x 750",
       "bodega": "BRANCA",
       "precio": 19700,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790290101602"
     },
     {
@@ -5509,7 +5517,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 18700,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798103165711"
     },
     {
@@ -6541,7 +6549,7 @@
       "vino": "Gancia S/Alc 6x473",
       "bodega": "CEO",
       "precio": 2100,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7790950147926"
     },
     {
@@ -6717,7 +6725,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -12,
+      "stock": -14,
       "barcode": "7790895000430"
     },
     {
@@ -9893,7 +9901,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 6300,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798112631306"
     },
     {
@@ -10445,7 +10453,7 @@
       "vino": "Felix Lavaque blend",
       "bodega": "Lavaque",
       "precio": 25300,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798260190168"
     },
     {
@@ -10477,7 +10485,7 @@
       "vino": "El cazador",
       "bodega": "MASCOTA",
       "precio": 5150,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790762754107"
     },
     {
@@ -13414,7 +13422,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "vendidos": 23
+      "vendidos": 22
     },
     {
       "id": 6397,
@@ -13438,5 +13446,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-09-20T14:32:24.299Z"
+  "lastUpdate": "2026-09-21T12:21:43.232Z"
 }
