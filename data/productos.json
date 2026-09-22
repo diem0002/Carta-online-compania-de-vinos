@@ -1,30 +1,6 @@
 {
   "catalogo": [
     {
-      "id": 6689,
-      "vino": "Barra enfriadora x1",
-      "bodega": "Vinos",
-      "precio": 19900,
-      "stock": 0,
-      "barcode": "2MRAZQSA000E3JVF5"
-    },
-    {
-      "id": 6690,
-      "vino": "Barra enfriadora x2",
-      "bodega": "Vinos",
-      "precio": 24000,
-      "stock": 0,
-      "barcode": "2MKJ1Y1A000E3JVFP"
-    },
-    {
-      "id": 6691,
-      "vino": "Barra enfriadora x3",
-      "bodega": "Vinos",
-      "precio": 27000,
-      "stock": 0,
-      "barcode": "2MC5DHRA000E3JVEG"
-    },
-    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -573,7 +549,7 @@
       "vino": "Altos Las Hormigas Appelation  gualtallary malbec",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 35000,
-      "stock": -2,
+      "stock": -5,
       "barcode": "7798051950469"
     },
     {
@@ -661,7 +637,7 @@
       "vino": "Aperol x 750",
       "bodega": "APERITIVOS",
       "precio": 10850,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7891136057029"
     },
     {
@@ -801,14 +777,6 @@
       "barcode": "793969577569"
     },
     {
-      "id": 5074,
-      "vino": "Vermout Crotta Rosso",
-      "bodega": "APERITIVOS",
-      "precio": 9100,
-      "stock": 0,
-      "barcode": "7794068001859"
-    },
-    {
       "id": 5075,
       "vino": "Almendra Garrapiñada",
       "bodega": "Accesorios",
@@ -823,6 +791,30 @@
       "precio": 60000,
       "stock": 0,
       "barcode": "52"
+    },
+    {
+      "id": 6689,
+      "vino": "Barra enfriadora x1",
+      "bodega": "Accesorios",
+      "precio": 19900,
+      "stock": 3,
+      "barcode": "2MRAZQSA000E3JVF5"
+    },
+    {
+      "id": 6690,
+      "vino": "Barra enfriadora x2",
+      "bodega": "Accesorios",
+      "precio": 24000,
+      "stock": 3,
+      "barcode": "2MKJ1Y1A000E3JVFP"
+    },
+    {
+      "id": 6691,
+      "vino": "Barra enfriadora x3",
+      "bodega": "Accesorios",
+      "precio": 27000,
+      "stock": 3,
+      "barcode": "2MC5DHRA000E3JVEG"
     },
     {
       "id": 5077,
@@ -1029,7 +1021,7 @@
       "vino": "Agua Saborizada x1,5 pera",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 5,
+      "stock": 4,
       "barcode": ""
     },
     {
@@ -1141,7 +1133,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790036975481"
     },
     {
@@ -1757,7 +1749,7 @@
       "vino": "negroni inmigrante",
       "bodega": "BEBIDAS FUERTES",
       "precio": 24500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798375760027"
     },
     {
@@ -2557,7 +2549,7 @@
       "vino": "Nampe",
       "bodega": "BODEGA FECOVITA",
       "precio": 3400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791843008911"
     },
     {
@@ -2821,7 +2813,7 @@
       "vino": "Jugo de uva Correa Grieco",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 4500,
-      "stock": 18,
+      "stock": 17,
       "barcode": "7795633003049"
     },
     {
@@ -3725,7 +3717,7 @@
       "vino": "Salentein Extra brut espumante",
       "bodega": "BODEGA SALENTEIN",
       "precio": 13800,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7798074864972"
     },
     {
@@ -5077,7 +5069,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "Bodega Fantelli",
       "precio": 4500,
-      "stock": 28,
+      "stock": 22,
       "barcode": "7795633000154"
     },
     {
@@ -5309,7 +5301,7 @@
       "vino": "Las Perdices - Syrah/Vognier",
       "bodega": "Bodega Las Perdices",
       "precio": 9050,
-      "stock": 21,
+      "stock": 20,
       "barcode": "7798123970401"
     },
     {
@@ -6749,7 +6741,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "COCA COLA",
       "precio": 4200,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790895000218"
     },
     {
@@ -6813,7 +6805,7 @@
       "vino": "Powerade x500 azul",
       "bodega": "COCA COLA",
       "precio": 2500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790895640025"
     },
     {
@@ -6837,7 +6829,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790895010088"
     },
     {
@@ -7845,7 +7837,7 @@
       "vino": "DAMAJUNA duret roble lacrado cabernet",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "1148547501310"
     },
     {
@@ -7853,7 +7845,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "1148547501013"
     },
     {
@@ -7879,6 +7871,22 @@
       "precio": 7450,
       "stock": 6,
       "barcode": "7794068000111"
+    },
+    {
+      "id": 6291,
+      "vino": "Mistela Crotta x 2lt",
+      "bodega": "Crotta",
+      "precio": 12400,
+      "stock": 2,
+      "barcode": "7794068000128"
+    },
+    {
+      "id": 6292,
+      "vino": "Mistela Crotta x 750",
+      "bodega": "Crotta",
+      "precio": 7100,
+      "stock": 18,
+      "barcode": "7794068000142"
     },
     {
       "id": 6134,
@@ -7911,6 +7919,14 @@
       "precio": 3150,
       "stock": 0,
       "barcode": "7794068001606"
+    },
+    {
+      "id": 5074,
+      "vino": "Vermout Crotta Rosso",
+      "bodega": "Crotta",
+      "precio": 9100,
+      "stock": 0,
+      "barcode": "7794068001859"
     },
     {
       "id": 5010,
@@ -9141,7 +9157,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8250,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798000213737"
     },
     {
@@ -9389,7 +9405,7 @@
       "vino": "Speed x 473",
       "bodega": "GASEOSAS Y ENERGISANTES",
       "precio": 2800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798119220183"
     },
     {
@@ -9605,7 +9621,7 @@
       "vino": "Bombon Tokke",
       "bodega": "Georgalos",
       "precio": 500,
-      "stock": -19,
+      "stock": -29,
       "barcode": "7790380022176"
     },
     {
@@ -9717,7 +9733,7 @@
       "vino": "Mantecol x111g",
       "bodega": "Georgalos",
       "precio": 2350,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7622201812652"
     },
     {
@@ -10485,7 +10501,7 @@
       "vino": "El cazador",
       "bodega": "MASCOTA",
       "precio": 5150,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7790762754107"
     },
     {
@@ -10525,7 +10541,7 @@
       "vino": "Gaseosas Mocoreta Citrus",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7790036976280"
     },
     {
@@ -10541,7 +10557,7 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790036004600"
     },
     {
@@ -10637,7 +10653,7 @@
       "vino": "Cordero  espumante dulce espumante dulce",
       "bodega": "Mosquita muerta",
       "precio": 7800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798353192246"
     },
     {
@@ -10645,7 +10661,7 @@
       "vino": "Cordero extra brut  espumante",
       "bodega": "Mosquita muerta",
       "precio": 7800,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7798353195056"
     },
     {
@@ -11905,22 +11921,6 @@
       "barcode": "7798079370676"
     },
     {
-      "id": 6291,
-      "vino": "Mistela Crotta x 2lt",
-      "bodega": "VINOS DULCE",
-      "precio": 12400,
-      "stock": 2,
-      "barcode": "7794068000128"
-    },
-    {
-      "id": 6292,
-      "vino": "Mistela Crotta x 750",
-      "bodega": "VINOS DULCE",
-      "precio": 7100,
-      "stock": 18,
-      "barcode": "7794068000142"
-    },
-    {
       "id": 6298,
       "vino": "Doña Paula x 375",
       "bodega": "VINOS x 375",
@@ -12669,7 +12669,7 @@
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 29500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "5010103800310"
     },
     {
@@ -13422,14 +13422,14 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10000,
-      "vendidos": 22
+      "vendidos": 21
     },
     {
       "id": 6397,
       "vino": "Profugo Malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "vendidos": 20
+      "vendidos": 19
     },
     {
       "id": 6224,
@@ -13439,12 +13439,12 @@
       "vendidos": 17
     },
     {
-      "id": 5420,
-      "vino": "Santa Julia tinto Dulce",
-      "bodega": "BODEGA ZUCCARDI",
-      "precio": 6150,
-      "vendidos": 16
+      "id": 6518,
+      "vino": "vinos para cocinar",
+      "bodega": "vinos para cocinar",
+      "precio": 2000,
+      "vendidos": 14
     }
   ],
-  "lastUpdate": "2026-09-21T12:21:43.232Z"
+  "lastUpdate": "2026-09-22T13:18:11.097Z"
 }
