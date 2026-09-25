@@ -1933,7 +1933,7 @@
       "vino": "Don Valentin Lacrado",
       "bodega": "BODEGA BIANCHI",
       "precio": 3700,
-      "stock": -6,
+      "stock": 0,
       "barcode": ""
     },
     {
@@ -2845,7 +2845,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "stock": 35,
+      "stock": 29,
       "barcode": "7798089430179"
     },
     {
@@ -3005,7 +3005,7 @@
       "vino": "Norton Cosecha Tardia Bco",
       "bodega": "BODEGA NORTON",
       "precio": 5550,
-      "stock": 0,
+      "stock": -6,
       "barcode": "7792319972224"
     },
     {
@@ -4597,7 +4597,7 @@
       "vino": "Branca x1000",
       "bodega": "BRANCA",
       "precio": 26500,
-      "stock": -7,
+      "stock": -1,
       "barcode": "7790290000523"
     },
     {
@@ -5477,7 +5477,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 18,
+      "stock": 17,
       "barcode": "7798123971309"
     },
     {
@@ -6877,7 +6877,7 @@
       "vino": "Licores Cusenier ( blue coracao )",
       "bodega": "CUSENIER",
       "precio": 8200,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -7701,7 +7701,7 @@
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 6450,
-      "stock": -13,
+      "stock": -19,
       "barcode": "7790168904328"
     },
     {
@@ -9197,7 +9197,7 @@
       "vino": "H. J. Fabre Reserva Franc-Malb",
       "bodega": "FRATELLI BRANCA",
       "precio": 10700,
-      "stock": -3,
+      "stock": 27,
       "barcode": "7798000210521"
     },
     {
@@ -9205,7 +9205,7 @@
       "vino": "H. J. Fabre Reserva Malb-Petit verdot",
       "bodega": "FRATELLI BRANCA",
       "precio": 10700,
-      "stock": 0,
+      "stock": 24,
       "barcode": "7798000210545"
     },
     {
@@ -9213,7 +9213,7 @@
       "vino": "H. J. Fabre Reserva Malb-Pinot",
       "bodega": "FRATELLI BRANCA",
       "precio": 10700,
-      "stock": -1,
+      "stock": 24,
       "barcode": "7798000213652"
     },
     {
@@ -10901,7 +10901,7 @@
       "vino": "Los Arboles malbec",
       "bodega": "NAVARRO CORREAS",
       "precio": 4850,
-      "stock": -1,
+      "stock": -19,
       "barcode": "7791250000935"
     },
     {
@@ -10997,7 +10997,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -9,
+      "stock": -3,
       "barcode": "7790070760579"
     },
     {
@@ -11525,7 +11525,7 @@
       "vino": "Pulpa Anana",
       "bodega": "PULPAS",
       "precio": 5600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7795933202029"
     },
     {
@@ -11541,7 +11541,7 @@
       "vino": "Pulpa de Frutilla",
       "bodega": "PULPAS",
       "precio": 4800,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7795933000526"
     },
     {
@@ -12813,7 +12813,7 @@
       "vino": "Johnnie Walker Red Label x 1Lt",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 42300,
-      "stock": -1,
+      "stock": 0,
       "barcode": "5000267013602"
     },
     {
@@ -13434,6 +13434,13 @@
       "vendidos": 27
     },
     {
+      "id": 5740,
+      "vino": "Colon Tto Dce",
+      "bodega": "Colon",
+      "precio": 6450,
+      "vendidos": 25
+    },
+    {
       "id": 5314,
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
@@ -13453,14 +13460,7 @@
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
       "vendidos": 20
-    },
-    {
-      "id": 6224,
-      "vino": "Emilia  - malbec",
-      "bodega": "Nieto Senetiner",
-      "precio": 6800,
-      "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-09-25T12:50:47.349Z"
+  "lastUpdate": "2026-09-25T15:46:16.900Z"
 }
