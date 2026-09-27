@@ -3261,7 +3261,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 15300,
-      "stock": 19,
+      "stock": 18,
       "barcode": "7790577006101"
     },
     {
@@ -3365,7 +3365,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10300,
-      "stock": 27,
+      "stock": 26,
       "barcode": "7790577002165"
     },
     {
@@ -3709,7 +3709,7 @@
       "vino": "Salentein Brut rose espumante",
       "bodega": "BODEGA SALENTEIN",
       "precio": 15100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798074864996"
     },
     {
@@ -5317,7 +5317,7 @@
       "vino": "Las Perdices Ala Colorada ancelotta",
       "bodega": "Bodega Las Perdices",
       "precio": 17600,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7798123970692"
     },
     {
@@ -5469,7 +5469,7 @@
       "vino": "Las perdices Bag in box duo",
       "bodega": "Bodega Las Perdices",
       "precio": 27100,
-      "stock": 5,
+      "stock": 4,
       "barcode": "7798123974539"
     },
     {
@@ -6101,7 +6101,7 @@
       "vino": "Alamos cabernet",
       "bodega": "CATENA ZAPATA",
       "precio": 7900,
-      "stock": 26,
+      "stock": 25,
       "barcode": "7794450000798"
     },
     {
@@ -6709,7 +6709,7 @@
       "vino": "Coca Cola  1,5 S/Az",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790895067556"
     },
     {
@@ -6757,7 +6757,7 @@
       "vino": "Coca Cola lata x220",
       "bodega": "COCA COLA",
       "precio": 1150,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790895642081"
     },
     {
@@ -6829,7 +6829,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790895010088"
     },
     {
@@ -7205,7 +7205,7 @@
       "vino": "kaiserdon x500 smoked",
       "bodega": "Cervezas Importadas latas",
       "precio": 6700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "4004591039452"
     },
     {
@@ -9637,7 +9637,7 @@
       "vino": "Chocolate Blanco x25g",
       "bodega": "Georgalos",
       "precio": 750,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380024217"
     },
     {
@@ -9805,7 +9805,7 @@
       "vino": "Tokke Dulce de leche",
       "bodega": "Georgalos",
       "precio": 2100,
-      "stock": -3,
+      "stock": -7,
       "barcode": "7790380022107"
     },
     {
@@ -9829,7 +9829,7 @@
       "vino": "Tokke dulce de leche x500",
       "bodega": "Georgalos",
       "precio": 13500,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790380022183"
     },
     {
@@ -9917,7 +9917,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 6300,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7798112631306"
     },
     {
@@ -10468,7 +10468,7 @@
       "id": 6564,
       "vino": "Felix Lavaque blend",
       "bodega": "Lavaque",
-      "precio": 25300,
+      "precio": 26100,
       "stock": -5,
       "barcode": "7798260190168"
     },
@@ -10476,7 +10476,7 @@
       "id": 6675,
       "vino": "Vallisto Malbec",
       "bodega": "Lavaque",
-      "precio": 12350,
+      "precio": 13250,
       "stock": 0,
       "barcode": "7798260190113"
     },
@@ -10484,7 +10484,7 @@
       "id": 6676,
       "vino": "Vallisto Rosado",
       "bodega": "Lavaque",
-      "precio": 12350,
+      "precio": 13250,
       "stock": 0,
       "barcode": "7798260190885"
     },
@@ -10492,7 +10492,7 @@
       "id": 6674,
       "vino": "Vallisto Tannat extremo",
       "bodega": "Lavaque",
-      "precio": 12350,
+      "precio": 13250,
       "stock": 0,
       "barcode": "7798260190267"
     },
@@ -10557,7 +10557,7 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790036004600"
     },
     {
@@ -11149,7 +11149,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": -10,
+      "stock": -12,
       "barcode": "7790070760722"
     },
     {
@@ -13455,12 +13455,12 @@
       "vendidos": 20
     },
     {
-      "id": 6197,
-      "vino": "Los Arboles malbec",
-      "bodega": "NAVARRO CORREAS",
-      "precio": 4850,
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6800,
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-09-27T13:54:03.517Z"
+  "lastUpdate": "2026-09-27T15:56:00.102Z"
 }
