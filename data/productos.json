@@ -1244,7 +1244,7 @@
       "id": 5100,
       "vino": "Gin Aconcagua x 500cc",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 4730,
+      "precio": 9500,
       "stock": 0,
       "barcode": ""
     },
@@ -1420,7 +1420,7 @@
       "id": 5121,
       "vino": "Gin aconcagua",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 13890,
+      "precio": 17900,
       "stock": 0,
       "barcode": "749350080354"
     },
@@ -1428,7 +1428,7 @@
       "id": 5122,
       "vino": "Gin aconcagua Rosado",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 15650,
+      "precio": 20600,
       "stock": 0,
       "barcode": "783970984562"
     },
@@ -1436,7 +1436,7 @@
       "id": 5123,
       "vino": "Gin aconcagua blanco",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 15120,
+      "precio": 20600,
       "stock": 0,
       "barcode": "736373868182"
     },
@@ -1460,7 +1460,7 @@
       "id": 5126,
       "vino": "Gin aconcagua verde",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 15120,
+      "precio": 20600,
       "stock": 0,
       "barcode": "736373868175"
     },
@@ -1516,7 +1516,7 @@
       "id": 5133,
       "vino": "Gintonic aconcagua X355",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 2300,
+      "precio": 6200,
       "stock": 0,
       "barcode": ""
     },
@@ -7013,7 +7013,7 @@
       "vino": "canasta porta botella x2",
       "bodega": "Cajas y canastas para vino",
       "precio": 18000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "38"
     },
     {
@@ -7845,7 +7845,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "1148547501013"
     },
     {
@@ -10164,7 +10164,7 @@
       "id": 6098,
       "vino": "Cognac Reserva San Juan",
       "bodega": "LICORES",
-      "precio": 8000,
+      "precio": 14100,
       "stock": -1,
       "barcode": "7790197120218"
     },
@@ -10325,7 +10325,7 @@
       "vino": "Bautismo  - blend",
       "bodega": "LIGA DE LOS ENOLOGOS",
       "precio": 5100,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7791540049927"
     },
     {
@@ -12173,7 +12173,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790843001328"
     },
     {
@@ -13237,7 +13237,7 @@
       "vino": "Bolsas Friselina 40x30",
       "bodega": "bolsas",
       "precio": 850,
-      "stock": 0,
+      "stock": -1,
       "barcode": "47"
     },
     {
@@ -13277,7 +13277,7 @@
       "vino": "Copa Brunello",
       "bodega": "cristaleria",
       "precio": 4800,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -13462,5 +13462,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-01T15:51:07.288Z"
+  "lastUpdate": "2026-10-01T22:49:15.421Z"
 }
