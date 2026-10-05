@@ -1,14 +1,6 @@
 {
   "catalogo": [
     {
-      "id": 6695,
-      "vino": "Distinto se nace",
-      "bodega": "Vinos",
-      "precio": 3300,
-      "stock": 0,
-      "barcode": "8436613745076"
-    },
-    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -9905,6 +9897,14 @@
       "barcode": "7792281200431"
     },
     {
+      "id": 6695,
+      "vino": "Distinto se nace",
+      "bodega": "Huella pampa wines",
+      "precio": 3300,
+      "stock": 0,
+      "barcode": "8436613745076"
+    },
+    {
       "id": 6562,
       "vino": "A Contramano Angellotta",
       "bodega": "JORGE RUBIO",
@@ -11517,7 +11517,7 @@
       "vino": "Yerba Tranquera x1kg",
       "bodega": "PRODUCTOS ALMACEN",
       "precio": 3100,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790480089741"
     },
     {
@@ -13447,14 +13447,14 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
-      "vendidos": 34
+      "vendidos": 32
     },
     {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 28
+      "vendidos": 27
     },
     {
       "id": 5740,
@@ -13478,5 +13478,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-10-04T23:27:15.572Z"
+  "lastUpdate": "2026-10-05T15:11:10.318Z"
 }
