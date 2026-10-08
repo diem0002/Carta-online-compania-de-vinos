@@ -132,7 +132,7 @@
       "id": 6651,
       "vino": "Promo Trumpeter cabernet x6",
       "bodega": "Promos",
-      "precio": 56400,
+      "precio": 58700,
       "stock": 0,
       "barcode": ""
     },
@@ -140,7 +140,7 @@
       "id": 6650,
       "vino": "Promo Trumpeter malbec x6",
       "bodega": "Promos",
-      "precio": 56400,
+      "precio": 58700,
       "stock": 0,
       "barcode": ""
     },
@@ -2853,7 +2853,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "stock": 29,
+      "stock": 26,
       "barcode": "7798089430179"
     },
     {
@@ -3373,7 +3373,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10300,
-      "stock": 33,
+      "stock": 27,
       "barcode": "7790577002165"
     },
     {
@@ -6622,6 +6622,14 @@
       "bodega": "CIGARROS",
       "precio": 6000,
       "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": 6700,
+      "vino": "Cigarro Candelight corona sumatra",
+      "bodega": "CIGARROS",
+      "precio": 0,
+      "stock": 0,
       "barcode": ""
     },
     {
@@ -13502,5 +13510,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-08T13:32:49.628Z"
+  "lastUpdate": "2026-10-08T13:46:58.391Z"
 }
