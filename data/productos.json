@@ -6628,8 +6628,8 @@
       "id": 6700,
       "vino": "Cigarro Candelight corona sumatra",
       "bodega": "CIGARROS",
-      "precio": 0,
-      "stock": 0,
+      "precio": 4500,
+      "stock": 25,
       "barcode": ""
     },
     {
@@ -13510,5 +13510,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-08T13:46:58.391Z"
+  "lastUpdate": "2026-10-08T13:48:12.279Z"
 }
