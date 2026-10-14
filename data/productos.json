@@ -1,6 +1,14 @@
 {
   "catalogo": [
     {
+      "id": 6702,
+      "vino": "Hormiga Negra",
+      "bodega": "Vinos",
+      "precio": 4100,
+      "stock": -5,
+      "barcode": "7798001610368"
+    },
+    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -277,7 +285,7 @@
       "vino": "Ultima Carta",
       "bodega": "Vinos",
       "precio": 2800,
-      "stock": 0,
+      "stock": -2,
       "barcode": "8436613745137"
     },
     {
@@ -317,7 +325,7 @@
       "vino": "Snack Arroz Queso",
       "bodega": "2 hermanos",
       "precio": 1600,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790503000272"
     },
     {
@@ -333,7 +341,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "2 hermanos",
       "precio": 1600,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790503000296"
     },
     {
@@ -421,7 +429,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7792180146137"
     },
     {
@@ -549,7 +557,7 @@
       "vino": "Etchart Privado  Torrontes",
       "bodega": "ALLIED DOMECQ S.A",
       "precio": 4950,
-      "stock": 6,
+      "stock": 0,
       "barcode": "7790093132728"
     },
     {
@@ -645,7 +653,7 @@
       "vino": "Aperol x 750",
       "bodega": "APERITIVOS",
       "precio": 10850,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7891136057029"
     },
     {
@@ -653,7 +661,7 @@
       "vino": "Campari",
       "bodega": "APERITIVOS",
       "precio": 11000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7891136052000"
     },
     {
@@ -701,7 +709,7 @@
       "vino": "Cinzano Rosso",
       "bodega": "APERITIVOS",
       "precio": 8300,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7791200200552"
     },
     {
@@ -741,7 +749,7 @@
       "vino": "Kumquat aperit del litoal",
       "bodega": "APERITIVOS",
       "precio": 10100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798397970015"
     },
     {
@@ -757,7 +765,7 @@
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
       "precio": 8400,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790950134810"
     },
     {
@@ -941,7 +949,7 @@
       "vino": "Agua   x1.5",
       "bodega": "BAGGIO",
       "precio": 990,
-      "stock": 6,
+      "stock": 5,
       "barcode": "7790036974514"
     },
     {
@@ -949,7 +957,7 @@
       "vino": "Agua Bidon Fresh",
       "bodega": "BAGGIO",
       "precio": 2400,
-      "stock": 6,
+      "stock": 5,
       "barcode": "7790036975566"
     },
     {
@@ -957,7 +965,7 @@
       "vino": "Agua S/Gas x600",
       "bodega": "BAGGIO",
       "precio": 700,
-      "stock": 2,
+      "stock": -4,
       "barcode": ""
     },
     {
@@ -981,7 +989,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 7,
+      "stock": 5,
       "barcode": "7790036008974"
     },
     {
@@ -989,7 +997,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7790036001647"
     },
     {
@@ -1013,7 +1021,7 @@
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 8,
+      "stock": 7,
       "barcode": "7790036001562"
     },
     {
@@ -1037,7 +1045,7 @@
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 8,
+      "stock": 6,
       "barcode": "7790036001579"
     },
     {
@@ -1117,7 +1125,7 @@
       "vino": "Pronto baggio multifrutal",
       "bodega": "BAGGIO",
       "precio": 2000,
-      "stock": 12,
+      "stock": 8,
       "barcode": "7790036000466"
     },
     {
@@ -1125,7 +1133,7 @@
       "vino": "Pronto baggio naranja",
       "bodega": "BAGGIO",
       "precio": 2000,
-      "stock": 20,
+      "stock": 19,
       "barcode": "7790036000329"
     },
     {
@@ -1141,7 +1149,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -1,
+      "stock": -5,
       "barcode": "7790036975481"
     },
     {
@@ -1149,7 +1157,7 @@
       "vino": "baggio exprimido",
       "bodega": "BAGGIO",
       "precio": 3500,
-      "stock": 4,
+      "stock": 1,
       "barcode": "7790036976488"
     },
     {
@@ -1373,7 +1381,7 @@
       "vino": "Gin Mitos F.Rojos",
       "bodega": "BEBIDAS FUERTES",
       "precio": 14000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "632627892630"
     },
     {
@@ -2029,7 +2037,7 @@
       "vino": "Callia Varietales  - syrah caber",
       "bodega": "BODEGA CALLIA",
       "precio": 4250,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7798108834131"
     },
     {
@@ -2037,7 +2045,7 @@
       "vino": "Callia Varietales  - syrah malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 4250,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7798108833486"
     },
     {
@@ -2045,7 +2053,7 @@
       "vino": "Callia tardio / rosado",
       "bodega": "BODEGA CALLIA",
       "precio": 4450,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798108832250"
     },
     {
@@ -2069,7 +2077,7 @@
       "vino": "Esperado Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
-      "stock": -35,
+      "stock": -42,
       "barcode": "7798108834339"
     },
     {
@@ -2109,7 +2117,7 @@
       "vino": "Oveja black malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 66,
+      "stock": 63,
       "barcode": "7798162671673"
     },
     {
@@ -2133,7 +2141,7 @@
       "vino": "Profugo Malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 35,
+      "stock": 33,
       "barcode": "7798162670713"
     },
     {
@@ -2317,7 +2325,7 @@
       "vino": "Ejes Tannat",
       "bodega": "BODEGA EJES",
       "precio": 10400,
-      "stock": -1,
+      "stock": -2,
       "barcode": ""
     },
     {
@@ -2765,7 +2773,7 @@
       "vino": "Intimo Trivarietal Cab/Malb/Merlot",
       "bodega": "BODEGA H.CANALE",
       "precio": 8500,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790805131223"
     },
     {
@@ -2837,7 +2845,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6450,
-      "stock": 14,
+      "stock": 13,
       "barcode": "7798089430414"
     },
     {
@@ -3013,7 +3021,7 @@
       "vino": "Norton Cosecha Tardia Bco",
       "bodega": "BODEGA NORTON",
       "precio": 5550,
-      "stock": -6,
+      "stock": -9,
       "barcode": "7792319972224"
     },
     {
@@ -3101,7 +3109,7 @@
       "vino": "Pascual toso Alta malbec",
       "bodega": "BODEGA PASCUAL TOSO",
       "precio": 28400,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791670025105"
     },
     {
@@ -3269,7 +3277,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 15300,
-      "stock": 19,
+      "stock": 18,
       "barcode": "7790577006101"
     },
     {
@@ -3293,7 +3301,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 18600,
-      "stock": 43,
+      "stock": 42,
       "barcode": "7790577001663"
     },
     {
@@ -3397,7 +3405,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13400,
-      "stock": -4,
+      "stock": -7,
       "barcode": "7790577041553"
     },
     {
@@ -3605,7 +3613,7 @@
       "vino": "Killka malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 8050,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798074865191"
     },
     {
@@ -3661,7 +3669,7 @@
       "vino": "Salentein  - cabernet",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12300,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7798074860349"
     },
     {
@@ -3709,7 +3717,7 @@
       "vino": "Salentein Brut Nature",
       "bodega": "BODEGA SALENTEIN",
       "precio": 15100,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7798074864910"
     },
     {
@@ -3733,7 +3741,7 @@
       "vino": "Salentein Numina Cabernet",
       "bodega": "BODEGA SALENTEIN",
       "precio": 16990,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798074865641"
     },
     {
@@ -3797,7 +3805,7 @@
       "vino": "Salentein x 375",
       "bodega": "BODEGA SALENTEIN",
       "precio": 8000,
-      "stock": 0,
+      "stock": -3,
       "barcode": "7798074860653"
     },
     {
@@ -4125,7 +4133,7 @@
       "vino": "Piatelli reserva - cabernet mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798124010144"
     },
     {
@@ -4133,7 +4141,7 @@
       "vino": "Piatelli reserva - malbec Mendoza",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -2,
+      "stock": -5,
       "barcode": "7798124010137"
     },
     {
@@ -4141,7 +4149,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7798124010243"
     },
     {
@@ -4149,7 +4157,7 @@
       "vino": "Piatelli reserva malb - tannat Cafayate",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": 0,
+      "stock": -2,
       "barcode": "040232855030"
     },
     {
@@ -4213,7 +4221,7 @@
       "vino": "piatelli torrontes",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798124010267"
     },
     {
@@ -4237,7 +4245,7 @@
       "vino": "Alambrado Estuche x 1",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 11600,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7791728004069"
     },
     {
@@ -4285,7 +4293,7 @@
       "vino": "Malamado Malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 20200,
-      "stock": 15,
+      "stock": 14,
       "barcode": "7791728002478"
     },
     {
@@ -4301,7 +4309,7 @@
       "vino": "Malamado x187",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6500,
-      "stock": 0,
+      "stock": 79,
       "barcode": "7791728231878"
     },
     {
@@ -4349,7 +4357,7 @@
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": 56,
+      "stock": 52,
       "barcode": "7791728247091"
     },
     {
@@ -4389,7 +4397,7 @@
       "vino": "Santa Julia dulce estuche con vasos",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 20400,
-      "stock": 7,
+      "stock": 12,
       "barcode": "7791728239447"
     },
     {
@@ -4597,7 +4605,7 @@
       "vino": "Branca x 750",
       "bodega": "BRANCA",
       "precio": 19700,
-      "stock": -10,
+      "stock": -13,
       "barcode": "7790290101602"
     },
     {
@@ -4693,7 +4701,7 @@
       "vino": "Ruca Malen  - malbec",
       "bodega": "Bodega  Ruca Malen",
       "precio": 7950,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790070651068"
     },
     {
@@ -4781,7 +4789,7 @@
       "vino": "Tucumen reserva malbec",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 28,
+      "stock": 27,
       "barcode": "7798080490400"
     },
     {
@@ -4981,7 +4989,7 @@
       "vino": "Escorihuela gascon - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 11760,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790415129122"
     },
     {
@@ -5317,7 +5325,7 @@
       "vino": "Las Perdices Ala Colorada Cab Franc",
       "bodega": "Bodega Las Perdices",
       "precio": 17600,
-      "stock": 15,
+      "stock": 14,
       "barcode": "7798123970593"
     },
     {
@@ -5325,7 +5333,7 @@
       "vino": "Las Perdices Ala Colorada ancelotta",
       "bodega": "Bodega Las Perdices",
       "precio": 17600,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7798123970692"
     },
     {
@@ -5429,7 +5437,7 @@
       "vino": "Las Perdices Reseva - pinot",
       "bodega": "Bodega Las Perdices",
       "precio": 13800,
-      "stock": 30,
+      "stock": 29,
       "barcode": "7798123970432"
     },
     {
@@ -5485,7 +5493,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 17,
+      "stock": 14,
       "barcode": "7798123971309"
     },
     {
@@ -5493,7 +5501,7 @@
       "vino": "Las perdices PARTRIDGE Cabernet",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 13,
+      "stock": 12,
       "barcode": "7798123971316"
     },
     {
@@ -5501,7 +5509,7 @@
       "vino": "Las perdices PARTRIDGE red blend",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 14,
+      "stock": 13,
       "barcode": "7798123972115"
     },
     {
@@ -5517,7 +5525,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 18700,
-      "stock": -4,
+      "stock": -7,
       "barcode": "7798103165711"
     },
     {
@@ -5941,7 +5949,7 @@
       "vino": "Otro Loco",
       "bodega": "Bodega don bosco",
       "precio": 5250,
-      "stock": 45,
+      "stock": 44,
       "barcode": "7795232000524"
     },
     {
@@ -5949,7 +5957,7 @@
       "vino": "conejo verde - dulce natural",
       "bodega": "Bodega los aroldos",
       "precio": 9150,
-      "stock": -6,
+      "stock": -8,
       "barcode": "7791843020760"
     },
     {
@@ -5973,7 +5981,7 @@
       "vino": "psicoanalita cab franc",
       "bodega": "Bodega psicoanalasta",
       "precio": 13300,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798196780471"
     },
     {
@@ -6069,7 +6077,7 @@
       "vino": "castelo x6 estuche",
       "bodega": "CASTELO",
       "precio": 28000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798334490224"
     },
     {
@@ -6077,7 +6085,7 @@
       "vino": "Alamos Reserva malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9200,
-      "stock": 27,
+      "stock": 26,
       "barcode": "7794450091338"
     },
     {
@@ -6245,7 +6253,7 @@
       "vino": "DV Caber. Malbec estuche x 2",
       "bodega": "CATENA ZAPATA",
       "precio": 38000,
-      "stock": 8,
+      "stock": 7,
       "barcode": "7794450091376"
     },
     {
@@ -6277,7 +6285,7 @@
       "vino": "DV Malbec Malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 22800,
-      "stock": 49,
+      "stock": 48,
       "barcode": "7794450090096"
     },
     {
@@ -6453,7 +6461,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12300,
-      "stock": 41,
+      "stock": 40,
       "barcode": "7794450088581"
     },
     {
@@ -6541,7 +6549,7 @@
       "vino": "el gran enemigo malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 60600,
-      "stock": 4,
+      "stock": 3,
       "barcode": ""
     },
     {
@@ -6589,7 +6597,7 @@
       "vino": "Cigarro CafeCreme brown café (holanda)",
       "bodega": "CIGARROS",
       "precio": 13750,
-      "stock": 50,
+      "stock": 49,
       "barcode": "8720400252589"
     },
     {
@@ -6621,7 +6629,7 @@
       "vino": "Cigarro Candelight corona fran de miranda(azul dinamarca)",
       "bodega": "CIGARROS",
       "precio": 6000,
-      "stock": 10,
+      "stock": 9,
       "barcode": ""
     },
     {
@@ -6749,7 +6757,7 @@
       "vino": "Coca Cola  1,5 S/Az",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790895067556"
     },
     {
@@ -6757,7 +6765,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -23,
+      "stock": -27,
       "barcode": "7790895000430"
     },
     {
@@ -6781,7 +6789,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "COCA COLA",
       "precio": 4200,
-      "stock": 36,
+      "stock": 32,
       "barcode": "7790895000218"
     },
     {
@@ -6813,7 +6821,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": 20,
+      "stock": 19,
       "barcode": "7790895005374"
     },
     {
@@ -6869,7 +6877,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7790895010088"
     },
     {
@@ -6877,7 +6885,7 @@
       "vino": "Schwepps tonica",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790895006715"
     },
     {
@@ -7101,7 +7109,7 @@
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
       "precio": 3000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7898953990157"
     },
     {
@@ -7317,7 +7325,7 @@
       "vino": "Corona x 330",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4100,
-      "stock": 48,
+      "stock": 22,
       "barcode": "7792798003709"
     },
     {
@@ -7333,7 +7341,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6310,
-      "stock": 22,
+      "stock": 20,
       "barcode": "7792798003716"
     },
     {
@@ -7453,7 +7461,7 @@
       "vino": "Imperial  x 473 ipa",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7793147570743"
     },
     {
@@ -7725,7 +7733,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 7600,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7790168904663"
     },
     {
@@ -7837,7 +7845,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco",
       "bodega": "Crotta",
       "precio": 12900,
-      "stock": 2,
+      "stock": 1,
       "barcode": "7794068000029"
     },
     {
@@ -7869,7 +7877,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
       "precio": 12300,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7794068000012"
     },
     {
@@ -7885,7 +7893,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 0,
+      "stock": -2,
       "barcode": "1148547501013"
     },
     {
@@ -8053,7 +8061,7 @@
       "vino": "Equilibrista El Gran blend",
       "bodega": "EQUILIBRISTA",
       "precio": 20300,
-      "stock": 0,
+      "stock": -2,
       "barcode": "7798193470030"
     },
     {
@@ -8309,7 +8317,7 @@
       "vino": "Estuche x 2 copas barone de vino",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 26000,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -8429,7 +8437,7 @@
       "vino": "El Espia Cap. Primero",
       "bodega": "Eduardo Vidal",
       "precio": 8500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798071031148"
     },
     {
@@ -8669,7 +8677,7 @@
       "vino": "Estuche Champ x 2 Copa",
       "bodega": "Estuches cerveza",
       "precio": 21500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "18"
     },
     {
@@ -8861,7 +8869,7 @@
       "vino": "329 marsellan",
       "bodega": "FINCA FENIX",
       "precio": 18000,
-      "stock": 12,
+      "stock": 10,
       "barcode": "727373047257"
     },
     {
@@ -8917,7 +8925,7 @@
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 6200,
-      "stock": 13,
+      "stock": 7,
       "barcode": "7790240042108"
     },
     {
@@ -9085,7 +9093,7 @@
       "vino": "Los Intocables Black Malbec",
       "bodega": "FINCA LAS MORAS",
       "precio": 9550,
-      "stock": 11,
+      "stock": 10,
       "barcode": "7791540049347"
     },
     {
@@ -9109,7 +9117,7 @@
       "vino": "Los intocables Double Oak ( Azul)",
       "bodega": "FINCA LAS MORAS",
       "precio": 9550,
-      "stock": 10,
+      "stock": 9,
       "barcode": "7791540999789"
     },
     {
@@ -9229,7 +9237,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva melot",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7798000211030"
     },
     {
@@ -9277,7 +9285,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2200,
-      "stock": -11,
+      "stock": -14,
       "barcode": "66"
     },
     {
@@ -9373,7 +9381,7 @@
       "vino": "Finca La Celia Reseva Malbec",
       "bodega": "Fca.LA CELIA",
       "precio": 9250,
-      "stock": -8,
+      "stock": -14,
       "barcode": "7798141877058"
     },
     {
@@ -9733,7 +9741,7 @@
       "vino": "Full mani x30",
       "bodega": "Georgalos",
       "precio": 1050,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790380025177"
     },
     {
@@ -9845,7 +9853,7 @@
       "vino": "Tokke Dulce de leche",
       "bodega": "Georgalos",
       "precio": 2100,
-      "stock": -9,
+      "stock": -11,
       "barcode": "7790380022107"
     },
     {
@@ -9853,7 +9861,7 @@
       "vino": "Tokke Leche y Mani",
       "bodega": "Georgalos",
       "precio": 2200,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790380022121"
     },
     {
@@ -9869,7 +9877,7 @@
       "vino": "Tokke dulce de leche x500",
       "bodega": "Georgalos",
       "precio": 13500,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790380022183"
     },
     {
@@ -9933,7 +9941,7 @@
       "vino": "Distinto se nace",
       "bodega": "Huella pampa wines",
       "precio": 3300,
-      "stock": -2,
+      "stock": -4,
       "barcode": "8436613745076"
     },
     {
@@ -9957,7 +9965,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6550,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798112630521"
     },
     {
@@ -9965,7 +9973,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 6300,
-      "stock": -7,
+      "stock": -11,
       "barcode": "7798112631306"
     },
     {
@@ -10549,7 +10557,7 @@
       "vino": "El cazador",
       "bodega": "MASCOTA",
       "precio": 5150,
-      "stock": -14,
+      "stock": -16,
       "barcode": "7790762754107"
     },
     {
@@ -10605,7 +10613,7 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790036004600"
     },
     {
@@ -10621,7 +10629,7 @@
       "vino": "Gaseosas Mocoreta Naranja",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -24,
+      "stock": -25,
       "barcode": "7790036004587"
     },
     {
@@ -10637,7 +10645,7 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7790036105956"
     },
     {
@@ -10661,7 +10669,7 @@
       "vino": "Abrasado Historic blend malbec bonarda",
       "bodega": "Mosquita muerta",
       "precio": 5900,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798159947422"
     },
     {
@@ -10941,7 +10949,7 @@
       "vino": "Los Arboles cabernet",
       "bodega": "NAVARRO CORREAS",
       "precio": 4850,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7791250000942"
     },
     {
@@ -10949,7 +10957,7 @@
       "vino": "Los Arboles malbec",
       "bodega": "NAVARRO CORREAS",
       "precio": 4850,
-      "stock": -19,
+      "stock": -15,
       "barcode": "7791250000935"
     },
     {
@@ -11045,7 +11053,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -6,
+      "stock": -14,
       "barcode": "7790070760579"
     },
     {
@@ -11053,7 +11061,7 @@
       "vino": "Benjamin Nieto  - syrah",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7793440703138"
     },
     {
@@ -11069,7 +11077,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "Nieto Senetiner",
       "precio": 3600,
-      "stock": -3,
+      "stock": -6,
       "barcode": "7793440703800"
     },
     {
@@ -11245,7 +11253,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790070760777"
     },
     {
@@ -11317,7 +11325,7 @@
       "vino": "Nieto 0% Malbec Pinot",
       "bodega": "Nieto Senetiner",
       "precio": 11000,
-      "stock": -10,
+      "stock": -13,
       "barcode": "7790070106919"
     },
     {
@@ -11461,7 +11469,7 @@
       "vino": "O61 Malbec",
       "bodega": "O61",
       "precio": 10800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798081669133"
     },
     {
@@ -11581,7 +11589,7 @@
       "vino": "Pulpa Anana",
       "bodega": "PULPAS",
       "precio": 5600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7795933202029"
     },
     {
@@ -11589,7 +11597,7 @@
       "vino": "Pulpa Durazno",
       "bodega": "PULPAS",
       "precio": 4800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7795933207017"
     },
     {
@@ -11669,7 +11677,7 @@
       "vino": "Paso de los toros pomelo",
       "bodega": "RAVSA",
       "precio": 3850,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7791813421382"
     },
     {
@@ -11701,7 +11709,7 @@
       "vino": "ruleta x4 estuche",
       "bodega": "RULETA RUSA",
       "precio": 20500,
-      "stock": -1,
+      "stock": -2,
       "barcode": ""
     },
     {
@@ -11717,7 +11725,7 @@
       "vino": "Soda sifon",
       "bodega": "SECO",
       "precio": 1600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7792758372432"
     },
     {
@@ -11829,7 +11837,7 @@
       "vino": "Terma Serrano",
       "bodega": "TERMA",
       "precio": 2350,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790950133318"
     },
     {
@@ -12133,7 +12141,7 @@
       "vino": "Doña paula Smoked Red Blent",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": 25,
+      "stock": 24,
       "barcode": "7798090163400"
     },
     {
@@ -12197,7 +12205,7 @@
       "vino": "Arrogante Malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 14500,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7790843000239"
     },
     {
@@ -12261,7 +12269,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 11100,
-      "stock": -5,
+      "stock": -8,
       "barcode": "7798127632077"
     },
     {
@@ -12397,7 +12405,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -5,
+      "stock": -6,
       "barcode": ""
     },
     {
@@ -12469,7 +12477,7 @@
       "vino": "Sottano Reserva - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 12200,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798127630134"
     },
     {
@@ -12725,7 +12733,7 @@
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 29500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "5010103800310"
     },
     {
@@ -12757,7 +12765,7 @@
       "vino": "Jameson 8 Años",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 36000,
-      "stock": -1,
+      "stock": -2,
       "barcode": "5011007003005"
     },
     {
@@ -12909,7 +12917,7 @@
       "vino": "Old Parr",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 59800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "5000281003160"
     },
     {
@@ -12965,7 +12973,7 @@
       "vino": "Caballito",
       "bodega": "WHISKYS NACIONALES",
       "precio": 20350,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7791250001253"
     },
     {
@@ -13293,7 +13301,7 @@
       "vino": "Bolsas Friselina 40x30",
       "bodega": "bolsas",
       "precio": 850,
-      "stock": -1,
+      "stock": -2,
       "barcode": "47"
     },
     {
@@ -13487,36 +13495,36 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 32
-    },
-    {
-      "id": 5193,
-      "vino": "Esperado Malbec",
-      "bodega": "BODEGA CALLIA",
-      "precio": 5500,
-      "vendidos": 29
+      "vendidos": 27
     },
     {
       "id": 5740,
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 6900,
-      "vendidos": 22
+      "vendidos": 20
     },
     {
-      "id": 6197,
-      "vino": "Los Arboles malbec",
-      "bodega": "NAVARRO CORREAS",
-      "precio": 4850,
-      "vendidos": 19
+      "id": 6206,
+      "vino": "Benjamin Nieto  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 4900,
+      "vendidos": 17
     },
     {
-      "id": 5415,
-      "vino": "Santa Julia Chenin Dulce",
-      "bodega": "BODEGA ZUCCARDI",
-      "precio": 6150,
+      "id": 5193,
+      "vino": "Esperado Malbec",
+      "bodega": "BODEGA CALLIA",
+      "precio": 5500,
+      "vendidos": 17
+    },
+    {
+      "id": 5753,
+      "vino": "DAMAJUANA Crotta x 5Lts Tinto",
+      "bodega": "Crotta",
+      "precio": 12300,
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-09T15:28:29.635Z"
+  "lastUpdate": "2026-10-14T13:47:10.859Z"
 }
