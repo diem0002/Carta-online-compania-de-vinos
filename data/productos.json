@@ -5,7 +5,7 @@
       "vino": "Hormiga Negra",
       "bodega": "Vinos",
       "precio": 4100,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7798001610368"
     },
     {
@@ -233,22 +233,6 @@
       "barcode": ""
     },
     {
-      "id": 6656,
-      "vino": "Promo inmigrante London + paso de los toros",
-      "bodega": "Promos",
-      "precio": 15800,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
-      "id": 6657,
-      "vino": "Promo inmigrante pomelo + paso de los toros",
-      "bodega": "Promos",
-      "precio": 20750,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
       "id": 6611,
       "vino": "Promo terrier + Mocoreta tonica",
       "bodega": "Promos",
@@ -260,7 +244,7 @@
       "id": 6610,
       "vino": "Promo terrier + Paso de los toros",
       "bodega": "Promos",
-      "precio": 14900,
+      "precio": 15000,
       "stock": 0,
       "barcode": ""
     },
@@ -709,7 +693,7 @@
       "vino": "Cinzano Rosso",
       "bodega": "APERITIVOS",
       "precio": 8300,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7791200200552"
     },
     {
@@ -2773,7 +2757,7 @@
       "vino": "Intimo Trivarietal Cab/Malb/Merlot",
       "bodega": "BODEGA H.CANALE",
       "precio": 8500,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7790805131223"
     },
     {
@@ -4157,7 +4141,7 @@
       "vino": "Piatelli reserva malb - tannat Cafayate",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -2,
+      "stock": -3,
       "barcode": "040232855030"
     },
     {
@@ -5053,7 +5037,7 @@
       "vino": "Gascon Varietales - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 7450,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790415127814"
     },
     {
@@ -5309,7 +5293,7 @@
       "vino": "Las Perdices  - Sauvignon Blanc",
       "bodega": "Bodega Las Perdices",
       "precio": 9050,
-      "stock": 17,
+      "stock": 16,
       "barcode": "7798123970166"
     },
     {
@@ -5397,7 +5381,7 @@
       "vino": "Las Perdices PARTRIDGE Bag In Box",
       "bodega": "Bodega Las Perdices",
       "precio": 18000,
-      "stock": 10,
+      "stock": 2,
       "barcode": "7798123974515"
     },
     {
@@ -5485,7 +5469,7 @@
       "vino": "Las perdices Bag in box duo",
       "bodega": "Bodega Las Perdices",
       "precio": 27100,
-      "stock": 5,
+      "stock": 3,
       "barcode": "7798123974539"
     },
     {
@@ -6397,7 +6381,7 @@
       "vino": "Nicasia malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 9600,
-      "stock": 30,
+      "stock": 29,
       "barcode": "7794450000149"
     },
     {
@@ -6780,7 +6764,7 @@
       "id": 6016,
       "vino": "Coca Cola 2,25 S/Az",
       "bodega": "COCA COLA",
-      "precio": 6300,
+      "precio": 6420,
       "stock": -1,
       "barcode": "7790895067570"
     },
@@ -6788,7 +6772,7 @@
       "id": 6017,
       "vino": "Coca Cola Retornable",
       "bodega": "COCA COLA",
-      "precio": 4200,
+      "precio": 4350,
       "stock": 32,
       "barcode": "7790895000218"
     },
@@ -6821,14 +6805,14 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": 19,
+      "stock": 18,
       "barcode": "7790895005374"
     },
     {
       "id": 6022,
       "vino": "Coca Cola x500",
       "bodega": "COCA COLA",
-      "precio": 1800,
+      "precio": 2100,
       "stock": -1,
       "barcode": "7790895000782"
     },
@@ -6836,7 +6820,7 @@
       "id": 6036,
       "vino": "Monster",
       "bodega": "COCA COLA",
-      "precio": 3700,
+      "precio": 3770,
       "stock": 0,
       "barcode": "7798422620014"
     },
@@ -6844,7 +6828,7 @@
       "id": 6037,
       "vino": "Monster mango",
       "bodega": "COCA COLA",
-      "precio": 3700,
+      "precio": 3770,
       "stock": 0,
       "barcode": "7798422620045"
     },
@@ -6852,7 +6836,7 @@
       "id": 6041,
       "vino": "Powerade x500 azul",
       "bodega": "COCA COLA",
-      "precio": 2500,
+      "precio": 2600,
       "stock": -2,
       "barcode": "7790895640025"
     },
@@ -6860,7 +6844,7 @@
       "id": 6042,
       "vino": "Powerade x500 manzana",
       "bodega": "COCA COLA",
-      "precio": 2500,
+      "precio": 2600,
       "stock": 0,
       "barcode": "7790895640018"
     },
@@ -6868,7 +6852,7 @@
       "id": 6043,
       "vino": "Powerade x500 rojo",
       "bodega": "COCA COLA",
-      "precio": 2500,
+      "precio": 2600,
       "stock": 0,
       "barcode": "7790895641183"
     },
@@ -6877,7 +6861,7 @@
       "vino": "Schwepps pomelo",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790895010088"
     },
     {
@@ -6895,6 +6879,38 @@
       "precio": 917,
       "stock": 0,
       "barcode": ""
+    },
+    {
+      "id": 6050,
+      "vino": "Sprite 1,5",
+      "bodega": "COCA COLA",
+      "precio": 4700,
+      "stock": -2,
+      "barcode": "7790895000447"
+    },
+    {
+      "id": 6051,
+      "vino": "Sprite 2,25",
+      "bodega": "COCA COLA",
+      "precio": 6420,
+      "stock": 0,
+      "barcode": "7790895001000"
+    },
+    {
+      "id": 6052,
+      "vino": "Sprite retornable",
+      "bodega": "COCA COLA",
+      "precio": 4350,
+      "stock": -2,
+      "barcode": "7790895000225"
+    },
+    {
+      "id": 6054,
+      "vino": "coca cola 2,5",
+      "bodega": "COCA COLA",
+      "precio": 6800,
+      "stock": 0,
+      "barcode": "7790895005794"
     },
     {
       "id": 6102,
@@ -7341,7 +7357,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6310,
-      "stock": 20,
+      "stock": 19,
       "barcode": "7792798003716"
     },
     {
@@ -7877,7 +7893,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
       "precio": 12300,
-      "stock": -4,
+      "stock": -6,
       "barcode": "7794068000012"
     },
     {
@@ -9261,7 +9277,7 @@
       "vino": "H. J. Fabre Reserva Malb-Pinot",
       "bodega": "FRATELLI BRANCA",
       "precio": 10700,
-      "stock": 19,
+      "stock": 18,
       "barcode": "7798000213652"
     },
     {
@@ -9457,44 +9473,12 @@
       "barcode": "7798119220183"
     },
     {
-      "id": 6050,
-      "vino": "Sprite 1,5",
-      "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 4700,
-      "stock": -2,
-      "barcode": "7790895000447"
-    },
-    {
-      "id": 6051,
-      "vino": "Sprite 2,25",
-      "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 6300,
-      "stock": 0,
-      "barcode": "7790895001000"
-    },
-    {
-      "id": 6052,
-      "vino": "Sprite retornable",
-      "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 4200,
-      "stock": -2,
-      "barcode": "7790895000225"
-    },
-    {
       "id": 6053,
       "vino": "Sprite x 500",
       "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 1800,
+      "precio": 2100,
       "stock": 0,
       "barcode": "7790895000829"
-    },
-    {
-      "id": 6054,
-      "vino": "coca cola 2,5",
-      "bodega": "GASEOSAS Y ENERGISANTES",
-      "precio": 6800,
-      "stock": 0,
-      "barcode": "7790895005794"
     },
     {
       "id": 6055,
@@ -11053,7 +11037,7 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7790070760579"
     },
     {
@@ -11676,7 +11660,7 @@
       "id": 6038,
       "vino": "Paso de los toros pomelo",
       "bodega": "RAVSA",
-      "precio": 3850,
+      "precio": 3950,
       "stock": -2,
       "barcode": "7791813421382"
     },
@@ -11692,7 +11676,7 @@
       "id": 6040,
       "vino": "Paso de los toros tonica",
       "bodega": "RAVSA",
-      "precio": 3850,
+      "precio": 3950,
       "stock": -1,
       "barcode": "7791813421368"
     },
@@ -13485,7 +13469,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": 589,
+      "stock": 584,
       "barcode": ""
     }
   ],
@@ -13495,7 +13479,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 27
+      "vendidos": 29
     },
     {
       "id": 5740,
@@ -13509,7 +13493,14 @@
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
-      "vendidos": 17
+      "vendidos": 18
+    },
+    {
+      "id": 5753,
+      "vino": "DAMAJUANA Crotta x 5Lts Tinto",
+      "bodega": "Crotta",
+      "precio": 12300,
+      "vendidos": 18
     },
     {
       "id": 5193,
@@ -13517,14 +13508,7 @@
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
       "vendidos": 17
-    },
-    {
-      "id": 5753,
-      "vino": "DAMAJUANA Crotta x 5Lts Tinto",
-      "bodega": "Crotta",
-      "precio": 12300,
-      "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-14T13:47:10.859Z"
+  "lastUpdate": "2026-10-15T13:45:21.412Z"
 }
