@@ -7012,7 +7012,7 @@
       "id": 5661,
       "vino": "Caja tapa de vidrio x2",
       "bodega": "Cajas y canastas para vino",
-      "precio": 28000,
+      "precio": 30000,
       "stock": 0,
       "barcode": "36"
     },
@@ -13510,5 +13510,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-10-16T21:42:47.351Z"
+  "lastUpdate": "2026-10-16T21:48:11.725Z"
 }
