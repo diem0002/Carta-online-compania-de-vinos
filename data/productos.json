@@ -2845,7 +2845,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "stock": 35,
+      "stock": 32,
       "barcode": "7798089430179"
     },
     {
@@ -3309,7 +3309,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 34200,
-      "stock": 29,
+      "stock": 28,
       "barcode": "7790577001151"
     },
     {
@@ -3453,7 +3453,7 @@
       "vino": "Trumpeter reserva estuche x1",
       "bodega": "BODEGA RUTINI",
       "precio": 21300,
-      "stock": 2,
+      "stock": 1,
       "barcode": "7790577041577"
     },
     {
@@ -3980,7 +3980,7 @@
       "id": 5375,
       "vino": "Fond de Cave Gran  Reserva - blend",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 21550,
+      "precio": 22250,
       "stock": 3,
       "barcode": "7790240094732"
     },
@@ -3988,7 +3988,7 @@
       "id": 5376,
       "vino": "Fond de Cave Gran  Reserva - malbec",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 21550,
+      "precio": 22250,
       "stock": 4,
       "barcode": "7790240042481"
     },
@@ -4133,7 +4133,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -9,
+      "stock": -12,
       "barcode": "7798124010243"
     },
     {
@@ -4485,7 +4485,7 @@
       "vino": "santa Julia  - malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5200,
-      "stock": 24,
+      "stock": 23,
       "barcode": "7791728247114"
     },
     {
@@ -7524,7 +7524,7 @@
       "id": 5714,
       "vino": "Miller x 473",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 2900,
+      "precio": 3000,
       "stock": -12,
       "barcode": "7793147573386"
     },
@@ -8932,7 +8932,7 @@
       "id": 5953,
       "vino": "Alma Mora cabernet",
       "bodega": "FINCA LAS MORAS",
-      "precio": 6200,
+      "precio": 6400,
       "stock": 13,
       "barcode": "7790240042085"
     },
@@ -8940,7 +8940,7 @@
       "id": 5954,
       "vino": "Alma Mora malbec",
       "bodega": "FINCA LAS MORAS",
-      "precio": 6200,
+      "precio": 6400,
       "stock": 13,
       "barcode": "7790240042108"
     },
@@ -8948,7 +8948,7 @@
       "id": 5955,
       "vino": "Alma Mora rosado dulce",
       "bodega": "FINCA LAS MORAS",
-      "precio": 6200,
+      "precio": 6400,
       "stock": 0,
       "barcode": ""
     },
@@ -8956,7 +8956,7 @@
       "id": 5956,
       "vino": "Alma Mora syrah",
       "bodega": "FINCA LAS MORAS",
-      "precio": 6200,
+      "precio": 6400,
       "stock": 4,
       "barcode": "7790240042092"
     },
@@ -9053,7 +9053,7 @@
       "vino": "Dada Fca Las Moras 8",
       "bodega": "FINCA LAS MORAS",
       "precio": 6150,
-      "stock": 2,
+      "stock": 7,
       "barcode": "7791540049590"
     },
     {
@@ -9245,7 +9245,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva chardonay",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -1,
+      "stock": -3,
       "barcode": "7798000211061"
     },
     {
@@ -10364,7 +10364,7 @@
       "id": 6373,
       "vino": "Bautismo  - blend",
       "bodega": "LIGA DE LOS ENOLOGOS",
-      "precio": 5100,
+      "precio": 5200,
       "stock": 0,
       "barcode": "7791540049927"
     },
@@ -10372,7 +10372,7 @@
       "id": 6374,
       "vino": "Bautismo  - malbec",
       "bodega": "LIGA DE LOS ENOLOGOS",
-      "precio": 5100,
+      "precio": 5200,
       "stock": 3,
       "barcode": "7791540049910"
     },
@@ -10380,7 +10380,7 @@
       "id": 6375,
       "vino": "Bautismo - rosado",
       "bodega": "LIGA DE LOS ENOLOGOS",
-      "precio": 5100,
+      "precio": 5200,
       "stock": 6,
       "barcode": "7791540049941"
     },
@@ -11061,7 +11061,7 @@
       "vino": "Benjamin Nieto x 375",
       "bodega": "Nieto Senetiner",
       "precio": 3600,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7793440703800"
     },
     {
@@ -11309,7 +11309,7 @@
       "vino": "Nieto 0% Malbec Pinot",
       "bodega": "Nieto Senetiner",
       "precio": 11000,
-      "stock": -13,
+      "stock": -14,
       "barcode": "7790070106919"
     },
     {
@@ -11365,7 +11365,7 @@
       "vino": "Nieto Senetiner E.Brut 0%",
       "bodega": "Nieto Senetiner",
       "precio": 16100,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790070104854"
     },
     {
@@ -12069,7 +12069,7 @@
       "vino": "Doña Paula  - Single vineyard malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 13500,
-      "stock": 4,
+      "stock": 2,
       "barcode": "7798090164681"
     },
     {
@@ -12093,7 +12093,7 @@
       "vino": "Doña Paula 1350",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 15850,
-      "stock": 7,
+      "stock": 5,
       "barcode": "7798090162779"
     },
     {
@@ -12253,7 +12253,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 11100,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798127632077"
     },
     {
@@ -13482,18 +13482,18 @@
       "vendidos": 29
     },
     {
+      "id": 5263,
+      "vino": "Viña de Caroya Lagrimilla",
+      "bodega": "BODEGA LA CAROYENSE",
+      "precio": 9450,
+      "vendidos": 22
+    },
+    {
       "id": 5740,
       "vino": "Colon Tto Dce",
       "bodega": "Colon",
       "precio": 6900,
       "vendidos": 20
-    },
-    {
-      "id": 5263,
-      "vino": "Viña de Caroya Lagrimilla",
-      "bodega": "BODEGA LA CAROYENSE",
-      "precio": 9450,
-      "vendidos": 19
     },
     {
       "id": 6206,
@@ -13510,5 +13510,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-10-16T15:19:45.298Z"
+  "lastUpdate": "2026-10-16T21:42:47.351Z"
 }
