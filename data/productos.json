@@ -5381,7 +5381,7 @@
       "vino": "Las Perdices PARTRIDGE Bag In Box",
       "bodega": "Bodega Las Perdices",
       "precio": 18000,
-      "stock": 11,
+      "stock": 4,
       "barcode": "7798123974515"
     },
     {
@@ -5469,7 +5469,7 @@
       "vino": "Las perdices Bag in box duo",
       "bodega": "Bodega Las Perdices",
       "precio": 27100,
-      "stock": 5,
+      "stock": 3,
       "barcode": "7798123974539"
     },
     {
@@ -5933,7 +5933,7 @@
       "vino": "Otro Loco",
       "bodega": "Bodega don bosco",
       "precio": 5250,
-      "stock": 45,
+      "stock": 43,
       "barcode": "7795232000524"
     },
     {
@@ -8045,7 +8045,7 @@
       "vino": "Cebollitas",
       "bodega": "ENCURTIDOS VANOLI",
       "precio": 3400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790127000115"
     },
     {
@@ -12717,7 +12717,7 @@
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 29500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "5010103800310"
     },
     {
@@ -13469,7 +13469,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": 584,
+      "stock": 583,
       "barcode": ""
     }
   ],
@@ -13479,7 +13479,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 28
+      "vendidos": 29
     },
     {
       "id": 5263,
@@ -13496,19 +13496,19 @@
       "vendidos": 20
     },
     {
-      "id": 5740,
-      "vino": "Colon Tto Dce",
-      "bodega": "Colon",
-      "precio": 6900,
-      "vendidos": 20
-    },
-    {
       "id": 6206,
       "vino": "Benjamin Nieto  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 4900,
       "vendidos": 19
+    },
+    {
+      "id": 5740,
+      "vino": "Colon Tto Dce",
+      "bodega": "Colon",
+      "precio": 6900,
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-10-19T22:49:00.152Z"
+  "lastUpdate": "2026-10-20T13:21:56.870Z"
 }
