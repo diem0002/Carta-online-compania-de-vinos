@@ -6554,11 +6554,11 @@
     },
     {
       "id": 5639,
-      "vino": "Cigarro CafeCreme amarillo comun (holanda)",
+      "vino": "Cigarro CafeCreme amarillo Original (holanda)",
       "bodega": "CIGARROS",
       "precio": 13750,
       "stock": 0,
-      "barcode": ""
+      "barcode": "8720400000210"
     },
     {
       "id": 5640,
@@ -6590,7 +6590,7 @@
       "bodega": "CIGARROS",
       "precio": 13750,
       "stock": 49,
-      "barcode": ""
+      "barcode": "8720400083572"
     },
     {
       "id": 5644,
@@ -13510,5 +13510,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-10-23T12:19:44.334Z"
+  "lastUpdate": "2026-10-23T12:21:33.881Z"
 }
