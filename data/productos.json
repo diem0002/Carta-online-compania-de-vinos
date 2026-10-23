@@ -1,6 +1,14 @@
 {
   "catalogo": [
     {
+      "id": 6703,
+      "vino": "Ejes Malbec",
+      "bodega": "Vinos",
+      "precio": 10400,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6702,
       "vino": "Hormiga Negra",
       "bodega": "Vinos",
@@ -933,7 +941,7 @@
       "vino": "Agua   x1.5",
       "bodega": "BAGGIO",
       "precio": 990,
-      "stock": 4,
+      "stock": 3,
       "barcode": "7790036974514"
     },
     {
@@ -973,7 +981,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 10,
+      "stock": 8,
       "barcode": "7790036008974"
     },
     {
@@ -2029,7 +2037,7 @@
       "vino": "Callia Varietales  - syrah malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 4250,
-      "stock": -8,
+      "stock": -11,
       "barcode": "7798108833486"
     },
     {
@@ -2621,7 +2629,7 @@
       "vino": "Saurus - cabernet",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9000,
-      "stock": -4,
+      "stock": -6,
       "barcode": "7798116190366"
     },
     {
@@ -3285,7 +3293,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 18600,
-      "stock": 42,
+      "stock": 41,
       "barcode": "7790577001663"
     },
     {
@@ -3309,7 +3317,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 34200,
-      "stock": 27,
+      "stock": 26,
       "barcode": "7790577001151"
     },
     {
@@ -3365,7 +3373,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10300,
-      "stock": 32,
+      "stock": 26,
       "barcode": "7790577002165"
     },
     {
@@ -3541,7 +3549,7 @@
       "vino": "El Portillo - sauv. Blanc",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5700,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7798074864774"
     },
     {
@@ -3989,7 +3997,7 @@
       "vino": "Fond de Cave Gran  Reserva - malbec",
       "bodega": "BODEGA TRAPICHE",
       "precio": 22250,
-      "stock": 3,
+      "stock": 2,
       "barcode": "7790240042481"
     },
     {
@@ -4029,7 +4037,7 @@
       "vino": "Trapiche Reserva Varietales - cabernet",
       "bodega": "BODEGA TRAPICHE",
       "precio": 8950,
-      "stock": 4,
+      "stock": 3,
       "barcode": "7790240094466"
     },
     {
@@ -4757,7 +4765,7 @@
       "vino": "Tucumen  reseva cabenet",
       "bodega": "Bodega Budeguer",
       "precio": 8200,
-      "stock": 34,
+      "stock": 33,
       "barcode": "7798080490417"
     },
     {
@@ -6373,7 +6381,7 @@
       "vino": "Nicasia cabernet",
       "bodega": "CATENA ZAPATA",
       "precio": 9600,
-      "stock": 36,
+      "stock": 35,
       "barcode": "7794450000156"
     },
     {
@@ -7125,7 +7133,7 @@
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
       "precio": 3000,
-      "stock": -9,
+      "stock": -12,
       "barcode": "7898953990157"
     },
     {
@@ -7349,7 +7357,7 @@
       "vino": "Corona x 330 Cero",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3200,
-      "stock": -2,
+      "stock": -8,
       "barcode": "7792798014873"
     },
     {
@@ -7837,7 +7845,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "Crotta",
       "precio": 26600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7794068000449"
     },
     {
@@ -7933,7 +7941,7 @@
       "vino": "Marsalla Crotta",
       "bodega": "Crotta",
       "precio": 7450,
-      "stock": 6,
+      "stock": 5,
       "barcode": "7794068000111"
     },
     {
@@ -9613,7 +9621,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790380020172"
     },
     {
@@ -9637,7 +9645,7 @@
       "vino": "Barras de cereal mix de fruta",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790380014928"
     },
     {
@@ -9948,7 +9956,7 @@
       "id": 6067,
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
-      "precio": 6550,
+      "precio": 6600,
       "stock": -7,
       "barcode": "7798112630521"
     },
@@ -9956,7 +9964,7 @@
       "id": 6068,
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
-      "precio": 6300,
+      "precio": 6600,
       "stock": -12,
       "barcode": "7798112631306"
     },
@@ -9964,7 +9972,7 @@
       "id": 6069,
       "vino": "Finca Gabriel dulce rosado",
       "bodega": "JORGE RUBIO",
-      "precio": 6300,
+      "precio": 6600,
       "stock": -7,
       "barcode": "7798112630309"
     },
@@ -10621,7 +10629,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -41,
+      "stock": -43,
       "barcode": "7790036004594"
     },
     {
@@ -12317,7 +12325,7 @@
       "vino": "Prisionero - Chenin",
       "bodega": "Vicentin Family Wines",
       "precio": 6600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798127631643"
     },
     {
@@ -13510,5 +13518,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-10-23T12:23:03.978Z"
+  "lastUpdate": "2026-10-23T23:31:54.306Z"
 }
