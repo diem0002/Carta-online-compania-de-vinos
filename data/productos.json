@@ -2596,7 +2596,7 @@
       "id": 5239,
       "vino": "Saurus  - malbec",
       "bodega": "BODEGA FLIA SCHROEDER",
-      "precio": 9000,
+      "precio": 9150,
       "stock": 0,
       "barcode": "7798116190311"
     },
@@ -2604,7 +2604,7 @@
       "id": 5240,
       "vino": "Saurus  - merlot",
       "bodega": "BODEGA FLIA SCHROEDER",
-      "precio": 9000,
+      "precio": 9150,
       "stock": 0,
       "barcode": "7798116190328"
     },
@@ -2612,7 +2612,7 @@
       "id": 5241,
       "vino": "Saurus  - pinot",
       "bodega": "BODEGA FLIA SCHROEDER",
-      "precio": 10500,
+      "precio": 10900,
       "stock": -1,
       "barcode": "7798116190335"
     },
@@ -2620,7 +2620,7 @@
       "id": 5242,
       "vino": "Saurus - blend",
       "bodega": "BODEGA FLIA SCHROEDER",
-      "precio": 9000,
+      "precio": 9150,
       "stock": -1,
       "barcode": "7798116191707"
     },
@@ -2628,7 +2628,7 @@
       "id": 5243,
       "vino": "Saurus - cabernet",
       "bodega": "BODEGA FLIA SCHROEDER",
-      "precio": 9000,
+      "precio": 9150,
       "stock": -6,
       "barcode": "7798116190366"
     },
@@ -12044,7 +12044,7 @@
       "id": 6308,
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 12000,
+      "precio": 13900,
       "stock": 17,
       "barcode": "7798090165114"
     },
@@ -12076,7 +12076,7 @@
       "id": 6312,
       "vino": "Doña Paula  - Single vineyard malbec",
       "bodega": "VIÑA DOÑA PAULA",
-      "precio": 13500,
+      "precio": 13900,
       "stock": 2,
       "barcode": "7798090164681"
     },
@@ -13518,5 +13518,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-10-24T21:55:18.488Z"
+  "lastUpdate": "2026-10-24T22:15:42.005Z"
 }
