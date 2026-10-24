@@ -2021,7 +2021,7 @@
       "vino": "Callia Varietales  - malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 4250,
-      "stock": -12,
+      "stock": -13,
       "barcode": "7798108833462"
     },
     {
@@ -2093,7 +2093,7 @@
       "vino": "Esperado cabernet",
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798108833127"
     },
     {
@@ -3022,7 +3022,7 @@
       "bodega": "BODEGA NORTON",
       "precio": 5550,
       "stock": 0,
-      "barcode": "7792319971166"
+      "barcode": "7792319972248"
     },
     {
       "id": 5281,
@@ -3030,7 +3030,7 @@
       "bodega": "BODEGA NORTON",
       "precio": 5550,
       "stock": -1,
-      "barcode": "7792319972248"
+      "barcode": "7792319972231"
     },
     {
       "id": 5904,
@@ -8025,6 +8025,14 @@
       "barcode": ""
     },
     {
+      "id": 6704,
+      "vino": "Doña Paula- single vineyard syrah",
+      "bodega": "Doña Paula ",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 5756,
       "vino": "Aceituna verde c/ carozo",
       "bodega": "ENCURTIDOS VANOLI",
@@ -9229,7 +9237,7 @@
       "vino": "Fabre Montmayou  - malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 8250,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7798000213737"
     },
     {
@@ -9957,7 +9965,7 @@
       "vino": "Finca Gabriel Tinto Dce",
       "bodega": "JORGE RUBIO",
       "precio": 6600,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7798112630521"
     },
     {
@@ -12397,8 +12405,8 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -6,
-      "barcode": ""
+      "stock": -7,
+      "barcode": "7798127630011"
     },
     {
       "id": 6351,
@@ -12445,8 +12453,8 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -5,
-      "barcode": "7798127630011"
+      "stock": -7,
+      "barcode": ""
     },
     {
       "id": 6356,
@@ -13518,5 +13526,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-10-24T22:15:42.005Z"
+  "lastUpdate": "2026-10-24T22:41:13.701Z"
 }
