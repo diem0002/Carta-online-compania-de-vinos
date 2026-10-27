@@ -11205,7 +11205,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": -14,
+      "stock": 66,
       "barcode": "7790070760722"
     },
     {
@@ -11322,10 +11322,10 @@
     },
     {
       "id": 6666,
-      "vino": "Nieto 0% Malbec Pinot",
+      "vino": "Nieto Malbec Pinot 0% ",
       "bodega": "Nieto Senetiner",
       "precio": 11000,
-      "stock": -20,
+      "stock": 47,
       "barcode": "7790070106919"
     },
     {
@@ -11453,7 +11453,7 @@
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
       "precio": 11000,
-      "stock": -3,
+      "stock": 20,
       "barcode": "7790070104847"
     },
     {
@@ -11461,7 +11461,7 @@
       "vino": "Nieto senetiner 0% malbec rose",
       "bodega": "Nieto senetiner",
       "precio": 11000,
-      "stock": -3,
+      "stock": 15,
       "barcode": "7790070106919"
     },
     {
@@ -13520,11 +13520,11 @@
     },
     {
       "id": 6666,
-      "vino": "Nieto 0% Malbec Pinot",
+      "vino": "Nieto Malbec Pinot 0% ",
       "bodega": "Nieto Senetiner",
       "precio": 11000,
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-27T13:13:49.323Z"
+  "lastUpdate": "2026-10-27T15:00:39.983Z"
 }
