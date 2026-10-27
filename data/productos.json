@@ -11321,14 +11321,6 @@
       "barcode": "7790070760685"
     },
     {
-      "id": 6666,
-      "vino": "Nieto Malbec Pinot 0% ",
-      "bodega": "Nieto Senetiner",
-      "precio": 11000,
-      "stock": 47,
-      "barcode": "7790070106919"
-    },
-    {
       "id": 6235,
       "vino": "Nieto Patrimonial Malbec Doc",
       "bodega": "Nieto Senetiner",
@@ -11441,6 +11433,14 @@
       "barcode": "7793440000053"
     },
     {
+      "id": 6666,
+      "vino": "Nieto senetiner Malbec Pinot 0% ",
+      "bodega": "Nieto Senetiner",
+      "precio": 11400,
+      "stock": 47,
+      "barcode": "7790070106919"
+    },
+    {
       "id": 6301,
       "vino": "Nieto senetiner x375",
       "bodega": "Nieto Senetiner",
@@ -11452,7 +11452,7 @@
       "id": 6623,
       "vino": "Nieto senetiner 0% chardonai",
       "bodega": "Nieto senetiner",
-      "precio": 11000,
+      "precio": 11400,
       "stock": 20,
       "barcode": "7790070104847"
     },
@@ -11460,7 +11460,7 @@
       "id": 6624,
       "vino": "Nieto senetiner 0% malbec rose",
       "bodega": "Nieto senetiner",
-      "precio": 11000,
+      "precio": 11400,
       "stock": 15,
       "barcode": "7790070106919"
     },
@@ -13520,11 +13520,11 @@
     },
     {
       "id": 6666,
-      "vino": "Nieto Malbec Pinot 0% ",
+      "vino": "Nieto senetiner Malbec Pinot 0% ",
       "bodega": "Nieto Senetiner",
-      "precio": 11000,
+      "precio": 11400,
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-10-27T15:00:39.983Z"
+  "lastUpdate": "2026-10-27T15:03:05.725Z"
 }
