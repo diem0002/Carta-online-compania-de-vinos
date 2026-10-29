@@ -212,7 +212,7 @@
       "id": 6603,
       "vino": "Promo estrella galicia lata",
       "bodega": "Promos",
-      "precio": 16000,
+      "precio": 18000,
       "stock": 0,
       "barcode": ""
     },
@@ -220,7 +220,7 @@
       "id": 6604,
       "vino": "Promo estrella galicia x330",
       "bodega": "Promos",
-      "precio": 16600,
+      "precio": 20600,
       "stock": 0,
       "barcode": ""
     },
@@ -268,7 +268,7 @@
       "id": 6686,
       "vino": "estrella galicia x330",
       "bodega": "Vinos",
-      "precio": 3100,
+      "precio": 3800,
       "stock": 0,
       "barcode": "7898953990140"
     },
@@ -7140,7 +7140,7 @@
       "id": 6556,
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
-      "precio": 3000,
+      "precio": 3300,
       "stock": -12,
       "barcode": "7898953990157"
     },
@@ -8037,7 +8037,7 @@
       "vino": "Doña Paula- single vineyard syrah",
       "bodega": "Doña Paula ",
       "precio": 0,
-      "stock": 0,
+      "stock": 12,
       "barcode": ""
     },
     {
@@ -12053,7 +12053,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": 32,
+      "stock": 62,
       "barcode": "7798090160065"
     },
     {
@@ -12061,7 +12061,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 13900,
-      "stock": 18,
+      "stock": 48,
       "barcode": "7798090165114"
     },
     {
@@ -12093,7 +12093,7 @@
       "vino": "Doña Paula  - Single vineyard malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 13900,
-      "stock": 4,
+      "stock": 34,
       "barcode": "7798090164681"
     },
     {
@@ -12117,7 +12117,7 @@
       "vino": "Doña Paula 1350",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 15850,
-      "stock": 7,
+      "stock": 25,
       "barcode": "7798090162779"
     },
     {
@@ -12141,7 +12141,7 @@
       "vino": "Doña Paula Blue",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": 4,
+      "stock": 34,
       "barcode": "7798090163073"
     },
     {
@@ -13534,5 +13534,5 @@
       "vendidos": 21
     }
   ],
-  "lastUpdate": "2026-10-29T15:14:48.451Z"
+  "lastUpdate": "2026-10-29T21:41:23.105Z"
 }
