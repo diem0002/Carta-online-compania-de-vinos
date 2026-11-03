@@ -73,6 +73,14 @@
       "barcode": ""
     },
     {
+      "id": 6692,
+      "vino": "Promo Etchart Privado x6",
+      "bodega": "Promos",
+      "precio": 25200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6522,
       "vino": "Promo Gancia",
       "bodega": "Promos",
@@ -245,14 +253,6 @@
       "vino": "Promo verano",
       "bodega": "Promos",
       "precio": 15000,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
-      "id": 6692,
-      "vino": "Prromo Etchart Privado x6",
-      "bodega": "Promos",
-      "precio": 25200,
       "stock": 0,
       "barcode": ""
     },
@@ -957,7 +957,7 @@
       "vino": "Agua S/Gas x600",
       "bodega": "BAGGIO",
       "precio": 700,
-      "stock": 2,
+      "stock": 1,
       "barcode": ""
     },
     {
@@ -981,7 +981,7 @@
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 9,
+      "stock": 7,
       "barcode": "7790036008974"
     },
     {
@@ -2109,7 +2109,7 @@
       "vino": "Oveja black malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 65,
+      "stock": 63,
       "barcode": "7798162671673"
     },
     {
@@ -2861,7 +2861,7 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "stock": 35,
+      "stock": 34,
       "barcode": "7798089430179"
     },
     {
@@ -3013,7 +3013,7 @@
       "vino": "Norton 1895",
       "bodega": "BODEGA NORTON",
       "precio": 4500,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7792319065254"
     },
     {
@@ -3085,7 +3085,7 @@
       "vino": "Norton Talisman",
       "bodega": "BODEGA NORTON",
       "precio": 3600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7792319971722"
     },
     {
@@ -3309,7 +3309,7 @@
       "vino": "Rutini Cabernet / Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 18600,
-      "stock": 43,
+      "stock": 44,
       "barcode": "7790577001663"
     },
     {
@@ -3317,7 +3317,7 @@
       "vino": "Rutini Cabernet / Malbec Est x 1 Bot",
       "bodega": "BODEGA RUTINI",
       "precio": 30000,
-      "stock": 11,
+      "stock": 10,
       "barcode": "7790577001670"
     },
     {
@@ -4365,7 +4365,7 @@
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "stock": 51,
+      "stock": 50,
       "barcode": "7791728247091"
     },
     {
@@ -4613,7 +4613,7 @@
       "vino": "Branca x 750",
       "bodega": "BRANCA",
       "precio": 19700,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7790290101602"
     },
     {
@@ -4629,7 +4629,7 @@
       "vino": "Hormiga Negra",
       "bodega": "Baudron",
       "precio": 4100,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7798001610368"
     },
     {
@@ -5981,7 +5981,7 @@
       "vino": "conejo verde - malbec",
       "bodega": "Bodega los aroldos",
       "precio": 6100,
-      "stock": -10,
+      "stock": -11,
       "barcode": "7791843020746"
     },
     {
@@ -6781,7 +6781,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -32,
+      "stock": -34,
       "barcode": "7790895000430"
     },
     {
@@ -7781,7 +7781,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 7600,
-      "stock": 11,
+      "stock": 10,
       "barcode": "7790168904663"
     },
     {
@@ -8253,7 +8253,7 @@
       "vino": "Estuche decorado (2 copas + 1 vino)",
       "bodega": "ESTUCHES",
       "precio": 30000,
-      "stock": -1,
+      "stock": 0,
       "barcode": ""
     },
     {
@@ -9661,7 +9661,7 @@
       "vino": "Barras de cereal frutos rojos",
       "bodega": "Georgalos",
       "precio": 700,
-      "stock": -2,
+      "stock": -4,
       "barcode": "7790380020172"
     },
     {
@@ -10645,7 +10645,7 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7790036004600"
     },
     {
@@ -10669,7 +10669,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -47,
+      "stock": -49,
       "barcode": "7790036004594"
     },
     {
@@ -11901,7 +11901,7 @@
       "vino": "Licores tres plumas (Lemoncello)",
       "bodega": "TRES PLUMAS",
       "precio": 7400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790260013256"
     },
     {
@@ -13373,7 +13373,7 @@
       "vino": "Copa Brunello",
       "bodega": "cristaleria",
       "precio": 4800,
-      "stock": -6,
+      "stock": -4,
       "barcode": ""
     },
     {
@@ -13517,7 +13517,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": 559,
+      "stock": 558,
       "barcode": ""
     }
   ],
@@ -13527,21 +13527,21 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 40
+      "vendidos": 38
     },
     {
       "id": 5415,
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6150,
-      "vendidos": 28
+      "vendidos": 27
     },
     {
       "id": 6702,
       "vino": "Hormiga Negra",
       "bodega": "Baudron",
       "precio": 4100,
-      "vendidos": 21
+      "vendidos": 22
     },
     {
       "id": 6666,
@@ -13555,8 +13555,8 @@
       "vino": "Viña de Caroya Lagrimilla",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 9450,
-      "vendidos": 17
+      "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-02T15:07:42.296Z"
+  "lastUpdate": "2026-11-03T15:03:28.649Z"
 }
