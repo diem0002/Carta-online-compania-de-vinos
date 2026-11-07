@@ -108,7 +108,7 @@
       "id": 6587,
       "vino": "Promo Patagonia",
       "bodega": "Promos",
-      "precio": 12000,
+      "precio": 12500,
       "stock": 1,
       "barcode": ""
     },
@@ -1141,7 +1141,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790036975481"
     },
     {
@@ -2037,7 +2037,7 @@
       "vino": "Callia Varietales  - syrah malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 4250,
-      "stock": 17,
+      "stock": 16,
       "barcode": "7798108833486"
     },
     {
@@ -2077,7 +2077,7 @@
       "vino": "Esperado Syrah/ Malbec",
       "bodega": "BODEGA CALLIA",
       "precio": 5500,
-      "stock": 53,
+      "stock": 51,
       "barcode": "7798108834377"
     },
     {
@@ -2109,7 +2109,7 @@
       "vino": "Oveja black malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 61,
+      "stock": 60,
       "barcode": "7798162671673"
     },
     {
@@ -2133,7 +2133,7 @@
       "vino": "Profugo Malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 29,
+      "stock": 27,
       "barcode": "7798162670713"
     },
     {
@@ -2605,7 +2605,7 @@
       "vino": "Saurus  - malbec",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9150,
-      "stock": 0,
+      "stock": -6,
       "barcode": "7798116190311"
     },
     {
@@ -2845,7 +2845,7 @@
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
       "precio": 6450,
-      "stock": 13,
+      "stock": 12,
       "barcode": "7798089430414"
     },
     {
@@ -3333,7 +3333,7 @@
       "vino": "Rutini Malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 34200,
-      "stock": 28,
+      "stock": 27,
       "barcode": "7790577001151"
     },
     {
@@ -3541,7 +3541,7 @@
       "vino": "El Portillo  - malbec",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5700,
-      "stock": 37,
+      "stock": 36,
       "barcode": "7798074860240"
     },
     {
@@ -3653,7 +3653,7 @@
       "vino": "Pyros Syrah",
       "bodega": "BODEGA SALENTEIN",
       "precio": 12600,
-      "stock": 12,
+      "stock": 11,
       "barcode": "7798108833080"
     },
     {
@@ -4157,7 +4157,7 @@
       "vino": "Piatelli reserva - malbec salta",
       "bodega": "BODEGA VISTALBA",
       "precio": 12000,
-      "stock": -12,
+      "stock": -14,
       "barcode": "7798124010243"
     },
     {
@@ -4509,7 +4509,7 @@
       "vino": "santa Julia  - malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5200,
-      "stock": 22,
+      "stock": 21,
       "barcode": "7791728247114"
     },
     {
@@ -4605,7 +4605,7 @@
       "vino": "Branca x 450",
       "bodega": "BRANCA",
       "precio": 13100,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790290001179"
     },
     {
@@ -4629,7 +4629,7 @@
       "vino": "Hormiga Negra",
       "bodega": "Baudron",
       "precio": 4100,
-      "stock": -22,
+      "stock": -23,
       "barcode": "7798001610368"
     },
     {
@@ -5101,7 +5101,7 @@
       "vino": "Jugo de uva tinto x 750 Fantelli",
       "bodega": "Bodega Fantelli",
       "precio": 4500,
-      "stock": 28,
+      "stock": 26,
       "barcode": "7795633000154"
     },
     {
@@ -5221,7 +5221,7 @@
       "vino": "Altas Cumbres cabernet",
       "bodega": "Bodega Lagarde",
       "precio": 7000,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7792756200331"
     },
     {
@@ -5349,7 +5349,7 @@
       "vino": "Las Perdices Ala Colorada ancelotta",
       "bodega": "Bodega Las Perdices",
       "precio": 17600,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7798123970692"
     },
     {
@@ -5717,7 +5717,7 @@
       "vino": "Lorca Opalo syrah",
       "bodega": "Bodega Lorca",
       "precio": 15300,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798103160211"
     },
     {
@@ -5965,7 +5965,7 @@
       "vino": "Otro Loco",
       "bodega": "Bodega don bosco",
       "precio": 5250,
-      "stock": 45,
+      "stock": 44,
       "barcode": "7795232000524"
     },
     {
@@ -7388,7 +7388,7 @@
       "id": 5696,
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 6310,
+      "precio": 6500,
       "stock": 12,
       "barcode": "7792798003716"
     },
@@ -7781,7 +7781,7 @@
       "vino": "Colon Frutos Rojos",
       "bodega": "Colon",
       "precio": 7600,
-      "stock": 9,
+      "stock": 8,
       "barcode": "7790168904663"
     },
     {
@@ -9933,7 +9933,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Gordo motoneta garage wines",
       "precio": 4900,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7798366220028"
     },
     {
@@ -9973,7 +9973,7 @@
       "vino": "Distinto se nace",
       "bodega": "Huella pampa wines",
       "precio": 3300,
-      "stock": -12,
+      "stock": -13,
       "barcode": "8436613745076"
     },
     {
@@ -12197,7 +12197,7 @@
       "vino": "Los Cardos Varietales - blend",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 5350,
-      "stock": 36,
+      "stock": 35,
       "barcode": "7798090162526"
     },
     {
@@ -12453,7 +12453,7 @@
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7798127630011"
     },
     {
@@ -13557,7 +13557,7 @@
       "vino": "Hormiga Negra",
       "bodega": "Baudron",
       "precio": 4100,
-      "vendidos": 22
+      "vendidos": 23
     },
     {
       "id": 6666,
@@ -13574,5 +13574,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-07T13:46:32.540Z"
+  "lastUpdate": "2026-11-07T20:03:24.012Z"
 }
