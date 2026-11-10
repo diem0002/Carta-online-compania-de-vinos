@@ -10546,7 +10546,7 @@
     },
     {
       "id": 6564,
-      "vino": "Felix Lavaque blend",
+      "vino": "Felix Lavaque blend (malbec - tannat)",
       "bodega": "Lavaque",
       "precio": 26100,
       "stock": -7,
@@ -13566,5 +13566,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-10T13:35:57.289Z"
+  "lastUpdate": "2026-11-10T14:12:56.533Z"
 }
