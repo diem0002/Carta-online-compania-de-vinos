@@ -5742,7 +5742,7 @@
       "bodega": "Bodega Lorca",
       "precio": 17500,
       "stock": 0,
-      "barcode": ""
+      "barcode": "7798103160860"
     },
     {
       "id": 5560,
@@ -13566,5 +13566,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-10T14:12:56.533Z"
+  "lastUpdate": "2026-11-10T14:18:58.677Z"
 }
