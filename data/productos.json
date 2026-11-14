@@ -1117,7 +1117,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7790036975481"
     },
     {
@@ -1133,7 +1133,7 @@
       "vino": "baggio pronto 1,5",
       "bodega": "BAGGIO",
       "precio": 2600,
-      "stock": 3,
+      "stock": 2,
       "barcode": "7790036002606"
     },
     {
@@ -2109,7 +2109,7 @@
       "vino": "Profugo Malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 27,
+      "stock": 26,
       "barcode": "7798162670713"
     },
     {
@@ -2557,7 +2557,7 @@
       "vino": "Deseado Rose espumante dulce",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 10500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798116191486"
     },
     {
@@ -2733,7 +2733,7 @@
       "vino": "Intimo  malbec",
       "bodega": "BODEGA H.CANALE",
       "precio": 8500,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7790805131216"
     },
     {
@@ -2845,7 +2845,7 @@
       "vino": "San Felipe Roble",
       "bodega": "BODEGA LA RURAL",
       "precio": 6250,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790577002424"
     },
     {
@@ -3261,7 +3261,7 @@
       "vino": "Encuentro varietales - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 15300,
-      "stock": 19,
+      "stock": 18,
       "barcode": "7790577006101"
     },
     {
@@ -4100,7 +4100,7 @@
       "id": 5388,
       "vino": "Piatelli natural sweet (bco dul)",
       "bodega": "BODEGA VISTALBA",
-      "precio": 8800,
+      "precio": 10500,
       "stock": -1,
       "barcode": "7798276560771"
     },
@@ -4148,7 +4148,7 @@
       "id": 5394,
       "vino": "Piatelli single vineyard malbec calchaqui",
       "bodega": "BODEGA VISTALBA",
-      "precio": 25800,
+      "precio": 23600,
       "stock": 0,
       "barcode": "7798276561419"
     },
@@ -4156,7 +4156,7 @@
       "id": 5395,
       "vino": "Piatelli single vineyard malbec uco",
       "bodega": "BODEGA VISTALBA",
-      "precio": 25800,
+      "precio": 23600,
       "stock": -1,
       "barcode": "7798276561457"
     },
@@ -4245,7 +4245,7 @@
       "vino": "Alambrado malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 8450,
-      "stock": 42,
+      "stock": 41,
       "barcode": "7791728002690"
     },
     {
@@ -4445,7 +4445,7 @@
       "vino": "Zucardi serie A",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 14900,
-      "stock": 15,
+      "stock": 14,
       "barcode": "7791728021301"
     },
     {
@@ -6813,7 +6813,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": 3,
+      "stock": 2,
       "barcode": "7790895005374"
     },
     {
@@ -6893,7 +6893,7 @@
       "vino": "Sprite 1,5",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790895000447"
     },
     {
@@ -7365,7 +7365,7 @@
       "vino": "Corona x 710",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6500,
-      "stock": 12,
+      "stock": 9,
       "barcode": "7792798003716"
     },
     {
@@ -9965,7 +9965,7 @@
       "vino": "Distinto se nace",
       "bodega": "Huella pampa wines",
       "precio": 4100,
-      "stock": -21,
+      "stock": -25,
       "barcode": "8436613745076"
     },
     {
@@ -10229,7 +10229,7 @@
       "vino": "Baileys x750",
       "bodega": "LICORES",
       "precio": 36850,
-      "stock": 0,
+      "stock": -1,
       "barcode": "5011013100132"
     },
     {
@@ -10661,7 +10661,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -53,
+      "stock": -54,
       "barcode": "7790036004594"
     },
     {
@@ -10749,7 +10749,7 @@
       "vino": "Cordero piel de lobo - cabernet",
       "bodega": "Mosquita muerta",
       "precio": 4900,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798159948856"
     },
     {
@@ -10845,7 +10845,7 @@
       "vino": "Perro callejero malbec",
       "bodega": "Mosquita muerta",
       "precio": 7250,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798353194721"
     },
     {
@@ -10885,7 +10885,7 @@
       "vino": "Sapo de otro poso",
       "bodega": "Mosquita muerta",
       "precio": 13500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798159944339"
     },
     {
@@ -11717,7 +11717,7 @@
       "vino": "Paso de los toros tonica",
       "bodega": "RAVSA",
       "precio": 3950,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7791813421368"
     },
     {
@@ -12493,7 +12493,7 @@
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
       "precio": 7800,
-      "stock": -7,
+      "stock": -8,
       "barcode": ""
     },
     {
@@ -13125,7 +13125,7 @@
       "vino": "cuchara mezcladora c/u",
       "bodega": "accesorios",
       "precio": 3700,
-      "stock": 0,
+      "stock": -1,
       "barcode": ""
     },
     {
@@ -13535,7 +13535,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 36
+      "vendidos": 31
     },
     {
       "id": 5415,
@@ -13545,11 +13545,11 @@
       "vendidos": 23
     },
     {
-      "id": 6702,
-      "vino": "Hormiga Negra",
-      "bodega": "Baudron",
+      "id": 6695,
+      "vino": "Distinto se nace",
+      "bodega": "Huella pampa wines",
       "precio": 4100,
-      "vendidos": 20
+      "vendidos": 21
     },
     {
       "id": 6666,
@@ -13559,12 +13559,12 @@
       "vendidos": 20
     },
     {
-      "id": 6224,
-      "vino": "Emilia  - malbec",
-      "bodega": "Nieto Senetiner",
-      "precio": 6800,
-      "vendidos": 18
+      "id": 6702,
+      "vino": "Hormiga Negra",
+      "bodega": "Baudron",
+      "precio": 4100,
+      "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-11-13T22:39:59.957Z"
+  "lastUpdate": "2026-11-14T13:14:12.100Z"
 }
