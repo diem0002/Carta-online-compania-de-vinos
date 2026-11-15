@@ -701,7 +701,7 @@
       "vino": "Gancia x 1lt",
       "bodega": "APERITIVOS",
       "precio": 8250,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790950000160"
     },
     {
@@ -2332,7 +2332,7 @@
       "id": 5212,
       "vino": "Don David  - cabernet",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 8150,
+      "precio": 9000,
       "stock": 0,
       "barcode": "7790189000177"
     },
@@ -2340,7 +2340,7 @@
       "id": 5213,
       "vino": "Don David  - malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 8150,
+      "precio": 9000,
       "stock": 0,
       "barcode": "7790189001129"
     },
@@ -2348,7 +2348,7 @@
       "id": 5214,
       "vino": "Don David - syrah",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 8150,
+      "precio": 9000,
       "stock": 0,
       "barcode": "7790189040036"
     },
@@ -2356,7 +2356,7 @@
       "id": 5215,
       "vino": "Don David - tannat",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 8150,
+      "precio": 9000,
       "stock": 0,
       "barcode": "7790189040111"
     },
@@ -2364,7 +2364,7 @@
       "id": 5216,
       "vino": "Don David Reserva  - cabernet",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 11000,
+      "precio": 12300,
       "stock": 0,
       "barcode": "7790189042030"
     },
@@ -2372,7 +2372,7 @@
       "id": 5217,
       "vino": "Don David Reserva  - malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 11000,
+      "precio": 12300,
       "stock": 0,
       "barcode": "7790189042023"
     },
@@ -2380,7 +2380,7 @@
       "id": 5218,
       "vino": "El Esteco Malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 18550,
+      "precio": 21300,
       "stock": 0,
       "barcode": "7798136300158"
     },
@@ -2388,7 +2388,7 @@
       "id": 5219,
       "vino": "El Esteco old wines",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 23200,
+      "precio": 26600,
       "stock": 0,
       "barcode": ""
     },
@@ -2476,7 +2476,7 @@
       "id": 5230,
       "vino": "Fincas Notables Malbec",
       "bodega": "BODEGA EL ESTECO",
-      "precio": 30750,
+      "precio": 35300,
       "stock": 0,
       "barcode": "7798136300622"
     },
@@ -3964,7 +3964,7 @@
       "id": 5373,
       "vino": "Fond de Cave  - cabernet",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 8200,
+      "precio": 9050,
       "stock": 24,
       "barcode": "7790240002010"
     },
@@ -3972,7 +3972,7 @@
       "id": 5374,
       "vino": "Fond de Cave  - malbec",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 8200,
+      "precio": 9050,
       "stock": 6,
       "barcode": "7790240041460"
     },
@@ -3980,7 +3980,7 @@
       "id": 5375,
       "vino": "Fond de Cave Gran  Reserva - blend",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 22250,
+      "precio": 24700,
       "stock": 3,
       "barcode": "7790240094732"
     },
@@ -3988,7 +3988,7 @@
       "id": 5376,
       "vino": "Fond de Cave Gran  Reserva - malbec",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 22250,
+      "precio": 24700,
       "stock": 2,
       "barcode": "7790240042481"
     },
@@ -3996,7 +3996,7 @@
       "id": 5377,
       "vino": "Fond de Cave Reserva - malbec",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 11000,
+      "precio": 12400,
       "stock": 10,
       "barcode": "7790240128673"
     },
@@ -4004,7 +4004,7 @@
       "id": 5378,
       "vino": "Fond de Cave Reserva caber franc",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 11000,
+      "precio": 12400,
       "stock": 12,
       "barcode": "7790240041170"
     },
@@ -4028,7 +4028,7 @@
       "id": 5381,
       "vino": "Trapiche Reserva Varietales - cabernet",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 8950,
+      "precio": 9900,
       "stock": 4,
       "barcode": "7790240094466"
     },
@@ -4036,7 +4036,7 @@
       "id": 5382,
       "vino": "Trapiche Reserva Varietales - malbec",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 8950,
+      "precio": 9900,
       "stock": 2,
       "barcode": "7790240094459"
     },
@@ -4044,7 +4044,7 @@
       "id": 5813,
       "vino": "Trapiche Reserva x 1  Bot.",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 9000,
+      "precio": 11000,
       "stock": 0,
       "barcode": ""
     },
@@ -4052,7 +4052,7 @@
       "id": 6665,
       "vino": "Trapiche tesoro",
       "bodega": "BODEGA TRAPICHE",
-      "precio": 12300,
+      "precio": 14400,
       "stock": 1,
       "barcode": "7791540053887"
     },
@@ -5485,7 +5485,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 44,
+      "stock": 43,
       "barcode": "7798123971309"
     },
     {
@@ -5501,7 +5501,7 @@
       "vino": "Las perdices PARTRIDGE red blend",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 10,
+      "stock": 9,
       "barcode": "7798123972115"
     },
     {
@@ -7836,7 +7836,7 @@
       "id": 5743,
       "vino": "costa y pampa pinot",
       "bodega": "Costa y Pampa",
-      "precio": 20400,
+      "precio": 23400,
       "stock": -1,
       "barcode": "7790240096682"
     },
@@ -9140,7 +9140,7 @@
       "id": 5971,
       "vino": "Los Intocables Black Cabernet",
       "bodega": "FINCA LAS MORAS",
-      "precio": 9550,
+      "precio": 10750,
       "stock": 6,
       "barcode": "7791540049354"
     },
@@ -9148,7 +9148,7 @@
       "id": 5972,
       "vino": "Los Intocables Black Malbec",
       "bodega": "FINCA LAS MORAS",
-      "precio": 9550,
+      "precio": 10750,
       "stock": 11,
       "barcode": "7791540049347"
     },
@@ -9156,7 +9156,7 @@
       "id": 5973,
       "vino": "Los Intocables Blend Syrah Merlot",
       "bodega": "FINCA LAS MORAS",
-      "precio": 9550,
+      "precio": 10750,
       "stock": 8,
       "barcode": "7791540054037"
     },
@@ -9164,7 +9164,7 @@
       "id": 5974,
       "vino": "Los Intocables Blend Syrah Merlot Bonarda",
       "bodega": "FINCA LAS MORAS",
-      "precio": 9550,
+      "precio": 10750,
       "stock": 0,
       "barcode": "7791540051913"
     },
@@ -9172,7 +9172,7 @@
       "id": 5975,
       "vino": "Los intocables Double Oak ( Azul)",
       "bodega": "FINCA LAS MORAS",
-      "precio": 9550,
+      "precio": 10750,
       "stock": 10,
       "barcode": "7791540999789"
     },
@@ -9196,7 +9196,7 @@
       "id": 5978,
       "vino": "Mora Negra",
       "bodega": "FINCA LAS MORAS",
-      "precio": 49800,
+      "precio": 57150,
       "stock": 3,
       "barcode": "7790240140255"
     },
@@ -9204,7 +9204,7 @@
       "id": 5979,
       "vino": "Paz blanc",
       "bodega": "FINCA LAS MORAS",
-      "precio": 10950,
+      "precio": 12300,
       "stock": 22,
       "barcode": "7791540044595"
     },
@@ -9212,7 +9212,7 @@
       "id": 5980,
       "vino": "Paz franc",
       "bodega": "FINCA LAS MORAS",
-      "precio": 10950,
+      "precio": 12300,
       "stock": 16,
       "barcode": "7790240093773"
     },
@@ -9220,7 +9220,7 @@
       "id": 5981,
       "vino": "Paz malbec",
       "bodega": "FINCA LAS MORAS",
-      "precio": 10950,
+      "precio": 12300,
       "stock": 4,
       "barcode": "7790240093780"
     },
@@ -9228,7 +9228,7 @@
       "id": 5982,
       "vino": "Paz syrah",
       "bodega": "FINCA LAS MORAS",
-      "precio": 10950,
+      "precio": 12300,
       "stock": 3,
       "barcode": "7790240093797"
     },
@@ -10180,7 +10180,7 @@
       "id": 5810,
       "vino": "Smirnoff Lata 473 Green Apple",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 3600,
+      "precio": 3700,
       "stock": 0,
       "barcode": "7791250003127"
     },
@@ -10188,7 +10188,7 @@
       "id": 5811,
       "vino": "Smirnoff Lata 473 Red Berries",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 3600,
+      "precio": 3700,
       "stock": 0,
       "barcode": "7791250003189"
     },
@@ -10196,7 +10196,7 @@
       "id": 5812,
       "vino": "Smirnoff Lata 473 Tradicional",
       "bodega": "LATAS PRONTO / DR",
-      "precio": 3600,
+      "precio": 3700,
       "stock": -1,
       "barcode": "7791250003110"
     },
@@ -10444,7 +10444,7 @@
       "id": 6408,
       "vino": "el que rie ultimo rie mejor",
       "bodega": "LIGA DE LOS ENOLOGOS",
-      "precio": 8350,
+      "precio": 9200,
       "stock": 8,
       "barcode": "7791540052057"
     },
@@ -10549,7 +10549,7 @@
       "vino": "Felix Lavaque blend (malbec - tannat)",
       "bodega": "Lavaque",
       "precio": 26100,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7798260190168"
     },
     {
@@ -10604,7 +10604,7 @@
       "id": 6567,
       "vino": "Mascota cabernet",
       "bodega": "MASCOTA",
-      "precio": 13150,
+      "precio": 15100,
       "stock": -1,
       "barcode": "7790762054085"
     },
@@ -10612,7 +10612,7 @@
       "id": 6163,
       "vino": "Mascota malbec",
       "bodega": "MASCOTA",
-      "precio": 13150,
+      "precio": 15100,
       "stock": -1,
       "barcode": "7790762050124"
     },
@@ -11012,7 +11012,7 @@
       "id": 6198,
       "vino": "Navarro Correa Reserva cabernet",
       "bodega": "NAVARRO CORREAS",
-      "precio": 9950,
+      "precio": 11200,
       "stock": 0,
       "barcode": "7790649000136"
     },
@@ -11020,7 +11020,7 @@
       "id": 6199,
       "vino": "Navarro Correa Reserva malbec",
       "bodega": "NAVARRO CORREAS",
-      "precio": 9950,
+      "precio": 11200,
       "stock": 0,
       "barcode": "7790649000112"
     },
@@ -12277,7 +12277,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 26000,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7790843001328"
     },
     {
@@ -13566,5 +13566,5 @@
       "vendidos": 19
     }
   ],
-  "lastUpdate": "2026-11-15T15:35:59.011Z"
+  "lastUpdate": "2026-11-15T16:34:23.194Z"
 }
