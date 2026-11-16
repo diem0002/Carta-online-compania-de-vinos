@@ -124,7 +124,7 @@
       "id": 6524,
       "vino": "Promo Smirnoff",
       "bodega": "Promos",
-      "precio": 12700,
+      "precio": 13100,
       "stock": 0,
       "barcode": ""
     },
@@ -668,7 +668,7 @@
       "id": 5065,
       "vino": "Cinzano Blanco",
       "bodega": "APERITIVOS",
-      "precio": 8300,
+      "precio": 8800,
       "stock": 0,
       "barcode": "7791200000060"
     },
@@ -676,7 +676,7 @@
       "id": 5066,
       "vino": "Cinzano Rosso",
       "bodega": "APERITIVOS",
-      "precio": 8300,
+      "precio": 8900,
       "stock": -3,
       "barcode": "7791200200552"
     },
@@ -740,7 +740,7 @@
       "id": 5073,
       "vino": "Pimms",
       "bodega": "APERITIVOS",
-      "precio": 10800,
+      "precio": 11000,
       "stock": 0,
       "barcode": "5010262075017"
     },
@@ -1516,7 +1516,7 @@
       "id": 5135,
       "vino": "Grapa valleviejo",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 8700,
+      "precio": 9400,
       "stock": 0,
       "barcode": "7790260008016"
     },
@@ -1588,7 +1588,7 @@
       "id": 5144,
       "vino": "Smirnoff",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 10250,
+      "precio": 10500,
       "stock": 0,
       "barcode": "7791250001345"
     },
@@ -1596,7 +1596,7 @@
       "id": 5145,
       "vino": "Smirnoff Citric",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 11400,
+      "precio": 11600,
       "stock": 0,
       "barcode": "7791250003011"
     },
@@ -1604,7 +1604,7 @@
       "id": 5146,
       "vino": "Smirnoff Citrus",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 11400,
+      "precio": 11600,
       "stock": 0,
       "barcode": "7791250001864"
     },
@@ -1612,7 +1612,7 @@
       "id": 5147,
       "vino": "Smirnoff Green Apple",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 11400,
+      "precio": 11600,
       "stock": 0,
       "barcode": "7791250001857"
     },
@@ -1620,7 +1620,7 @@
       "id": 5148,
       "vino": "Smirnoff Raspberry",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 11400,
+      "precio": 11600,
       "stock": -1,
       "barcode": "7791250001871"
     },
@@ -1628,7 +1628,7 @@
       "id": 5149,
       "vino": "Smirnoff Spicy Tamarind",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 11400,
+      "precio": 11600,
       "stock": 0,
       "barcode": "7791250003400"
     },
@@ -1636,7 +1636,7 @@
       "id": 5150,
       "vino": "Smirnoff Watermelon",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 11400,
+      "precio": 11600,
       "stock": 0,
       "barcode": "7791250002243"
     },
@@ -9004,7 +9004,7 @@
       "id": 5777,
       "vino": "Dada 7 Bco espumante dulce",
       "bodega": "FINCA LAS MORAS",
-      "precio": 8200,
+      "precio": 9050,
       "stock": 14,
       "barcode": "7791540045745"
     },
@@ -9020,7 +9020,7 @@
       "id": 5778,
       "vino": "Dada 7 Rdo espumante dulce",
       "bodega": "FINCA LAS MORAS",
-      "precio": 8200,
+      "precio": 9050,
       "stock": 11,
       "barcode": "7791540047015"
     },
@@ -10364,7 +10364,7 @@
       "id": 6146,
       "vino": "Piña Colada",
       "bodega": "LICORES",
-      "precio": 8500,
+      "precio": 8900,
       "stock": 0,
       "barcode": "7790260006029"
     },
@@ -10372,7 +10372,7 @@
       "id": 6147,
       "vino": "Sheridan's",
       "bodega": "LICORES",
-      "precio": 51600,
+      "precio": 51800,
       "stock": 0,
       "barcode": "5011013500680"
     },
@@ -10988,7 +10988,7 @@
       "id": 5789,
       "vino": "Navarro Correa Dulcet  espumante dulce",
       "bodega": "NAVARRO CORREAS",
-      "precio": 11200,
+      "precio": 12400,
       "stock": 0,
       "barcode": "7791250001444"
     },
@@ -10996,7 +10996,7 @@
       "id": 5899,
       "vino": "Navarro Correa Extra Brut espumante",
       "bodega": "NAVARRO CORREAS",
-      "precio": 11200,
+      "precio": 12400,
       "stock": 0,
       "barcode": "7791250001529"
     },
@@ -11004,7 +11004,7 @@
       "id": 5900,
       "vino": "Navarro Correa Extra Brut rose espumante",
       "bodega": "NAVARRO CORREAS",
-      "precio": 11200,
+      "precio": 12400,
       "stock": 0,
       "barcode": "7791250001543"
     },
@@ -12764,7 +12764,7 @@
       "id": 6438,
       "vino": "J&B Estuche con vaso",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 33500,
+      "precio": 34500,
       "stock": 0,
       "barcode": "7790197161686"
     },
@@ -12772,7 +12772,7 @@
       "id": 6439,
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 29500,
+      "precio": 29800,
       "stock": -2,
       "barcode": "5010103800310"
     },
@@ -12876,7 +12876,7 @@
       "id": 6451,
       "vino": "Johnnie Walker Blue Label",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 598000,
+      "precio": 610000,
       "stock": 0,
       "barcode": "5000267114279"
     },
@@ -12916,7 +12916,7 @@
       "id": 6456,
       "vino": "Johnnie Walker Red Label x 1Lt",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 42300,
+      "precio": 43500,
       "stock": 0,
       "barcode": "5000267013602"
     },
@@ -12924,7 +12924,7 @@
       "id": 6457,
       "vino": "Johnnie Walker Red Label x 750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 36800,
+      "precio": 37800,
       "stock": 0,
       "barcode": "5000267014005"
     },
@@ -13538,23 +13538,9 @@
       "vendidos": 32
     },
     {
-      "id": 6666,
-      "vino": "Nieto senetiner Malbec Pinot 0% ",
-      "bodega": "Nieto Senetiner",
-      "precio": 11400,
-      "vendidos": 21
-    },
-    {
       "id": 6695,
       "vino": "Distinto se nace",
       "bodega": "Huella pampa wines",
-      "precio": 4100,
-      "vendidos": 20
-    },
-    {
-      "id": 6702,
-      "vino": "Hormiga Negra",
-      "bodega": "Baudron",
       "precio": 4100,
       "vendidos": 19
     },
@@ -13564,7 +13550,21 @@
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6700,
       "vendidos": 19
+    },
+    {
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6800,
+      "vendidos": 18
+    },
+    {
+      "id": 6702,
+      "vino": "Hormiga Negra",
+      "bodega": "Baudron",
+      "precio": 4100,
+      "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-15T16:34:55.959Z"
+  "lastUpdate": "2026-11-16T00:13:38.639Z"
 }
