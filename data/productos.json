@@ -5957,7 +5957,7 @@
       "vino": "conejo verde - malbec",
       "bodega": "Bodega los aroldos",
       "precio": 6200,
-      "stock": -12,
+      "stock": 24,
       "barcode": "7791843020746"
     },
     {
@@ -7861,7 +7861,7 @@
       "vino": "DAMAJUANA Crotta Marsala x 5 Lts",
       "bodega": "Crotta",
       "precio": 29000,
-      "stock": 36,
+      "stock": 6,
       "barcode": "7794068000449"
     },
     {
@@ -7893,7 +7893,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco dulce",
       "bodega": "Crotta",
       "precio": 13800,
-      "stock": 24,
+      "stock": 4,
       "barcode": "7794068000043"
     },
     {
@@ -7917,7 +7917,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
       "precio": 13100,
-      "stock": 240,
+      "stock": 40,
       "barcode": "7794068000012"
     },
     {
@@ -7925,7 +7925,7 @@
       "vino": "DAMAJUNA duret roble lacrado cabernet",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 30,
+      "stock": -25,
       "barcode": "1148547501310"
     },
     {
@@ -7933,7 +7933,7 @@
       "vino": "DAMAJUNA duret roble lacrado malbec",
       "bodega": "Crotta",
       "precio": 16000,
-      "stock": 90,
+      "stock": -60,
       "barcode": "1148547501013"
     },
     {
@@ -7941,7 +7941,7 @@
       "vino": "Duret x3L",
       "bodega": "Crotta",
       "precio": 0,
-      "stock": 30,
+      "stock": -30,
       "barcode": ""
     },
     {
@@ -7957,7 +7957,7 @@
       "vino": "Marsalla Crotta",
       "bodega": "Crotta",
       "precio": 8400,
-      "stock": 24,
+      "stock": 18,
       "barcode": "7794068000111"
     },
     {
@@ -13598,5 +13598,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-17T12:28:41.960Z"
+  "lastUpdate": "2026-11-17T13:03:54.015Z"
 }
