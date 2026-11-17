@@ -6813,7 +6813,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": 1,
+      "stock": 0,
       "barcode": "7790895005374"
     },
     {
@@ -9489,6 +9489,14 @@
       "barcode": ""
     },
     {
+      "id": 6711,
+      "vino": "Pandulce Fruticolor con fruta",
+      "bodega": "Fruticolor",
+      "precio": 2700,
+      "stock": 2,
+      "barcode": "7791708001842"
+    },
+    {
       "id": 6044,
       "vino": "Red Bull X 250",
       "bodega": "GASEOSAS Y ENERGISANTES",
@@ -9831,6 +9839,14 @@
       "precio": 1560,
       "stock": 0,
       "barcode": "7622201816445"
+    },
+    {
+      "id": 6712,
+      "vino": "Pandulce Georgalos masa madre con frutas",
+      "bodega": "Georgalos",
+      "precio": 6200,
+      "stock": 2,
+      "barcode": "7790380039563"
     },
     {
       "id": 6250,
@@ -12241,6 +12257,22 @@
       "barcode": ""
     },
     {
+      "id": 6713,
+      "vino": "Pandulce Venezia chip choco",
+      "bodega": "Venezia",
+      "precio": 3200,
+      "stock": 2,
+      "barcode": "7791708717316"
+    },
+    {
+      "id": 6714,
+      "vino": "Pandulce Venezia sin fruta",
+      "bodega": "Venezia",
+      "precio": 3200,
+      "stock": 2,
+      "barcode": "7791708717323"
+    },
+    {
       "id": 6327,
       "vino": "Arrogante Malbec",
       "bodega": "Vicentin Family Wines",
@@ -13566,5 +13598,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-17T00:20:28.427Z"
+  "lastUpdate": "2026-11-17T12:28:41.960Z"
 }
