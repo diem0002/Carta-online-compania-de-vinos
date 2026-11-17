@@ -6545,6 +6545,30 @@
       "barcode": ""
     },
     {
+      "id": 6717,
+      "vino": "Caja navideña Premium",
+      "bodega": "CEO",
+      "precio": 50100,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6715,
+      "vino": "Caja navideña Standar ",
+      "bodega": "CEO",
+      "precio": 31000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6716,
+      "vino": "Caja navideña medium",
+      "bodega": "CEO",
+      "precio": 42000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6540,
       "vino": "Gancia S/Alc 6x473",
       "bodega": "CEO",
@@ -13598,5 +13622,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-17T13:03:54.015Z"
+  "lastUpdate": "2026-11-17T13:41:15.654Z"
 }
