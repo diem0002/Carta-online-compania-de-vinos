@@ -1117,7 +1117,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -17,
+      "stock": -18,
       "barcode": "7790036975481"
     },
     {
@@ -5341,7 +5341,7 @@
       "vino": "Las Perdices Ala Colorada tanat",
       "bodega": "Bodega Las Perdices",
       "precio": 17600,
-      "stock": 20,
+      "stock": 19,
       "barcode": "7798123972207"
     },
     {
@@ -6813,7 +6813,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": 2,
+      "stock": 1,
       "barcode": "7790895005374"
     },
     {
@@ -7172,7 +7172,7 @@
       "id": 5674,
       "vino": "Kaiserdon x 1 lt Hefe",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16500,
+      "precio": 17500,
       "stock": -3,
       "barcode": "4004591037366"
     },
@@ -7180,7 +7180,7 @@
       "id": 5675,
       "vino": "Kaiserdon x 1 lt Kellerbier",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16500,
+      "precio": 17500,
       "stock": -2,
       "barcode": "4004591037557"
     },
@@ -7188,7 +7188,7 @@
       "id": 5676,
       "vino": "Kaiserdon x 1 lt Negra",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16500,
+      "precio": 17500,
       "stock": 0,
       "barcode": "4004591037441"
     },
@@ -7196,7 +7196,7 @@
       "id": 5677,
       "vino": "Kaiserdon x 1 lt Pilsener",
       "bodega": "Cervezas Importadas latas",
-      "precio": 16500,
+      "precio": 17500,
       "stock": -3,
       "barcode": "4004591037038"
     },
@@ -8285,7 +8285,7 @@
       "vino": "Copa agua x3",
       "bodega": "ESTUCHES CON COPAS",
       "precio": 12800,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7702147235439"
     },
     {
@@ -8941,7 +8941,7 @@
       "vino": "329 tannat",
       "bodega": "FINCA FENIX",
       "precio": 14000,
-      "stock": -3,
+      "stock": -4,
       "barcode": "727373047233"
     },
     {
@@ -10661,7 +10661,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -57,
+      "stock": -58,
       "barcode": "7790036004594"
     },
     {
@@ -13545,13 +13545,6 @@
       "vendidos": 19
     },
     {
-      "id": 5415,
-      "vino": "Santa Julia Chenin Dulce",
-      "bodega": "BODEGA ZUCCARDI",
-      "precio": 6700,
-      "vendidos": 19
-    },
-    {
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
@@ -13559,12 +13552,19 @@
       "vendidos": 18
     },
     {
-      "id": 6702,
-      "vino": "Hormiga Negra",
-      "bodega": "Baudron",
-      "precio": 4100,
+      "id": 5415,
+      "vino": "Santa Julia Chenin Dulce",
+      "bodega": "BODEGA ZUCCARDI",
+      "precio": 6700,
+      "vendidos": 18
+    },
+    {
+      "id": 6666,
+      "vino": "Nieto senetiner Malbec Pinot 0% ",
+      "bodega": "Nieto Senetiner",
+      "precio": 11400,
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-16T23:27:58.703Z"
+  "lastUpdate": "2026-11-17T00:08:16.898Z"
 }
