@@ -1797,7 +1797,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16500,
-      "stock": 24,
+      "stock": 22,
       "barcode": "7798191780117"
     },
     {
@@ -5517,7 +5517,7 @@
       "vino": "Foster Altepes",
       "bodega": "Bodega Lorca",
       "precio": 18700,
-      "stock": -9,
+      "stock": 19,
       "barcode": "7798103165711"
     },
     {
@@ -5525,7 +5525,7 @@
       "vino": "Foster Barrancos",
       "bodega": "Bodega Lorca",
       "precio": 18700,
-      "stock": 0,
+      "stock": 11,
       "barcode": "7798103165728"
     },
     {
@@ -7917,7 +7917,7 @@
       "vino": "DAMAJUANA Crotta x 5 lts Blanco dulce",
       "bodega": "Crotta",
       "precio": 13800,
-      "stock": 4,
+      "stock": 2,
       "barcode": "7794068000043"
     },
     {
@@ -10589,7 +10589,7 @@
       "vino": "Felix Lavaque blend (malbec - tannat)",
       "bodega": "Lavaque",
       "precio": 26100,
-      "stock": -9,
+      "stock": 5,
       "barcode": "7798260190168"
     },
     {
@@ -13622,5 +13622,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-17T13:41:36.393Z"
+  "lastUpdate": "2026-11-17T15:46:38.344Z"
 }
