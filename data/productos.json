@@ -177,6 +177,14 @@
       "barcode": ""
     },
     {
+      "id": 6718,
+      "vino": "Promo balbo ( + 1 gaseosa)",
+      "bodega": "Vinos",
+      "precio": 5000,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6602,
       "vino": "Promo barrita",
       "bodega": "Promos",
@@ -397,7 +405,7 @@
       "vino": "crujitas jamon serrano",
       "bodega": "9 de oro",
       "precio": 1200,
-      "stock": -6,
+      "stock": -7,
       "barcode": "7792180146137"
     },
     {
@@ -2540,7 +2548,7 @@
       "id": 5238,
       "vino": "Nampe",
       "bodega": "BODEGA FECOVITA",
-      "precio": 3400,
+      "precio": 3850,
       "stock": -3,
       "barcode": "7791843008911"
     },
@@ -2788,7 +2796,7 @@
       "id": 5256,
       "vino": "Colonia Caroya x 700 cc",
       "bodega": "BODEGA LA CAROYENSE",
-      "precio": 3700,
+      "precio": 4600,
       "stock": 30,
       "barcode": "7798089430131"
     },
@@ -2820,7 +2828,7 @@
       "id": 5261,
       "vino": "Viña de Caroya Amabile x1250",
       "bodega": "BODEGA LA CAROYENSE",
-      "precio": 6450,
+      "precio": 6550,
       "stock": 12,
       "barcode": "7798089430414"
     },
@@ -2828,7 +2836,7 @@
       "id": 5262,
       "vino": "Viña de Caroya Amabile x750",
       "bodega": "BODEGA LA CAROYENSE",
-      "precio": 4200,
+      "precio": 4600,
       "stock": 43,
       "barcode": "7798089430124"
     },
@@ -3389,7 +3397,7 @@
       "vino": "Trumpeter Reserva  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 13400,
-      "stock": -8,
+      "stock": -11,
       "barcode": "7790577041553"
     },
     {
@@ -5948,7 +5956,7 @@
       "id": 6405,
       "vino": "conejo verde - dulce natural",
       "bodega": "Bodega los aroldos",
-      "precio": 9150,
+      "precio": 9400,
       "stock": -9,
       "barcode": "7791843020760"
     },
@@ -5964,7 +5972,7 @@
       "id": 6407,
       "vino": "conejo verde - malbec ( bajo alcohol)",
       "bodega": "Bodega los aroldos",
-      "precio": 6100,
+      "precio": 6200,
       "stock": 0,
       "barcode": "7791843025062"
     },
@@ -7908,7 +7916,7 @@
       "id": 5749,
       "vino": "DAMAJUANA Crotta x 5 lts Blanco",
       "bodega": "Crotta",
-      "precio": 13800,
+      "precio": 13000,
       "stock": 2,
       "barcode": "7794068000029"
     },
@@ -7941,7 +7949,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
       "precio": 13100,
-      "stock": 40,
+      "stock": 38,
       "barcode": "7794068000012"
     },
     {
@@ -7972,7 +7980,7 @@
       "id": 6106,
       "vino": "Jerez Crotta",
       "bodega": "Crotta",
-      "precio": 7450,
+      "precio": 8400,
       "stock": 4,
       "barcode": "7794068001064"
     },
@@ -7996,7 +8004,7 @@
       "id": 6292,
       "vino": "Mistela Crotta x 750",
       "bodega": "Crotta",
-      "precio": 7100,
+      "precio": 8400,
       "stock": 18,
       "barcode": "7794068000142"
     },
@@ -8004,7 +8012,7 @@
       "id": 6134,
       "vino": "Moscato Crotta",
       "bodega": "Crotta",
-      "precio": 5800,
+      "precio": 6750,
       "stock": 5,
       "barcode": "7794068000081"
     },
@@ -8012,7 +8020,7 @@
       "id": 6135,
       "vino": "Oporto Crotta",
       "bodega": "Crotta",
-      "precio": 7450,
+      "precio": 8400,
       "stock": 9,
       "barcode": "7794068001057"
     },
@@ -8020,7 +8028,7 @@
       "id": 6296,
       "vino": "Patero Crotta x 1125",
       "bodega": "Crotta",
-      "precio": 4250,
+      "precio": 4500,
       "stock": 12,
       "barcode": "7794068000975"
     },
@@ -8036,7 +8044,7 @@
       "id": 5074,
       "vino": "Vermout Crotta Rosso",
       "bodega": "Crotta",
-      "precio": 9100,
+      "precio": 11700,
       "stock": -1,
       "barcode": "7794068001859"
     },
@@ -10701,7 +10709,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -58,
+      "stock": -59,
       "barcode": "7790036004594"
     },
     {
@@ -12829,7 +12837,7 @@
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 29800,
-      "stock": -2,
+      "stock": -3,
       "barcode": "5010103800310"
     },
     {
@@ -13524,7 +13532,7 @@
       "id": 6323,
       "vino": "Balbo x 1250",
       "bodega": "flia falasco",
-      "precio": 3600,
+      "precio": 3100,
       "stock": 65,
       "barcode": "7791843008294"
     },
@@ -13537,26 +13545,26 @@
       "barcode": "7791843022511"
     },
     {
+      "id": 5276,
+      "vino": "chacabuco cabernet",
+      "bodega": "flia falasco",
+      "precio": 4700,
+      "stock": 0,
+      "barcode": "7791843011423"
+    },
+    {
       "id": 5275,
-      "vino": "chacabucho chenin",
+      "vino": "chacabuco chenin",
       "bodega": "flia falasco",
       "precio": 7350,
       "stock": 35,
       "barcode": "7791843013441"
     },
     {
-      "id": 5276,
-      "vino": "chacabuco cabernet",
-      "bodega": "flia falasco",
-      "precio": 4350,
-      "stock": 0,
-      "barcode": "7791843011423"
-    },
-    {
       "id": 5277,
       "vino": "chacabuco malbec",
       "bodega": "flia falasco",
-      "precio": 4350,
+      "precio": 4700,
       "stock": 0,
       "barcode": "7791843023471"
     },
@@ -13622,5 +13630,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-17T15:46:38.344Z"
+  "lastUpdate": "2026-11-17T23:15:56.621Z"
 }
