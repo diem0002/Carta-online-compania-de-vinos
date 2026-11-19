@@ -261,7 +261,7 @@
       "vino": "Ultima Carta",
       "bodega": "Vinos",
       "precio": 2800,
-      "stock": -3,
+      "stock": -4,
       "barcode": "8436613745137"
     },
     {
@@ -1125,7 +1125,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7790036975481"
     },
     {
@@ -2093,7 +2093,7 @@
       "vino": "Oveja black malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 58,
+      "stock": 57,
       "barcode": "7798162671673"
     },
     {
@@ -6293,7 +6293,7 @@
       "vino": "Dv catena Pinot",
       "bodega": "CATENA ZAPATA",
       "precio": 18500,
-      "stock": 18,
+      "stock": 17,
       "barcode": ""
     },
     {
@@ -6461,7 +6461,7 @@
       "vino": "Saint Felicien malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 12300,
-      "stock": 40,
+      "stock": 38,
       "barcode": "7794450088581"
     },
     {
@@ -6789,7 +6789,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -42,
+      "stock": -43,
       "barcode": "7790895000430"
     },
     {
@@ -9373,7 +9373,7 @@
       "vino": "mani 200g",
       "bodega": "FRUTOS SECOS",
       "precio": 2200,
-      "stock": -20,
+      "stock": -21,
       "barcode": "66"
     },
     {
@@ -10045,7 +10045,7 @@
       "vino": "Finca Gabriel dulce blanco",
       "bodega": "JORGE RUBIO",
       "precio": 6600,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7798112631306"
     },
     {
@@ -10461,7 +10461,7 @@
       "vino": "Bautismo  - malbec",
       "bodega": "LIGA DE LOS ENOLOGOS",
       "precio": 5750,
-      "stock": 2,
+      "stock": 1,
       "barcode": "7791540049910"
     },
     {
@@ -10677,7 +10677,7 @@
       "vino": "Gaseosas Mocoreta Cola",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790036004617"
     },
     {
@@ -10685,7 +10685,7 @@
       "vino": "Gaseosas Mocoreta Lima",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -32,
+      "stock": -35,
       "barcode": "7790036004600"
     },
     {
@@ -10709,7 +10709,7 @@
       "vino": "Gaseosas Mocoreta Pomelo",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -59,
+      "stock": -62,
       "barcode": "7790036004594"
     },
     {
@@ -10717,7 +10717,7 @@
       "vino": "Gaseosas Mocoreta Pomelo Rosado",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -23,
+      "stock": -24,
       "barcode": "7790036105956"
     },
     {
@@ -11261,7 +11261,7 @@
       "vino": "Emilia  - cabernet",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": 0,
+      "stock": 48,
       "barcode": "7793440002316"
     },
     {
@@ -11277,7 +11277,7 @@
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": 109,
+      "stock": 45,
       "barcode": "7790070760722"
     },
     {
@@ -11325,7 +11325,7 @@
       "vino": "Emilia dulce blanco dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": -12,
+      "stock": 30,
       "barcode": "7790070760777"
     },
     {
@@ -11341,7 +11341,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": -7,
+      "stock": 24,
       "barcode": "7790070760739"
     },
     {
@@ -11357,7 +11357,7 @@
       "vino": "Emilia sangria coktail",
       "bodega": "Nieto Senetiner",
       "precio": 8950,
-      "stock": 2,
+      "stock": 3,
       "barcode": "7790070764034"
     },
     {
@@ -12071,6 +12071,214 @@
       "precio": 3600,
       "stock": 0,
       "barcode": "7798079370676"
+    },
+    {
+      "id": 6737,
+      "vino": "Achalay Virginia",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798096700234"
+    },
+    {
+      "id": 6732,
+      "vino": "Cross Road  bright virginia",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "717379974442"
+    },
+    {
+      "id": 6731,
+      "vino": "Cross Road virginia",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "717379974374"
+    },
+    {
+      "id": 6736,
+      "vino": "Cuatro leguas",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798088272220"
+    },
+    {
+      "id": 6724,
+      "vino": "Encendedor magiclic Solid",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6723,
+      "vino": "Encendedor magiclic ZY",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "6954220700520"
+    },
+    {
+      "id": 6722,
+      "vino": "Encendedor magiclic serpiente",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "6954220703521"
+    },
+    {
+      "id": 6729,
+      "vino": "Filtros  slim",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "4002604034760"
+    },
+    {
+      "id": 6728,
+      "vino": "Filtros Extra slim",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "4002604064767"
+    },
+    {
+      "id": 6730,
+      "vino": "Las Hojas natural",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798096700104"
+    },
+    {
+      "id": 6745,
+      "vino": "Mac Bren Choice cool mint",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6744,
+      "vino": "Mac Bren Choice vainilla",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "5707294309745"
+    },
+    {
+      "id": 6720,
+      "vino": "Pape OCB blanco",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "30042452"
+    },
+    {
+      "id": 6721,
+      "vino": "Papel Celulosa",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798297917868"
+    },
+    {
+      "id": 6719,
+      "vino": "Papel OCB negro",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "30052765"
+    },
+    {
+      "id": 6725,
+      "vino": "Pipa Luigi 14",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6726,
+      "vino": "Pipa Luigi 18",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6727,
+      "vino": "Pipa Luigi c/n",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6740,
+      "vino": "Tabaco de pipa chocolate",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6739,
+      "vino": "Tabaco de pipa vainilla",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6734,
+      "vino": "Van Kiff",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798100200361"
+    },
+    {
+      "id": 6735,
+      "vino": "Van Kiff",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6733,
+      "vino": "Van Kiff natural",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798100200330"
+    },
+    {
+      "id": 6743,
+      "vino": "VanHassen nativo",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798205440136"
+    },
+    {
+      "id": 6742,
+      "vino": "VanHassen original sin aditi",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798205440013"
+    },
+    {
+      "id": 6741,
+      "vino": "VanHassen vainilla",
+      "bodega": "Todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": "7798205440617"
     },
     {
       "id": 6298,
@@ -13585,6 +13793,14 @@
       "barcode": "31"
     },
     {
+      "id": 6738,
+      "vino": "Tabaco de pipa cherry",
+      "bodega": "todo Puros",
+      "precio": 0,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6518,
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
@@ -13599,7 +13815,14 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 32
+      "vendidos": 31
+    },
+    {
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6800,
+      "vendidos": 19
     },
     {
       "id": 6695,
@@ -13616,13 +13839,6 @@
       "vendidos": 17
     },
     {
-      "id": 6224,
-      "vino": "Emilia  - malbec",
-      "bodega": "Nieto Senetiner",
-      "precio": 6800,
-      "vendidos": 17
-    },
-    {
       "id": 5485,
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
@@ -13630,5 +13846,5 @@
       "vendidos": 17
     }
   ],
-  "lastUpdate": "2026-11-18T15:28:18.359Z"
+  "lastUpdate": "2026-11-19T16:09:39.203Z"
 }
