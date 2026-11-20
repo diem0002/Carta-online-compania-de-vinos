@@ -1,38 +1,6 @@
 {
   "catalogo": [
     {
-      "id": 6749,
-      "vino": "Encendedor magiclic mini torch colores ",
-      "bodega": "Vinos",
-      "precio": 3700,
-      "stock": 0,
-      "barcode": "7798598000016"
-    },
-    {
-      "id": 6747,
-      "vino": "Encendedor magiclic mini torch convinado",
-      "bodega": "Vinos",
-      "precio": 3700,
-      "stock": 0,
-      "barcode": "7798598000023"
-    },
-    {
-      "id": 6750,
-      "vino": "Encendedor magiclic mini torch metalico",
-      "bodega": "Vinos",
-      "precio": 3700,
-      "stock": 0,
-      "barcode": "7798598000030"
-    },
-    {
-      "id": 6748,
-      "vino": "Encendedor magiclic neon",
-      "bodega": "Vinos",
-      "precio": 8500,
-      "stock": 0,
-      "barcode": "6954220700650"
-    },
-    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -965,7 +933,7 @@
       "vino": "Agua   x1.5",
       "bodega": "BAGGIO",
       "precio": 1150,
-      "stock": 6,
+      "stock": 5,
       "barcode": "7790036974514"
     },
     {
@@ -1013,7 +981,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 4,
+      "stock": 3,
       "barcode": "7790036001647"
     },
     {
@@ -1061,7 +1029,7 @@
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "BAGGIO",
       "precio": 1500,
-      "stock": 8,
+      "stock": 7,
       "barcode": "7790036001579"
     },
     {
@@ -3389,7 +3357,7 @@
       "vino": "Trumpeter  - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 10300,
-      "stock": 28,
+      "stock": 27,
       "barcode": "7790577002141"
     },
     {
@@ -3749,7 +3717,7 @@
       "vino": "Salentein Brut Nature",
       "bodega": "BODEGA SALENTEIN",
       "precio": 15100,
-      "stock": 5,
+      "stock": 4,
       "barcode": "7798074864910"
     },
     {
@@ -6821,7 +6789,7 @@
       "vino": "Coca Cola  1,5 S/Az",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -16,
+      "stock": -17,
       "barcode": "7790895067556"
     },
     {
@@ -10053,7 +10021,7 @@
       "vino": "Distinto se nace",
       "bodega": "Huella pampa wines",
       "precio": 4100,
-      "stock": -25,
+      "stock": -26,
       "barcode": "8436613745076"
     },
     {
@@ -11581,7 +11549,7 @@
       "vino": "O61 Malbec",
       "bodega": "O61",
       "precio": 10800,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7798081669133"
     },
     {
@@ -11780,7 +11748,7 @@
       "id": 6035,
       "vino": "Mirinda manzana",
       "bodega": "RAVSA",
-      "precio": 2700,
+      "precio": 3060,
       "stock": -4,
       "barcode": "7791813423317"
     },
@@ -12161,6 +12129,38 @@
       "barcode": "6954220704528"
     },
     {
+      "id": 6749,
+      "vino": "Encendedor magiclic mini torch colores ",
+      "bodega": "Todo Puros",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": "7798598000016"
+    },
+    {
+      "id": 6747,
+      "vino": "Encendedor magiclic mini torch convinado",
+      "bodega": "Todo Puros",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": "7798598000023"
+    },
+    {
+      "id": 6750,
+      "vino": "Encendedor magiclic mini torch metalico",
+      "bodega": "Todo Puros",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": "7798598000030"
+    },
+    {
+      "id": 6748,
+      "vino": "Encendedor magiclic neon",
+      "bodega": "Todo Puros",
+      "precio": 8500,
+      "stock": 0,
+      "barcode": "6954220700650"
+    },
+    {
       "id": 6722,
       "vino": "Encendedor magiclic serpiente",
       "bodega": "Todo Puros",
@@ -12231,6 +12231,22 @@
       "precio": 1200,
       "stock": 0,
       "barcode": "30052765"
+    },
+    {
+      "id": 6753,
+      "vino": "Pipa Lorenzo manola Seconda ",
+      "bodega": "Todo Puros",
+      "precio": 99450,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6752,
+      "vino": "Pipa Lorenzo manola natural",
+      "bodega": "Todo Puros",
+      "precio": 75600,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 6725,
@@ -12397,7 +12413,7 @@
       "vino": "Doña Paula  - Pinot",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 13900,
-      "stock": 47,
+      "stock": 46,
       "barcode": "7798090165114"
     },
     {
@@ -13873,18 +13889,18 @@
       "vendidos": 20
     },
     {
+      "id": 6695,
+      "vino": "Distinto se nace",
+      "bodega": "Huella pampa wines",
+      "precio": 4100,
+      "vendidos": 19
+    },
+    {
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
       "vendidos": 19
-    },
-    {
-      "id": 6695,
-      "vino": "Distinto se nace",
-      "bodega": "Huella pampa wines",
-      "precio": 4100,
-      "vendidos": 18
     },
     {
       "id": 5485,
@@ -13894,5 +13910,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-11-20T00:17:17.576Z"
+  "lastUpdate": "2026-11-20T13:08:53.294Z"
 }
