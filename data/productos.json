@@ -1,6 +1,62 @@
 {
   "catalogo": [
     {
+      "id": 6757,
+      "vino": "7 Colinas Golden",
+      "bodega": "Vinos",
+      "precio": 4200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6759,
+      "vino": "7 Colinas Hidromiel",
+      "bodega": "Vinos",
+      "precio": 5050,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6760,
+      "vino": "7 Colinas Honey",
+      "bodega": "Vinos",
+      "precio": 4200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6756,
+      "vino": "7 Colinas Ipa",
+      "bodega": "Vinos",
+      "precio": 5050,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6755,
+      "vino": "7 Colinas Porter",
+      "bodega": "Vinos",
+      "precio": 5050,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6754,
+      "vino": "7 Colinas Rubia suave",
+      "bodega": "Vinos",
+      "precio": 4200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": 6758,
+      "vino": "7 Colinas Scotish",
+      "bodega": "Vinos",
+      "precio": 4200,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -2261,7 +2317,7 @@
       "vino": "Chandon Extra Brut espumante",
       "bodega": "BODEGA CHANDON",
       "precio": 20700,
-      "stock": -1,
+      "stock": -7,
       "barcode": "7790975198613"
     },
     {
@@ -13852,8 +13908,8 @@
       "id": 6517,
       "vino": "Motomandado",
       "bodega": "servicios",
-      "precio": 3500,
-      "stock": -7,
+      "precio": 3000,
+      "stock": -8,
       "barcode": "31"
     },
     {
@@ -13910,5 +13966,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-11-20T15:52:10.702Z"
+  "lastUpdate": "2026-11-20T22:04:12.177Z"
 }
