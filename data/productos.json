@@ -1,6 +1,38 @@
 {
   "catalogo": [
     {
+      "id": 6749,
+      "vino": "Encendedor magiclic mini torch colores ",
+      "bodega": "Vinos",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": "7798598000016"
+    },
+    {
+      "id": 6747,
+      "vino": "Encendedor magiclic mini torch convinado",
+      "bodega": "Vinos",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": "7798598000023"
+    },
+    {
+      "id": 6750,
+      "vino": "Encendedor magiclic mini torch metalico",
+      "bodega": "Vinos",
+      "precio": 3700,
+      "stock": 0,
+      "barcode": "7798598000030"
+    },
+    {
+      "id": 6748,
+      "vino": "Encendedor magiclic neon",
+      "bodega": "Vinos",
+      "precio": 8500,
+      "stock": 0,
+      "barcode": "6954220700650"
+    },
+    {
       "id": 6523,
       "vino": "Promo Amigo",
       "bodega": "Promos",
@@ -257,6 +289,14 @@
       "barcode": ""
     },
     {
+      "id": 6751,
+      "vino": "Tabaco de pipa natural",
+      "bodega": "Vinos",
+      "precio": 5300,
+      "stock": 0,
+      "barcode": ""
+    },
+    {
       "id": 6696,
       "vino": "Ultima Carta",
       "bodega": "Vinos",
@@ -421,7 +461,7 @@
       "vino": "Aceite La Posta del Olivo x500",
       "bodega": "ACEITES DE OLIVA",
       "precio": 14500,
-      "stock": 2,
+      "stock": 1,
       "barcode": "7790036972176"
     },
     {
@@ -1125,7 +1165,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7790036975481"
     },
     {
@@ -2093,7 +2133,7 @@
       "vino": "Oveja black malbec",
       "bodega": "BODEGA CASA LA PRIMAVERA",
       "precio": 4350,
-      "stock": 57,
+      "stock": 55,
       "barcode": "7798162671673"
     },
     {
@@ -3373,7 +3413,7 @@
       "vino": "Trumpeter  - malbec",
       "bodega": "BODEGA RUTINI",
       "precio": 10300,
-      "stock": 24,
+      "stock": 23,
       "barcode": "7790577002165"
     },
     {
@@ -4156,7 +4196,7 @@
       "id": 5394,
       "vino": "Piatelli single vineyard malbec calchaqui",
       "bodega": "BODEGA VISTALBA",
-      "precio": 23600,
+      "precio": 28400,
       "stock": 0,
       "barcode": "7798276561419"
     },
@@ -4164,7 +4204,7 @@
       "id": 5395,
       "vino": "Piatelli single vineyard malbec uco",
       "bodega": "BODEGA VISTALBA",
-      "precio": 23600,
+      "precio": 28400,
       "stock": -1,
       "barcode": "7798276561457"
     },
@@ -4349,7 +4389,7 @@
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6700,
-      "stock": 84,
+      "stock": 81,
       "barcode": "7791728247091"
     },
     {
@@ -5469,7 +5509,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 25700,
-      "stock": 16,
+      "stock": 15,
       "barcode": "7798123970616"
     },
     {
@@ -5493,7 +5533,7 @@
       "vino": "Las perdices PARTRIDGE  Malbec",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 42,
+      "stock": 40,
       "barcode": "7798123971309"
     },
     {
@@ -6309,7 +6349,7 @@
       "vino": "El enemigo malbec",
       "bodega": "CATENA ZAPATA",
       "precio": 22800,
-      "stock": 48,
+      "stock": 47,
       "barcode": "7794450000972"
     },
     {
@@ -6796,7 +6836,7 @@
       "id": 6015,
       "vino": "Coca Cola 2,25",
       "bodega": "COCA COLA",
-      "precio": 6300,
+      "precio": 6650,
       "stock": -8,
       "barcode": "7790895000997"
     },
@@ -6876,15 +6916,15 @@
       "id": 6041,
       "vino": "Powerade x500 azul",
       "bodega": "COCA COLA",
-      "precio": 2600,
-      "stock": -5,
+      "precio": 2700,
+      "stock": -6,
       "barcode": "7790895640025"
     },
     {
       "id": 6042,
       "vino": "Powerade x500 manzana",
       "bodega": "COCA COLA",
-      "precio": 2600,
+      "precio": 2700,
       "stock": 0,
       "barcode": "7790895640018"
     },
@@ -6892,7 +6932,7 @@
       "id": 6043,
       "vino": "Powerade x500 rojo",
       "bodega": "COCA COLA",
-      "precio": 2600,
+      "precio": 2700,
       "stock": 0,
       "barcode": "7790895641183"
     },
@@ -6932,7 +6972,7 @@
       "id": 6051,
       "vino": "Sprite 2,25",
       "bodega": "COCA COLA",
-      "precio": 6420,
+      "precio": 6650,
       "stock": -1,
       "barcode": "7790895001000"
     },
@@ -7164,7 +7204,7 @@
       "id": 6556,
       "vino": "Estrella Galicia x 473",
       "bodega": "Cervezas Importadas latas",
-      "precio": 3300,
+      "precio": 3400,
       "stock": -22,
       "barcode": "7898953990157"
     },
@@ -10509,7 +10549,7 @@
       "vino": "Fca La Linda malbec",
       "bodega": "LUIGGI BOSCA",
       "precio": 9580,
-      "stock": -2,
+      "stock": -3,
       "barcode": "7791203003341"
     },
     {
@@ -12076,7 +12116,7 @@
       "id": 6737,
       "vino": "Achalay Virginia",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 5900,
       "stock": 0,
       "barcode": "7798096700234"
     },
@@ -12084,7 +12124,7 @@
       "id": 6732,
       "vino": "Cross Road  bright virginia",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 5800,
       "stock": 0,
       "barcode": "717379974442"
     },
@@ -12092,7 +12132,7 @@
       "id": 6731,
       "vino": "Cross Road virginia",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 5800,
       "stock": 0,
       "barcode": "717379974374"
     },
@@ -12100,31 +12140,31 @@
       "id": 6736,
       "vino": "Cuatro leguas",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8800,
       "stock": 0,
       "barcode": "7798088272220"
     },
     {
-      "id": 6724,
+      "id": 6723,
       "vino": "Encendedor magiclic Solid",
       "bodega": "Todo Puros",
-      "precio": 0,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
-      "id": 6723,
-      "vino": "Encendedor magiclic ZY",
-      "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8500,
       "stock": 0,
       "barcode": "6954220700520"
+    },
+    {
+      "id": 6724,
+      "vino": "Encendedor magiclic charman",
+      "bodega": "Todo Puros",
+      "precio": 8500,
+      "stock": 0,
+      "barcode": "6954220704528"
     },
     {
       "id": 6722,
       "vino": "Encendedor magiclic serpiente",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8500,
       "stock": 0,
       "barcode": "6954220703521"
     },
@@ -12132,7 +12172,7 @@
       "id": 6729,
       "vino": "Filtros  slim",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 1400,
       "stock": 0,
       "barcode": "4002604034760"
     },
@@ -12140,7 +12180,7 @@
       "id": 6728,
       "vino": "Filtros Extra slim",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 2100,
       "stock": 0,
       "barcode": "4002604064767"
     },
@@ -12148,7 +12188,7 @@
       "id": 6730,
       "vino": "Las Hojas natural",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8400,
       "stock": 0,
       "barcode": "7798096700104"
     },
@@ -12156,15 +12196,15 @@
       "id": 6745,
       "vino": "Mac Bren Choice cool mint",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 9200,
       "stock": 0,
-      "barcode": ""
+      "barcode": "5707294310109"
     },
     {
       "id": 6744,
       "vino": "Mac Bren Choice vainilla",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 9200,
       "stock": 0,
       "barcode": "5707294309745"
     },
@@ -12180,7 +12220,7 @@
       "id": 6721,
       "vino": "Papel Celulosa",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 800,
       "stock": 0,
       "barcode": "7798297917868"
     },
@@ -12188,7 +12228,7 @@
       "id": 6719,
       "vino": "Papel OCB negro",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 1200,
       "stock": 0,
       "barcode": "30052765"
     },
@@ -12196,7 +12236,7 @@
       "id": 6725,
       "vino": "Pipa Luigi 14",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 10100,
       "stock": 0,
       "barcode": ""
     },
@@ -12204,7 +12244,7 @@
       "id": 6726,
       "vino": "Pipa Luigi 18",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 10100,
       "stock": 0,
       "barcode": ""
     },
@@ -12212,7 +12252,7 @@
       "id": 6727,
       "vino": "Pipa Luigi c/n",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 10100,
       "stock": 0,
       "barcode": ""
     },
@@ -12220,7 +12260,7 @@
       "id": 6740,
       "vino": "Tabaco de pipa chocolate",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 5300,
       "stock": 0,
       "barcode": ""
     },
@@ -12228,57 +12268,65 @@
       "id": 6739,
       "vino": "Tabaco de pipa vainilla",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 5300,
       "stock": 0,
       "barcode": ""
-    },
-    {
-      "id": 6734,
-      "vino": "Van Kiff",
-      "bodega": "Todo Puros",
-      "precio": 0,
-      "stock": 0,
-      "barcode": "7798100200361"
-    },
-    {
-      "id": 6735,
-      "vino": "Van Kiff",
-      "bodega": "Todo Puros",
-      "precio": 0,
-      "stock": 0,
-      "barcode": ""
-    },
-    {
-      "id": 6733,
-      "vino": "Van Kiff natural",
-      "bodega": "Todo Puros",
-      "precio": 0,
-      "stock": 0,
-      "barcode": "7798100200330"
     },
     {
       "id": 6743,
-      "vino": "VanHassen nativo",
+      "vino": "Van Hassen nativo",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8700,
       "stock": 0,
       "barcode": "7798205440136"
     },
     {
       "id": 6742,
-      "vino": "VanHassen original sin aditi",
+      "vino": "Van Hassen original sin aditi",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8700,
       "stock": 0,
       "barcode": "7798205440013"
     },
     {
       "id": 6741,
-      "vino": "VanHassen vainilla",
+      "vino": "Van Hassen vainilla",
       "bodega": "Todo Puros",
-      "precio": 0,
+      "precio": 8700,
       "stock": 0,
       "barcode": "7798205440617"
+    },
+    {
+      "id": 6735,
+      "vino": "Van Kiff chocolate",
+      "bodega": "Todo Puros",
+      "precio": 8100,
+      "stock": 0,
+      "barcode": "7798100200354"
+    },
+    {
+      "id": 6733,
+      "vino": "Van Kiff natural",
+      "bodega": "Todo Puros",
+      "precio": 8100,
+      "stock": 0,
+      "barcode": "7798100200330"
+    },
+    {
+      "id": 6734,
+      "vino": "Van Kiff vainilla",
+      "bodega": "Todo Puros",
+      "precio": 8100,
+      "stock": 0,
+      "barcode": "7798100200361"
+    },
+    {
+      "id": 6746,
+      "vino": "Papel OCB blanco",
+      "bodega": "Todo puros",
+      "precio": 600,
+      "stock": 0,
+      "barcode": ""
     },
     {
       "id": 6298,
@@ -13796,7 +13844,7 @@
       "id": 6738,
       "vino": "Tabaco de pipa cherry",
       "bodega": "todo Puros",
-      "precio": 0,
+      "precio": 5300,
       "stock": 0,
       "barcode": ""
     },
@@ -13818,6 +13866,13 @@
       "vendidos": 31
     },
     {
+      "id": 5415,
+      "vino": "Santa Julia Chenin Dulce",
+      "bodega": "BODEGA ZUCCARDI",
+      "precio": 6700,
+      "vendidos": 20
+    },
+    {
       "id": 6224,
       "vino": "Emilia  - malbec",
       "bodega": "Nieto Senetiner",
@@ -13832,19 +13887,12 @@
       "vendidos": 18
     },
     {
-      "id": 6666,
-      "vino": "Nieto senetiner Malbec Pinot 0% ",
-      "bodega": "Nieto Senetiner",
-      "precio": 11400,
-      "vendidos": 17
-    },
-    {
       "id": 5485,
       "vino": "Gascon Varietales - malbec",
       "bodega": "Bodega Escorihuela",
       "precio": 7450,
-      "vendidos": 17
+      "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-11-19T16:09:39.203Z"
+  "lastUpdate": "2026-11-20T00:15:41.871Z"
 }
