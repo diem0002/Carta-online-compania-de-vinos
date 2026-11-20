@@ -1356,7 +1356,7 @@
       "id": 5114,
       "vino": "Gin Mil demonios",
       "bodega": "BEBIDAS FUERTES",
-      "precio": 22050,
+      "precio": 25300,
       "stock": 0,
       "barcode": "7798127633180"
     },
@@ -1509,7 +1509,7 @@
       "vino": "Gin terrier Wild",
       "bodega": "BEBIDAS FUERTES",
       "precio": 13600,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798353193533"
     },
     {
@@ -2220,7 +2220,7 @@
       "id": 5871,
       "vino": "Baron B  Extra Brut",
       "bodega": "BODEGA CHANDON",
-      "precio": 40500,
+      "precio": 40400,
       "stock": -1,
       "barcode": "7790975000152"
     },
@@ -2284,7 +2284,7 @@
       "id": 5896,
       "vino": "Mercier E Brut espumante",
       "bodega": "BODEGA CHANDON",
-      "precio": 11800,
+      "precio": 11700,
       "stock": 0,
       "barcode": "7790975000022"
     },
@@ -2621,7 +2621,7 @@
       "vino": "Saurus - blend",
       "bodega": "BODEGA FLIA SCHROEDER",
       "precio": 9150,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798116191707"
     },
     {
@@ -4605,7 +4605,7 @@
       "vino": "Branca x 750",
       "bodega": "BRANCA",
       "precio": 20700,
-      "stock": -20,
+      "stock": -21,
       "barcode": "7790290101602"
     },
     {
@@ -5061,7 +5061,7 @@
       "vino": "Gascon Varietales - cabernet",
       "bodega": "Bodega Escorihuela",
       "precio": 7450,
-      "stock": -5,
+      "stock": -9,
       "barcode": "7790415127814"
     },
     {
@@ -5285,7 +5285,7 @@
       "vino": "Las Perdices  - Blend",
       "bodega": "Bodega Las Perdices",
       "precio": 9050,
-      "stock": 25,
+      "stock": 24,
       "barcode": "7798123971170"
     },
     {
@@ -5477,7 +5477,7 @@
       "vino": "Las Perdices bag in box x3L",
       "bodega": "Bodega Las Perdices",
       "precio": 25700,
-      "stock": 15,
+      "stock": 14,
       "barcode": "7798123970616"
     },
     {
@@ -6349,7 +6349,7 @@
       "vino": "Malbec Argentino",
       "bodega": "CATENA ZAPATA",
       "precio": 93600,
-      "stock": 1,
+      "stock": 0,
       "barcode": "7794450941145"
     },
     {
@@ -12141,7 +12141,7 @@
       "vino": "Encendedor magiclic mini torch convinado",
       "bodega": "Todo Puros",
       "precio": 3700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798598000023"
     },
     {
@@ -12692,7 +12692,7 @@
       "id": 6341,
       "vino": "Prisionero  - cabernet",
       "bodega": "Vicentin Family Wines",
-      "precio": 6600,
+      "precio": 6900,
       "stock": 0,
       "barcode": "7798153600194"
     },
@@ -12700,7 +12700,7 @@
       "id": 6342,
       "vino": "Prisionero  - malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 6600,
+      "precio": 6900,
       "stock": 0,
       "barcode": "7790843001366"
     },
@@ -12708,7 +12708,7 @@
       "id": 6343,
       "vino": "Prisionero - Chenin",
       "bodega": "Vicentin Family Wines",
-      "precio": 6600,
+      "precio": 6900,
       "stock": -1,
       "barcode": "7798127631643"
     },
@@ -13910,5 +13910,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-11-20T13:08:53.294Z"
+  "lastUpdate": "2026-11-20T15:52:10.702Z"
 }
