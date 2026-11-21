@@ -381,7 +381,7 @@
       "vino": "Snacks Arroz Cebolla",
       "bodega": "2 hermanos",
       "precio": 1700,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790503000296"
     },
     {
@@ -693,7 +693,7 @@
       "vino": "Aperol x 750",
       "bodega": "APERITIVOS",
       "precio": 10850,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7891136057029"
     },
     {
@@ -805,7 +805,7 @@
       "vino": "Martini Rosso",
       "bodega": "APERITIVOS",
       "precio": 8400,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7790950134810"
     },
     {
@@ -1189,7 +1189,7 @@
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
       "precio": 1100,
-      "stock": -21,
+      "stock": -22,
       "barcode": "7790036975481"
     },
     {
@@ -1205,7 +1205,7 @@
       "vino": "baggio pronto 1,5",
       "bodega": "BAGGIO",
       "precio": 2600,
-      "stock": 2,
+      "stock": 0,
       "barcode": "7790036002606"
     },
     {
@@ -1797,7 +1797,7 @@
       "vino": "inmigrante pomelo estuche",
       "bodega": "BEBIDAS FUERTES",
       "precio": 38400,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798375760065"
     },
     {
@@ -2093,7 +2093,7 @@
       "vino": "Callia tardio / rosado",
       "bodega": "BODEGA CALLIA",
       "precio": 4450,
-      "stock": 19,
+      "stock": 18,
       "barcode": "7798108832250"
     },
     {
@@ -2349,7 +2349,7 @@
       "vino": "Mercier demi sec nat espumante",
       "bodega": "BODEGA CHANDON",
       "precio": 11800,
-      "stock": 0,
+      "stock": -3,
       "barcode": "7790975000039"
     },
     {
@@ -2573,7 +2573,7 @@
       "vino": "Dilema Day Rosado Dce",
       "bodega": "BODEGA FECOVITA",
       "precio": 3960,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790314005084"
     },
     {
@@ -3581,7 +3581,7 @@
       "vino": "El Portillo  - dulce",
       "bodega": "BODEGA SALENTEIN",
       "precio": 5850,
-      "stock": 14,
+      "stock": 13,
       "barcode": "7798074863708"
     },
     {
@@ -4413,7 +4413,7 @@
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6700,
-      "stock": 81,
+      "stock": 78,
       "barcode": "7791728247091"
     },
     {
@@ -4461,7 +4461,7 @@
       "vino": "Santa Julia tinto Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6700,
-      "stock": 119,
+      "stock": 118,
       "barcode": "7791728248265"
     },
     {
@@ -4557,7 +4557,7 @@
       "vino": "santa Julia  - malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 5200,
-      "stock": 21,
+      "stock": 20,
       "barcode": "7791728247114"
     },
     {
@@ -4661,7 +4661,7 @@
       "vino": "Branca x 750",
       "bodega": "BRANCA",
       "precio": 20700,
-      "stock": -21,
+      "stock": -23,
       "barcode": "7790290101602"
     },
     {
@@ -5373,7 +5373,7 @@
       "vino": "Las Perdices  - Sauvignon Blanc",
       "bodega": "Bodega Las Perdices",
       "precio": 9050,
-      "stock": 16,
+      "stock": 15,
       "barcode": "7798123970166"
     },
     {
@@ -6853,7 +6853,7 @@
       "vino": "Coca Cola 1,5",
       "bodega": "COCA COLA",
       "precio": 4700,
-      "stock": -43,
+      "stock": -47,
       "barcode": "7790895000430"
     },
     {
@@ -6877,7 +6877,7 @@
       "vino": "Coca Cola Retornable",
       "bodega": "COCA COLA",
       "precio": 4450,
-      "stock": 45,
+      "stock": 44,
       "barcode": "7790895000218"
     },
     {
@@ -6909,7 +6909,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790895005374"
     },
     {
@@ -6973,7 +6973,7 @@
       "vino": "Schwepps tonica",
       "bodega": "COCA COLA",
       "precio": 4320,
-      "stock": -9,
+      "stock": -10,
       "barcode": "7790895006715"
     },
     {
@@ -7260,7 +7260,7 @@
       "id": 5673,
       "vino": "Kaiserdon estuche",
       "bodega": "Cervezas Importadas latas",
-      "precio": 45000,
+      "precio": 49000,
       "stock": -1,
       "barcode": "4004591137363"
     },
@@ -7557,7 +7557,7 @@
       "vino": "Heineken x 330 Botella",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3970,
-      "stock": -6,
+      "stock": -12,
       "barcode": "7793147009137"
     },
     {
@@ -7565,7 +7565,7 @@
       "vino": "Heineken x 473",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3970,
-      "stock": -25,
+      "stock": -31,
       "barcode": "7793147009199"
     },
     {
@@ -7605,7 +7605,7 @@
       "vino": "Imperial x 473 stout",
       "bodega": "Cervezas Nacionales latas",
       "precio": 3100,
-      "stock": 0,
+      "stock": -6,
       "barcode": "7793147001742"
     },
     {
@@ -10037,7 +10037,7 @@
       "vino": "Gordo Motoneta",
       "bodega": "Gordo motoneta garage wines",
       "precio": 4900,
-      "stock": -5,
+      "stock": -7,
       "barcode": "7798366220028"
     },
     {
@@ -10661,7 +10661,7 @@
       "vino": "Felix Lavaque blend (malbec - tannat)",
       "bodega": "Lavaque",
       "precio": 26100,
-      "stock": 5,
+      "stock": 3,
       "barcode": "7798260190168"
     },
     {
@@ -11325,7 +11325,7 @@
       "vino": "Emilia  - cabernet",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": 48,
+      "stock": 47,
       "barcode": "7793440002316"
     },
     {
@@ -11405,7 +11405,7 @@
       "vino": "Emilia dulce rosado dulce",
       "bodega": "Nieto Senetiner",
       "precio": 6800,
-      "stock": 24,
+      "stock": 23,
       "barcode": "7790070760739"
     },
     {
@@ -12189,7 +12189,7 @@
       "vino": "Encendedor magiclic mini torch colores ",
       "bodega": "Todo Puros",
       "precio": 3700,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7798598000016"
     },
     {
@@ -12197,7 +12197,7 @@
       "vino": "Encendedor magiclic mini torch convinado",
       "bodega": "Todo Puros",
       "precio": 3700,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798598000023"
     },
     {
@@ -13189,7 +13189,7 @@
       "vino": "Jack Daniel´s  Honey",
       "bodega": "WHISKYS IMPORTADOS",
       "precio": 52500,
-      "stock": 0,
+      "stock": -1,
       "barcode": "082184000335"
     },
     {
@@ -13925,7 +13925,7 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "stock": 552,
+      "stock": 551,
       "barcode": ""
     }
   ],
@@ -13935,14 +13935,14 @@
       "vino": "vinos para cocinar",
       "bodega": "vinos para cocinar",
       "precio": 2000,
-      "vendidos": 31
+      "vendidos": 26
     },
     {
       "id": 5415,
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 6700,
-      "vendidos": 20
+      "vendidos": 23
     },
     {
       "id": 6695,
@@ -13966,5 +13966,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-11-20T22:04:12.177Z"
+  "lastUpdate": "2026-11-21T12:46:03.368Z"
 }
