@@ -8332,7 +8332,7 @@
       "id": 5797,
       "vino": "Estuche Quinto elemento VICENTIN",
       "bodega": "ESTUCHES",
-      "precio": 79000,
+      "precio": 92500,
       "stock": 0,
       "barcode": " "
     },
@@ -8348,7 +8348,7 @@
       "id": 5798,
       "vino": "Indomable experiencia x3",
       "bodega": "ESTUCHES",
-      "precio": 43000,
+      "precio": 51000,
       "stock": 0,
       "barcode": "7790843001229"
     },
@@ -10661,7 +10661,7 @@
       "vino": "Felix Lavaque blend (malbec - tannat)",
       "bodega": "Lavaque",
       "precio": 28100,
-      "stock": 3,
+      "stock": 2,
       "barcode": "7798260190168"
     },
     {
@@ -12636,7 +12636,7 @@
       "id": 6327,
       "vino": "Arrogante Malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 14500,
+      "precio": 18500,
       "stock": -3,
       "barcode": "7790843000239"
     },
@@ -12644,7 +12644,7 @@
       "id": 6328,
       "vino": "Arrogante Syrah",
       "bodega": "Vicentin Family Wines",
-      "precio": 17000,
+      "precio": 20500,
       "stock": 0,
       "barcode": "7798127631612"
     },
@@ -12652,7 +12652,7 @@
       "id": 6329,
       "vino": "Barrabas franc",
       "bodega": "Vicentin Family Wines",
-      "precio": 37000,
+      "precio": 40300,
       "stock": 0,
       "barcode": "7798127631452"
     },
@@ -12660,7 +12660,7 @@
       "id": 6330,
       "vino": "Barrabas franc malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 37000,
+      "precio": 40300,
       "stock": -2,
       "barcode": "7798127633531"
     },
@@ -12668,7 +12668,7 @@
       "id": 6331,
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
-      "precio": 26000,
+      "precio": 28600,
       "stock": -4,
       "barcode": "7790843001328"
     },
@@ -12676,7 +12676,7 @@
       "id": 6332,
       "vino": "Coloso estuche madera x6 surtido",
       "bodega": "Vicentin Family Wines",
-      "precio": 123500,
+      "precio": 146500,
       "stock": 0,
       "barcode": ""
     },
@@ -12692,7 +12692,7 @@
       "id": 6334,
       "vino": "Indomable Robusto blend de malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 11400,
+      "precio": 12500,
       "stock": -2,
       "barcode": "7790843001281"
     },
@@ -12700,7 +12700,7 @@
       "id": 6335,
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 11100,
+      "precio": 12500,
       "stock": -11,
       "barcode": "7798127632077"
     },
@@ -12708,7 +12708,7 @@
       "id": 6336,
       "vino": "Judas malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 68000,
+      "precio": 74900,
       "stock": -1,
       "barcode": "7798127631193"
     },
@@ -12740,7 +12740,7 @@
       "id": 6340,
       "vino": "Maldito",
       "bodega": "Vicentin Family Wines",
-      "precio": 38500,
+      "precio": 42300,
       "stock": 0,
       "barcode": "7798127631469"
     },
@@ -12804,7 +12804,7 @@
       "id": 6346,
       "vino": "Sin Reglas Est x3 botellas",
       "bodega": "Vicentin Family Wines",
-      "precio": 37000,
+      "precio": 52000,
       "stock": 0,
       "barcode": ""
     },
@@ -12812,7 +12812,7 @@
       "id": 6347,
       "vino": "Sin reglas",
       "bodega": "Vicentin Family Wines",
-      "precio": 11350,
+      "precio": 13500,
       "stock": 0,
       "barcode": "7798127631681"
     },
@@ -12820,7 +12820,7 @@
       "id": 6348,
       "vino": "Sottano  - blend",
       "bodega": "Vicentin Family Wines",
-      "precio": 7800,
+      "precio": 8500,
       "stock": 0,
       "barcode": "7798127631322"
     },
@@ -12828,7 +12828,7 @@
       "id": 6349,
       "vino": "Sottano  - cabernet",
       "bodega": "Vicentin Family Wines",
-      "precio": 7800,
+      "precio": 8500,
       "stock": 0,
       "barcode": "7798127630042"
     },
@@ -12836,7 +12836,7 @@
       "id": 6350,
       "vino": "Sottano  - malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 7800,
+      "precio": 8500,
       "stock": -13,
       "barcode": "7798127630011"
     },
@@ -12844,7 +12844,7 @@
       "id": 6351,
       "vino": "Sottano -Torrontes",
       "bodega": "Vicentin Family Wines",
-      "precio": 7800,
+      "precio": 8500,
       "stock": 0,
       "barcode": ""
     },
@@ -12852,7 +12852,7 @@
       "id": 6352,
       "vino": "Sottano -Torrontes Dulce",
       "bodega": "Vicentin Family Wines",
-      "precio": 7800,
+      "precio": 8500,
       "stock": 0,
       "barcode": ""
     },
@@ -12860,7 +12860,7 @@
       "id": 5916,
       "vino": "Sottano Extra Brut espumante",
       "bodega": "Vicentin Family Wines",
-      "precio": 13100,
+      "precio": 15000,
       "stock": -1,
       "barcode": "7798127630516"
     },
@@ -12868,7 +12868,7 @@
       "id": 6353,
       "vino": "Sottano Famiglia",
       "bodega": "Vicentin Family Wines",
-      "precio": 20300,
+      "precio": 21900,
       "stock": 0,
       "barcode": "7798127630837"
     },
@@ -12876,7 +12876,7 @@
       "id": 6354,
       "vino": "Sottano Junior",
       "bodega": "Vicentin Family Wines",
-      "precio": 5800,
+      "precio": 6650,
       "stock": 0,
       "barcode": "7798127631827"
     },
@@ -12884,7 +12884,7 @@
       "id": 6355,
       "vino": "Sottano Organico",
       "bodega": "Vicentin Family Wines",
-      "precio": 7800,
+      "precio": 8500,
       "stock": -8,
       "barcode": ""
     },
@@ -12892,7 +12892,7 @@
       "id": 6356,
       "vino": "Sottano Reserva - blend",
       "bodega": "Vicentin Family Wines",
-      "precio": 12200,
+      "precio": 13900,
       "stock": 0,
       "barcode": "7798127630417"
     },
@@ -12900,7 +12900,7 @@
       "id": 6357,
       "vino": "Sottano Reserva - cabernet",
       "bodega": "Vicentin Family Wines",
-      "precio": 12200,
+      "precio": 13900,
       "stock": 0,
       "barcode": "7798127630165"
     },
@@ -12908,7 +12908,7 @@
       "id": 6358,
       "vino": "Sottano Reserva - malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 12200,
+      "precio": 13900,
       "stock": -2,
       "barcode": "7798127630134"
     },
@@ -12916,7 +12916,7 @@
       "id": 5917,
       "vino": "Sottano Rose espumante",
       "bodega": "Vicentin Family Wines",
-      "precio": 10800,
+      "precio": 15000,
       "stock": 0,
       "barcode": "7798127631353"
     },
@@ -12924,7 +12924,7 @@
       "id": 6359,
       "vino": "Sottano estuche madera x4",
       "bodega": "Vicentin Family Wines",
-      "precio": 95000,
+      "precio": 110000,
       "stock": 0,
       "barcode": ""
     },
@@ -12932,7 +12932,7 @@
       "id": 5918,
       "vino": "Sottano pinot noir  espumante",
       "bodega": "Vicentin Family Wines",
-      "precio": 13000,
+      "precio": 17000,
       "stock": 0,
       "barcode": "7798127631551"
     },
@@ -12980,7 +12980,7 @@
       "id": 6365,
       "vino": "Vicentin Indomable Blanc de Malbec",
       "bodega": "Vicentin Family Wines",
-      "precio": 8200,
+      "precio": 9300,
       "stock": -2,
       "barcode": "7798127632084"
     },
@@ -12988,7 +12988,7 @@
       "id": 6366,
       "vino": "judas Blend",
       "bodega": "Vicentin Family Wines",
-      "precio": 79900,
+      "precio": 88000,
       "stock": -2,
       "barcode": "7798127631261"
     },
@@ -13966,5 +13966,5 @@
       "vendidos": 16
     }
   ],
-  "lastUpdate": "2026-11-23T15:48:46.075Z"
+  "lastUpdate": "2026-11-23T21:32:56.309Z"
 }
