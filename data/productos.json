@@ -468,7 +468,7 @@
       "id": 5005,
       "vino": "Aceite La Posta del Olivo x 250",
       "bodega": "ACEITES DE OLIVA",
-      "precio": 8400,
+      "precio": 8800,
       "stock": 3,
       "barcode": "7790036972169"
     },
@@ -476,7 +476,7 @@
       "id": 5006,
       "vino": "Aceite La Posta del Olivo x500",
       "bodega": "ACEITES DE OLIVA",
-      "precio": 14500,
+      "precio": 15050,
       "stock": 1,
       "barcode": "7790036972176"
     },
@@ -981,14 +981,14 @@
       "vino": "Agua   x1.5",
       "bodega": "BAGGIO",
       "precio": 1150,
-      "stock": 5,
+      "stock": 4,
       "barcode": "7790036974514"
     },
     {
       "id": 5009,
       "vino": "Agua Bidon Fresh",
       "bodega": "BAGGIO",
-      "precio": 2700,
+      "precio": 2850,
       "stock": 5,
       "barcode": "7790036975566"
     },
@@ -1020,7 +1020,7 @@
       "id": 5014,
       "vino": "Agua Saborizada x1,5 limone",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": -7,
       "barcode": "7790036008974"
     },
@@ -1028,7 +1028,7 @@
       "id": 5015,
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 3,
       "barcode": "7790036001647"
     },
@@ -1036,7 +1036,7 @@
       "id": 5016,
       "vino": "Agua Saborizada x1,5 manzana s/a",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 0,
       "barcode": ""
     },
@@ -1044,7 +1044,7 @@
       "id": 5017,
       "vino": "Agua Saborizada x1,5 mix frutal",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 8,
       "barcode": "7790036001678"
     },
@@ -1052,7 +1052,7 @@
       "id": 5018,
       "vino": "Agua Saborizada x1,5 naranja",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 8,
       "barcode": "7790036001562"
     },
@@ -1060,7 +1060,7 @@
       "id": 5019,
       "vino": "Agua Saborizada x1,5 naranja s/a",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 7,
       "barcode": "7790036974750"
     },
@@ -1068,7 +1068,7 @@
       "id": 5020,
       "vino": "Agua Saborizada x1,5 pera",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 4,
       "barcode": "7790036001661"
     },
@@ -1076,7 +1076,7 @@
       "id": 5021,
       "vino": "Agua Saborizada x1,5 pomelo",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": 7,
       "barcode": "7790036001579"
     },
@@ -1084,7 +1084,7 @@
       "id": 5022,
       "vino": "Agua Saborizada x1,5 pomelo s/a",
       "bodega": "BAGGIO",
-      "precio": 1500,
+      "precio": 1600,
       "stock": -7,
       "barcode": "7790036974729"
     },
@@ -1132,7 +1132,7 @@
       "id": 6090,
       "vino": "Leche Entera",
       "bodega": "BAGGIO",
-      "precio": 2100,
+      "precio": 2200,
       "stock": 9,
       "barcode": ""
     },
@@ -1140,7 +1140,7 @@
       "id": 6091,
       "vino": "Leche Latte",
       "bodega": "BAGGIO",
-      "precio": 2100,
+      "precio": 2200,
       "stock": 0,
       "barcode": ""
     },
@@ -1148,7 +1148,7 @@
       "id": 5025,
       "vino": "Pronto baggio durazno",
       "bodega": "BAGGIO",
-      "precio": 2000,
+      "precio": 2200,
       "stock": 12,
       "barcode": "7790036000343"
     },
@@ -1156,7 +1156,7 @@
       "id": 5026,
       "vino": "Pronto baggio multifrutal",
       "bodega": "BAGGIO",
-      "precio": 2000,
+      "precio": 2200,
       "stock": 8,
       "barcode": "7790036000466"
     },
@@ -1164,7 +1164,7 @@
       "id": 5027,
       "vino": "Pronto baggio naranja",
       "bodega": "BAGGIO",
-      "precio": 2000,
+      "precio": 2200,
       "stock": 18,
       "barcode": "7790036000329"
     },
@@ -1180,15 +1180,15 @@
       "id": 5028,
       "vino": "Soda Fresh 2,25",
       "bodega": "BAGGIO",
-      "precio": 1100,
-      "stock": -28,
+      "precio": 1250,
+      "stock": -29,
       "barcode": "7790036975481"
     },
     {
       "id": 6081,
       "vino": "baggio exprimido",
       "bodega": "BAGGIO",
-      "precio": 3200,
+      "precio": 3500,
       "stock": -1,
       "barcode": "7790036976488"
     },
@@ -1196,7 +1196,7 @@
       "id": 6082,
       "vino": "baggio pronto 1,5",
       "bodega": "BAGGIO",
-      "precio": 2600,
+      "precio": 2750,
       "stock": 0,
       "barcode": "7790036002606"
     },
@@ -3317,7 +3317,7 @@
       "vino": "Encuentro varietales - cabernet",
       "bodega": "BODEGA RUTINI",
       "precio": 15300,
-      "stock": 13,
+      "stock": 12,
       "barcode": "7790577006125"
     },
     {
@@ -4653,7 +4653,7 @@
       "vino": "Branca x 750",
       "bodega": "BRANCA",
       "precio": 20700,
-      "stock": -25,
+      "stock": -26,
       "barcode": "7790290101602"
     },
     {
@@ -5557,7 +5557,7 @@
       "vino": "Las perdices PARTRIDGE Cabernet",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 18,
+      "stock": 16,
       "barcode": "7798123971316"
     },
     {
@@ -5565,7 +5565,7 @@
       "vino": "Las perdices PARTRIDGE red blend",
       "bodega": "Bodega Las Perdices",
       "precio": 6000,
-      "stock": 7,
+      "stock": 6,
       "barcode": "7798123972115"
     },
     {
@@ -6037,7 +6037,7 @@
       "vino": "psicoanalita cab franc",
       "bodega": "Bodega psicoanalasta",
       "precio": 13300,
-      "stock": -3,
+      "stock": -6,
       "barcode": "7798196780471"
     },
     {
@@ -6836,7 +6836,7 @@
       "id": 6013,
       "vino": "Coca Cola  1,5 S/Az",
       "bodega": "COCA COLA",
-      "precio": 4700,
+      "precio": 4800,
       "stock": -19,
       "barcode": "7790895067556"
     },
@@ -6844,7 +6844,7 @@
       "id": 6014,
       "vino": "Coca Cola 1,5",
       "bodega": "COCA COLA",
-      "precio": 4700,
+      "precio": 4800,
       "stock": -52,
       "barcode": "7790895000430"
     },
@@ -6901,7 +6901,7 @@
       "vino": "Coca Cola vidrio",
       "bodega": "COCA COLA",
       "precio": 3300,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790895005374"
     },
     {
@@ -6956,7 +6956,7 @@
       "id": 6046,
       "vino": "Schwepps pomelo",
       "bodega": "COCA COLA",
-      "precio": 4320,
+      "precio": 4800,
       "stock": -24,
       "barcode": "7790895010088"
     },
@@ -6964,7 +6964,7 @@
       "id": 6047,
       "vino": "Schwepps tonica",
       "bodega": "COCA COLA",
-      "precio": 4320,
+      "precio": 4800,
       "stock": -11,
       "barcode": "7790895006715"
     },
@@ -6980,7 +6980,7 @@
       "id": 6050,
       "vino": "Sprite 1,5",
       "bodega": "COCA COLA",
-      "precio": 4700,
+      "precio": 4800,
       "stock": -6,
       "barcode": "7790895000447"
     },
@@ -7285,7 +7285,7 @@
       "vino": "Kaiserdon x 1 lt Pilsener",
       "bodega": "Cervezas Importadas latas",
       "precio": 17500,
-      "stock": -3,
+      "stock": -4,
       "barcode": "4004591037038"
     },
     {
@@ -8189,7 +8189,7 @@
       "vino": "Pickles",
       "bodega": "ENCURTIDOS VANOLI",
       "precio": 3600,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7790127000016"
     },
     {
@@ -10725,7 +10725,7 @@
       "vino": "Gaseosas Mocoreta Citrus",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -14,
+      "stock": -15,
       "barcode": "7790036976280"
     },
     {
@@ -11077,7 +11077,7 @@
       "vino": "Los Arboles cabernet",
       "bodega": "NAVARRO CORREAS",
       "precio": 5450,
-      "stock": 18,
+      "stock": 17,
       "barcode": "7791250000942"
     },
     {
@@ -11868,7 +11868,7 @@
       "id": 5029,
       "vino": "Soda sifon",
       "bodega": "SECO",
-      "precio": 1600,
+      "precio": 1650,
       "stock": -1,
       "barcode": "7792758372432"
     },
@@ -13901,7 +13901,7 @@
       "vino": "Motomandado",
       "bodega": "servicios",
       "precio": 3000,
-      "stock": -8,
+      "stock": -9,
       "barcode": "31"
     },
     {
@@ -13958,5 +13958,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-27T14:12:11.662Z"
+  "lastUpdate": "2026-11-27T22:36:44.524Z"
 }
