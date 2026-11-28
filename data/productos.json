@@ -7548,7 +7548,7 @@
       "id": 5705,
       "vino": "Heineken x 330 Botella",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 3970,
+      "precio": 4070,
       "stock": -12,
       "barcode": "7793147009137"
     },
@@ -7564,7 +7564,7 @@
       "id": 5707,
       "vino": "Heineken x 473 S/Alco",
       "bodega": "Cervezas Nacionales latas",
-      "precio": 4070,
+      "precio": 3000,
       "stock": -9,
       "barcode": "7793147574093"
     },
@@ -12393,6 +12393,14 @@
       "barcode": "7798100200361"
     },
     {
+      "id": 6761,
+      "vino": "Cinzano Spiritz",
+      "bodega": "V.adela",
+      "precio": 9980,
+      "stock": 0,
+      "barcode": "7791200200729"
+    },
+    {
       "id": 6298,
       "vino": "Doña Paula x 375",
       "bodega": "VINOS x 375",
@@ -13958,5 +13966,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-28T12:51:48.248Z"
+  "lastUpdate": "2026-11-28T13:29:31.382Z"
 }
