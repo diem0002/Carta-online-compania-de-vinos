@@ -605,7 +605,7 @@
       "vino": "Altos Las Hormigas Appelation altamira malbec",
       "bodega": "ALTOS LAS HORMIGAS",
       "precio": 35000,
-      "stock": -3,
+      "stock": -5,
       "barcode": "7798051950438"
     },
     {
@@ -741,7 +741,7 @@
       "vino": "Cinzano Rosso",
       "bodega": "APERITIVOS",
       "precio": 8900,
-      "stock": -3,
+      "stock": -4,
       "barcode": "7791200200552"
     },
     {
@@ -1029,7 +1029,7 @@
       "vino": "Agua Saborizada x1,5 manzana",
       "bodega": "BAGGIO",
       "precio": 1600,
-      "stock": 3,
+      "stock": 2,
       "barcode": "7790036001647"
     },
     {
@@ -1861,7 +1861,7 @@
       "vino": "Luna llena - malbec",
       "bodega": "BODEGA AMBROSIA",
       "precio": 16500,
-      "stock": 22,
+      "stock": 21,
       "barcode": "7798191780117"
     },
     {
@@ -2797,7 +2797,7 @@
       "vino": "Intimo  malbec",
       "bodega": "BODEGA H.CANALE",
       "precio": 8500,
-      "stock": -7,
+      "stock": -8,
       "barcode": "7790805131216"
     },
     {
@@ -4341,7 +4341,7 @@
       "vino": "Malamado Malbec",
       "bodega": "BODEGA ZUCCARDI",
       "precio": 20200,
-      "stock": 14,
+      "stock": 13,
       "barcode": "7791728002478"
     },
     {
@@ -4933,7 +4933,7 @@
       "vino": "Thibaut del motte - assemblage",
       "bodega": "Bodega Colome - Hess",
       "precio": 27200,
-      "stock": -1,
+      "stock": -2,
       "barcode": "7798104769444"
     },
     {
@@ -5389,7 +5389,7 @@
       "vino": "Las Perdices Ala Colorada ancelotta",
       "bodega": "Bodega Las Perdices",
       "precio": 17600,
-      "stock": 18,
+      "stock": 17,
       "barcode": "7798123970692"
     },
     {
@@ -6877,7 +6877,7 @@
       "vino": "Coca Cola Retornable S/Az",
       "bodega": "COCA COLA",
       "precio": 4450,
-      "stock": 0,
+      "stock": -1,
       "barcode": "7790895067617"
     },
     {
@@ -7285,7 +7285,7 @@
       "vino": "Kaiserdon x 1 lt Pilsener",
       "bodega": "Cervezas Importadas latas",
       "precio": 17500,
-      "stock": -4,
+      "stock": -5,
       "barcode": "4004591037038"
     },
     {
@@ -7533,7 +7533,7 @@
       "vino": "Grolsch 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 6300,
-      "stock": -7,
+      "stock": -9,
       "barcode": "7793147570842"
     },
     {
@@ -7693,7 +7693,7 @@
       "vino": "Santa fe 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 4500,
-      "stock": -5,
+      "stock": -6,
       "barcode": "7793147573744"
     },
     {
@@ -7765,7 +7765,7 @@
       "vino": "Warsteiner 1L",
       "bodega": "Cervezas Nacionales latas",
       "precio": 5750,
-      "stock": -8,
+      "stock": -9,
       "barcode": "7793147570989"
     },
     {
@@ -8005,7 +8005,7 @@
       "vino": "DAMAJUANA Crotta x 5Lts Tinto",
       "bodega": "Crotta",
       "precio": 13100,
-      "stock": 35,
+      "stock": 34,
       "barcode": "7794068000012"
     },
     {
@@ -9365,7 +9365,7 @@
       "vino": "Fabre Montmayou Terrunio Reserva Malbec",
       "bodega": "FRATELLI BRANCA",
       "precio": 11000,
-      "stock": -19,
+      "stock": -20,
       "barcode": "7798000213515"
     },
     {
@@ -10725,7 +10725,7 @@
       "vino": "Gaseosas Mocoreta Citrus",
       "bodega": "MOCORETA",
       "precio": 2000,
-      "stock": -15,
+      "stock": -16,
       "barcode": "7790036976280"
     },
     {
@@ -12453,7 +12453,7 @@
       "vino": "Doña Paula  - Malbec",
       "bodega": "VIÑA DOÑA PAULA",
       "precio": 8200,
-      "stock": 60,
+      "stock": 59,
       "barcode": "7798090160065"
     },
     {
@@ -12661,7 +12661,7 @@
       "vino": "Coloso",
       "bodega": "Vicentin Family Wines",
       "precio": 28600,
-      "stock": -4,
+      "stock": -5,
       "barcode": "7790843001328"
     },
     {
@@ -12693,7 +12693,7 @@
       "vino": "Indomable blend de malbec",
       "bodega": "Vicentin Family Wines",
       "precio": 12500,
-      "stock": -11,
+      "stock": -12,
       "barcode": "7798127632077"
     },
     {
@@ -13148,7 +13148,7 @@
       "id": 6438,
       "vino": "J&B Estuche con vaso",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 34500,
+      "precio": 36000,
       "stock": 0,
       "barcode": "7790197161686"
     },
@@ -13156,7 +13156,7 @@
       "id": 6439,
       "vino": "J&B x750",
       "bodega": "WHISKYS IMPORTADOS",
-      "precio": 29800,
+      "precio": 31000,
       "stock": -3,
       "barcode": "5010103800310"
     },
@@ -13930,13 +13930,6 @@
       "vendidos": 23
     },
     {
-      "id": 6224,
-      "vino": "Emilia  - malbec",
-      "bodega": "Nieto Senetiner",
-      "precio": 6800,
-      "vendidos": 21
-    },
-    {
       "id": 5415,
       "vino": "Santa Julia Chenin Dulce",
       "bodega": "BODEGA ZUCCARDI",
@@ -13951,6 +13944,13 @@
       "vendidos": 18
     },
     {
+      "id": 6224,
+      "vino": "Emilia  - malbec",
+      "bodega": "Nieto Senetiner",
+      "precio": 6800,
+      "vendidos": 18
+    },
+    {
       "id": 5262,
       "vino": "Viña de Caroya Amabile x750",
       "bodega": "BODEGA LA CAROYENSE",
@@ -13958,5 +13958,5 @@
       "vendidos": 18
     }
   ],
-  "lastUpdate": "2026-11-27T22:36:44.524Z"
+  "lastUpdate": "2026-11-28T12:51:48.248Z"
 }
